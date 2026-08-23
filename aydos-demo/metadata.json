@@ -1,0 +1,6 @@
+{
+  "name": "StoryRead - Audio Stories & Tap Dictionary",
+  "description": "Mobile-first illustrated short stories with synchronized audio narration, tap-to-define dictionary, and an interactive 7–10 slide authoring studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

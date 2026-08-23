@@ -1,0 +1,183 @@
+==============================================================================
+🎨 STORY READ APP - THEME & COLOR CUSTOMIZATION GUIDE
+==============================================================================
+
+To change any color in the app, open:
+  /src/components/ThemeColors.tsx
+
+Here is the complete color map and what each variable controls:
+
+------------------------------------------------------------------------------
+1. 🌌 MAIN APPLICATION & SCREEN BACKGROUNDS
+------------------------------------------------------------------------------
+• appBackground: "#060d24"
+  -> The outermost canvas background when viewed in wide / desktop mode.
+
+• contentBackground: "#0b1536"
+  -> The background color of the reader slides, story viewer, and library feed.
+
+• headerBackground: "#08102b"
+  -> The sticky top header bar displaying the story title, progress dots & menu.
+
+• footerBackground: "#08102b"
+  -> The background for bottom audio controls and persistent docks.
+
+• mobileFrameBorder: "#0e1b45"
+  -> The border framing the simulated smartphone in "Phone Frame View".
+
+------------------------------------------------------------------------------
+2. 🗂️ CARDS, CONTAINERS & PANELS
+------------------------------------------------------------------------------
+• cardBackground: "#08102b"
+  -> Background for story book cards, series cards, and drawer tiles.
+
+• cardElevatedBg: "#0e1b45"
+  -> Slightly raised cards, metadata chips, and filter buttons.
+
+• cardHoverBackground: "#101e46"
+  -> The background when hovering a story card or button.
+
+• cardBorder: "rgba(255, 255, 255, 0.12)"
+  -> The subtle outline border around cards.
+
+• cardBorderHover: "rgba(255, 255, 255, 0.35)"
+  -> The brighter border when a card is hovered or focused.
+
+------------------------------------------------------------------------------
+3. 🪟 MODALS & DRAWERS
+------------------------------------------------------------------------------
+• modalOverlay: "rgba(0, 0, 0, 0.75)"
+  -> Dark dimmed backdrop behind modals (Quiz, Dictionary, Settings).
+
+• modalBackground: "#0e1b45"
+  -> Main background of the popup dialogs and side drawers.
+
+• modalInnerCard: "#08102b"
+  -> Inner container background for quiz questions, flashcards & definitions.
+
+• modalBorder: "rgba(255, 255, 255, 0.15)"
+  -> Border outlining all popup windows.
+
+------------------------------------------------------------------------------
+4. ✍️ TYPOGRAPHY & TEXT COLORS
+------------------------------------------------------------------------------
+• textPrimary: "#ffffff"
+  -> Main titles, slide story text paragraphs, dialog headings.
+
+• textSecondary: "#c8d6ff"
+  -> Subtitles, author names, story summaries, hints.
+
+• textMuted: "#8da2d8"
+  -> Slide number counters (01 / 07), timestamps, word counts.
+
+• textInverse: "#060d24"
+  -> Text color inside bright white/accent buttons for high contrast.
+
+------------------------------------------------------------------------------
+5. ⭐ BRAND ACCENTS & GLOWS
+------------------------------------------------------------------------------
+• accentPrimary: "#ffffff"
+  -> Main brand accent color used for primary buttons and active pills.
+
+• accentSecondary: "#38bdf8"
+  -> Secondary vibrant accent for special icons, sparkles & bookmarks.
+
+• accentGlow: "rgba(255, 255, 255, 0.25)"
+  -> Glow/shadow for highlighted words and active selections.
+
+------------------------------------------------------------------------------
+6. 🔘 BUTTONS & INTERACTIVE CONTROLS
+------------------------------------------------------------------------------
+• btnPrimaryBg: "#ffffff"
+  -> Background for main action buttons (e.g. "Read Chapter", "Start Quiz").
+
+• btnPrimaryText: "#08102b"
+  -> Text color inside primary buttons.
+
+• btnPrimaryHover: "#e2e8f0"
+  -> Hover color for primary action buttons.
+
+• btnSecondaryBg: "#101e46"
+  -> Background for secondary buttons (e.g. icon circles, filter tags).
+
+• btnSecondaryText: "#ffffff"
+  -> Text color inside secondary buttons.
+
+• btnSecondaryHover: "#182e6e"
+  -> Hover background for secondary buttons.
+
+------------------------------------------------------------------------------
+7. 🎵 AUDIO CONTROLLER & MEDIA PLAYER
+------------------------------------------------------------------------------
+• audioBarBg: "#08102b"
+  -> Sticky bottom audio narration bar background.
+
+• audioProgressTrack: "rgba(255, 255, 255, 0.18)"
+  -> Background of the unplayed portion of the audio scrubber bar.
+
+• audioProgressFill: "#ffffff"
+  -> Color of the elapsed playback progress bar.
+
+• audioPlayBtnBg: "#ffffff"
+  -> Circular Play / Pause button background.
+
+• audioPlayBtnIcon: "#08102b"
+  -> Play / Pause triangle / pause icon color.
+
+------------------------------------------------------------------------------
+8. 📖 STORY READER & VOCABULARY HIGHLIGHTS
+------------------------------------------------------------------------------
+• narratorSpokenGlow: "rgba(255, 255, 255, 0.28)"
+  -> Highlight glow box around the word currently spoken by the narrator.
+
+• narratorSpokenText: "#ffffff"
+  -> Text color of the active word being narrated.
+
+• vocabHelperUnderline: "rgba(141, 162, 216, 0.65)"
+  -> Underline style for words when "Vocab Helper" is turned on.
+
+------------------------------------------------------------------------------
+9. 🧩 COMPREHENSION QUIZ & FLASHCARDS
+------------------------------------------------------------------------------
+• quizOptionDefaultBg: "#08102b"
+  -> Quiz answer choices background before being selected.
+
+• flashcardGradientFrom: "#0b1536"
+• flashcardGradientVia: "#16275c"
+• flashcardGradientTo: "#08102b"
+  -> Gradient for the 3D flip study flashcards in the Word Bank.
+
+------------------------------------------------------------------------------
+10. 🚦 STATUS & FEEDBACK
+------------------------------------------------------------------------------
+• success: "#10b981" (Emerald green for correct quiz answers and saved items)
+• error: "#f43f5e" (Rose red for wrong answers and delete buttons)
+• warning: "#f59e0b" (Amber for alerts)
+• info: "#38bdf8" (Sky blue for tips)
+
+==============================================================================
+HOW TO EXPERIMENT WITH NEW COLOR THEMES:
+==============================================================================
+Example 1 - Deep Forest Emerald Theme:
+  appBackground: "#04140e"
+  contentBackground: "#082117"
+  headerBackground: "#0a2a1e"
+  cardBackground: "#0a2a1e"
+  cardElevatedBg: "#0e3929"
+  textPrimary: "#ffffff"
+  textSecondary: "#a7f3d0"
+  btnPrimaryBg: "#34d399"
+  btnPrimaryText: "#04140e"
+
+Example 2 - Midnight Amethyst Purple Theme:
+  appBackground: "#0f0728"
+  contentBackground: "#180c3d"
+  headerBackground: "#1f104d"
+  cardBackground: "#1f104d"
+  cardElevatedBg: "#2d176e"
+  textPrimary: "#ffffff"
+  textSecondary: "#e9d5ff"
+  btnPrimaryBg: "#c084fc"
+  btnPrimaryText: "#0f0728"
+
+==============================================================================

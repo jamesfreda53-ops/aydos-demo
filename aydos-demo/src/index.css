@@ -1,0 +1,82 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-lexend: 'Lexend', sans-serif;
+    --font-literata: 'Literata', Georgia, serif;
+    --font-fredoka: 'Fredoka', cursive, sans-serif;
+    --font-sans: 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+
+  body {
+    background-color: #060d24;
+    color: #f1f5f9;
+    font-family: var(--font-lexend);
+    -webkit-tap-highlight-color: transparent;
+    user-select: text;
+  }
+}
+
+/* Custom scrollbars for slide drawer and vocabulary lists */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.4);
+}
+
+/* Firefox equivalent of the above -- Firefox ignores ::-webkit-scrollbar entirely
+   and falls back to its plain default (gray) scrollbar without this */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
+}
+
+/* Fully hides the scrollbar (used on the Beginner/Intermediate/Advanced filter row) */
+.no-scrollbar {
+  scrollbar-width: none;    /* Firefox */
+  -ms-overflow-style: none; /* old Edge/IE */
+}
+.no-scrollbar::-webkit-scrollbar {
+  display: none;            /* Chrome, Safari, new Edge */
+}
+
+.font-lexend {
+  font-family: 'Lexend', sans-serif;
+}
+.font-literata {
+  font-family: 'Literata', Georgia, serif;
+}
+.font-fredoka {
+  font-family: 'Fredoka', cursive, sans-serif;
+}
+.font-jakarta {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Pulse animation for current spoken word matching Clean Crisp White glow */
+@keyframes word-glow-white {
+  0%, 100% {
+    background-color: rgba(255, 255, 255, 0.25);
+    color: #ffffff;
+    box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.5);
+  }
+  50% {
+    background-color: rgba(255, 255, 255, 0.45);
+    color: #ffffff;
+    box-shadow: 0 0 0 3px rgba(255, 255, 255, 0.95), 0 0 16px rgba(255, 255, 255, 0.5);
+  }
+}
+
+.active-speaking-word {
+  animation: word-glow-white 1.2s ease-in-out infinite;
+  border-radius: 4px;
+}
