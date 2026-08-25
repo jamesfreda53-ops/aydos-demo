@@ -6,7 +6,7 @@
 # ==============================================================================
 
 [Chapter: odyssey-troy]
-Title: Chapter I - The Fall of Troy
+Title: The Fall of Troy
 Subtitle: paris u naughty naughty boy 
 Author: Homer
 Genre: Adventure
