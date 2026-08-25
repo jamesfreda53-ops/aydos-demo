@@ -208,14 +208,29 @@ SlideCount: 11
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
 
 [Chapter: mausoleum]
-Title: The Mausoleum 
+Title: The Mausoleum
 Subtitle: this one is like almost interesting but ultimately not
 Author: G-Bot
 Genre: Mystery
 ReadingLevel: Beginner
 ReadingTime: 5 min
 SeriesFolder: mausoleum
+SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/mausoleum/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: lunar_bake]
+Title: The Great Lunar Bake-Off
+Subtitle: i actually hate this one
+Author: G-Bot
+Genre: Sci-Fi
+ReadingLevel: Beginner
+ReadingTime: 4 min
+SeriesFolder: lunar_bake
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/lunar_bake/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
 SlideCount: 7
