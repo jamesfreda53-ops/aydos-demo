@@ -7,7 +7,7 @@
 
 [Chapter: odyssey-troy]
 Title: Chapter I - The Fall of Troy
-Subtitle: paris u naughty naughty boy 
+Subtitle: paris u naughty naughty boy
 Author: Homer
 Genre: Adventure
 ReadingLevel: Intermediate
@@ -193,4 +193,18 @@ CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/a
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
 SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: mermaid]
+Title: The Mermaid
+Subtitle: her everything stink like fish 
+Author: Uncle Jimmy
+Genre: Romance 
+ReadingLevel: Advanced
+ReadingTime: 9 min
+SeriesFolder: mermaid
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/mermaid/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 11
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
