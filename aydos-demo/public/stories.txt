@@ -275,7 +275,22 @@ Genre: Horror
 ReadingLevel: Intermediate
 ReadingTime: 5 min
 SeriesFolder: mia_chrome
+SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/mia_chrome/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: marionette_gallery]
+Title: The Marionette Gallery
+Subtitle: im so so sorry tommy
+Author: G-Bot 
+Genre: Horror 
+ReadingLevel: Advanced
+ReadingTime: 3 min
+SeriesFolder: marionette_gallery
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/marionette_gallery/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
 SlideCount: 7
