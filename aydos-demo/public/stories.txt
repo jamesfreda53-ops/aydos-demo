@@ -7,7 +7,7 @@
 
 [Chapter: odyssey-troy]
 Title: The Fall of Troy
-Subtitle: paris u naughty naughty boy 
+Subtitle: paris u naughty naughty boy
 Author: Homer
 Genre: Adventure
 ReadingLevel: Intermediate
@@ -101,8 +101,7 @@ Author: G-Bot
 Genre: Horror
 ReadingLevel: Advanced
 ReadingTime: 5 min
-SeriesFolder: marionette-gallery
-SeriesOrder: 1
+SeriesFolder: rust_organ
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/rust_organ/images/title.webp
 ThemeColor: from-stone-900 via-neutral-950 to-black
 AccentColor: #d97706
