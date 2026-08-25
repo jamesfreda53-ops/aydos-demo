@@ -1,0 +1,127 @@
+# ==============================================================================
+# AYDOS STORIES & SERIES CATALOG MANIFEST
+# Editable metadata file for all stories, series, chapters, reading levels, and search tags.
+# Adding new stories, series, or chapters creates or updates an entry in this file.
+# Search tags are formatted as [tag1] [tag2] [tag3] (hidden in UI cards, indexed in search).
+# ==============================================================================
+
+[Chapter: odyssey-troy]
+Title: Chapter I - The Fall of Troy
+Subtitle: Clever Odysseus, the Trojan Horse, and the start of a perilous journey
+Author: Homer
+Genre: Epic & Adventure
+ReadingLevel: Intermediate
+ReadingTime: 5 min
+SeriesTitle: The Odyssey
+SeriesId: the-odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter I
+ChapterTitle: The Fall of Troy
+ChapterFolder: troy
+SeriesOrder: 1
+SeriesDescription: Homer's epic saga chronicling Odysseus's perilous ten-year voyage back to Ithaca
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/troy/images/title.webp
+ThemeColor: from-amber-600 to-orange-800
+AccentColor: #d97706
+SlideCount: 7
+Summary: The ten-year siege of Troy concludes through the cunning trickery of Odysseus and the wooden horse, setting his ships upon the fateful Aegean Sea.
+Tags: [odyssey] [homer] [greek] [mythology] [troy] [trojan-horse] [epic] [ancient-greece] [adventure] [hero] [ithaca]
+
+[Chapter: odyssey-lotus-eaters]
+Title: Chapter II - The Lotus-Eaters
+Subtitle: A tale of temptation, memory, and the pull of home
+Author: Homer
+Genre: Epic & Adventure
+ReadingLevel: Intermediate
+ReadingTime: 4 min
+SeriesTitle: The Odyssey
+SeriesId: the-odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter II
+ChapterTitle: The Lotus-Eaters
+ChapterFolder: lotus_eaters
+SeriesOrder: 2
+SeriesDescription: Homer's epic saga chronicling Odysseus's perilous ten-year voyage back to Ithaca
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/lotus_eaters/images/title.webp
+ThemeColor: from-amber-600 to-orange-800
+AccentColor: #d97706
+SlideCount: 7
+Summary: After a fierce storm blows his ships off course, Odysseus and his crew land among a peaceful people whose strange fruit makes sailors forget home entirely.
+Tags: [odyssey] [homer] [greek] [mythology] [lotus-eaters] [lotus] [adventure] [epic] [voyage] [island] [memory]
+
+[Story: orpheus]
+Title: Orpheus
+Subtitle: the original sensitive young man
+Author: Uncle Jimmy
+Genre: Romance
+ReadingLevel: Intermediate
+ReadingTime: 6 min
+StoryFolder: orpheus
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/orpheus/images/title.png
+ThemeColor: from-slate-900 via-purple-950 to-neutral-900
+AccentColor: #a855f7
+SlideCount: 7
+Summary: u had one job pal
+Tags: [orpheus] [eurydice] [mythology] [noir] [music] [lyre] [underworld] [shadow] [love] [greek-myth] [drama]
+
+[Story: hylas]
+Title: Hylas
+Subtitle: The Lost Argonaut and the Naiads of Cios
+Author: Theocritus & Apollonius
+Genre: Greek Mythology
+ReadingLevel: Intermediate
+ReadingTime: 5 min
+StoryFolder: hylas
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/hylas/images/title.webp
+ThemeColor: from-emerald-900 via-teal-950 to-neutral-900
+AccentColor: #10b981
+SlideCount: 7
+Summary: While fetching freshwater for the Argonauts on the isle of Cios, young Hylas is lured beneath the waters of a secluded spring by water nymphs.
+Tags: [hylas] [herakles] [argonauts] [mythology] [greek] [nymphs] [spring] [ancient-greece] [legend]
+
+[Story: gyges]
+Title: Gyges
+Subtitle: The Ring of Invisibility and the Fate of Lydia
+Author: Herodotus & Plato
+Genre: Legend & Philosophy
+ReadingLevel: Advanced
+ReadingTime: 5 min
+StoryFolder: gyges
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/gyges/images/title.webp
+ThemeColor: from-amber-950 via-stone-900 to-black
+AccentColor: #f59e0b
+SlideCount: 7
+Summary: A modest Lydian shepherd discovers a bronze ring in a mountain chasm that grants him total invisibility, forever testing human virtue and power.
+Tags: [gyges] [ring] [invisibility] [plato] [herodotus] [philosophy] [morality] [lydia] [fable]
+
+[Story: marionette-gallery]
+Title: The Marionette Gallery
+Subtitle: A visit to the loft of unfinished souls
+Author: Aydos Archives
+Genre: Dark Fantasy & Mystery
+ReadingLevel: Advanced
+ReadingTime: 5 min
+StoryFolder: marionette_gallery
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/marionette_gallery/images/title.webp
+ThemeColor: from-stone-900 via-neutral-950 to-black
+AccentColor: #d97706
+SlideCount: 6
+Summary: In a quiet loft above the industrial district, an archivist encounters unfinished wooden figures that seem to reflect the human search for identity.
+Tags: [marionette] [puppets] [dark-fantasy] [mystery] [philosophical] [gothic] [city]
+
+[Story: mia-chrome]
+Title: Mia Chrome
+Subtitle: The mirror image that stole the spotlight
+Author: Aydos Archives
+Genre: Modern Sci-Fi & Psychological
+ReadingLevel: Intermediate
+ReadingTime: 5 min
+StoryFolder: mia_chrome
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/mia_chrome/images/title.webp
+ThemeColor: from-fuchsia-950 via-purple-950 to-neutral-950
+AccentColor: #ec4899
+SlideCount: 7
+Summary: On opening night in her dressing room, a pop star faces the cold, perfect double that lived inside her reflection for ten years.
+Tags: [mia-chrome] [mirror] [sci-fi] [pop-star] [identity] [psychological] [music] [double]
