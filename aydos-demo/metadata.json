@@ -1,6 +1,6 @@
 {
-  "name": "StoryRead - Audio Stories & Tap Dictionary",
-  "description": "Mobile-first illustrated short stories with synchronized audio narration, tap-to-define dictionary, and an interactive 7–10 slide authoring studio.",
+  "name": "AYDOS - Read. Listen. Learn.",
+  "description": "slop stories with slop images and state of the art slop audio, all in one slop package.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
