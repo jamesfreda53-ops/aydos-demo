@@ -1,55 +1,52 @@
 # ==============================================================================
 # AYDOS STORIES & SERIES CATALOG MANIFEST
 # Editable metadata file for all stories, series, chapters, reading levels, and search tags.
-# Adding new stories, series, or chapters creates or updates an entry in this file.
-# Search tags are formatted as [tag1] [tag2] [tag3] (hidden in UI cards, indexed in search).
+# Search tags are formatted as [tag1] [tag2] [tag3] (hidden in UI, indexed in search).
 # ==============================================================================
 
 [Chapter: odyssey-troy]
 Title: Chapter I - The Fall of Troy
-Subtitle: Clever Odysseus, the Trojan Horse, and the start of a perilous journey
+Subtitle: paris u naughty naughty boy 
 Author: Homer
-Genre: Epic & Adventure
+Genre: Adventure
 ReadingLevel: Intermediate
 ReadingTime: 5 min
 SeriesTitle: The Odyssey
-SeriesId: the-odyssey
+SeriesId: odyssey
 SeriesFolder: odyssey
 ChapterNumber: Chapter I
 ChapterTitle: The Fall of Troy
 ChapterFolder: troy
 SeriesOrder: 1
-SeriesDescription: Homer's epic saga chronicling Odysseus's perilous ten-year voyage back to Ithaca
+SeriesDescription: TESTING TESTING
 SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/troy/images/title.webp
 ThemeColor: from-amber-600 to-orange-800
 AccentColor: #d97706
 SlideCount: 7
-Summary: The ten-year siege of Troy concludes through the cunning trickery of Odysseus and the wooden horse, setting his ships upon the fateful Aegean Sea.
-Tags: [odyssey] [homer] [greek] [mythology] [troy] [trojan-horse] [epic] [ancient-greece] [adventure] [hero] [ithaca]
+Summary: TESTING TESTING
 
 [Chapter: odyssey-lotus-eaters]
 Title: Chapter II - The Lotus-Eaters
-Subtitle: A tale of temptation, memory, and the pull of home
+Subtitle: bring the fent to daddy
 Author: Homer
-Genre: Epic & Adventure
+Genre: Adventure
 ReadingLevel: Intermediate
-ReadingTime: 4 min
+ReadingTime: 5 min
 SeriesTitle: The Odyssey
-SeriesId: the-odyssey
+SeriesId: odyssey
 SeriesFolder: odyssey
 ChapterNumber: Chapter II
 ChapterTitle: The Lotus-Eaters
 ChapterFolder: lotus_eaters
 SeriesOrder: 2
-SeriesDescription: Homer's epic saga chronicling Odysseus's perilous ten-year voyage back to Ithaca
+SeriesDescription: TESTING TESTING
 SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/lotus_eaters/images/title.webp
 ThemeColor: from-amber-600 to-orange-800
 AccentColor: #d97706
 SlideCount: 7
-Summary: After a fierce storm blows his ships off course, Odysseus and his crew land among a peaceful people whose strange fruit makes sailors forget home entirely.
-Tags: [odyssey] [homer] [greek] [mythology] [lotus-eaters] [lotus] [adventure] [epic] [voyage] [island] [memory]
+Summary: TESTING TESTING
 
 [Story: orpheus]
 Title: Orpheus
@@ -125,3 +122,69 @@ AccentColor: #ec4899
 SlideCount: 7
 Summary: On opening night in her dressing room, a pop star faces the cold, perfect double that lived inside her reflection for ten years.
 Tags: [mia-chrome] [mirror] [sci-fi] [pop-star] [identity] [psychological] [music] [double]
+
+[Chapter: odyssey-polyphemus]
+Title: Polyphemus
+Subtitle: thats my son
+Author: Homer
+Genre: Adventure
+ReadingLevel: Intermediate
+ReadingTime: 7 min
+SeriesTitle: The Odyssey
+SeriesId: odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter III
+ChapterTitle: Polyphemus
+ChapterFolder: polyphemus
+SeriesOrder: 3
+SeriesDescription: TESTING TESTING
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/polyphemus/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 9
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: odyssey-circe]
+Title: Circe
+Subtitle: ur a goddam hog
+Author: Homer
+Genre: Adventure
+ReadingLevel: Intermediate
+ReadingTime: 6 min
+SeriesTitle: The Odyssey
+SeriesId: odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter V
+ChapterTitle: Circe
+ChapterFolder: circe
+SeriesOrder: 5
+SeriesDescription: TESTING TESTING
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/circe/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: odyssey-winds]
+Title: The Palace of the Winds
+Subtitle: thats a big lady
+Author: Homer
+Genre: Adventure
+ReadingLevel: Intermediate
+ReadingTime: 6 min
+SeriesTitle: The Odyssey
+SeriesId: odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter IV
+ChapterTitle: The Palace of the Winds
+ChapterFolder: winds
+SeriesOrder: 4
+SeriesDescription: TESTING TESTING
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/winds/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
