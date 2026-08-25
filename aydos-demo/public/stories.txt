@@ -102,6 +102,7 @@ Genre: Horror
 ReadingLevel: Advanced
 ReadingTime: 5 min
 SeriesFolder: rust_organ
+SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/rust_organ/images/title.webp
 ThemeColor: from-stone-900 via-neutral-950 to-black
 AccentColor: #d97706
@@ -116,8 +117,7 @@ Author: Uncle Jimmy
 Genre: Folklore
 ReadingLevel: Intermediate
 ReadingTime: 5 min
-SeriesFolder: mia-chrome
-SeriesOrder: 1
+SeriesFolder: john_henry
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/john_henry/images/title.webp
 ThemeColor: from-fuchsia-950 via-purple-950 to-neutral-950
 AccentColor: #ec4899
