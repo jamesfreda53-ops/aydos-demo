@@ -102,6 +102,7 @@ Genre: Horror
 ReadingLevel: Advanced
 ReadingTime: 5 min
 SeriesFolder: marionette-gallery
+SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/rust_organ/images/title.webp
 ThemeColor: from-stone-900 via-neutral-950 to-black
 AccentColor: #d97706
@@ -109,16 +110,15 @@ SlideCount: 7
 Summary: In a quiet loft above the industrial district, an archivist encounters unfinished wooden figures that seem to reflect the human search for identity.
 Tags: [marionette] [puppets] [dark-fantasy] [mystery] [philosophical] [gothic] [city]
 
-[Story: mia-chrome]
-Title: Mia Chrome
-Subtitle: The mirror image that stole the spotlight
-Author: Aydos Archives
-Genre: Modern Sci-Fi & Psychological
+[Chapter: mia-chrome]
+Title: The Ballad of John Henry
+Subtitle: the best to ever do it
+Author: Uncle Jimmy
+Genre: Folklore
 ReadingLevel: Intermediate
 ReadingTime: 5 min
-SeriesOrder: 1
-StoryFolder: mia_chrome
-CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/mia_chrome/images/title.webp
+SeriesFolder: mia-chrome
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/john_henry/images/title.webp
 ThemeColor: from-fuchsia-950 via-purple-950 to-neutral-950
 AccentColor: #ec4899
 SlideCount: 7
