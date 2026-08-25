@@ -230,7 +230,22 @@ Genre: Sci-Fi
 ReadingLevel: Beginner
 ReadingTime: 4 min
 SeriesFolder: lunar_bake
+SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/lunar_bake/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: whistle]
+Title: The Whistle
+Subtitle: blowin fat clouds
+Author: G-Bot
+Genre: Mystery
+ReadingLevel: Intermediate
+ReadingTime: 5 min
+SeriesFolder: whistle
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/whistle/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
 SlideCount: 7
