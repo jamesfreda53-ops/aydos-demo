@@ -273,6 +273,7 @@ Genre: Horror
 ReadingLevel: Intermediate
 ReadingTime: 5 min
 SeriesFolder: mia_chrome
+SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/mia_chrome/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
@@ -302,7 +303,6 @@ Genre: Slice-of-life
 ReadingLevel: Beginner
 ReadingTime: 4 min
 SeriesFolder: autumn_arrival
-SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/autumn_arrival/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
