@@ -1,0 +1,22 @@
+[
+  {
+    "id": "odyssey-troy-q1",
+    "type": "multiple_choice",
+    "question": "pick one and only one",
+    "options": [
+      "drugs",
+      "money",
+      "bitches",
+      "dont make me choose"
+    ],
+    "correctIndex": 0,
+    "explanation": "Odysseus had to use his wits and strength to guide his crew past perilous trials."
+  },
+  {
+    "id": "odyssey-troy-q2",
+    "type": "true_false",
+    "question": "Odysseus was determined to return home to Ithaca.",
+    "correctBoolean": true,
+    "explanation": "Despite numerous trials, Odysseus's ultimate goal was returning home to Ithaca."
+  }
+]
