@@ -101,6 +101,7 @@ Genre: Horror
 ReadingLevel: Advanced
 ReadingTime: 5 min
 SeriesFolder: marionette-gallery
+SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/rust_organ/images/title.webp
 ThemeColor: from-stone-900 via-neutral-950 to-black
 AccentColor: #d97706
@@ -205,14 +206,13 @@ SlideCount: 11
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
 
 [Chapter: mausoleum]
-Title: The Mausoleum
+Title: The Mausoleum 
 Subtitle: this one is like almost interesting but ultimately not
 Author: G-Bot
 Genre: Mystery
 ReadingLevel: Beginner
 ReadingTime: 5 min
 SeriesFolder: mausoleum
-SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/mausoleum/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
