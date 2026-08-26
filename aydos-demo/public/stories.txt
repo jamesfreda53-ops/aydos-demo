@@ -116,8 +116,7 @@ Author: Uncle Jimmy
 Genre: Folklore
 ReadingLevel: Intermediate
 ReadingTime: 5 min
-SeriesFolder: john_henry
-SeriesOrder: 1
+SeriesFolder: mia-chrome
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/john_henry/images/title.webp
 ThemeColor: from-fuchsia-950 via-purple-950 to-neutral-950
 AccentColor: #ec4899
@@ -206,13 +205,14 @@ SlideCount: 11
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
 
 [Chapter: mausoleum]
-Title: The Mausoleum 
+Title: The Mausoleum
 Subtitle: this one is like almost interesting but ultimately not
 Author: G-Bot
 Genre: Mystery
 ReadingLevel: Beginner
 ReadingTime: 5 min
 SeriesFolder: mausoleum
+SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/mausoleum/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
