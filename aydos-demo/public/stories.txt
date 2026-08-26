@@ -455,8 +455,8 @@ Summary: Welcome to this interactive story! Tap any word in the title or text to
 
 [Chapter: odyssey-nostos_ii]
 Title: Nostos II
-Subtitle: penelope ur man's a bum just marry antinous ffs
-Author: Unknown
+Subtitle: penelope ur man's a bum just marry antinous
+Author: Homer
 Genre: Adventure
 ReadingLevel: Intermediate
 ReadingTime: 6 min
