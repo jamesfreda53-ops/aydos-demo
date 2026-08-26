@@ -7,7 +7,7 @@
 
 [Chapter: odyssey-troy]
 Title: The Fall of Troy
-Subtitle: paris u naughty naughty boy
+Subtitle: paris u naughty naughty boy 
 Author: Homer
 Genre: Adventure
 ReadingLevel: Intermediate
@@ -117,6 +117,7 @@ Genre: Folklore
 ReadingLevel: Intermediate
 ReadingTime: 5 min
 SeriesFolder: mia-chrome
+SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/john_henry/images/title.webp
 ThemeColor: from-fuchsia-950 via-purple-950 to-neutral-950
 AccentColor: #ec4899
@@ -389,7 +390,7 @@ Summary: Welcome to this interactive story! Tap any word in the title or text to
 
 [Chapter: odyssey-calypso]
 Title: Calypso
-Subtitle: did anyone else see the man from uncle
+Subtitle: did anyone else see the man from uncle 
 Author: Homer
 Genre: Adventure
 ReadingLevel: Intermediate
