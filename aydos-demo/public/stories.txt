@@ -389,3 +389,24 @@ ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
 SlideCount: 7
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: odyssey-calypso]
+Title: Calypso
+Subtitle: did anyone else see the man from uncle 
+Author: Homer
+Genre: Adventure
+ReadingLevel: Intermediate
+ReadingTime: 3 min
+SeriesTitle: The Odyssey
+SeriesId: odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter IX
+ChapterTitle: Calypso
+ChapterFolder: calypso
+SeriesOrder: 9
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/calypso/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
