@@ -139,7 +139,6 @@ ChapterNumber: Chapter III
 ChapterTitle: Polyphemus
 ChapterFolder: polyphemus
 SeriesOrder: 3
-SeriesDescription: TESTING TESTING
 SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/polyphemus/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
