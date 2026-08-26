@@ -1,28 +1,16 @@
 [
   {
-    "id": "odyssey-calypso-q1",
+    "id": "quiz-1787737915636",
     "type": "multiple_choice",
-    "question": "Who visited Odysseus on the island?",
+    "question": "Which goddess visited Odysseus on the island?",
+    "sampleAnswer": "Students should describe a key scene and explain how it contributed to the character's growth or learning.",
+    "explanation": "",
     "options": [
       "Athena",
       "Aphrodite",
       "Artemis",
       "Hera"
     ],
-    "correctIndex": 0,
-    "explanation": "The narrative centers on character courage, discovery, and navigation through obstacles."
-  },
-  {
-    "id": "quiz-1787734163887-2",
-    "type": "multiple_choice",
-    "question": "Question 2: Enter comprehension prompt here...",
-    "options": [
-      "First choice",
-      "Second choice",
-      "Third choice",
-      "Fourth choice"
-    ],
-    "correctIndex": 0,
-    "explanation": "Explain why this answer is correct (presented to students during answer review)."
+    "correctIndex": 0
   }
 ]
