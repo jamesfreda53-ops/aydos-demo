@@ -431,3 +431,24 @@ ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
 SlideCount: 7
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: odyssey-nostos_i]
+Title: Nostos I
+Subtitle: oh look he made it back
+Author: Homer
+Genre: Adventure
+ReadingLevel: Intermediate
+ReadingTime: 6 min
+SeriesTitle: The Odyssey
+SeriesId: odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter XI
+ChapterTitle: Nostos I
+ChapterFolder: nostos_i
+SeriesOrder: 11
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/nostos_i/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
