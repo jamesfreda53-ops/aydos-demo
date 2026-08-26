@@ -66,11 +66,12 @@ Summary: TESTING TESTING u should not be able to see this if u can see this some
 [Chapter: hylas]
 Title: Hylas
 Subtitle: its not a gay thing
-Author: Theocritus 
+Author: Theocritus
 Genre: Pastoral
 ReadingLevel: Intermediate
 ReadingTime: 4 min
 SeriesFolder: hylas
+SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/hylas/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
@@ -282,12 +283,11 @@ Summary: Welcome to this interactive story! Tap any word in the title or text to
 [Chapter: marionette_gallery]
 Title: The Marionette Gallery
 Subtitle: im so so sorry tommy
-Author: G-Bot
-Genre: Horror
+Author: G-Bot 
+Genre: Horror 
 ReadingLevel: Advanced
 ReadingTime: 3 min
 SeriesFolder: marionette_gallery
-SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/marionette_gallery/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
