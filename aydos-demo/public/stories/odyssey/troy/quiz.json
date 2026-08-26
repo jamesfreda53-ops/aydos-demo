@@ -9,14 +9,21 @@
       "bitches",
       "dont make me choose"
     ],
-    "correctIndex": 0,
+    "correctIndex": 3,
     "explanation": "Odysseus had to use his wits and strength to guide his crew past perilous trials."
   },
   {
     "id": "odyssey-troy-q2",
     "type": "true_false",
     "question": "Odysseus was determined to return home to Ithaca.",
-    "correctBoolean": true,
-    "explanation": "Despite numerous trials, Odysseus's ultimate goal was returning home to Ithaca."
+    "correctBoolean": false,
+    "explanation": "it took him 20 years he wasnt trying that hard "
+  },
+  {
+    "id": "quiz-1787727499398-3",
+    "type": "open_response",
+    "question": "but how did this story make you feel?",
+    "sampleAnswer": "Example student answer demonstrating key understanding of the story.",
+    "explanation": "there are no wrong or dumb answers (except the one u wrote!)"
   }
 ]
