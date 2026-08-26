@@ -396,7 +396,7 @@ Subtitle: did anyone else see the man from uncle
 Author: Homer
 Genre: Adventure
 ReadingLevel: Intermediate
-ReadingTime: 3 min
+ReadingTime: 5 min
 SeriesTitle: The Odyssey
 SeriesId: odyssey
 SeriesFolder: odyssey
