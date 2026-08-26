@@ -410,3 +410,24 @@ ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
 SlideCount: 7
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: odyssey-nausicaa]
+Title: Nausicaä
+Subtitle: the years start comin and they dont stop comin
+Author: Homer
+Genre: Adventure
+ReadingLevel: Intermediate
+ReadingTime: 5 min
+SeriesTitle: The Odyssey
+SeriesId: odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter X
+ChapterTitle: Nausicaä
+ChapterFolder: nausicaa
+SeriesOrder: 10
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/nausicaa/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
