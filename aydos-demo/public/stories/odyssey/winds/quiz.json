@@ -12,26 +12,6 @@
     "explanation": "The adventure takes place in a scenic and wonder-filled setting."
   },
   {
-    "id": "quiz-3",
-    "type": "true_false",
-    "question": "The main character used careful observation and problem-solving to succeed.",
-    "correctBoolean": true,
-    "explanation": "Observing details and thinking carefully helped the characters overcome challenges."
-  },
-  {
-    "id": "quiz-4",
-    "type": "multiple_choice",
-    "question": "How did the characters feel when their journey reached its conclusion?",
-    "options": [
-      "Inspired, joyful, and ready for future adventures",
-      "Confused and disappointed",
-      "Frustrated and tired",
-      "Indifferent and bored"
-    ],
-    "correctIndex": 0,
-    "explanation": "The journey ended on an uplifting and inspiring note."
-  },
-  {
     "id": "quiz-5",
     "type": "open_response",
     "question": "What was the most memorable lesson or event in the story, and why?",
