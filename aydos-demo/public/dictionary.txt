@@ -1,5 +1,5 @@
 # ====================================================================
-# STORYREAD SHARED LOCAL DICTIONARY (412 Words)
+# STORYREAD SHARED LOCAL DICTIONARY (510 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
 #
 # Format:
@@ -21,6 +21,11 @@ DEF: Suffering from a continuous, dull pain or physical tiredness.
 EX: Their aching muscles rested after rowing through the rough waters.
 SYN: sore, hurting, painful
 
+ADORNED [əˈdɔːnd] (verb)
+DEF: To make more beautiful and attractive; to decorate.
+EX: a character adorned with every Christian grace.
+SYN: beautify, bedeck, deck
+
 ADVENTURE [əd.ˈvɛn.tʃər] (noun)
 DEF: An exciting, bold, and sometimes perilous journey or experience.
 EX: Odysseus embarked on a great adventure across uncharted seas.
@@ -30,6 +35,10 @@ AFTER [ˈæf.tər] (preposition / conjunction)
 DEF: Following in time, place, or order.
 EX: After the great storm cleared, calm seas surrounded the vessel.
 SYN: following, subsequent to, later than
+
+AHEAD [əˈhɛd] (adverb)
+DEF: In or to the front; in advance; onward.
+EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
 
 AMONG [ə.ˈmʌŋ] (preposition)
 DEF: Surrounded by or in the middle of a group of people or things.
@@ -61,10 +70,30 @@ DEF: Rubbed or smeared with fragrant oil as part of a ritual or healing.
 EX: The elders anointed the travelers with sweet-scented herbal oils.
 SYN: blessed, consecrated, rubbed
 
+ANSWER [ˈan.sə] (noun)
+DEF: A response or reply; something said or done in reaction to a statement or question.
+EX: Her answer to his proposal was a slap in the face.
+
 ANY [ˈɛn.i] (determiner / pronoun)
 DEF: One, some, or all of something, regardless of quantity.
 EX: The lookout did not spot any danger on the horizon.
 SYN: whatever, whichever
+
+APPROACH [əˈpɹəʊt͡ʃ] (noun)
+DEF: The act of drawing near; a coming or advancing near.
+EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+
+ARGO [argo] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+
+ARMS [ɑːmz] (noun)
+DEF: The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.
+EX: She stood with her right arm extended and her palm forward to indicate “Stop!”.
+
+ARRIVED [əˈɹaɪvd] (verb)
+DEF: To reach; to get to a certain place.
+EX: He arrived home for two days.
 
 AS [æz] (conjunction / preposition)
 DEF: Used to indicate comparison, simultaneous action, or manner.
@@ -101,17 +130,26 @@ DEF: Sound, especially when recorded, transmitted, or reproduced.
 EX: Listen to the audio narration to hear the story come to life.
 SYN: sound, narration, voice
 
+AWOKE [əˈwəʊk] (verb)
+DEF: To become conscious after having slept.
+EX: When he awoke, Herakles did not see Hylas at his side.
+SYN: awaken, wake up, bring round
+
 BACK [bæk] (adverb / noun)
 DEF: To or toward the original starting position or rear.
 EX: Odysseus was determined to journey back to his home in Ithaca.
 SYN: rear, return, backward
 
-BE [biː] (verb)
-DEF: To exist, live, or occupy a specified state or condition.
-EX: To be brave means facing challenges with steady resolve.
-SYN: exist, live, remain
+BADE [beɪd] (verb)
+DEF: To issue a command; to tell.
+EX: He bade me come in.
 
-BEACHES [ˈbiː.tʃɪz] (noun (plural))
+BANK [bæŋk] (noun)
+DEF: An institution where one can place and borrow money and take care of financial affairs.
+EX: A sturdy bank stood proudly near the center of the quiet village.
+SYN: banker
+
+BE [biː] (verb)
 DEF: Sandy or pebbly shores along the edge of the sea or lake.
 EX: The gentle waves lapped against the sunny white-sand beaches.
 SYN: shores, coastlines, strands
@@ -126,6 +164,11 @@ DEF: Pleasing to the senses or mind; having great aesthetic charm.
 EX: The island was filled with beautiful flowers and clear streams.
 SYN: lovely, gorgeous, picturesque
 
+BEDS [bɛdz] (noun)
+DEF: A piece of furniture, usually flat and soft, on which to rest or sleep.
+EX: My cat often sleeps on my bed.
+I keep a glass of water next to my bed when I sleep.
+
 BEEN [bɪn] (verb)
 DEF: Past participle of be; lived or existed over a period of time.
 EX: The weary crew had been at sea for ten long weeks.
@@ -135,6 +178,10 @@ BEFORE [bɪ.ˈfɔːr] (preposition / adverb)
 DEF: During the period of time preceding an event; in front of.
 EX: They gathered freshwater before setting sail once again.
 SYN: prior to, earlier than, ahead of
+
+BELOVED [beloved] (verb)
+DEF: Past action of experiencing or performing beloved.
+EX: They began to beloved together as they made their way along the scenic path.
 
 BEYOND [bɪ.ˈjɒnd] (preposition / adverb)
 DEF: At or to the further side of; past the limits of.
@@ -147,14 +194,14 @@ EX: Bioluminescent algae illuminated the dark bay with sapphire sparkles.
 SYN: glowing, luminescent, radiant
 
 BITTER [ˈbɪt.ər] (adjective)
-DEF: Having a sharp, pungent taste; or marked by harshness and severity.
-EX: The sailors endured bitter cold winds during the northern storm.
-SYN: harsh, sharp, severe
-
-BLADES [bleɪdz] (noun (plural))
 DEF: The flat cutting edges of swords, knives, or oars.
 EX: The polished bronze blades gleamed in the midday sun.
 SYN: swords, edges, oar blades
+
+BLEATING [bleating] (verb)
+DEF: Of a sheep or goat, to make its characteristic cry; of a human, to mimic this sound.
+EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
+SYN: kvetch, moan, whine
 
 BLOOD [blʌd] (noun)
 DEF: The red liquid that circulates in the arteries and veins of humans and animals.
@@ -162,14 +209,13 @@ EX: Fierce combat was avoided so no blood would be shed on the holy island.
 SYN: lifeblood, vital fluid
 
 BLOWS [bloʊz] (verb / noun)
-DEF: Moves air strongly as wind; or strikes delivered in combat.
-EX: A strong gale blows the vessels far away from their plotted course.
-SYN: gusts, strikes, blasts
-
-BODIES [ˈbɒd.iz] (noun (plural))
 DEF: The physical structures of human beings or animals.
 EX: The tired sailors rested their exhausted bodies under the shade.
 SYN: figures, physiques, forms
+
+BODY [ˈbɒdi] (noun)
+DEF: Physical frame.
+EX: A sturdy body stood proudly near the center of the quiet village.
 
 BOY [bɔɪ] (noun)
 DEF: A young male child or youth.
@@ -201,10 +247,18 @@ DEF: Exceptionally bright, vivid, or intellectually outstanding.
 EX: A brilliant beam of sunlight pierced through the storm clouds.
 SYN: radiant, dazzling, shining
 
+BRONZE [bɹɒnz] (noun)
+DEF: A naturally occurring or man-made alloy of copper, usually in combination with tin, but also with one or more other metals.
+EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
+
 BROUGHT [brɔːt] (verb)
 DEF: Past tense of bring; carried or accompanied something to a place.
 EX: The returning scouts brought sweet fruits back to the camp.
 SYN: carried, delivered, transported
+
+BUBBLING [bubbling] (verb)
+DEF: To produce bubbles, to rise up in bubbles (such as in foods cooking or liquids boiling).
+EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
 
 BUT [bʌt] (conjunction)
 DEF: Used to introduce a phrase or clause contrasting with what has been mentioned.
@@ -231,6 +285,11 @@ DEF: Past tense of come; arrived at a place or reached a state.
 EX: They came to a mysterious shoreline veiled in afternoon mist.
 SYN: arrived, reached, approached
 
+CAMP [kʰɛəmp] (noun)
+DEF: An outdoor place acting as temporary accommodation in tents or other temporary structures.
+EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
+SYN: burrow, pie
+
 CANOPY [ˈkæn.ə.pi] (noun)
 DEF: The high, sheltering roof formed by the leafy tops of tall trees.
 EX: Sunlight filtered softly through the green forest canopy.
@@ -241,35 +300,66 @@ DEF: A deep gorge or ravine, typically one with a river flowing through it.
 EX: Echoes rang through the deep canyon between the cliffs.
 SYN: gorge, ravine, chasm
 
+CAPTAIN [captain] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+
+CARRIED [carried] (verb)
+DEF: To lift (something) and take it to another place; to transport (something) by lifting.
+EX: They began to carried together as they made their way along the scenic path.
+SYN: adopt, take on, take over
+
 CHAPTER [ˈtʃæp.tər] (noun)
 DEF: A main division of a book, story, or historical period.
 EX: Chapter II recounts the encounter with the gentle Lotus-Eaters.
 SYN: section, part, episode
 
 CHERISHED [ˈtʃɛr.ɪʃt] (adjective / verb)
-DEF: Held dear; treated with deep love, care, and affectionate protection.
-EX: Odysseus kept cherished memories of his beloved homeland in his heart.
-SYN: beloved, treasured, precious
-
-CICONES [sɪ.ˈkoʊ.niːz] (proper noun (plural))
-DEF: A Homeric tribe of Thracians living at Ismarus who fought against Odysseus's landing party.
-EX: The Cicones counter-attacked from the hills to defend their village.
-SYN: Thracians, Ismarians
-
-CLIFFS [klɪfs] (noun (plural))
 DEF: Steep, high rock faces along a coast or mountain edge.
 EX: Seabirds nested high on the sheer rocky cliffs above the bay.
 SYN: bluffs, precipices, crags
+
+CHEST [chest] (adjective)
+DEF: Possessing the distinctive quality or condition of being chest.
+EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
+
+CHOICE [choice] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
+
+CLEAR [clear] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy clear stood proudly near the center of the quiet village.
+
+CLEARING [clearing] (verb)
+DEF: Engaging in the active process of clearing.
+EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
 
 CLOCKWORK [ˈklɒk.wɜːk] (noun / adjective)
 DEF: A mechanical mechanism of interlocking gears and springs operating with smooth regularity.
 EX: The gears of the bronze astrolabe turned with precise clockwork motion.
 SYN: mechanism, gears, precision
 
+CLOSED [closed] (verb)
+DEF: Past action of experiencing or performing closed.
+EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+
 COAST [koʊst] (noun)
 DEF: The land along or adjoining a sea or ocean.
 EX: They guided the ships safely along the rocky Mediterranean coast.
 SYN: shore, seaboard, coastline
+
+COLD [cold] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
+
+COMMAND [command] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+
+COMPANION [companion] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He called out for Hylas, but his companion did not answer.
 
 COMPASS [ˈkʌm.pəs] (noun)
 DEF: An instrument containing a magnetized pointer that indicates geographic north.
@@ -280,6 +370,10 @@ COMPASSION [kəm.ˈpæʃ.ən] (noun)
 DEF: Sympathetic pity and concern for the sufferings or misfortunes of others.
 EX: The peaceful islanders treated the weary strangers with great compassion.
 SYN: kindness, empathy, mercy
+
+CONFIDENT [confident] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy confident stood proudly near the center of the quiet village.
 
 CONJURED [ˈkʌn.dʒərd] (verb)
 DEF: Called upon or created as if by magic or vivid imagination.
@@ -322,21 +416,11 @@ EX: Heavy surf crashed against the barrier reef with a deafening roar.
 SYN: smashed, struck, battered
 
 CRAWLING [ˈkrɔː.lɪŋ] (verb / adjective)
-DEF: Moving slowly on hands and knees or creeping along the ground.
-EX: The exhausted sailor was seen crawling up the sandy shoreline.
-SYN: creeping, slithering, inching
-
-CREATURES [ˈkriː.tʃərz] (noun (plural))
 DEF: Living animals or mythical beings distinct from human beings.
 EX: Curious sea creatures swam alongside the wooden hull.
 SYN: animals, beings, beasts
 
 CREW [kruː] (noun)
-DEF: A group of people working together, especially sailors operating a ship.
-EX: The loyal crew rowed hard against the stormy current.
-SYN: shipmates, sailors, team
-
-CRIMES [kraɪmz] (noun (plural))
 DEF: Acts or offenses punishable by law, justice, or divine retribution.
 EX: The sacking of the peaceful city brought retribution for their crimes.
 SYN: offenses, misdeeds, transgressions
@@ -347,34 +431,35 @@ EX: Curiosity drove the scouts to discover who lived beyond the tree line.
 SYN: inquisitiveness, interest, wonder
 
 CURIOUS [ˈkjʊə.ri.əs] (adjective)
-DEF: Eager to know or learn something; or strange and unusual.
-EX: The curious scouts observed the peaceful people gathering flowers.
-SYN: inquisitive, intrigued, peculiar
-
-CUSTOMS [ˈkʌs.təmz] (noun (plural))
 DEF: Traditional practices and social behaviors common to a culture.
 EX: Odysseus respected the hospitable customs of the foreign land.
 SYN: traditions, practices, rituals
 
-DARK [dɑːrk] (adjective / noun)
-DEF: Having little or no light; deep and shadowy.
-EX: The storm turned the daytime sky into a dark, swirling expanse.
-SYN: dim, shadowy, gloomy
+DANCING [dancing] (verb)
+DEF: Engaging in the active process of dancing.
+EX: They began to dancing together as they made their way along the scenic path.
 
-DARK-HAIRED [dɑːrk.hɛərd] (adjective)
+DARK [dark] (word)
 DEF: Having dark brown or black hair.
 EX: The dark-haired lookout called out the sighting of land.
 SYN: brunette, black-haired
 
-DAY [deɪ] (noun)
-DEF: The period of light between sunrise and sunset; or a 24-hour cycle.
-EX: A bright new day brought hope to the weary travelers.
-SYN: daylight, daytime
+DASHED [dashed] (verb)
+DEF: Past action of experiencing or performing dashed.
+EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
 
-DAYS [deɪz] (noun (plural))
+DAY [deɪ] (noun)
 DEF: Multiple 24-hour periods of time.
 EX: For nine days the tempest drove the fleet across the open water.
 SYN: period, time, span
+
+DEAR [dear] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
+
+DECLARED [declared] (verb)
+DEF: Past action of experiencing or performing declared.
+EX: They began to declared together as they made their way along the scenic path.
 
 DEEP [diːp] (adjective / noun)
 DEF: Extending far down from the top or surface; profound.
@@ -385,6 +470,10 @@ DEEPLY [ˈdiːp.li] (adverb)
 DEF: To a profound extent or depth; intensely and thoroughly.
 EX: They drank deeply from the sweet nectar offered by the islanders.
 SYN: intensely, profoundly, thoroughly
+
+DEFINITION [definition] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy definition stood proudly near the center of the quiet village.
 
 DELICATE [ˈdɛl.ɪ.kət] (adjective)
 DEF: Finely made, fragile, or requiring gentle and careful handling.
@@ -421,6 +510,10 @@ DEF: Learning about, finding, or revealing something new.
 EX: They were discovering the secrets of ancient coastal navigation.
 SYN: uncovering, finding, exploring
 
+DISCOVERY [discovery] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy discovery stood proudly near the center of the quiet village.
+
 DISTANT [ˈdɪs.tənt] (adjective)
 DEF: Far away in space, time, or relationship.
 EX: A distant island appeared as a faint blue line against the sky.
@@ -447,24 +540,30 @@ EX: He was dragging the unwilling crewmen away from the sweet lotus.
 SYN: hauling, tugging, pulling
 
 DREAM [driːm] (noun / verb)
-DEF: A series of thoughts, images, and sensations occurring during sleep.
-EX: The sweet taste brought a peaceful dream of eternal rest.
-SYN: vision, reverie, fantasy
-
-DREAMS [driːmz] (noun (plural))
-DEF: Visions and pleasant fantasies experienced in slumber.
-EX: Lost in sweet dreams, the men forgot their yearning for home.
-SYN: fantasies, visions, reveries
-
-DREGS [drɛɡz] (noun (plural))
 DEF: The remnants of a liquid left in a container, together with any sediment; the last remains.
 EX: They drank the sweet wine down to the very dregs of the jar.
 SYN: remnants, residue, sediment
+
+DREAMED [dreamed] (verb)
+DEF: Past action of experiencing or performing dreamed.
+EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
+
+DRIFTED [drifted] (verb)
+DEF: Past action of experiencing or performing drifted.
+EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
+
+DROPPED [dropped] (verb)
+DEF: Past action of experiencing or performing dropped.
+EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
 
 DROVE [droʊv] (verb)
 DEF: Past tense of drive; propelled or forced along in a specified direction.
 EX: The fierce northern gale drove the ships across the raging sea.
 SYN: pushed, propelled, forced
+
+DROWSY [drowsy] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
 
 DRUG [drʌɡ] (noun)
 DEF: A chemical substance or herbal extract that alters mood or mental state.
@@ -497,11 +596,6 @@ EX: It was not easy for the warriors to return peacefully to civilian life.
 SYN: simple, effortless, straightforward
 
 EAT [iːt] (verb)
-DEF: To consume food by putting it in the mouth and swallowing.
-EX: The friendly hosts invited the travelers to eat of their harvest.
-SYN: consume, dine, partake
-
-EATERS [ˈiː.tərz] (noun (plural))
 DEF: People or creatures that consume a specified food.
 EX: The Lotus-Eaters lived on the sweet honey-fruit of the island.
 SYN: consumers, diners, dwellers
@@ -557,11 +651,6 @@ EX: The Odyssey is one of the most exciting epic stories in literature.
 SYN: thrilling, exhilarating, stirring
 
 EXPLORER [ɪk.ˈsplɔːr.ər] (noun)
-DEF: A person who journeys into unfamiliar regions to learn about them.
-EX: Odysseus was a brave explorer of unknown islands and seas.
-SYN: adventurer, voyager, navigator
-
-EYES [aɪz] (noun (plural))
 DEF: The organs of sight in humans and animals.
 EX: The sailors could hardly believe their eyes when they saw the garden.
 SYN: vision, gaze, sight
@@ -580,6 +669,10 @@ FADE [feɪd] (verb)
 DEF: To gradually grow faint, dim, or disappear from view or memory.
 EX: Memories of home began to fade after tasting the sweet flower.
 SYN: dim, vanish, dissolve
+
+FAIR [fair] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Fair Hylas did not sleep.
 
 FAR [fɑːr] (adverb / adjective)
 DEF: At, to, or by a great distance in space or time.
@@ -601,6 +694,10 @@ DEF: Past tense of fall; dropped down, or entered into a state.
 EX: The exhausted crew fell into a deep, peaceful sleep under the trees.
 SYN: dropped, collapsed, sank
 
+FETCH [fetch] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy fetch stood proudly near the center of the quiet village.
+
 FEW [fjuː] (determiner / adjective)
 DEF: A small number of people or things.
 EX: Only a few scouts were chosen to explore the uncharted shore.
@@ -610,6 +707,14 @@ FIERCE [fɪərs] (adjective)
 DEF: Having or displaying an intense, aggressive, or violent force.
 EX: A fierce tempest battered the ships and tore their linen sails.
 SYN: ferocious, wild, intense
+
+FIFTY [fifty] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+
+FIFTY-OARED [fifty-oared] (verb)
+DEF: Past action of experiencing or performing fifty-oared.
+EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
 
 FILLING [ˈfɪl.ɪŋ] (verb / adjective)
 DEF: Making or becoming full of something.
@@ -621,17 +726,20 @@ DEF: Fastened securely, unchanging, or repaired.
 EX: His gaze was fixed upon the distant horizon searching for home.
 SYN: secured, steadfast, focused
 
+FLASH [flash] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy flash stood proudly near the center of the quiet village.
+
+FLEECE [fleece] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+
 FLOWER [ˈflaʊ.ər] (noun)
 DEF: The seed-bearing part of a plant consisting of colorful petals.
 EX: The lotus flower produced a honey-sweet blossom loved by the locals.
 SYN: blossom, bloom, petal
 
 FLOWERING [ˈflaʊ.ər.ɪŋ] (adjective / verb)
-DEF: Producing blossoms; in a state of blooming.
-EX: They walked through lush flowering meadows along the coast.
-SYN: blooming, blossoming, flourishing
-
-FLOWERS [ˈflaʊ.ərz] (noun (plural))
 DEF: Multiple colorful blooms of plants.
 EX: Bright flowers carpeted the hillside in shades of amber and rose.
 SYN: blooms, blossoms
@@ -640,6 +748,10 @@ FLUTTER [ˈflʌt.ər] (verb / noun)
 DEF: To fly or wave by quick, light flaps of wings or cloth.
 EX: The pennants flutter in the gentle ocean breeze.
 SYN: flap, wave, quiver
+
+FLUTTERING [fluttering] (verb)
+DEF: Engaging in the active process of fluttering.
+EX: They began to fluttering together as they made their way along the scenic path.
 
 FOR [fɔːr] (preposition)
 DEF: With the purpose or goal of; in favor of.
@@ -676,30 +788,57 @@ DEF: Having a pleasant, sweet, or agreeable smell.
 EX: The air was fragrant with the scent of blooming jasmine.
 SYN: sweet-scented, aromatic, perfumed
 
+FRIEND [friend] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Some say the gods did not even grant him that mercy, and Herakles found no trace of his friend, stolen by the nymphs.
+
 FROM [frʌm] (preposition)
 DEF: Indicating the point in space or time at which an action begins.
 EX: They sailed from the ruins of Troy across the stormy seas.
 SYN: originating at, out of
 
 FRUIT [fruːt] (noun)
-DEF: The sweet, fleshy, seed-bearing produce of a tree or plant.
-EX: The golden fruit had a taste sweeter than wild mountain honey.
-SYN: produce, harvest, crop
-
-FRUITS [fruːts] (noun (plural))
 DEF: Multiple types of sweet plant produce.
 EX: The islanders presented baskets of delicious fruits to the visitors.
 SYN: crops, produce, berries
+
+FRUITLESSLY [fruitlessly] (adverb)
+DEF: In a fruitless or characteristic manner.
+EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
+
+GATHERING [gathering] (verb)
+DEF: Engaging in the active process of gathering.
+EX: They began to gathering together as they made their way along the scenic path.
+
+GAY [gay] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: its not a gay thing.
 
 GENTLE [ˈdʒɛn.təl] (adjective)
 DEF: Mild, kind, tender, and not rough or violent.
 EX: A gentle breeze cooled the brow of the tired oarsmen.
 SYN: mild, tender, soft
 
+GESTURES [gestures] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+
+GHOSTLY [ghostly] (adverb)
+DEF: In a ghost or characteristic manner.
+EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+
 GIFT [ɡɪft] (noun)
 DEF: Something given voluntarily without payment in return.
 EX: The islanders offered their sweet honey-food as a gift of friendship.
 SYN: present, offering, donation
+
+GLANCE [glance] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He would steal a glance, nothing more, and return the camp before he was missed.
+
+GLEN [glen] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
 
 GLIMMER [ˈɡlɪm.ər] (verb / noun)
 DEF: To shine faintly or with a wavering, soft light.
@@ -712,11 +851,6 @@ EX: Drops of seawater glisten on the smooth wooden oars.
 SYN: sparkle, shine, gleam
 
 GLOW [ɡloʊ] (verb / noun)
-DEF: To emit a steady, warm light without flames.
-EX: The campfire cast a warm orange glow across the beach.
-SYN: radiate, shine, beam
-
-GODS [ɡɒdz] (noun (plural))
 DEF: Supernatural deities worshipped by ancient cultures.
 EX: The ancient Greeks believed the gods ruled the winds and waves.
 SYN: deities, divinities, immortals
@@ -752,11 +886,6 @@ EX: The fleet hoped to return across the sea to ancient Greece.
 SYN: Hellas, Greek realm
 
 GREEK [ɡriːk] (adjective / noun)
-DEF: Relating to Greece, its people, language, or culture.
-EX: Greek storytelling has inspired readers for thousands of years.
-SYN: Hellenic, Grecian
-
-GREEKS [ɡriːks] (proper noun (plural))
 DEF: The people of ancient or modern Greece.
 EX: The Greeks built strong wooden galleys to explore the Mediterranean.
 SYN: Hellenes, Achaeans
@@ -771,6 +900,10 @@ DEF: Past tense of grow; increased in size, number, or developed.
 EX: Sweet flowering lotus plants grew wild along the sunny riverbank.
 SYN: flourished, developed, sprouted
 
+GROTTOS [grottos] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+
 HAD [hæd] (verb)
 DEF: Past tense of have; possessed or experienced.
 EX: The sailors had no idea of the magical nature of the sweet fruit.
@@ -780,6 +913,14 @@ HAIR [hɛər] (noun)
 DEF: Any of the fine thread-like strands growing from the skin of humans and animals.
 EX: Sea spray dampens the dark hair of the intrepid navigator.
 SYN: locks, tresses, strands
+
+HALFWAY [halfway] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
+
+HANDSOME [handsome] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
 
 HAPPILY [ˈhæp.ɪ.li] (adverb)
 DEF: In a joyful, contented, or fortunate manner.
@@ -802,11 +943,6 @@ EX: The sailors have a long journey ahead to reach Ithaca.
 SYN: possess, hold, contain
 
 HE [hiː] (pronoun)
-DEF: The male person or hero previously mentioned.
-EX: He ordered the ships to pull away before more men were bewitched.
-SYN: the hero, the captain
-
-HEARTS [hɑːrts] (noun (plural))
 DEF: The center of emotions, courage, and feelings in human beings.
 EX: A longing for home burned warmly within their hearts.
 SYN: souls, spirits, feelings
@@ -821,17 +957,24 @@ DEF: Referring to a female person or entity previously mentioned.
 EX: Odysseus remembered his faithful wife Penelope and his love for her.
 SYN: that woman, she
 
+HERAKLES [herakles] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
+
 HERE [hɪər] (adverb)
 DEF: In, at, or to this place or position.
 EX: 'We shall rest here until the morning sun appears,' he said.
 SYN: in this place, presently
 
-HIGH [haɪ] (adjective)
-DEF: Extending far upward; situated at a great elevation.
-EX: They climbed the high ridge to scan the coastline.
-SYN: elevated, lofty, tall
+HEROES [heroes] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
 
-HILLS [hɪlz] (noun (plural))
+HID [hid] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+
+HIGH [haɪ] (adjective)
 DEF: Naturally raised areas of land, smaller than mountains.
 EX: Green rolling hills framed the tranquil harbor.
 SYN: mounds, slopes, heights
@@ -852,11 +995,6 @@ EX: His clever mind devised a plan to save the crew.
 SYN: belonging to him
 
 HOME [hoʊm] (noun)
-DEF: The place where one lives or where one's family and heart reside.
-EX: After ten years of wandering, he longed only to reach home.
-SYN: homeland, residence, haven
-
-HOMES [hoʊmz] (noun (plural))
 DEF: Dwellings, houses, or native lands of people.
 EX: The men longed to return to their peaceful island homes.
 SYN: dwellings, homelands, houses
@@ -872,11 +1010,6 @@ EX: A golden sunrise brightened the eastern horizon.
 SYN: skyline, boundary, vista
 
 HORSEBACK [ˈhɔːrs.bæk] (noun / adverb)
-DEF: The back of a horse; mounted and riding upon a horse.
-EX: The defenders rode on horseback across the coastal plains.
-SYN: mounted, on horse
-
-HORSES [ˈhɔːr.sɪz] (noun (plural))
 DEF: Large domesticated four-legged mammals used for riding and pulling.
 EX: Chariots drawn by swift horses raced along the shore.
 SYN: steeds, mounts
@@ -905,6 +1038,14 @@ HUMMINGBIRD [ˈhʌm.ɪŋ.bɜːrd] (noun)
 DEF: A tiny bird capable of hovering in place with rapid wingbeats to sip flower nectar.
 EX: A colorful hummingbird hovered over the sweet lotus blossoms.
 SYN: nectar-bird, trochilid
+
+HUNTS [hunts] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
+
+HYLAS [hylas] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
 
 II [tuː] (numeral)
 DEF: Roman numeral representing the number two.
@@ -941,6 +1082,10 @@ DEF: Expressing movement or action with the result that someone or something bec
 EX: The vessel glided into the peaceful lagoon.
 SYN: toward the inside of, inside
 
+INTRUDER [intruder] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+
 IS [ɪz] (verb)
 DEF: Third person singular present tense of be.
 EX: Odysseus is renowned for his unmatched cunning and wit.
@@ -950,6 +1095,10 @@ ISLAND [ˈaɪ.lənd] (noun)
 DEF: A piece of land entirely surrounded by water.
 EX: The lush island was fragrant with exotic blossoms and fruit.
 SYN: isle, atoll, landmass
+
+ISLE [isle] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
 
 ISMARUS [ˈɪs.mə.rəs] (proper noun)
 DEF: An ancient coastal city of the Cicones visited by Odysseus after leaving Troy.
@@ -966,35 +1115,50 @@ DEF: Belonging to or associated with a thing previously mentioned.
 EX: The galley lowered its large canvas sail as it neared the shore.
 SYN: belonging to it
 
+JASON [jason] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+
 JOURNEY [ˈdʒɜːr.ni] (noun / verb)
 DEF: An act of traveling from one place to another over a long distance.
 EX: Their heroic journey lasted ten adventurous years across the sea.
 SYN: voyage, expedition, trek
 
 KNOW [noʊ] (verb)
-DEF: To be aware of through observation, inquiry, or experience.
-EX: The sailors did not know the danger hidden in the sweet blossoms.
-SYN: understand, recognize, perceive
-
-LAMBS [læmz] (noun (plural))
 DEF: Young sheep.
 EX: Flocks of woolly lambs grazed along the sunny coastal meadows.
 SYN: young sheep, livestock
+
+LAMB [lamb] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
 
 LAND [lænd] (noun / verb)
 DEF: The solid part of the earth's surface; or to arrive on shore from a vessel.
 EX: They were relieved to sight land after weeks in the open ocean.
 SYN: shore, ground, territory
 
+LANDS [lands] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+
 LANGUAGE [ˈlæŋ.ɡwɪdʒ] (noun)
 DEF: The method of human communication using spoken, written, or signed words.
 EX: The ancient Greek language preserves some of world literature's greatest epics.
 SYN: speech, tongue, dialect
 
+LATER [later] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+
 LAY [leɪ] (verb)
 DEF: Past tense of lie; rested in a flat horizontal position.
 EX: The drowsy sailors lay upon the soft sand under the shade.
 SYN: rested, reclined, sprawled
+
+LEARN [learn] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy learn stood proudly near the center of the quiet village.
 
 LEAVE [liːv] (verb)
 DEF: To go away from a place or person.
@@ -1006,10 +1170,26 @@ DEF: The natural agent that stimulates sight and makes things visible; or not he
 EX: The morning light painted the ocean waves in shades of gold.
 SYN: radiance, illumination, brightness
 
+LILY-ROOTS [lily-roots] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+
+LION [lion] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
+
+LIPS [lips] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+
 LISTEN [ˈlɪs.ən] (verb)
 DEF: To give one's attention to a sound or speech.
 EX: Listen carefully to the narrator's voice as each slide turns.
 SYN: hear, hearken, attend
+
+LONELY [lonely] (adverb)
+DEF: In a lone or characteristic manner.
+EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
 
 LONGER [ˈlɒŋ.ɡər] (adjective / adverb)
 DEF: Measuring a greater distance or duration of time.
@@ -1021,35 +1201,28 @@ DEF: Unable to find one's way; or ceased to be visible or remembered.
 EX: The fleet was lost in the vast, stormy waters of the sea.
 SYN: misplaced, bewildered, vanished
 
-LOTUS [ˈloʊ.təs] (noun)
-DEF: A legendary flowering water plant whose sweet honey-fruit induced sweet forgetfulness.
-EX: Whoever tasted the sweet lotus blossom lost all desire to return home.
-SYN: water lily, enchanted blossom
-
-LOTUS-EATERS [ˈloʊ.təs ˈiː.tərz] (proper noun (plural))
-DEF: A gentle mythical people encountered by Odysseus whose diet of lotus flowers made them live in peaceful forgetfulness.
-EX: The Lotus-Eaters offered their sweet food to Odysseus's scouts.
-SYN: Lotophagi, lotus dwellers
-
-LOTUS-FLOWER [ˈloʊ.təs flaʊ.ər] (noun)
+LOTUS [lotus] (word)
 DEF: The sweet, honey-flavored bloom of the lotus plant.
 EX: The scouts tasted the lotus-flower and fell into a dreamy slumber.
 SYN: lotus blossom, honey bloom
 
 LUMINESCENT [ˌluː.mɪ.ˈnɛs.ənt] (adjective)
-DEF: Emitting light not caused by heat; glowing brightly.
-EX: Luminescent crystals glowed with a cool azure light in the cave.
-SYN: glowing, radiant, phosphorescent
-
-LUNGS [lʌŋz] (noun (plural))
 DEF: The pair of organs inside the chest used for breathing air.
 EX: The oarsman filled his lungs with the fresh sea breeze.
 SYN: breathing organs, airways
+
+LYRE [lyre] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy lyre stood proudly near the center of the quiet village.
 
 MADE [meɪd] (verb)
 DEF: Past tense of make; created, constructed, or caused something to happen.
 EX: The cunning captain made a plan to secure his crew safely.
 SYN: crafted, created, produced
+
+MADNESS [madness] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Fear was unfamiliar to Herakles, and it drove him nearly to madness.
 
 MAKES [meɪks] (verb)
 DEF: Causes something to be or become; creates.
@@ -1071,6 +1244,14 @@ DEF: Walked with regular, measured, and purposeful steps.
 EX: The warriors marched toward the settlement in unified formation.
 SYN: advanced, strode, paraded
 
+MARIGOLDS [marigolds] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
+
+MARKED [marked] (verb)
+DEF: Past action of experiencing or performing marked.
+EX: They began to marked together as they made their way along the scenic path.
+
 MARVEL [ˈmɑːr.vəl] (verb / noun)
 DEF: To be filled with wonder and astonishment; or a wonderful thing.
 EX: They could only marvel at the beauty of the untouched paradise.
@@ -1081,15 +1262,18 @@ DEF: An indiscriminate and brutal slaughter of many people.
 EX: The warriors caused a fierce massacre before reinforcements arrived.
 SYN: slaughter, carnage, destruction
 
-MEADOW [ˈmɛd.oʊ] (noun)
-DEF: A piece of grassland, especially one used for grazing or rich with flowers.
-EX: A vibrant meadow of blooming clover stretched down to the sea.
-SYN: pasture, field, lea
+MAST [mast] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy mast stood proudly near the center of the quiet village.
 
-MEADOWS [ˈmɛd.oʊz] (noun (plural))
+MEADOW [ˈmɛd.oʊ] (noun)
 DEF: Multiple expanses of lush grassy land.
 EX: Wildflowers covered the coastal meadows in brilliant colors.
 SYN: pastures, grasslands, fields
+
+MEADOW-GRASS [meadow-grass] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
 
 MEAL [miːl] (noun)
 DEF: An occasion when food is eaten, or the food eaten on such an occasion.
@@ -1102,24 +1286,30 @@ EX: A gentle melody from a shepherd's pipe drifted across the hills.
 SYN: tune, song, strain
 
 MELTED [ˈmɛl.tɪd] (verb / adjective)
-DEF: Became liquefied by heat; or softened emotionally.
-EX: Their fierce warrior anger melted away in the peaceful garden.
-SYN: dissolved, softened, thawed
-
-MEN [mɛn] (noun (plural))
 DEF: Adult human males; crew members or warriors.
 EX: The brave men manned the rowing benches with steady determination.
 SYN: crew, sailors, warriors
 
-MIDDAY [ˌmɪd.ˈdeɪ] (noun)
-DEF: The middle of the day; noon.
-EX: The bright midday sun warmed the golden sands of the cove.
-SYN: noon, noontime, twelve o'clock
+MERCY [mercy] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Some say the gods did not even grant him that mercy, and Herakles found no trace of his friend, stolen by the nymphs.
 
-MINDS [maɪndz] (noun (plural))
+MET [met] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
+
+MIDDAY [ˌmɪd.ˈdeɪ] (noun)
 DEF: The element of a person that enables them to think, feel, and reason.
 EX: The enchanting blossom clouded the minds of the scouts.
 SYN: thoughts, intellects, memories
+
+MIGHTIEST [mightiest] (adjective)
+DEF: Possessing the distinctive quality or condition of being mightiest.
+EX: The surrounding landscape looked especially mightiest in the warm morning light.
+
+MISSED [missed] (verb)
+DEF: Past action of experiencing or performing missed.
+EX: He would steal a glance, nothing more, and return the camp before he was missed.
 
 MORE [mɔːr] (determiner / adverb)
 DEF: A greater or additional quantity, degree, or number.
@@ -1146,6 +1336,10 @@ DEF: A word or set of words by which a person, place, or thing is known.
 EX: The leader spoke his proud name to the gathering of elders.
 SYN: title, appellation, identity
 
+NAMES [names] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+
 NARRATION [næ.ˈreɪ.ʃən] (noun)
 DEF: The action or process of telling a story aloud.
 EX: The audio narration brings the epic adventures of Odysseus to life.
@@ -1166,15 +1360,18 @@ DEF: Required something because it was essential or important.
 EX: The exhausted crew needed food, fresh water, and peaceful rest.
 SYN: required, demanded, craved
 
-NEW [njuː] (adjective)
-DEF: Not existing before; made, introduced, or discovered recently.
-EX: A new sunrise brought renewed hope to the weary navigators.
-SYN: fresh, novel, recent
+NEEDLES [needles] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
 
-NIGHTS [naɪts] (noun (plural))
+NEW [njuː] (adjective)
 DEF: Multiple periods from sunset to sunrise.
 EX: For nine long nights, stormy winds tossed the ships upon the sea.
 SYN: evenings, nighttimes
+
+NOBLE [noble] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
 
 NOT [nɒt] (adverb)
 DEF: Used with an auxiliary verb or 'be' to form the negative.
@@ -1185,6 +1382,10 @@ NOTHING [ˈnʌθ.ɪŋ] (pronoun)
 DEF: Not anything; no single thing.
 EX: Nothing could deter Odysseus from his determination to see home.
 SYN: naught, zero
+
+NYMPHS [nymphs] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
 
 OBSERVATORY [əb.ˈzɜːr.və.tɔːr.i] (noun)
 DEF: A building or high place designed for observing the stars, planets, and weather.
@@ -1207,11 +1408,6 @@ EX: The sweet scent of flowers drifted across the bay.
 SYN: belonging to, from, concerning
 
 OFF [ɒf] (adverb / preposition)
-DEF: Away from a place or position.
-EX: The storm blew the ships off their intended path.
-SYN: away, aside, distant from
-
-OILS [ɔɪlz] (noun (plural))
 DEF: Smooth, thick, fragrant liquids pressed from olives or herbs.
 EX: They brought fragrant olive oils to trade with the coastal villagers.
 SYN: ointments, unguents, essences
@@ -1230,6 +1426,10 @@ ONE [wʌn] (numeral / pronoun)
 DEF: The lowest cardinal number; a single person or thing.
 EX: Only one leader had the clarity of mind to resist the enchantment.
 SYN: single, sole, individual
+
+ONLY [only] (adverb)
+DEF: In a on or characteristic manner.
+EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
 
 OR [ɔːr] (conjunction)
 DEF: Used to link alternatives.
@@ -1257,24 +1457,35 @@ EX: Each sailor longed to return to his own family and hearth.
 SYN: personal, individual, private
 
 PAINED [peɪnd] (adjective / verb)
-DEF: Affected with emotional sorrow, distress, or physical ache.
-EX: A pained expression crossed the captain's face as he witnessed their plight.
-SYN: sorrowful, distressed, aching
-
-PALACES [ˈpæl.ɪ.sɪz] (noun (plural))
 DEF: Large, impressive royal residences of kings or nobles.
 EX: Great marble palaces once stood along the ancient harbor.
 SYN: mansions, castles, royal halls
+
+PALE [pale] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy pale stood proudly near the center of the quiet village.
+
+PANG [pang] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He rubbed the sleep from his eyes, then felt a pang of fear, something he felt very seldom.
 
 PARAGRAPH [ˈpær.ə.ɡræf] (noun)
 DEF: A distinct section of a piece of writing dealing with a specific theme.
 EX: Read each story paragraph carefully while listening to the audio.
 SYN: section, passage, verse
 
+PARTED [parted] (verb)
+DEF: Past action of experiencing or performing parted.
+EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+
 PARTOOK [pɑːr.ˈtʊk] (verb)
 DEF: Past tense of partake; took part in or tasted food or drink.
 EX: The scouts partook of the honey-sweet lotus with great delight.
 SYN: shared in, consumed, tasted
+
+PASS [pass] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
 
 PASTE [peɪst] (noun / verb)
 DEF: A thick, soft, moist substance; or to stick something firmly.
@@ -1292,44 +1503,55 @@ EX: The Lotus-Eaters were a peaceful people who wished no harm to anyone.
 SYN: tranquil, serene, calm, gentle
 
 PENELOPE [pə.ˈnɛl.ə.pi] (proper noun)
-DEF: The faithful wife of Odysseus and queen of Ithaca, celebrated for loyalty and wisdom.
-EX: Odysseus yearned to be reunited with Penelope in Ithaca.
-SYN: Queen of Ithaca, faithful wife
-
-PEOPLE [ˈpiː.pəl] (noun (plural))
-DEF: Human beings in general or considered collectively.
-EX: The hospitable people welcomed the weary travelers with offerings.
-SYN: inhabitants, citizens, folk
-
-PETALS [ˈpɛt.əlz] (noun (plural))
 DEF: The colorful, delicate leaf-like segments of a flower blossom.
 EX: Soft pink petals floated down onto the calm surface of the stream.
 SYN: blossom leaves, floral leaves
 
+PHASIS [phasis] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
+
+PIECE [piece] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+
+PINES [pines] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+
+PITCHER [pitcher] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
+
 PLAYED [pleɪd] (verb)
-DEF: Engaged in activity for enjoyment; or performed music.
-EX: A young islander played a gentle tune upon a wooden flute.
-SYN: performed, frolicked, rejoiced
-
-PLEAS [pliːz] (noun (plural))
-DEF: Urgent, emotional requests or appeals.
-EX: The captain ignored their pleas to be left behind on the enchanted shore.
-SYN: appeals, cries, petitions
-
-PLEASURES [ˈplɛʒ.ərz] (noun (plural))
 DEF: Feelings of happy satisfaction, enjoyment, or sensual delight.
 EX: They abandoned the fleeting pleasures of the lotus to pursue their noble journey.
 SYN: delights, joys, indulgences
 
-POLLINATOR [ˈpɒl.ɪ.neɪ.tər] (noun)
-DEF: An animal or insect that moves pollen from flower to flower, enabling plant reproduction.
-EX: The bright butterfly acted as an energetic pollinator in the sunlit meadow.
-SYN: honeybee, pollen carrier
+PLUCKED [plucked] (verb)
+DEF: Past action of experiencing or performing plucked.
+EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
 
-PRONUNCIATIONS [prəˌnʌn.si.ˈeɪ.ʃənz] (noun (plural))
+POLLINATOR [ˈpɒl.ɪ.neɪ.tər] (noun)
 DEF: The correct ways in which words or languages are spoken.
 EX: Listen to the audio to practice accurate pronunciations of new vocabulary.
 SYN: articulations, accents, utterances
+
+POND-WEED [pond-weed] (verb)
+DEF: Past action of experiencing or performing pond-weed.
+EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+
+PREPARED [prepared] (verb)
+DEF: Past action of experiencing or performing prepared.
+EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
+
+PROMISED [promised] (verb)
+DEF: Past action of experiencing or performing promised.
+EX: They began to promised together as they made their way along the scenic path.
+
+PULLED [pulled] (verb)
+DEF: Past action of experiencing or performing pulled.
+EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
 
 QUEST [kwɛst] (noun)
 DEF: A long, arduous search for something noble or adventurous.
@@ -1351,6 +1573,10 @@ DEF: A group of people connected by common descent; or a competition of speed.
 EX: The Lotus-Eaters were a gentle race who lived in harmony with the blossoms.
 SYN: people, tribe, lineage
 
+RANK [rank] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+
 READIED [ˈrɛd.id] (verb)
 DEF: Prepared or made something ready for action.
 EX: The sailors readied the heavy oars for a swift departure.
@@ -1361,10 +1587,22 @@ DEF: Got, accepted, or was greeted with something given.
 EX: The travelers received a warm welcome from the friendly villagers.
 SYN: accepted, welcomed, greeted
 
+RECKLESSLY [recklessly] (adverb)
+DEF: In a reckless or characteristic manner.
+EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
+
+RECOGNIZE [recognize] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+
 RED [rɛd] (adjective / noun)
 DEF: The color of blood, rubies, or ripe strawberries.
 EX: A glowing red sunset signaled fair weather for tomorrow's sailing.
 SYN: crimson, scarlet, ruby
+
+REEDS [reeds] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy reeds stood proudly near the center of the quiet village.
 
 REFUSED [rɪ.ˈfjuːzd] (verb)
 DEF: Indicated unwillingness to do, accept, or grant something.
@@ -1391,35 +1629,45 @@ DEF: Struggled against or fought back against force or temptation.
 EX: The wise hero resisted the sweet temptation of the honeyed fruit.
 SYN: withstood, opposed, defied
 
+REST [rest] (adjective)
+DEF: Possessing the distinctive quality or condition of being rest.
+EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+
 RETURN [rɪ.ˈtɜːrn] (verb / noun)
 DEF: To come or go back to a place or person; or the act of coming back.
 EX: Their greatest desire was to return safely to their native land.
 SYN: go back, revisit, homecoming
+
+RICH [rich] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy rich stood proudly near the center of the quiet village.
 
 RIDING [ˈraɪ.dɪŋ] (verb)
 DEF: Being carried on horseback or traveling atop ocean waves.
 EX: The ship was riding the crest of high azure waves.
 SYN: floating atop, mounting, coursing
 
+RIVALED [rivaled] (verb)
+DEF: Past action of experiencing or performing rivaled.
+EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
+
 ROUSE [raʊz] (verb)
 DEF: To awaken from sleep or stimulate to action.
 EX: Odysseus had to rouse his dreaming comrades from their heavy stupor.
 SYN: awaken, stir, alert
 
+RUBBED [rubbed] (verb)
+DEF: Past action of experiencing or performing rubbed.
+EX: He rubbed the sleep from his eyes, then felt a pang of fear, something he felt very seldom.
+
 RUN [rʌn] (verb)
-DEF: To move with rapid steps faster than walking.
-EX: The lookout turned to run and warn the camp of incoming gales.
-SYN: sprint, dash, hasten
-
-SAILORS [ˈseɪ.lərz] (noun (plural))
-DEF: People whose job or role is working as part of a ship's crew.
-EX: The seasoned sailors worked together to steer through the swell.
-SYN: crew, mariners, seafarers
-
-SAILS [seɪlz] (noun (plural) / verb)
 DEF: Large pieces of canvas or fabric spread to catch the wind and drive a ship.
 EX: They hoisted the linen sails to catch the favoring breeze.
 SYN: canvas, rigging
+
+RUSHES [rushes] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy rushes stood proudly near the center of the quiet village.
 
 SANCTUARY [ˈsæŋk.tʃuː.ɛr.i] (noun)
 DEF: A place of safety, refuge, or sacred holiness.
@@ -1476,6 +1724,14 @@ DEF: To perceive with the eyes; to observe or understand.
 EX: Look ahead to see if any sails appear on the distant horizon.
 SYN: behold, observe, view
 
+SEEK [seek] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+
+SELDOM [seldom] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He rubbed the sleep from his eyes, then felt a pang of fear, something he felt very seldom.
+
 SENSED [sɛnst] (verb)
 DEF: Became aware of something through intuition or subtle perception.
 EX: The wise captain sensed danger lurking beneath the sweet hospitality.
@@ -1491,10 +1747,26 @@ DEF: Put in a specified position; or began upon a course.
 EX: They set sail toward the open water as soon as dawn arrived.
 SYN: placed, commenced, embarked
 
+SHADE [shade] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
+
 SHADOW [ˈʃæd.oʊ] (noun)
 DEF: A dark area produced by a body coming between rays of light and a surface.
 EX: The tall cliffs cast a cool shadow across the sheltered inlet.
 SYN: shade, silhouette, darkness
+
+SHADOWY [shadowy] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
+
+SHADY [shady] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+
+SHALL [shall] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
 
 SHE [ʃiː] (pronoun)
 DEF: Referring to a female person or deity previously mentioned.
@@ -1502,11 +1774,6 @@ EX: Athena watched over Odysseus, ensuring she could aid him in peril.
 SYN: that goddess, the lady
 
 SHIP [ʃɪp] (noun)
-DEF: A large boat for transporting people or goods across sea.
-EX: The sturdy wooden ship cut through the rising ocean waves.
-SYN: vessel, galley, boat
-
-SHIPS [ʃɪps] (noun (plural))
 DEF: Multiple sailing vessels traveling together as a fleet.
 EX: The twelve Greek ships formed a disciplined line across the strait.
 SYN: vessels, fleet, galleys
@@ -1515,6 +1782,18 @@ SHOOK [ʃʊk] (verb)
 DEF: Past tense of shake; trembled, vibrated, or moved rapidly back and forth.
 EX: Thunder shook the wooden deck as the storm struck with fury.
 SYN: trembled, quivered, vibrated
+
+SHORE [shore] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
+
+SHORES [shores] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
+
+SILENT [silent] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
 
 SINGLE [ˈsɪŋ.ɡəl] (adjective)
 DEF: Only one; not one of several.
@@ -1525,6 +1804,18 @@ SINKING [ˈsɪŋ.kɪŋ] (verb / adjective)
 DEF: Descending below the surface of water or descending toward sunset.
 EX: The sinking sun painted the western horizon with crimson and gold.
 SYN: descending, submerging, dropping
+
+SIRENS [sirens] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
+
+SKILLS [skills] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy skills stood proudly near the center of the quiet village.
+
+SKIN [skin] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy skin stood proudly near the center of the quiet village.
 
 SKY [skaɪ] (noun)
 DEF: The region of the atmosphere above the earth seen from below.
@@ -1537,11 +1828,6 @@ EX: They scooped cold freshwater from the mountain spring to slake their thirst.
 SYN: quench, satisfy, sate
 
 SLAUGHTERED [ˈslɔː.tərd] (verb)
-DEF: Killed in a violent and brutal manner, especially in warfare.
-EX: The defending garrison was slaughtered during the surprise raid.
-SYN: massacred, slain, butchered
-
-SLAVES [sleɪvz] (noun (plural))
 DEF: People who are forced to obey and work for others without freedom.
 EX: In ancient warfare, captives were often taken as unwilling slaves.
 SYN: captives, bondsmen, prisoners
@@ -1572,29 +1858,35 @@ EX: Some of the scouts tasted the blossom and fell into sweet repose.
 SYN: a few, a portion
 
 SOON [suːn] (adverb)
-DEF: In or after a short time; before long.
-EX: Soon the favorable south wind began to fill their canvas sails.
-SYN: shortly, presently, before long
-
-SPEARS [spɪərz] (noun (plural))
 DEF: Weapons with long wooden shafts and sharp pointed bronze or iron tips.
 EX: Bronze-tipped spears gleamed brightly in the midday sunlight.
 SYN: lances, javelins, pikes
+
+SPEAK [speak] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
 
 SPELL [spɛl] (noun)
 DEF: A magical charm, enchantment, or trance.
 EX: The sweet lotus blossom cast a powerful spell of forgetfulness.
 SYN: enchantment, charm, trance
 
-STARLIGHT [ˈstɑːr.laɪt] (noun)
-DEF: The faint light that comes from the stars in the night sky.
-EX: Starlight guided the ancient navigators across the open sea.
-SYN: astral glow, celestial light
+SPEND [spend] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy spend stood proudly near the center of the quiet village.
 
-STARS [stɑːrz] (noun (plural))
+SPRING [spring] (verb)
+DEF: Engaging in the active process of spring.
+EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
+
+STARLIGHT [ˈstɑːr.laɪt] (noun)
 DEF: Luminous celestial bodies visible as points of light in the night sky.
 EX: Sailors read the alignment of the stars to plot their course.
 SYN: constellations, celestial lights
+
+STEAL [steal] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He would steal a glance, nothing more, and return the camp before he was missed.
 
 STILL [stɪl] (adjective / adverb)
 DEF: Not moving or making sound; or continuing to happen.
@@ -1605,6 +1897,10 @@ STOPPED [stɒpt] (verb)
 DEF: Came to an end of a movement or action; halted.
 EX: The ships stopped at the sheltered cove to take on fresh water.
 SYN: halted, anchored, paused
+
+STORIED [storied] (verb)
+DEF: Past action of experiencing or performing storied.
+EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
 
 STORM [stɔːrm] (noun)
 DEF: A violent disturbance of the atmosphere with strong winds and heavy seas.
@@ -1621,10 +1917,18 @@ DEF: Unusual, surprising, difficult to explain, or unfamiliar.
 EX: The island was home to a strange and magical flowering plant.
 SYN: mysterious, unusual, peculiar
 
+STRIPPED [stripped] (verb)
+DEF: Past action of experiencing or performing stripped.
+EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
+
 STRUGGLING [ˈstrʌɡ.lɪŋ] (verb / adjective)
 DEF: Striving with great effort against difficulties or restraint.
 EX: The weeping scouts were struggling as Odysseus dragged them away.
 SYN: resisting, striving, grappling
+
+STUMBLED [stumbled] (verb)
+DEF: Past action of experiencing or performing stumbled.
+EX: Some say that after many weeks, Herakles stumbled upon the bronze pitcher Hylas had dropped.
 
 STUPOR [ˈstjuː.pər] (noun)
 DEF: A state of near-unconsciousness or suspended sensibility caused by drink or enchantment.
@@ -1651,10 +1955,18 @@ DEF: Having an idea or feeling of the possible truth without certainty.
 EX: Not suspecting any enchantment, the hungry scouts ate the sweet blossoms.
 SYN: doubting, imagining, sensing
 
+SWALLOW-WORT [swallow-wort] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy swallow-wort stood proudly near the center of the quiet village.
+
 SWEET [swiːt] (adjective)
 DEF: Having the pleasant taste characteristic of sugar or honey.
 EX: The sweet taste of the lotus made all troubles vanish from memory.
 SYN: honeyed, sugary, delicious
+
+SWIFT [swift] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
 
 TAP [tæp] (verb / noun)
 DEF: To strike lightly, or touch a touch-screen with a finger.
@@ -1701,7 +2013,7 @@ DEF: Used to identify a specific person or thing observed by the speaker.
 EX: He pointed to that distant shoreline rising out of the mist.
 SYN: which, the indicated
 
-THE [ðiː / ðə] (definite article)
+THE [ðiː  ðə] (definite article)
 DEF: Denoting one or more people or things already mentioned or assumed.
 EX: The brave captain steered the wooden ship through the reef.
 SYN: the indicated, the specified
@@ -1726,6 +2038,10 @@ DEF: Used as the reflexive or emphatic form of they.
 EX: The crew found themselves cast upon an unfamiliar shoreline.
 SYN: personally, their own persons
 
+THEN [then] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+
 THERE [ðɛər] (adverb)
 DEF: In, at, or to that place or position.
 EX: They wished to remain there under the shade of the blooming trees.
@@ -1745,6 +2061,10 @@ THICK [θɪk] (adjective)
 DEF: With opposite sides relatively far apart; dense and heavy.
 EX: A thick ocean fog rolled in over the coastal cliffs.
 SYN: dense, heavy, impenetrable
+
+THING [thing] (verb)
+DEF: Engaging in the active process of thing.
+EX: its not a gay thing.
 
 THIRST [θɜːrst] (noun / verb)
 DEF: A feeling of needing to drink liquid; or a strong craving.
@@ -1786,6 +2106,10 @@ DEF: Expressing motion in the direction of a particular location.
 EX: They sailed to the quiet cove to escape the raging storm.
 SYN: toward, unto
 
+TOGETHER [together] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy together stood proudly near the center of the quiet village.
+
 TOLD [toʊld] (verb)
 DEF: Past tense of tell; communicated information or facts to someone.
 EX: The elder told an ancient tale of heroes and voyages.
@@ -1806,10 +2130,22 @@ DEF: Past tense of tear; pulled apart or ripped violently.
 EX: The violent squall tore their canvas sails to ragged shreds.
 SYN: ripped, shredded, severed
 
+TRACE [trace] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Some say the gods did not even grant him that mercy, and Herakles found no trace of his friend, stolen by the nymphs.
+
+TRAINING [training] (verb)
+DEF: Engaging in the active process of training.
+EX: They began to training together as they made their way along the scenic path.
+
 TRANQUIL [ˈtræŋ.kwɪl] (adjective)
 DEF: Free from disturbance; calm, peaceful, and serene.
 EX: The tranquil bay mirrored the azure sky without a single ripple.
 SYN: peaceful, serene, calm
+
+TRAVEL [travel] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
 
 TREASURE [ˈtrɛʒ.ər] (noun / verb)
 DEF: A quantity of precious metals, gems, or valuable items; or to cherish.
@@ -1831,10 +2167,22 @@ DEF: Beset by problems, anxiety, or emotional distress.
 EX: Odysseus was deeply troubled by the strange lethargy of his scouts.
 SYN: distressed, anxious, worried
 
+TRUTH [truth] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy truth stood proudly near the center of the quiet village.
+
 TURNED [tɜːrnd] (verb)
 DEF: Changed direction or course; rotated.
 EX: The helmsman turned the rudder toward the safety of the harbor.
 SYN: veered, rotated, steered
+
+TWISTING [twisting] (verb)
+DEF: Engaging in the active process of twisting.
+EX: They began to twisting together as they made their way along the scenic path.
+
+TWO [two] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy two stood proudly near the center of the quiet village.
 
 TYPE [taɪp] (noun)
 DEF: A category of people or things having common characteristics.
@@ -1845,6 +2193,10 @@ UNDER [ˈʌn.dər] (preposition)
 DEF: Extending or directly below something.
 EX: They tied the sleeping scouts securely under the rowing benches.
 SYN: beneath, below, underneath
+
+UNFAMILIAR [unfamiliar] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Fear was unfamiliar to Herakles, and it drove him nearly to madness.
 
 UP [ʌp] (adverb / preposition)
 DEF: Toward a higher place or position.
@@ -1867,14 +2219,21 @@ EX: Vibrant pink and gold blossoms carpeted the sunlit meadow.
 SYN: vivid, bright, lively
 
 VILLAGE [ˈvɪl.ɪdʒ] (noun)
-DEF: A small settlement usually found in a rural or coastal setting.
-EX: Smoke rose peacefully from the stone cottages of the coastal village.
-SYN: settlement, hamlet, town
-
-VILLAGES [ˈvɪl.ɪdʒ.ɪz] (noun (plural))
 DEF: Multiple small rural or coastal settlements.
 EX: Ancient trade routes connected the quiet coastal villages.
 SYN: settlements, hamlets
+
+VISIONS [visions] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
+
+VOYAGE [voyage] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
+
+WADED [waded] (verb)
+DEF: Past action of experiencing or performing waded.
+EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
 
 WAILED [weɪld] (verb)
 DEF: Made a prolonged, high-pitched cry of sorrow, grief, or pain.
@@ -1895,6 +2254,10 @@ WANDER [ˈwɒn.dər] (verb)
 DEF: To walk or move in a leisurely, casual, or aimless way.
 EX: The visitors were invited to wander through the fragrant groves.
 SYN: roam, stroll, ramble
+
+WANDERED [wandered] (verb)
+DEF: Past action of experiencing or performing wandered.
+EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
 
 WANTED [ˈwɒn.tɪd] (verb)
 DEF: Past tense of want; desired or wished for something.
@@ -1917,19 +2280,13 @@ EX: Odysseus was determined to bring every man home safely.
 SYN: existed as
 
 WASHED [wɒʃt] (verb)
-DEF: Carried along or onto land by the movement of waves or water.
-EX: Gentle waves washed ashore against the golden sand.
-SYN: lapped, bathed, splashed
-
-WATERS [ˈwɔː.tərz] (noun (plural))
-DEF: The sea, ocean, or body of water of a particular area.
-EX: The fleet sailed across the sparkling waters of the Mediterranean.
-SYN: seas, ocean, waves
-
-WAVES [weɪvz] (noun (plural))
 DEF: Long bodies of water curling into an arched foam crest on the sea.
 EX: Azure waves broke gently against the warm barrier reef.
 SYN: breakers, billows, surf
+
+WATER [water] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
 
 WAY [weɪ] (noun)
 DEF: A method, style, route, or manner of doing something.
@@ -1937,11 +2294,6 @@ EX: The clever hero discovered a way to break the lotus enchantment.
 SYN: method, route, manner
 
 WEARY [ˈwɪə.ri] (adjective)
-DEF: Feeling or showing extreme tiredness, especially as a result of excessive exertion.
-EX: The weary crew gratefully rested their aching arms in the shade.
-SYN: exhausted, tired, fatigued
-
-WEEKS [wiːks] (noun (plural))
 DEF: Periods of seven consecutive days.
 EX: For weeks they had battled turbulent gales across open water.
 SYN: fortnights, periods
@@ -1991,7 +2343,7 @@ DEF: Speaking or rustling with a soft, quiet sound.
 EX: The whispering winds carried the fragrance of the blooming flowers.
 SYN: murmuring, rustling, soft
 
-WHITE-SAND [waɪt.sænd] (adjective)
+WHITE [white] (word)
 DEF: Composed of pale, bright sand characteristic of tropical shores.
 EX: The ships landed along a pristine white-sand beach bordered by palm trees.
 SYN: pale-sand, sandy, coastal
@@ -2016,12 +2368,11 @@ DEF: To move with quick, irregular side-to-side motions; or to maneuver out of a
 EX: How will the clever hero wiggle his way out of this dilemma?
 SYN: wriggle, maneuver, extricate
 
-WILL [wɪl] (modal verb / noun)
-DEF: Expressing future intention, determination, or strong desire.
-EX: He will lead his companions safely across every perilous ocean.
-SYN: shall, resolve, determination
+WILD-EYED [wild-eyed] (verb)
+DEF: Past action of experiencing or performing wild-eyed.
+EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
 
-WINDS [wɪndz] (noun (plural))
+WILL [wɪl] (modal verb / noun)
 DEF: Natural movements of the air along the earth's surface.
 EX: Favorable southern winds filled the sail and sped their journey.
 SYN: gales, breezes, currents
@@ -2042,14 +2393,13 @@ EX: The scouts were welcomed with warm smiles and sweet food.
 SYN: alongside, together with
 
 WOMAN [ˈwʊm.ən] (noun)
-DEF: An adult human female.
-EX: A kind woman from the village offered fresh water to the tired travelers.
-SYN: lady, female
-
-WOMEN [ˈwɪm.ɪn] (noun (plural))
 DEF: Adult human females.
 EX: The women of the island wove garlands of fragrant pink blossoms.
 SYN: ladies, females
+
+WOODS [woods] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
 
 WORD [wɜːrd] (noun)
 DEF: A single distinct meaningful element of speech or writing.
