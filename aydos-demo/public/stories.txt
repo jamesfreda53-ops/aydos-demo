@@ -473,7 +473,7 @@ Summary: Welcome to this interactive story! Tap any word in the title or text to
 
 [Story: danse_macabre]
 Title: Danse Macabre
-Subtitle: spooky 
+Subtitle: oooooooooo spooky 
 Author: Uncle Jimmy
 Genre: Flash Fiction
 ReadingLevel: Intermediate
