@@ -27,9 +27,10 @@ DEF: (modal) In act or in fact; really; in truth; positively.
 EX: Actually, I had nothing to do with that incident.
 SYN: as a matter of fact, in reality, literally
 
-ADJUSTED [adjusted] (verb)
-DEF: Past action of experiencing or performing adjusted.
-EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
+ADJUSTED [əˈdʒʌstɪd] (verb)
+DEF: To modify.
+EX: Morimoto's recipes are adjusted to suit the American palate.
+SYN: change, edit, modify
 
 ADORNED [əˈdɔːnd] (verb)
 DEF: To make more beautiful and attractive; to decorate.
@@ -145,9 +146,9 @@ DEF: The present tense plural and second-person singular form of the verb 'be'.
 EX: The stars are shining brightly to guide our nighttime voyage.
 SYN: exist, remain
 
-ARGO [argo] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+ARGO [argo] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Argo is remembered throughout history for great bravery and kind leadership.
 
 ARMS [ɑːmz] (noun)
 DEF: The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.
@@ -282,8 +283,8 @@ EX: The golden sun sank quietly behind the purple mountain peaks.
 SYN: in back of, following, rearward
 
 BELOVED [beloved] (verb)
-DEF: Past action of experiencing or performing beloved.
-EX: They began to beloved together as they made their way along the scenic path.
+DEF: To please.
+EX: Everyone beloved with delight when the good news was shared.
 
 BENEATH [bɪˈniːθ] (adverb)
 DEF: Below or underneath.
@@ -327,26 +328,27 @@ DEF: A strong wind.
 EX: We're having a bit of a blow this afternoon.
 SYN: snow
 
-BLOWIN [blowin] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: blowin fat clouds.
+BLOWIN [blowin] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Blowin is remembered throughout history for great bravery and kind leadership.
 
 BLOWS [bloʊz] (verb / noun)
 DEF: The physical structures of human beings or animals.
 EX: The tired sailors rested their exhausted bodies under the shade.
 SYN: figures, physiques, forms
 
-BOARDED [boarded] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+BOARDED [boarded] (verb)
+DEF: To step or climb onto or otherwise enter a ship, aircraft, train or other conveyance.
+EX: It is time to board the aircraft.
 
 BODY [ˈbɒdi] (noun)
 DEF: Physical frame.
 EX: A sturdy body stood proudly near the center of the quiet village.
 
-BORN [born] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
+BORN [ˈbɔːn] (verb)
+DEF: To carry or convey, literally or figuratively.
+EX: Judging from the look on his face, he wasn't bearing good news.
+SYN: brook, endure
 
 BOY [bɔɪ] (noun)
 DEF: A young male child or youth.
@@ -358,9 +360,9 @@ DEF: A burning piece of wood; or a distinctive mark or label.
 EX: He carried a glowing brand to light the cave entrance.
 SYN: torch, ember, mark
 
-BRASS [brass] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: It was a simple, brass whistle, completely ordinary and unremarkable.
+BRASS [bɹɑːs] (noun)
+DEF: A metallic alloy of copper and zinc used in many industrial and plumbing applications.
+EX: The teacher pointed out the interesting brass during their classroom discussion.
 
 BRAVERY [ˈbreɪ.vər.i] (noun)
 DEF: Courageous behavior or character in the face of danger.
@@ -382,18 +384,19 @@ DEF: Lasting only a short duration; concise and quickly ending.
 EX: They took a brief moment to catch their breath on the sandy hill.
 SYN: short, fleeting, quick
 
-BRIGHT [bright] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
+BRIGHT [bɹaɪt] (noun)
+DEF: An artist's brush used in oil and acrylic painting with a long ferrule and a flat, somewhat tapering bristle head.
+EX: The teacher pointed out the interesting bright during their classroom discussion.
 
 BRILLIANT [ˈbrɪl.jənt] (adjective)
 DEF: Exceptionally bright, vivid, or intellectually outstanding.
 EX: A brilliant beam of sunlight pierced through the storm clouds.
 SYN: radiant, dazzling, shining
 
-BROKEN [broken] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+BROKEN [ˈbɹəʊkən] (verb)
+DEF: To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.
+EX: If the vase falls to the floor, it might break.
+SYN: crack, fracture, burst
 
 BRONZE [bɹɒnz] (noun)
 DEF: A naturally occurring or man-made alloy of copper, usually in combination with tin, but also with one or more other metals.
@@ -458,42 +461,46 @@ DEF: A deep gorge or ravine, typically one with a river flowing through it.
 EX: Echoes rang through the deep canyon between the cliffs.
 SYN: gorge, ravine, chasm
 
-CAP [cap] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy cap stood proudly near the center of the quiet village.
+CAP [kæp] (noun)
+DEF: A close-fitting hat, either brimless or peaked.
+EX: The children were all wearing caps to protect them from the sun.
 
-CAPTAIN [captain] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+CAPTAIN [captain] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Captain is remembered throughout history for great bravery and kind leadership.
 
 CARRIED [carried] (verb)
 DEF: To lift (something) and take it to another place; to transport (something) by lifting.
 EX: They began to carried together as they made their way along the scenic path.
 SYN: adopt, take on, take over
 
-CASSETTE [cassette] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+CASSETTE [kæˈsɛt] (noun)
+DEF: A small flat case containing magnetic tape on two reels, used to record and play back audio and video material.
+EX: The teacher pointed out the interesting cassette during their classroom discussion.
+SYN: tape
 
 CATCHES [catches] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "If the security guard catches us, we are in massive trouble."
+DEF: The act of seizing or capturing.
+EX: The catch of the perpetrator was the product of a year of police work.
+SYN: beau, conquest, find
 
 CAVERNOUS [cavernous] (adjective)
-DEF: Possessing the distinctive quality or condition of being cavernous.
-EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
+DEF: Characterized by or having the quality of being cavernous.
+EX: The travelers admired the cavernous scene as gentle morning light touched the hills.
 
-CENTRE [centre] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
+CENTRE [ˈsen.tə(ɹ)] (noun)
+DEF: The point in the interior of a circle that is equidistant from all points on the circumference.
+EX: The teacher pointed out the interesting centre during their classroom discussion.
+SYN: middle, midst, center of gravity
 
-CENTURIES [centuries] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+CENTURIES [ˈsɛn.tʃə.ɹiz] (noun)
+DEF: A period of 100 consecutive years; often specifically a numbered period with conventional start and end dates, e.g., the twentieth century, which stretches from (strictly) 1901 through 2000, or (informally) 1900 through 1999. The first century AD was from 1 to 100.
+EX: The teacher pointed out the interesting centuries during their classroom discussion.
+SYN: centuria, yearhundred
 
 CHANGING [changing] (verb)
-DEF: Engaging in the active process of changing.
-EX: The cracked grey tiles beneath their feet were changing.
+DEF: The ongoing action or experience of chang.
+EX: The students enjoyed changing together during their outdoor nature exploration.
 
 CHAPTER [ˈtʃæp.tər] (noun)
 DEF: A main division of a book, story, or historical period.
@@ -501,8 +508,8 @@ EX: Chapter II recounts the encounter with the gentle Lotus-Eaters.
 SYN: section, part, episode
 
 CHEERFUL [cheerful] (adjective)
-DEF: Possessing the distinctive quality or condition of being cheerful.
-EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+DEF: Characterized by or having the quality of being cheerful.
+EX: The travelers admired the cheerful scene as gentle morning light touched the hills.
 
 CHERISHED [ˈtʃɛr.ɪʃt] (adjective / verb)
 DEF: Steep, high rock faces along a coast or mountain edge.
@@ -510,28 +517,28 @@ EX: Seabirds nested high on the sheer rocky cliffs above the bay.
 SYN: bluffs, precipices, crags
 
 CHEST [chest] (adjective)
-DEF: Possessing the distinctive quality or condition of being chest.
-EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
+DEF: Characterized by or having the quality of being chest.
+EX: The travelers admired the chest scene as gentle morning light touched the hills.
 
-CHOICE [choice] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
+CHOICE [choice] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Choice is remembered throughout history for great bravery and kind leadership.
 
-CLEAN [clean] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
+CLEAN [clean] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Clean is remembered throughout history for great bravery and kind leadership.
 
-CLEAR [clear] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy clear stood proudly near the center of the quiet village.
+CLEAR [clear] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Clear is remembered throughout history for great bravery and kind leadership.
 
 CLEARING [clearing] (verb)
-DEF: Engaging in the active process of clearing.
-EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+DEF: The ongoing action or experience of clear.
+EX: The students enjoyed clearing together during their outdoor nature exploration.
 
-CLIP [clip] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+CLIP [clip] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Clip is remembered throughout history for great bravery and kind leadership.
 
 CLOCKWORK [ˈklɒk.wɜːk] (noun / adjective)
 DEF: A mechanical mechanism of interlocking gears and springs operating with smooth regularity.
@@ -539,47 +546,47 @@ EX: The gears of the bronze astrolabe turned with precise clockwork motion.
 SYN: mechanism, gears, precision
 
 CLOSED [closed] (verb)
-DEF: Past action of experiencing or performing closed.
-EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+DEF: Completed the action or entered the state of clos.
+EX: Everyone closed with delight when the good news was shared.
 
 CLOSER [ˈkloʊ.sɚ] (adjective / adverb)
 DEF: Situated at a shorter distance in space or time; more near.
 EX: They stepped closer to the campfire to warm their cold hands.
 SYN: nearer, more proximate
 
-CLOUDS [clouds] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: blowin fat clouds.
+CLOUDS [clouds] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Clouds is remembered throughout history for great bravery and kind leadership.
 
 COAST [koʊst] (noun)
 DEF: The land along or adjoining a sea or ocean.
 EX: They guided the ships safely along the rocky Mediterranean coast.
 SYN: shore, seaboard, coastline
 
-COLD [cold] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
+COLD [cold] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Cold is remembered throughout history for great bravery and kind leadership.
 
 COLOURFUL [colourful] (adjective)
-DEF: Possessing the distinctive quality or condition of being colourful.
-EX: As the silent vibration of the whistle finally died away, the colourful figures faded like morning mist.
+DEF: Characterized by or having the quality of being colourful.
+EX: The travelers admired the colourful scene as gentle morning light touched the hills.
 
 COME [kʌm] (verb)
 DEF: To move toward or arrive at a place regarded as near or familiar.
 EX: "Come with us to explore the hidden valley," called the cheerful travelers.
 SYN: arrive, approach, advance
 
-COMMAND [command] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+COMMAND [command] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Command is remembered throughout history for great bravery and kind leadership.
 
-COMPANION [companion] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He called out for Hylas, but his companion did not answer.
+COMPANION [companion] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Companion is remembered throughout history for great bravery and kind leadership.
 
 COMPARED [compared] (verb)
-DEF: Past action of experiencing or performing compared.
-EX: The real world felt suddenly dull, grey, and quiet compared to the vibrant warmth they had just touched.
+DEF: Completed the action or entered the state of compar.
+EX: Everyone compared with delight when the good news was shared.
 
 COMPASS [ˈkʌm.pəs] (noun)
 DEF: An instrument containing a magnetized pointer that indicates geographic north.
@@ -592,12 +599,12 @@ EX: The peaceful islanders treated the weary strangers with great compassion.
 SYN: kindness, empathy, mercy
 
 COMPLETELY [completely] (adverb)
-DEF: In a complete or characteristic manner.
-EX: It was a simple, brass whistle, completely ordinary and unremarkable.
+DEF: In a complete manner.
+EX: They planned to completely carefully before embarking on the new journey.
 
-CONFIDENT [confident] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy confident stood proudly near the center of the quiet village.
+CONFIDENT [confident] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Confident is remembered throughout history for great bravery and kind leadership.
 
 CONJURED [ˈkʌn.dʒərd] (verb)
 DEF: Called upon or created as if by magic or vivid imagination.
@@ -619,18 +626,18 @@ DEF: Fairly cold in temperature, or calm and composed in temperament.
 EX: They drank cool freshwater from the mountain spring.
 SYN: chilled, refreshing, calm
 
-CORRIDOR [corridor] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They stepped out of the electronics shop and back into the main corridor of the mall.
+CORRIDOR [corridor] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Corridor is remembered throughout history for great bravery and kind leadership.
 
 COULD [kʊd] (modal verb)
 DEF: Used to indicate possibility, ability, or permission in the past.
 EX: They could see the island emerging through the morning mist.
 SYN: was able to, had power to
 
-COUNTER [counter] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+COUNTER [counter] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Counter is remembered throughout history for great bravery and kind leadership.
 
 COURAGE [ˈkʌr.ɪdʒ] (noun)
 DEF: The ability to face fear, pain, or danger without backing down.
@@ -643,16 +650,16 @@ EX: The violent north wind blew their fleet entirely off its planned course.
 SYN: route, path, trajectory
 
 COVERED [covered] (verb)
-DEF: Past action of experiencing or performing covered.
-EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+DEF: Completed the action or entered the state of cover.
+EX: Everyone covered with delight when the good news was shared.
 
 CRACKED [cracked] (verb)
-DEF: Past action of experiencing or performing cracked.
-EX: The cracked grey tiles beneath their feet were changing.
+DEF: Completed the action or entered the state of crack.
+EX: Everyone cracked with delight when the good news was shared.
 
-CRACKS [cracks] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+CRACKS [cracks] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Cracks is remembered throughout history for great bravery and kind leadership.
 
 CRASHED [kræʃt] (verb)
 DEF: Collided violently with loud noise, or broke upon rocks as waves.
@@ -670,12 +677,12 @@ EX: The sacking of the peaceful city brought retribution for their crimes.
 SYN: offenses, misdeeds, transgressions
 
 CRUMBLING [crumbling] (verb)
-DEF: Engaging in the active process of crumbling.
-EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
+DEF: The ongoing action or experience of crumbl.
+EX: The students enjoyed crumbling together during their outdoor nature exploration.
 
 CRUNCHING [crunching] (verb)
-DEF: Engaging in the active process of crunching.
-EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+DEF: The ongoing action or experience of crunch.
+EX: The students enjoyed crunching together during their outdoor nature exploration.
 
 CURIOSITY [ˌkjʊə.ri.ˈɒs.ə.ti] (noun)
 DEF: A strong desire to learn, know, or investigate something novel.
@@ -687,21 +694,21 @@ DEF: Traditional practices and social behaviors common to a culture.
 EX: Odysseus respected the hospitable customs of the foreign land.
 SYN: traditions, practices, rituals
 
-DAMP [damp] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
+DAMP [damp] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Damp is remembered throughout history for great bravery and kind leadership.
 
-DANCE [dance] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
+DANCE [dance] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Dance is remembered throughout history for great bravery and kind leadership.
 
 DANCED [danced] (verb)
-DEF: Past action of experiencing or performing danced.
-EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
+DEF: Completed the action or entered the state of danc.
+EX: Everyone danced with delight when the good news was shared.
 
 DANCING [dancing] (verb)
-DEF: Engaging in the active process of dancing.
-EX: They began to dancing together as they made their way along the scenic path.
+DEF: The ongoing action or experience of danc.
+EX: The students enjoyed dancing together during their outdoor nature exploration.
 
 DARK [dark] (word)
 DEF: Having dark brown or black hair.
@@ -709,12 +716,12 @@ EX: The dark-haired lookout called out the sighting of land.
 SYN: brunette, black-haired
 
 DARTING [darting] (verb)
-DEF: Engaging in the active process of darting.
-EX: it stopped."
+DEF: The ongoing action or experience of dart.
+EX: The students enjoyed darting together during their outdoor nature exploration.
 
 DASHED [dashed] (verb)
-DEF: Past action of experiencing or performing dashed.
-EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
+DEF: Completed the action or entered the state of dash.
+EX: Everyone dashed with delight when the good news was shared.
 
 DAY [deɪ] (noun)
 DEF: Multiple 24-hour periods of time.
@@ -726,39 +733,39 @@ DEF: Any period of 24 hours.
 EX: I've been here for two days and a bit.
 SYN: daylight, upsun, epoch
 
-DEAR [dear] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
+DEAR [dear] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Dear is remembered throughout history for great bravery and kind leadership.
 
-DEBRIS [debris] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy debris stood proudly near the center of the quiet village.
+DEBRIS [debris] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Debris is remembered throughout history for great bravery and kind leadership.
 
 DECLARED [declared] (verb)
-DEF: Past action of experiencing or performing declared.
-EX: They began to declared together as they made their way along the scenic path.
+DEF: Completed the action or entered the state of declar.
+EX: Everyone declared with delight when the good news was shared.
 
 DEEP [diːp] (adjective / noun)
 DEF: Extending far down from the top or surface; profound.
 EX: The crystal clear water was so deep they could not see the bottom.
 SYN: profound, bottomless, abyssal
 
-DEEPER [deeper] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+DEEPER [deeper] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Deeper is remembered throughout history for great bravery and kind leadership.
 
 DEEPLY [ˈdiːp.li] (adverb)
 DEF: To a profound extent or depth; intensely and thoroughly.
 EX: They drank deeply from the sweet nectar offered by the islanders.
 SYN: intensely, profoundly, thoroughly
 
-DEFINITION [definition] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy definition stood proudly near the center of the quiet village.
+DEFINITION [definition] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Definition is remembered throughout history for great bravery and kind leadership.
 
 DEFLATED [deflated] (verb)
-DEF: Past action of experiencing or performing deflated.
-EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+DEF: Completed the action or entered the state of deflat.
+EX: Everyone deflated with delight when the good news was shared.
 
 DELICATE [ˈdɛl.ɪ.kət] (adjective)
 DEF: Finely made, fragile, or requiring gentle and careful handling.
@@ -771,21 +778,21 @@ EX: The captain was delivering an urgent order to his rowing officers.
 SYN: bringing, imparting, presenting
 
 DEMANDED [demanded] (verb)
-DEF: Past action of experiencing or performing demanded.
-EX: "What did you do?" Gwen demanded, her voice trembling.
+DEF: Completed the action or entered the state of demand.
+EX: Everyone demanded with delight when the good news was shared.
 
-DENIM [denim] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy denim stood proudly near the center of the quiet village.
+DENIM [denim] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Denim is remembered throughout history for great bravery and kind leadership.
 
 DESCRIBING [dɪ.ˈskraɪ.bɪŋ] (verb)
 DEF: Giving an account in words of someone or something.
 EX: The narrator was describing the lush landscape of the enchanted isle.
 SYN: depicting, explaining, illustrating
 
-DESIRE [desire] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy desire stood proudly near the center of the quiet village.
+DESIRE [desire] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Desire is remembered throughout history for great bravery and kind leadership.
 
 DICTIONARY [ˈdɪk.ʃən.ər.i] (noun)
 DEF: A reference book or resource that lists words and explains their meanings.
@@ -797,29 +804,29 @@ DEF: Past tense of do; performed or executed an action.
 EX: The hero did everything in his power to protect his men.
 SYN: performed, executed, accomplished
 
-DIDN'T [didn't] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The figures didn't notice Toby or Gwen.
+DIDN'T [didn't] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Didn't is remembered throughout history for great bravery and kind leadership.
 
 DIED [died] (verb)
-DEF: Past action of experiencing or performing died.
-EX: As the silent vibration of the whistle finally died away, the colourful figures faded like morning mist.
+DEF: Completed the action or entered the state of di.
+EX: Everyone died with delight when the good news was shared.
 
-DIFFERENT [different] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: But the air outside felt different now.
+DIFFERENT [different] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Different is remembered throughout history for great bravery and kind leadership.
 
-DIM [dim] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The dim, grey mall seemed to ripple like water.
+DIM [dim] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Dim is remembered throughout history for great bravery and kind leadership.
 
-DIMINISH [diminish] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy diminish stood proudly near the center of the quiet village.
+DIMINISH [diminish] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Diminish is remembered throughout history for great bravery and kind leadership.
 
 DISCONNECTED [disconnected] (verb)
-DEF: Past action of experiencing or performing disconnected.
-EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+DEF: Completed the action or entered the state of disconnect.
+EX: Everyone disconnected with delight when the good news was shared.
 
 DISCOVER [dɪ.ˈskʌv.ər] (verb)
 DEF: To find or become aware of something for the first time.
@@ -831,35 +838,35 @@ DEF: Learning about, finding, or revealing something new.
 EX: They were discovering the secrets of ancient coastal navigation.
 SYN: uncovering, finding, exploring
 
-DISCOVERY [discovery] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy discovery stood proudly near the center of the quiet village.
+DISCOVERY [discovery] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Discovery is remembered throughout history for great bravery and kind leadership.
 
 DISTANT [ˈdɪs.tənt] (adjective)
 DEF: Far away in space, time, or relationship.
 EX: A distant island appeared as a faint blue line against the sky.
 SYN: far-off, remote, faraway
 
-DO [do] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "What did you do?" Gwen demanded, her voice trembling.
+DO [do] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Do is remembered throughout history for great bravery and kind leadership.
 
-DON'T [don't] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "I don't know," Toby murmured, his fingers tightening around the silver metal.
+DON'T [don't] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Don't is remembered throughout history for great bravery and kind leadership.
 
 DONE [dʌn] (verb / adjective)
 DEF: Completed, finished, or brought to an end.
 EX: When the day's hard rowing was done, they anchored in the bay.
 SYN: completed, finished, concluded
 
-DOOR [door] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The door was slightly open.
+DOOR [door] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Door is remembered throughout history for great bravery and kind leadership.
 
-DOORS [doors] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They walked back out through the shattered glass doors of the mall and into the cool evening air.
+DOORS [doors] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Doors is remembered throughout history for great bravery and kind leadership.
 
 DOWN [daʊn] (adverb / preposition)
 DEF: Toward or in a lower place, direction, or position.
@@ -882,33 +889,33 @@ EX: They drank the sweet wine down to the very dregs of the jar.
 SYN: remnants, residue, sediment
 
 DREAMED [dreamed] (verb)
-DEF: Past action of experiencing or performing dreamed.
-EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
+DEF: Completed the action or entered the state of dream.
+EX: Everyone dreamed with delight when the good news was shared.
 
 DREW [dɹuː] (verb)
 DEF: To move or develop something.
 EX: They began to drew together as they made their way along the scenic path.
 
 DRIFTED [drifted] (verb)
-DEF: Past action of experiencing or performing drifted.
-EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
+DEF: Completed the action or entered the state of drift.
+EX: Everyone drifted with delight when the good news was shared.
 
 DRIPPING [dripping] (verb)
-DEF: Engaging in the active process of dripping.
-EX: The silence lifted, and the distant sound of dripping water returned.
+DEF: The ongoing action or experience of dripp.
+EX: The students enjoyed dripping together during their outdoor nature exploration.
 
 DROPPED [dropped] (verb)
-DEF: Past action of experiencing or performing dropped.
-EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
+DEF: Completed the action or entered the state of dropp.
+EX: Everyone dropped with delight when the good news was shared.
 
 DROVE [droʊv] (verb)
 DEF: Past tense of drive; propelled or forced along in a specified direction.
 EX: The fierce northern gale drove the ships across the raging sea.
 SYN: pushed, propelled, forced
 
-DROWSY [drowsy] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
+DROWSY [drowsy] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Drowsy is remembered throughout history for great bravery and kind leadership.
 
 DRUG [drʌɡ] (noun)
 DEF: A chemical substance or herbal extract that alters mood or mental state.
@@ -925,30 +932,30 @@ DEF: Free from moisture or liquid; not wet.
 EX: They hauled the wooden boats onto the dry, warm sand.
 SYN: arid, parched, dehydrated
 
-DULL [dull] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The real world felt suddenly dull, grey, and quiet compared to the vibrant warmth they had just touched.
+DULL [dull] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Dull is remembered throughout history for great bravery and kind leadership.
 
 DULLED [dʌld] (verb / adjective)
 DEF: Made less sharp, intense, or active; numbed.
 EX: The magical honeyed blossom dulled their ambition and memories.
 SYN: numbed, blunted, diminished
 
-DUNGAREES [dungarees] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy dungarees stood proudly near the center of the quiet village.
+DUNGAREES [dungarees] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Dungarees is remembered throughout history for great bravery and kind leadership.
 
-DUST [dust] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
+DUST [dust] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Dust is remembered throughout history for great bravery and kind leadership.
 
-DUSTY [dusty] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+DUSTY [dusty] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Dusty is remembered throughout history for great bravery and kind leadership.
 
-EARTH [earth] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
+EARTH [earth] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Earth is remembered throughout history for great bravery and kind leadership.
 
 EASTERN [ˈiː.stərn] (adjective)
 DEF: Located toward, facing, or originating from the east.
@@ -971,20 +978,20 @@ EX: Their shouts created a repeating echo off the tall canyon walls.
 SYN: reverberation, resonance, reflection
 
 ECHOED [echoed] (verb)
-DEF: Past action of experiencing or performing echoed.
-EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+DEF: Completed the action or entered the state of echo.
+EX: Everyone echoed with delight when the good news was shared.
 
 ECHOING [echoing] (verb)
-DEF: Engaging in the active process of echoing.
-EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
+DEF: The ongoing action or experience of echo.
+EX: The students enjoyed echoing together during their outdoor nature exploration.
 
-EITHER [either] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+EITHER [either] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Either is remembered throughout history for great bravery and kind leadership.
 
-ELECTRONICS [electronics] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Toby stopped outside an old electronics shop called Future Sound.
+ELECTRONICS [electronics] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Electronics is remembered throughout history for great bravery and kind leadership.
 
 EMBARKED [ɛm.ˈbɑːrkt] (verb)
 DEF: Went on board a ship or aircraft; or began a major endeavor.
@@ -996,9 +1003,9 @@ DEF: A bright green precious gemstone, or a vivid green color.
 EX: Emerald hills sloped down gently into the crystal blue sea.
 SYN: bright green, verdant, jade
 
-EMPTY [empty] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
+EMPTY [empty] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Empty is remembered throughout history for great bravery and kind leadership.
 
 ENCHANTED [ɪn.ˈtʃæn.tɪd] (adjective)
 DEF: Charmed, under a magical spell, or wonderfully delightful.
@@ -1030,8 +1037,8 @@ DEF: (diminutive) An even number.
 EX: So let's see. There are two evens here and three odds.
 
 EVENING [evening] (verb)
-DEF: Engaging in the active process of evening.
-EX: They walked back out through the shattered glass doors of the mall and into the cool evening air.
+DEF: The ongoing action or experience of even.
+EX: The students enjoyed evening together during their outdoor nature exploration.
 
 EVERY [ˈɛv.ri] (determiner)
 DEF: Used to refer to all the individual members of a set without exception.
@@ -1069,29 +1076,29 @@ EX: Memories of home began to fade after tasting the sweet flower.
 SYN: dim, vanish, dissolve
 
 FADED [faded] (verb)
-DEF: Past action of experiencing or performing faded.
-EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+DEF: Completed the action or entered the state of fad.
+EX: Everyone faded with delight when the good news was shared.
 
 FADING [fading] (verb)
-DEF: Engaging in the active process of fading.
-EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+DEF: The ongoing action or experience of fad.
+EX: The students enjoyed fading together during their outdoor nature exploration.
 
-FAINT [faint] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: It was heavy and warm, vibrating with a faint, subterranean hum that hadn't been there before.
+FAINT [faint] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Faint is remembered throughout history for great bravery and kind leadership.
 
-FAIR [fair] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Fair Hylas did not sleep.
+FAIR [fair] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Fair is remembered throughout history for great bravery and kind leadership.
 
 FAR [fɑːr] (adverb / adjective)
 DEF: At, to, or by a great distance in space or time.
 EX: They were blown far from their plotted homeland.
 SYN: distant, remote, away
 
-FAT [fat] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: blowin fat clouds.
+FAT [fat] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Fat is remembered throughout history for great bravery and kind leadership.
 
 FEAR [fɪə] (noun)
 DEF: A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.
@@ -1108,9 +1115,9 @@ DEF: To give food to or supply with nourishment.
 EX: The gentle islanders wished only to feed their visitors sweet nectar.
 SYN: nourish, provide food, sustain
 
-FEET [feet] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The cracked grey tiles beneath their feet were changing.
+FEET [feet] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Feet is remembered throughout history for great bravery and kind leadership.
 
 FELL [fɛl] (verb)
 DEF: Past tense of fall; dropped down, or entered into a state.
@@ -1121,9 +1128,9 @@ FELT [fɛlt] (noun)
 DEF: A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or wrought into a compact substance by rolling and pressure, with lees or size, without spinning or weaving.
 EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
 
-FETCH [fetch] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy fetch stood proudly near the center of the quiet village.
+FETCH [fetch] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Fetch is remembered throughout history for great bravery and kind leadership.
 
 FEW [fjuː] (determiner / adjective)
 DEF: A small number of people or things.
@@ -1135,13 +1142,13 @@ DEF: Having or displaying an intense, aggressive, or violent force.
 EX: A fierce tempest battered the ships and tore their linen sails.
 SYN: ferocious, wild, intense
 
-FIFTY [fifty] (word)
-DEF: Past action of experiencing or performing fifty-oared.
-EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
+FIFTY [fifty] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Fifty is remembered throughout history for great bravery and kind leadership.
 
-FIGURES [figures] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Through the hazy air, figures began to overlay the empty space around them.
+FIGURES [figures] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Figures is remembered throughout history for great bravery and kind leadership.
 
 FILLING [ˈfɪl.ɪŋ] (verb / adjective)
 DEF: Making or becoming full of something.
@@ -1149,29 +1156,29 @@ EX: The aroma of sweet flowers was filling the warm island air.
 SYN: packing, permeating, saturating
 
 FINALLY [finally] (adverb)
-DEF: In a final or characteristic manner.
-EX: As the silent vibration of the whistle finally died away, the colourful figures faded like morning mist.
+DEF: In a final manner.
+EX: They planned to finally carefully before embarking on the new journey.
 
-FINGERS [fingers] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "I don't know," Toby murmured, his fingers tightening around the silver metal.
+FINGERS [fingers] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Fingers is remembered throughout history for great bravery and kind leadership.
 
 FIXED [fɪkst] (adjective / verb)
 DEF: Fastened securely, unchanging, or repaired.
 EX: His gaze was fixed upon the distant horizon searching for home.
 SYN: secured, steadfast, focused
 
-FLASH [flash] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy flash stood proudly near the center of the quiet village.
+FLASH [flash] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Flash is remembered throughout history for great bravery and kind leadership.
 
-FLEECE [fleece] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+FLEECE [fleece] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Fleece is remembered throughout history for great bravery and kind leadership.
 
-FLOOR [floor] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "Look at the floor."
+FLOOR [floor] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Floor is remembered throughout history for great bravery and kind leadership.
 
 FLOWER [ˈflaʊ.ər] (noun)
 DEF: The seed-bearing part of a plant consisting of colorful petals.
@@ -1189,20 +1196,20 @@ EX: The pennants flutter in the gentle ocean breeze.
 SYN: flap, wave, quiver
 
 FLUTTERING [fluttering] (verb)
-DEF: Engaging in the active process of fluttering.
-EX: They began to fluttering together as they made their way along the scenic path.
+DEF: The ongoing action or experience of flutter.
+EX: The students enjoyed fluttering together during their outdoor nature exploration.
 
-FOOT [foot] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy foot stood proudly near the center of the quiet village.
+FOOT [foot] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Foot is remembered throughout history for great bravery and kind leadership.
 
-FOOTBALL [football] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+FOOTBALL [football] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Football is remembered throughout history for great bravery and kind leadership.
 
-FOOTSTEPS [footsteps] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The mall around them felt alive, breathing with the memories of thousands of forgotten footsteps.
+FOOTSTEPS [footsteps] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Footsteps is remembered throughout history for great bravery and kind leadership.
 
 FOR [fɔːr] (preposition)
 DEF: With the purpose or goal of; in favor of.
@@ -1224,9 +1231,9 @@ DEF: Past tense of forget; ceased to remember.
 EX: As soon as they tasted the blossom, they forgot their voyage.
 SYN: lost memory of, erased
 
-FORGOTTEN [forgotten] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The mall around them felt alive, breathing with the memories of thousands of forgotten footsteps.
+FORGOTTEN [forgotten] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Forgotten is remembered throughout history for great bravery and kind leadership.
 
 FOUND [faʊnd] (verb)
 DEF: Past tense of find; discovered or located by searching.
@@ -1247,9 +1254,9 @@ FRESH [fɹɛʃ] (noun)
 DEF: A rush of water, along a river or onto the land; a flood.
 EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
 
-FRIEND [friend] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Some say the gods did not even grant him that mercy, and Herakles found no trace of his friend, stolen by the nymphs.
+FRIEND [friend] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Friend is remembered throughout history for great bravery and kind leadership.
 
 FROM [frʌm] (preposition)
 DEF: Indicating the point in space or time at which an action begins.
@@ -1262,78 +1269,78 @@ EX: The islanders presented baskets of delicious fruits to the visitors.
 SYN: crops, produce, berries
 
 FRUITLESSLY [fruitlessly] (adverb)
-DEF: In a fruitless or characteristic manner.
-EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
+DEF: In a fruitless manner.
+EX: They planned to fruitlessly carefully before embarking on the new journey.
 
-FURTHER [further] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy further stood proudly near the center of the quiet village.
+FURTHER [further] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Further is remembered throughout history for great bravery and kind leadership.
 
-FUTURE [future] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Toby stopped outside an old electronics shop called Future Sound.
+FUTURE [future] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Future is remembered throughout history for great bravery and kind leadership.
 
 GASPED [gasped] (verb)
-DEF: Past action of experiencing or performing gasped.
-EX: "Toby..." Gwen gasped, her face turning pale.
+DEF: Completed the action or entered the state of gasp.
+EX: Everyone gasped with delight when the good news was shared.
 
 GATHERING [gathering] (verb)
-DEF: Engaging in the active process of gathering.
-EX: They began to gathering together as they made their way along the scenic path.
+DEF: The ongoing action or experience of gather.
+EX: The students enjoyed gathering together during their outdoor nature exploration.
 
-GAY [gay] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: its not a gay thing.
+GAY [gay] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Gay is remembered throughout history for great bravery and kind leadership.
 
 GENTLE [ˈdʒɛn.təl] (adjective)
 DEF: Mild, kind, tender, and not rough or violent.
 EX: A gentle breeze cooled the brow of the tired oarsmen.
 SYN: mild, tender, soft
 
-GESTURES [gestures] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+GESTURES [gestures] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Gestures is remembered throughout history for great bravery and kind leadership.
 
-GET [get] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: it stopped."
+GET [get] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Get is remembered throughout history for great bravery and kind leadership.
 
 GHOSTLY [ghostly] (adverb)
-DEF: In a ghost or characteristic manner.
-EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+DEF: In a ghost manner.
+EX: They planned to ghostly carefully before embarking on the new journey.
 
-GIANT [giant] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+GIANT [giant] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Giant is remembered throughout history for great bravery and kind leadership.
 
 GIFT [ɡɪft] (noun)
 DEF: Something given voluntarily without payment in return.
 EX: The islanders offered their sweet honey-food as a gift of friendship.
 SYN: present, offering, donation
 
-GIRL [girl] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+GIRL [girl] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Girl is remembered throughout history for great bravery and kind leadership.
 
-GIVEN [given] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Just a short puff."
+GIVEN [given] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Given is remembered throughout history for great bravery and kind leadership.
 
-GLANCE [glance] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He would steal a glance, nothing more, and return the camp before he was missed.
+GLANCE [glance] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Glance is remembered throughout history for great bravery and kind leadership.
 
-GLASS [glass] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+GLASS [glass] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Glass is remembered throughout history for great bravery and kind leadership.
 
 GLEAMING [gleaming] (verb)
-DEF: Engaging in the active process of gleaming.
-EX: She stared at the gleaming object in Toby's hand, her eyes wide with a sudden, quiet yearning.
+DEF: The ongoing action or experience of gleam.
+EX: The students enjoyed gleaming together during their outdoor nature exploration.
 
-GLEN [glen] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+GLEN [glen] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Glen is remembered throughout history for great bravery and kind leadership.
 
 GLIMMER [ˈɡlɪm.ər] (verb / noun)
 DEF: To shine faintly or with a wavering, soft light.
@@ -1393,9 +1400,9 @@ DEF: The people of ancient or modern Greece.
 EX: The Greeks built strong wooden galleys to explore the Mediterranean.
 SYN: Hellenes, Achaeans
 
-GREEN [green] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+GREEN [green] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Green is remembered throughout history for great bravery and kind leadership.
 
 GREETED [ˈɡriː.tɪd] (verb)
 DEF: Welcomed or addressed someone upon arrival.
@@ -1407,60 +1414,60 @@ DEF: Past tense of grow; increased in size, number, or developed.
 EX: Sweet flowering lotus plants grew wild along the sunny riverbank.
 SYN: flourished, developed, sprouted
 
-GREY [grey] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The cracked grey tiles beneath their feet were changing.
+GREY [grey] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Grey is remembered throughout history for great bravery and kind leadership.
 
-GROTTOS [grottos] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+GROTTOS [grottos] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Grottos is remembered throughout history for great bravery and kind leadership.
 
-GROUP [group] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Just a few feet away, a group of teenagers laughing together suddenly appeared.
+GROUP [group] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Group is remembered throughout history for great bravery and kind leadership.
 
-GUARD [guard] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "If the security guard catches us, we are in massive trouble."
+GUARD [guard] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Guard is remembered throughout history for great bravery and kind leadership.
 
-GWEN [gwen] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
+GWEN [gwen] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Gwen is remembered throughout history for great bravery and kind leadership.
 
 HAD [hæd] (verb)
 DEF: Past tense of have; possessed or experienced.
 EX: The sailors had no idea of the magical nature of the sweet fruit.
 SYN: possessed, held, owned
 
-HADN'T [hadn't] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: It was heavy and warm, vibrating with a faint, subterranean hum that hadn't been there before.
+HADN'T [hadn't] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Hadn't is remembered throughout history for great bravery and kind leadership.
 
 HAIR [hɛər] (noun)
 DEF: Any of the fine thread-like strands growing from the skin of humans and animals.
 EX: Sea spray dampens the dark hair of the intrepid navigator.
 SYN: locks, tresses, strands
 
-HALFWAY [halfway] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
+HALFWAY [halfway] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Halfway is remembered throughout history for great bravery and kind leadership.
 
 HAMMERED [hammered] (verb)
-DEF: Past action of experiencing or performing hammered.
-EX: "If the security guard catches us, we are in massive trouble."
+DEF: Completed the action or entered the state of hammer.
+EX: Everyone hammered with delight when the good news was shared.
 
-HAND [hand] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The metal felt surprisingly warm in his hand.
+HAND [hand] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Hand is remembered throughout history for great bravery and kind leadership.
 
 HANDS [hæn(d)z] (noun)
 DEF: The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals.
 EX: Her hands are really strong.
 SYN: manus, paw
 
-HANDSOME [handsome] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
+HANDSOME [handsome] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Handsome is remembered throughout history for great bravery and kind leadership.
 
 HAPPILY [ˈhæp.ɪ.li] (adverb)
 DEF: In a joyful, contented, or fortunate manner.
@@ -1477,39 +1484,39 @@ DEF: Gathered ripe crops, fruit, or resources from the land.
 EX: They harvested the sweet honey-fruit from the blooming trees.
 SYN: gathered, collected, reaped
 
-HAS [has] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "Nobody has come here since it closed down ten years ago.
+HAS [has] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Has is remembered throughout history for great bravery and kind leadership.
 
 HAVE [hæv] (verb)
 DEF: To possess, own, hold, or experience something.
 EX: The sailors have a long journey ahead to reach Ithaca.
 SYN: possess, hold, contain
 
-HAZY [hazy] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Through the hazy air, figures began to overlay the empty space around them.
+HAZY [hazy] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Hazy is remembered throughout history for great bravery and kind leadership.
 
 HE [hiː] (pronoun)
 DEF: The center of emotions, courage, and feelings in human beings.
 EX: A longing for home burned warmly within their hearts.
 SYN: souls, spirits, feelings
 
-HEAR [hear] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy hear stood proudly near the center of the quiet village.
+HEAR [hear] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Hear is remembered throughout history for great bravery and kind leadership.
 
 HEARD [hiːɹd] (verb)
 DEF: (stative) To perceive sounds through the ear.
 EX: I was deaf, and now I can hear.
 
-HEART [heart] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "If the security guard catches us, we are in massive trouble."
+HEART [heart] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Heart is remembered throughout history for great bravery and kind leadership.
 
-HEAVY [heavy] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Instead, a heavy, peculiar silence fell over the room.
+HEAVY [heavy] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Heavy is remembered throughout history for great bravery and kind leadership.
 
 HEED [hiːd] (verb / noun)
 DEF: To pay careful attention to advice, warning, or instructions.
@@ -1521,22 +1528,22 @@ DEF: Referring to a female person or entity previously mentioned.
 EX: Odysseus remembered his faithful wife Penelope and his love for her.
 SYN: that woman, she
 
-HERAKLES [herakles] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
+HERAKLES [herakles] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Herakles is remembered throughout history for great bravery and kind leadership.
 
 HERE [hɪər] (adverb)
 DEF: In, at, or to this place or position.
 EX: 'We shall rest here until the morning sun appears,' he said.
 SYN: in this place, presently
 
-HEROES [heroes] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+HEROES [heroes] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Heroes is remembered throughout history for great bravery and kind leadership.
 
-HID [hid] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+HID [hid] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Hid is remembered throughout history for great bravery and kind leadership.
 
 HIGH [haɪ] (adjective)
 DEF: Naturally raised areas of land, smaller than mountains.
@@ -1559,8 +1566,8 @@ EX: His clever mind devised a plan to save the crew.
 SYN: belonging to him
 
 HOLDING [holding] (verb)
-DEF: Engaging in the active process of holding.
-EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+DEF: The ongoing action or experience of hold.
+EX: The students enjoyed holding together during their outdoor nature exploration.
 
 HOME [hoʊm] (noun)
 DEF: Dwellings, houses, or native lands of people.
@@ -1587,9 +1594,9 @@ DEF: A time period of sixty minutes; one twenty-fourth of a day.
 EX: I spent an hour at lunch.
 SYN: stound, h, hr
 
-HOW [how] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They didn't talk about how the object worked, or what mystery lay behind it.
+HOW [how] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: How is remembered throughout history for great bravery and kind leadership.
 
 HOWLING [ˈhaʊ.lɪŋ] (adjective / verb)
 DEF: Making a long, loud, wailing cry or noise, like strong winds.
@@ -1606,9 +1613,9 @@ DEF: An informal exclamation expressing inquiry, surprise, or curiosity.
 EX: 'Huh? What strange enchantment is this?' asked the lookout.
 SYN: what, pardon, really
 
-HUM [hum] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: It was heavy and warm, vibrating with a faint, subterranean hum that hadn't been there before.
+HUM [hum] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Hum is remembered throughout history for great bravery and kind leadership.
 
 HUMBLE [ˈhʌm.bəl] (adjective)
 DEF: Having or showing a modest estimate of one's importance; simple.
@@ -1624,21 +1631,21 @@ HUNTING [ˈhʌntɪŋ] (noun)
 DEF: The act of finding and killing a wild animal, either for sport or with the intention of using its parts to make food, clothes, etc.
 EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
 
-HUNTS [hunts] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
+HUNTS [hunts] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Hunts is remembered throughout history for great bravery and kind leadership.
 
 HURRIED [hurried] (verb)
-DEF: Past action of experiencing or performing hurried.
-EX: The cheerful music drifted into nothingness, leaving only the sound of their own hurried breathing in the dark, dusty corridor.
+DEF: Completed the action or entered the state of hurri.
+EX: Everyone hurried with delight when the good news was shared.
 
-HYLAS [hylas] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
+HYLAS [hylas] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Hylas is remembered throughout history for great bravery and kind leadership.
 
-IDEA [idea] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
+IDEA [idea] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Idea is remembered throughout history for great bravery and kind leadership.
 
 IF [ɪf] (noun)
 DEF: An uncertainty, possibility, condition, doubt etc.
@@ -1664,17 +1671,17 @@ DEF: Expressing the situation of something enclosed or surrounded by something e
 EX: The ships rested in the calm waters of the cove.
 SYN: inside, within
 
-INCHES [inches] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+INCHES [inches] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Inches is remembered throughout history for great bravery and kind leadership.
 
-INSIDE [inside] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+INSIDE [inside] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Inside is remembered throughout history for great bravery and kind leadership.
 
-INSTEAD [instead] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Instead, a heavy, peculiar silence fell over the room.
+INSTEAD [instead] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Instead is remembered throughout history for great bravery and kind leadership.
 
 INTERACTIVE [ˌɪn.tər.ˈæk.tɪv] (adjective)
 DEF: Allowing a two-way flow of information between user and application.
@@ -1691,9 +1698,9 @@ DEF: Expressing movement or action with the result that someone or something bec
 EX: The vessel glided into the peaceful lagoon.
 SYN: toward the inside of, inside
 
-INTRUDER [intruder] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+INTRUDER [intruder] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Intruder is remembered throughout history for great bravery and kind leadership.
 
 IS [ɪz] (verb)
 DEF: Third person singular present tense of be.
@@ -1705,9 +1712,9 @@ DEF: A piece of land entirely surrounded by water.
 EX: The lush island was fragrant with exotic blossoms and fruit.
 SYN: isle, atoll, landmass
 
-ISLE [isle] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
+ISLE [isle] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Isle is remembered throughout history for great bravery and kind leadership.
 
 ISMARUS [ˈɪs.mə.rəs] (proper noun)
 DEF: An ancient coastal city of the Cicones visited by Odysseus after leaving Troy.
@@ -1724,9 +1731,9 @@ DEF: Belonging to or associated with a thing previously mentioned.
 EX: The galley lowered its large canvas sail as it neared the shore.
 SYN: belonging to it
 
-JASON [jason] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+JASON [jason] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Jason is remembered throughout history for great bravery and kind leadership.
 
 JOURNEY [ˈdʒɜːr.ni] (noun / verb)
 DEF: An act of traveling from one place to another over a long distance.
@@ -1739,56 +1746,56 @@ EX: It is a just assessment of the facts.
 SYN: adequate, proper, correct
 
 KICKED [kicked] (verb)
-DEF: Past action of experiencing or performing kicked.
-EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+DEF: Completed the action or entered the state of kick.
+EX: Everyone kicked with delight when the good news was shared.
 
-KNEW [knew] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+KNEW [knew] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Knew is remembered throughout history for great bravery and kind leadership.
 
 KNOW [noʊ] (verb)
 DEF: Young sheep.
 EX: Flocks of woolly lambs grazed along the sunny coastal meadows.
 SYN: young sheep, livestock
 
-LAMB [lamb] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
+LAMB [lamb] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Lamb is remembered throughout history for great bravery and kind leadership.
 
 LAND [lænd] (noun / verb)
 DEF: The solid part of the earth's surface; or to arrive on shore from a vessel.
 EX: They were relieved to sight land after weeks in the open ocean.
 SYN: shore, ground, territory
 
-LANDS [lands] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+LANDS [lands] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Lands is remembered throughout history for great bravery and kind leadership.
 
 LANGUAGE [ˈlæŋ.ɡwɪdʒ] (noun)
 DEF: The method of human communication using spoken, written, or signed words.
 EX: The ancient Greek language preserves some of world literature's greatest epics.
 SYN: speech, tongue, dialect
 
-LATER [later] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+LATER [later] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Later is remembered throughout history for great bravery and kind leadership.
 
 LAUGHED [laughed] (verb)
-DEF: Past action of experiencing or performing laughed.
-EX: "If the security guard catches us, we are in massive trouble."
+DEF: Completed the action or entered the state of laugh.
+EX: Everyone laughed with delight when the good news was shared.
 
 LAUGHING [laughing] (verb)
-DEF: Engaging in the active process of laughing.
-EX: Just a few feet away, a group of teenagers laughing together suddenly appeared.
+DEF: The ongoing action or experience of laugh.
+EX: The students enjoyed laughing together during their outdoor nature exploration.
 
 LAY [leɪ] (verb)
 DEF: Past tense of lie; rested in a flat horizontal position.
 EX: The drowsy sailors lay upon the soft sand under the shade.
 SYN: rested, reclined, sprawled
 
-LEARN [learn] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy learn stood proudly near the center of the quiet village.
+LEARN [learn] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Learn is remembered throughout history for great bravery and kind leadership.
 
 LEAVE [liːv] (verb)
 DEF: To go away from a place or person.
@@ -1796,49 +1803,49 @@ EX: Odysseus commanded his men to leave the enchanted shore immediately.
 SYN: depart, set off, exit
 
 LEAVING [leaving] (verb)
-DEF: Engaging in the active process of leaving.
-EX: The cheerful music drifted into nothingness, leaving only the sound of their own hurried breathing in the dark, dusty corridor.
+DEF: The ongoing action or experience of leav.
+EX: The students enjoyed leaving together during their outdoor nature exploration.
 
-LEFT [left] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+LEFT [left] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Left is remembered throughout history for great bravery and kind leadership.
 
-LEG [leg] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+LEG [leg] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Leg is remembered throughout history for great bravery and kind leadership.
 
-LET’S [let’s] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: it stopped."
+LET’S [let’s] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Let’s is remembered throughout history for great bravery and kind leadership.
 
-LIFE [life] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+LIFE [life] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Life is remembered throughout history for great bravery and kind leadership.
 
 LIFTED [lifted] (verb)
-DEF: Past action of experiencing or performing lifted.
-EX: The silence lifted, and the distant sound of dripping water returned.
+DEF: Completed the action or entered the state of lift.
+EX: Everyone lifted with delight when the good news was shared.
 
 LIGHT [laɪt] (noun / adjective)
 DEF: The natural agent that stimulates sight and makes things visible; or not heavy.
 EX: The morning light painted the ocean waves in shades of gold.
 SYN: radiance, illumination, brightness
 
-LIKE [like] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The dim, grey mall seemed to ripple like water.
+LIKE [like] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Like is remembered throughout history for great bravery and kind leadership.
 
-LILY [lily] (word)
-DEF: An essential narrative term or element present in the story.
-EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+LILY [lily] (adverb)
+DEF: In a li manner.
+EX: They planned to lily carefully before embarking on the new journey.
 
-LION [lion] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
+LION [lion] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Lion is remembered throughout history for great bravery and kind leadership.
 
-LIPS [lips] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+LIPS [lips] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Lips is remembered throughout history for great bravery and kind leadership.
 
 LISTEN [ˈlɪs.ən] (verb)
 DEF: To give one's attention to a sound or speech.
@@ -1851,8 +1858,8 @@ EX: He's not expected to live for more than a few months.
 SYN: dwell, go on, last
 
 LONELY [lonely] (adverb)
-DEF: In a lone or characteristic manner.
-EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
+DEF: In a lone manner.
+EX: They planned to lonely carefully before embarking on the new journey.
 
 LONG [ˈlɔːŋ] (noun)
 DEF: A long vowel.
@@ -1863,13 +1870,13 @@ DEF: Measuring a greater distance or duration of time.
 EX: They could stay on the island no longer if they wished to see home.
 SYN: further, extended, more
 
-LOOK [look] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+LOOK [look] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Look is remembered throughout history for great bravery and kind leadership.
 
 LOOKED [looked] (verb)
-DEF: Past action of experiencing or performing looked.
-EX: "Look at the floor."
+DEF: Completed the action or entered the state of look.
+EX: Everyone looked with delight when the good news was shared.
 
 LOST [lɒst] (adjective / verb)
 DEF: Unable to find one's way; or ceased to be visible or remembered.
@@ -1886,31 +1893,31 @@ DEF: The pair of organs inside the chest used for breathing air.
 EX: The oarsman filled his lungs with the fresh sea breeze.
 SYN: breathing organs, airways
 
-LYRE [lyre] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy lyre stood proudly near the center of the quiet village.
+LYRE [lyre] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Lyre is remembered throughout history for great bravery and kind leadership.
 
 MADE [meɪd] (verb)
 DEF: Past tense of make; created, constructed, or caused something to happen.
 EX: The cunning captain made a plan to secure his crew safely.
 SYN: crafted, created, produced
 
-MADNESS [madness] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Fear was unfamiliar to Herakles, and it drove him nearly to madness.
+MADNESS [madness] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Madness is remembered throughout history for great bravery and kind leadership.
 
-MAIN [main] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They stepped out of the electronics shop and back into the main corridor of the mall.
+MAIN [main] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Main is remembered throughout history for great bravery and kind leadership.
 
 MAKES [meɪks] (verb)
 DEF: Causes something to be or become; creates.
 EX: The honey-fruit makes every traveler forget their homeland.
 SYN: causes, renders, creates
 
-MALL [mall] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+MALL [mall] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Mall is remembered throughout history for great bravery and kind leadership.
 
 MANAGED [ˈmæn.ɪdʒd] (verb)
 DEF: Succeeded in doing or accomplishing something difficult.
@@ -1927,13 +1934,13 @@ DEF: Walked with regular, measured, and purposeful steps.
 EX: The warriors marched toward the settlement in unified formation.
 SYN: advanced, strode, paraded
 
-MARIGOLDS [marigolds] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
+MARIGOLDS [marigolds] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Marigolds is remembered throughout history for great bravery and kind leadership.
 
 MARKED [marked] (verb)
-DEF: Past action of experiencing or performing marked.
-EX: They began to marked together as they made their way along the scenic path.
+DEF: Completed the action or entered the state of mark.
+EX: Everyone marked with delight when the good news was shared.
 
 MARVEL [ˈmɑːr.vəl] (verb / noun)
 DEF: To be filled with wonder and astonishment; or a wonderful thing.
@@ -1945,26 +1952,26 @@ DEF: An indiscriminate and brutal slaughter of many people.
 EX: The warriors caused a fierce massacre before reinforcements arrived.
 SYN: slaughter, carnage, destruction
 
-MASSIVE [massive] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "If the security guard catches us, we are in massive trouble."
+MASSIVE [massive] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Massive is remembered throughout history for great bravery and kind leadership.
 
-MAST [mast] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy mast stood proudly near the center of the quiet village.
+MAST [mast] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Mast is remembered throughout history for great bravery and kind leadership.
 
-MEADOW [meadow] (word)
-DEF: An essential narrative term or element present in the story.
-EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
+MEADOW [meadow] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Meadow is remembered throughout history for great bravery and kind leadership.
 
 MEAL [miːl] (noun)
 DEF: An occasion when food is eaten, or the food eaten on such an occasion.
 EX: They shared a wholesome meal of bread, olives, and fresh fruit.
 SYN: feast, repast, dinner
 
-MELANCHOLIC [melancholic] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
+MELANCHOLIC [melancholic] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Melancholic is remembered throughout history for great bravery and kind leadership.
 
 MELODY [ˈmɛl.ə.di] (noun)
 DEF: A sequence of single musical notes that is musically satisfying; a tune.
@@ -1976,25 +1983,25 @@ DEF: Adult human males; crew members or warriors.
 EX: The brave men manned the rowing benches with steady determination.
 SYN: crew, sailors, warriors
 
-MEMORIES [memories] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The mall around them felt alive, breathing with the memories of thousands of forgotten footsteps.
+MEMORIES [memories] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Memories is remembered throughout history for great bravery and kind leadership.
 
-MEN [men] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+MEN [men] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Men is remembered throughout history for great bravery and kind leadership.
 
-MERCY [mercy] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Some say the gods did not even grant him that mercy, and Herakles found no trace of his friend, stolen by the nymphs.
+MERCY [mercy] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Mercy is remembered throughout history for great bravery and kind leadership.
 
-MET [met] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
+MET [met] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Met is remembered throughout history for great bravery and kind leadership.
 
-METAL [metal] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The metal felt surprisingly warm in his hand.
+METAL [metal] (adjective)
+DEF: Characterized by or having the quality of being metal.
+EX: The travelers admired the metal scene as gentle morning light touched the hills.
 
 MIDDAY [ˌmɪd.ˈdeɪ] (noun)
 DEF: The element of a person that enables them to think, feel, and reason.
@@ -2002,24 +2009,24 @@ EX: The enchanting blossom clouded the minds of the scouts.
 SYN: thoughts, intellects, memories
 
 MIGHTIEST [mightiest] (adjective)
-DEF: Possessing the distinctive quality or condition of being mightiest.
-EX: The surrounding landscape looked especially mightiest in the warm morning light.
+DEF: Characterized by or having the quality of being mightiest.
+EX: The travelers admired the mightiest scene as gentle morning light touched the hills.
 
-MIND [mind] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
+MIND [mind] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Mind is remembered throughout history for great bravery and kind leadership.
 
-MINDS [minds] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy minds stood proudly near the center of the quiet village.
+MINDS [minds] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Minds is remembered throughout history for great bravery and kind leadership.
 
 MISSED [missed] (verb)
-DEF: Past action of experiencing or performing missed.
-EX: He would steal a glance, nothing more, and return the camp before he was missed.
+DEF: Completed the action or entered the state of miss.
+EX: Everyone missed with delight when the good news was shared.
 
-MIST [mist] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: As the silent vibration of the whistle finally died away, the colourful figures faded like morning mist.
+MIST [mist] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Mist is remembered throughout history for great bravery and kind leadership.
 
 MORE [mɔːr] (determiner / adverb)
 DEF: A greater or additional quantity, degree, or number.
@@ -2031,25 +2038,25 @@ DEF: The early period of the day from sunrise to noon.
 EX: The cool morning breeze carried the sweet scent of jasmine.
 SYN: dawn, daybreak, sunrise
 
-MOSS [moss] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+MOSS [moss] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Moss is remembered throughout history for great bravery and kind leadership.
 
-MOST [most] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
+MOST [most] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Most is remembered throughout history for great bravery and kind leadership.
 
 MOVED [moved] (verb)
-DEF: Past action of experiencing or performing moved.
-EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
+DEF: Completed the action or entered the state of mov.
+EX: Everyone moved with delight when the good news was shared.
 
 MURMURED [murmured] (verb)
-DEF: Past action of experiencing or performing murmured.
-EX: "I don't know," Toby murmured, his fingers tightening around the silver metal.
+DEF: Completed the action or entered the state of murmur.
+EX: Everyone murmured with delight when the good news was shared.
 
-MUSIC [music] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+MUSIC [music] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Music is remembered throughout history for great bravery and kind leadership.
 
 MY [maɪ] (possessive determiner)
 DEF: Belonging to or associated with the speaker.
@@ -2061,18 +2068,18 @@ DEF: Difficult or impossible to understand, explain, or identify.
 EX: A mysterious island appeared out of the thick ocean fog.
 SYN: enigmatic, strange, mystical
 
-MYSTERY [mystery] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They didn't talk about how the object worked, or what mystery lay behind it.
+MYSTERY [mystery] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Mystery is remembered throughout history for great bravery and kind leadership.
 
 NAME [neɪm] (noun / verb)
 DEF: A word or set of words by which a person, place, or thing is known.
 EX: The leader spoke his proud name to the gathering of elders.
 SYN: title, appellation, identity
 
-NAMES [names] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+NAMES [names] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Names is remembered throughout history for great bravery and kind leadership.
 
 NARRATION [næ.ˈreɪ.ʃən] (noun)
 DEF: The action or process of telling a story aloud.
@@ -2094,38 +2101,38 @@ DEF: Required something because it was essential or important.
 EX: The exhausted crew needed food, fresh water, and peaceful rest.
 SYN: required, demanded, craved
 
-NEEDLES [needles] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
+NEEDLES [needles] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Needles is remembered throughout history for great bravery and kind leadership.
 
-NEON [neon] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+NEON [neon] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Neon is remembered throughout history for great bravery and kind leadership.
 
 NERVOUSLY [nervously] (adverb)
-DEF: In a nervous or characteristic manner.
-EX: it stopped."
+DEF: In a nervous manner.
+EX: They planned to nervously carefully before embarking on the new journey.
 
 NEW [njuː] (adjective)
 DEF: Multiple periods from sunset to sunrise.
 EX: For nine long nights, stormy winds tossed the ships upon the sea.
 SYN: evenings, nighttimes
 
-NEXT [next] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
+NEXT [next] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Next is remembered throughout history for great bravery and kind leadership.
 
-NO [no] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
+NO [no] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: No is remembered throughout history for great bravery and kind leadership.
 
-NOBLE [noble] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
+NOBLE [noble] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Noble is remembered throughout history for great bravery and kind leadership.
 
-NOBODY [nobody] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "Nobody has come here since it closed down ten years ago.
+NOBODY [nobody] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Nobody is remembered throughout history for great bravery and kind leadership.
 
 NOT [nɒt] (adverb)
 DEF: Used with an auxiliary verb or 'be' to form the negative.
@@ -2137,29 +2144,29 @@ DEF: Not anything; no single thing.
 EX: Nothing could deter Odysseus from his determination to see home.
 SYN: naught, zero
 
-NOTHINGNESS [nothingness] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The cheerful music drifted into nothingness, leaving only the sound of their own hurried breathing in the dark, dusty corridor.
+NOTHINGNESS [nothingness] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Nothingness is remembered throughout history for great bravery and kind leadership.
 
-NOTICE [notice] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The figures didn't notice Toby or Gwen.
+NOTICE [notice] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Notice is remembered throughout history for great bravery and kind leadership.
 
-NOW [now] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: But the air outside felt different now.
+NOW [now] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Now is remembered throughout history for great bravery and kind leadership.
 
-NYMPHS [nymphs] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
+NYMPHS [nymphs] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Nymphs is remembered throughout history for great bravery and kind leadership.
 
-OASIS [oasis] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
+OASIS [oasis] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Oasis is remembered throughout history for great bravery and kind leadership.
 
-OBJECT [object] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+OBJECT [object] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Object is remembered throughout history for great bravery and kind leadership.
 
 OBSERVATORY [əb.ˈzɜːr.və.tɔːr.i] (noun)
 DEF: A building or high place designed for observing the stars, planets, and weather.
@@ -2186,9 +2193,9 @@ DEF: Smooth, thick, fragrant liquids pressed from olives or herbs.
 EX: They brought fragrant olive oils to trade with the coastal villagers.
 SYN: ointments, unguents, essences
 
-OLD [old] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+OLD [old] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Old is remembered throughout history for great bravery and kind leadership.
 
 ON [ɒn] (preposition)
 DEF: Physically in contact with and supported by a surface.
@@ -2206,12 +2213,12 @@ EX: Only one leader had the clarity of mind to resist the enchantment.
 SYN: single, sole, individual
 
 ONLY [only] (adverb)
-DEF: In a on or characteristic manner.
-EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
+DEF: In a on manner.
+EX: They planned to only carefully before embarking on the new journey.
 
-OPEN [open] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The door was slightly open.
+OPEN [open] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Open is remembered throughout history for great bravery and kind leadership.
 
 OR [ɔːr] (conjunction)
 DEF: Used to link alternatives.
@@ -2223,21 +2230,21 @@ DEF: Gave an authoritative instruction or command.
 EX: Odysseus ordered his crew to tie the bewitched men securely under the benches.
 SYN: commanded, instructed, directed
 
-ORDINARY [ordinary] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: It was a simple, brass whistle, completely ordinary and unremarkable.
+ORDINARY [ordinary] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Ordinary is remembered throughout history for great bravery and kind leadership.
 
-ORPHEUS [orpheus] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy orpheus stood proudly near the center of the quiet village.
+ORPHEUS [orpheus] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Orpheus is remembered throughout history for great bravery and kind leadership.
 
-OUT [out] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
+OUT [out] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Out is remembered throughout history for great bravery and kind leadership.
 
-OUTSIDE [outside] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Toby stopped outside an old electronics shop called Future Sound.
+OUTSIDE [outside] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Outside is remembered throughout history for great bravery and kind leadership.
 
 OUTTA [ˈaʊ.tə] (informal contraction)
 DEF: Informal contraction of 'out of'.
@@ -2249,9 +2256,9 @@ DEF: Extending directly upward from; or across to the other side.
 EX: Gentle breezes blew over the tranquil waters of the lagoon.
 SYN: across, above, upon
 
-OVERLAY [overlay] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Through the hazy air, figures began to overlay the empty space around them.
+OVERLAY [overlay] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Overlay is remembered throughout history for great bravery and kind leadership.
 
 OWN [oʊn] (determiner / pronoun)
 DEF: Belonging to oneself and to no one else.
@@ -2263,21 +2270,21 @@ DEF: Large, impressive royal residences of kings or nobles.
 EX: Great marble palaces once stood along the ancient harbor.
 SYN: mansions, castles, royal halls
 
-PAINT [paint] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The air grew thick, smelling suddenly of fresh paint and popcorn.
+PAINT [paint] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Paint is remembered throughout history for great bravery and kind leadership.
 
-PALE [pale] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy pale stood proudly near the center of the quiet village.
+PALE [pale] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Pale is remembered throughout history for great bravery and kind leadership.
 
-PANG [pang] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He rubbed the sleep from his eyes, then felt a pang of fear, something he felt very seldom.
+PANG [pang] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Pang is remembered throughout history for great bravery and kind leadership.
 
-PAPER [paper] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
+PAPER [paper] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Paper is remembered throughout history for great bravery and kind leadership.
 
 PARAGRAPH [ˈpær.ə.ɡræf] (noun)
 DEF: A distinct section of a piece of writing dealing with a specific theme.
@@ -2285,34 +2292,34 @@ EX: Read each story paragraph carefully while listening to the audio.
 SYN: section, passage, verse
 
 PARTED [parted] (verb)
-DEF: Past action of experiencing or performing parted.
-EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+DEF: Completed the action or entered the state of part.
+EX: Everyone parted with delight when the good news was shared.
 
 PARTOOK [pɑːr.ˈtʊk] (verb)
 DEF: Past tense of partake; took part in or tasted food or drink.
 EX: The scouts partook of the honey-sweet lotus with great delight.
 SYN: shared in, consumed, tasted
 
-PASS [pass] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+PASS [pass] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Pass is remembered throughout history for great bravery and kind leadership.
 
 PASSED [passed] (verb)
-DEF: Past action of experiencing or performing passed.
-EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+DEF: Completed the action or entered the state of pass.
+EX: Everyone passed with delight when the good news was shared.
 
-PAST [past] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+PAST [past] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Past is remembered throughout history for great bravery and kind leadership.
 
 PASTE [peɪst] (noun / verb)
 DEF: A thick, soft, moist substance; or to stick something firmly.
 EX: The sweet fruit was crushed into a thick fragrant paste.
 SYN: mixture, substance, blend
 
-PATCH [patch] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy patch stood proudly near the center of the quiet village.
+PATCH [patch] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Patch is remembered throughout history for great bravery and kind leadership.
 
 PEACE [piːs] (noun)
 DEF: Freedom from disturbance, war, or conflict; quiet tranquility.
@@ -2324,9 +2331,9 @@ DEF: Free from disturbance or aggression; quiet and calm.
 EX: The Lotus-Eaters were a peaceful people who wished no harm to anyone.
 SYN: tranquil, serene, calm, gentle
 
-PECULIAR [peculiar] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Instead, a heavy, peculiar silence fell over the room.
+PECULIAR [peculiar] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Peculiar is remembered throughout history for great bravery and kind leadership.
 
 PENELOPE [pə.ˈnɛl.ə.pi] (proper noun)
 DEF: The colorful, delicate leaf-like segments of a flower blossom.
@@ -2334,44 +2341,44 @@ EX: Soft pink petals floated down onto the calm surface of the stream.
 SYN: blossom leaves, floral leaves
 
 PERCHED [perched] (verb)
-DEF: Past action of experiencing or performing perched.
-EX: They began to perched together as they made their way along the scenic path.
+DEF: Completed the action or entered the state of perch.
+EX: Everyone perched with delight when the good news was shared.
 
 PERFECTLY [perfectly] (adverb)
-DEF: In a perfect or characteristic manner.
-EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+DEF: In a perfect manner.
+EX: They planned to perfectly carefully before embarking on the new journey.
 
-PHASIS [phasis] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
+PHASIS [phasis] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Phasis is remembered throughout history for great bravery and kind leadership.
 
-PHOTOGRAPH [photograph] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+PHOTOGRAPH [photograph] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Photograph is remembered throughout history for great bravery and kind leadership.
 
 PICKED [picked] (verb)
-DEF: Past action of experiencing or performing picked.
-EX: Toby picked it up.
+DEF: Completed the action or entered the state of pick.
+EX: Everyone picked with delight when the good news was shared.
 
-PIECE [piece] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+PIECE [piece] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Piece is remembered throughout history for great bravery and kind leadership.
 
-PILE [pile] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy pile stood proudly near the center of the quiet village.
+PILE [pile] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Pile is remembered throughout history for great bravery and kind leadership.
 
-PINES [pines] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+PINES [pines] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Pines is remembered throughout history for great bravery and kind leadership.
 
-PITCHER [pitcher] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
+PITCHER [pitcher] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Pitcher is remembered throughout history for great bravery and kind leadership.
 
-PLASTIC [plastic] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+PLASTIC [plastic] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Plastic is remembered throughout history for great bravery and kind leadership.
 
 PLAYED [pleɪd] (verb)
 DEF: Feelings of happy satisfaction, enjoyment, or sensual delight.
@@ -2379,53 +2386,53 @@ EX: They abandoned the fleeting pleasures of the lotus to pursue their noble jou
 SYN: delights, joys, indulgences
 
 PLUCKED [plucked] (verb)
-DEF: Past action of experiencing or performing plucked.
-EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
+DEF: Completed the action or entered the state of pluck.
+EX: Everyone plucked with delight when the good news was shared.
 
-POCKET [pocket] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Toby slipped the cold metal whistle into his pocket.
+POCKET [pocket] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Pocket is remembered throughout history for great bravery and kind leadership.
 
 POLISHED [polished] (verb)
-DEF: Past action of experiencing or performing polished.
-EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
+DEF: Completed the action or entered the state of polish.
+EX: Everyone polished with delight when the good news was shared.
 
 POLLINATOR [ˈpɒl.ɪ.neɪ.tər] (noun)
 DEF: The correct ways in which words or languages are spoken.
 EX: Listen to the audio to practice accurate pronunciations of new vocabulary.
 SYN: articulations, accents, utterances
 
-POND [pond] (word)
-DEF: Past action of experiencing or performing pond-weed.
-EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+POND [pond] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Pond is remembered throughout history for great bravery and kind leadership.
 
-POP [pop] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+POP [pop] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Pop is remembered throughout history for great bravery and kind leadership.
 
-POPCORN [popcorn] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The air grew thick, smelling suddenly of fresh paint and popcorn.
+POPCORN [popcorn] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Popcorn is remembered throughout history for great bravery and kind leadership.
 
 PREPARED [prepared] (verb)
-DEF: Past action of experiencing or performing prepared.
-EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
+DEF: Completed the action or entered the state of prepar.
+EX: Everyone prepared with delight when the good news was shared.
 
 PRESSED [pressed] (verb)
-DEF: Past action of experiencing or performing pressed.
-EX: Just a short puff."
+DEF: Completed the action or entered the state of press.
+EX: Everyone pressed with delight when the good news was shared.
 
 PROMISED [promised] (verb)
-DEF: Past action of experiencing or performing promised.
-EX: They began to promised together as they made their way along the scenic path.
+DEF: Completed the action or entered the state of promis.
+EX: Everyone promised with delight when the good news was shared.
 
-PUFF [puff] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Just a short puff."
+PUFF [puff] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Puff is remembered throughout history for great bravery and kind leadership.
 
 PULLED [pulled] (verb)
-DEF: Past action of experiencing or performing pulled.
-EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+DEF: Completed the action or entered the state of pull.
+EX: Everyone pulled with delight when the good news was shared.
 
 QUEST [kwɛst] (noun)
 DEF: A long, arduous search for something noble or adventurous.
@@ -2447,18 +2454,18 @@ DEF: A group of people connected by common descent; or a competition of speed.
 EX: The Lotus-Eaters were a gentle race who lived in harmony with the blossoms.
 SYN: people, tribe, lineage
 
-RANK [rank] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+RANK [rank] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Rank is remembered throughout history for great bravery and kind leadership.
 
 READIED [ˈrɛd.id] (verb)
 DEF: Prepared or made something ready for action.
 EX: The sailors readied the heavy oars for a swift departure.
 SYN: prepared, equipped, fitted out
 
-REAL [real] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The real world felt suddenly dull, grey, and quiet compared to the vibrant warmth they had just touched.
+REAL [real] (adjective)
+DEF: Characterized by or having the quality of being real.
+EX: The travelers admired the real scene as gentle morning light touched the hills.
 
 RECEIVED [rɪ.ˈsiːvd] (verb)
 DEF: Got, accepted, or was greeted with something given.
@@ -2466,30 +2473,30 @@ EX: The travelers received a warm welcome from the friendly villagers.
 SYN: accepted, welcomed, greeted
 
 RECKLESSLY [recklessly] (adverb)
-DEF: In a reckless or characteristic manner.
-EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
+DEF: In a reckless manner.
+EX: They planned to recklessly carefully before embarking on the new journey.
 
-RECOGNIZE [recognize] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+RECOGNIZE [recognize] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Recognize is remembered throughout history for great bravery and kind leadership.
 
 RED [rɛd] (adjective / noun)
 DEF: The color of blood, rubies, or ripe strawberries.
 EX: A glowing red sunset signaled fair weather for tomorrow's sailing.
 SYN: crimson, scarlet, ruby
 
-REEDS [reeds] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy reeds stood proudly near the center of the quiet village.
+REEDS [reeds] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Reeds is remembered throughout history for great bravery and kind leadership.
 
 REFUSED [rɪ.ˈfjuːzd] (verb)
 DEF: Indicated unwillingness to do, accept, or grant something.
 EX: The bewitched scouts refused to stand up or return to the ships.
 SYN: declined, resisted, rejected
 
-RELAX [relax] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "If the security guard catches us, we are in massive trouble."
+RELAX [relax] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Relax is remembered throughout history for great bravery and kind leadership.
 
 REMAIN [rɪ.ˈmeɪn] (verb)
 DEF: To continue to exist or stay in the same place.
@@ -2507,8 +2514,8 @@ EX: He remembered the smiling faces of his family in Ithaca.
 SYN: recalled, recollected, retained
 
 REPLACED [replaced] (verb)
-DEF: Past action of experiencing or performing replaced.
-EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
+DEF: Completed the action or entered the state of replac.
+EX: Everyone replaced with delight when the good news was shared.
 
 RESISTED [rɪ.ˈzɪs.tɪd] (verb)
 DEF: Struggled against or fought back against force or temptation.
@@ -2516,12 +2523,12 @@ EX: The wise hero resisted the sweet temptation of the honeyed fruit.
 SYN: withstood, opposed, defied
 
 REST [rest] (adjective)
-DEF: Possessing the distinctive quality or condition of being rest.
-EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+DEF: Characterized by or having the quality of being rest.
+EX: The travelers admired the rest scene as gentle morning light touched the hills.
 
 RESTING [resting] (verb)
-DEF: Engaging in the active process of resting.
-EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+DEF: The ongoing action or experience of rest.
+EX: The students enjoyed resting together during their outdoor nature exploration.
 
 RETURN [rɪ.ˈtɜːrn] (verb / noun)
 DEF: To come or go back to a place or person; or the act of coming back.
@@ -2529,41 +2536,41 @@ EX: Their greatest desire was to return safely to their native land.
 SYN: go back, revisit, homecoming
 
 RETURNED [returned] (verb)
-DEF: Past action of experiencing or performing returned.
-EX: The silence lifted, and the distant sound of dripping water returned.
+DEF: Completed the action or entered the state of return.
+EX: Everyone returned with delight when the good news was shared.
 
-RIBS [ribs] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "If the security guard catches us, we are in massive trouble."
+RIBS [ribs] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Ribs is remembered throughout history for great bravery and kind leadership.
 
-RICH [rich] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy rich stood proudly near the center of the quiet village.
+RICH [rich] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Rich is remembered throughout history for great bravery and kind leadership.
 
 RIDING [ˈraɪ.dɪŋ] (verb)
 DEF: Being carried on horseback or traveling atop ocean waves.
 EX: The ship was riding the crest of high azure waves.
 SYN: floating atop, mounting, coursing
 
-RIGHT [right] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
+RIGHT [right] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Right is remembered throughout history for great bravery and kind leadership.
 
-RIPPLE [ripple] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The dim, grey mall seemed to ripple like water.
+RIPPLE [ripple] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Ripple is remembered throughout history for great bravery and kind leadership.
 
 RIVALED [rivaled] (verb)
-DEF: Past action of experiencing or performing rivaled.
-EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
+DEF: Completed the action or entered the state of rival.
+EX: Everyone rivaled with delight when the good news was shared.
 
-ROOM [room] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Instead, a heavy, peculiar silence fell over the room.
+ROOM [room] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Room is remembered throughout history for great bravery and kind leadership.
 
-ROOT [root] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy root stood proudly near the center of the quiet village.
+ROOT [root] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Root is remembered throughout history for great bravery and kind leadership.
 
 ROUSE [raʊz] (verb)
 DEF: To awaken from sleep or stimulate to action.
@@ -2571,29 +2578,29 @@ EX: Odysseus had to rouse his dreaming comrades from their heavy stupor.
 SYN: awaken, stir, alert
 
 RUBBED [rubbed] (verb)
-DEF: Past action of experiencing or performing rubbed.
-EX: He rubbed the sleep from his eyes, then felt a pang of fear, something he felt very seldom.
+DEF: Completed the action or entered the state of rubb.
+EX: Everyone rubbed with delight when the good news was shared.
 
-RUCKSACK [rucksack] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
+RUCKSACK [rucksack] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Rucksack is remembered throughout history for great bravery and kind leadership.
 
 RUN [rʌn] (verb)
 DEF: Large pieces of canvas or fabric spread to catch the wind and drive a ship.
 EX: They hoisted the linen sails to catch the favoring breeze.
 SYN: canvas, rigging
 
-RUSHES [rushes] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy rushes stood proudly near the center of the quiet village.
+RUSHES [rushes] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Rushes is remembered throughout history for great bravery and kind leadership.
 
-SAD [sad] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy sad stood proudly near the center of the quiet village.
+SAD [sad] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Sad is remembered throughout history for great bravery and kind leadership.
 
-SAID [said] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: it stopped."
+SAID [said] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Said is remembered throughout history for great bravery and kind leadership.
 
 SANCTUARY [ˈsæŋk.tʃuː.ɛr.i] (noun)
 DEF: A place of safety, refuge, or sacred holiness.
@@ -2605,9 +2612,9 @@ DEF: A precious blue gemstone, or a deep brilliant blue color.
 EX: The clear Mediterranean waters sparkled like polished sapphire.
 SYN: deep blue, cerulean, azure
 
-SATURDAY [saturday] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
+SATURDAY [saturday] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Saturday is remembered throughout history for great bravery and kind leadership.
 
 SAVAGE [ˈsæv.ɪdʒ] (adjective)
 DEF: Fierce, violent, and untamed; ferocious.
@@ -2619,22 +2626,22 @@ DEF: Past tense of see; perceived with the eyes.
 EX: The lookout saw the silhouette of mountains rising through the mist.
 SYN: spotted, observed, beheld
 
-SAY [say] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Some say that after many weeks, Herakles stumbled upon the bronze pitcher Hylas had dropped.
+SAY [say] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Say is remembered throughout history for great bravery and kind leadership.
 
 SCANNING [scanning] (verb)
-DEF: Engaging in the active process of scanning.
-EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
+DEF: The ongoing action or experience of scann.
+EX: The students enjoyed scanning together during their outdoor nature exploration.
 
 SCATTERED [ˈskæt.ərd] (adjective / verb)
 DEF: Separated and dispersed over a wide area.
 EX: The fierce storm left the fleet scattered across the wide sea.
 SYN: dispersed, spread, strewn
 
-SCENT [scent] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
+SCENT [scent] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Scent is remembered throughout history for great bravery and kind leadership.
 
 SCOUT [skaʊt] (noun / verb)
 DEF: A person sent ahead to gather information about unfamiliar territory.
@@ -2656,35 +2663,35 @@ DEF: Salt water from a sea or ocean.
 EX: Splashes of salty seawater sprayed over the bow of the galley.
 SYN: brine, salt water
 
-SECONDS [seconds] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+SECONDS [seconds] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Seconds is remembered throughout history for great bravery and kind leadership.
 
 SECRET [ˈsiː.krɪt] (noun / adjective)
 DEF: Something kept hidden from the knowledge of others.
 EX: The sweet fruit held the secret power of peaceful forgetfulness.
 SYN: mystery, hidden truth, concealed
 
-SECURITY [security] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "If the security guard catches us, we are in massive trouble."
+SECURITY [security] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Security is remembered throughout history for great bravery and kind leadership.
 
 SEE [siː] (verb)
 DEF: To perceive with the eyes; to observe or understand.
 EX: Look ahead to see if any sails appear on the distant horizon.
 SYN: behold, observe, view
 
-SEEK [seek] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+SEEK [seek] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Seek is remembered throughout history for great bravery and kind leadership.
 
 SEEMED [seemed] (verb)
-DEF: Past action of experiencing or performing seemed.
-EX: The dim, grey mall seemed to ripple like water.
+DEF: Completed the action or entered the state of seem.
+EX: Everyone seemed with delight when the good news was shared.
 
-SELDOM [seldom] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He rubbed the sleep from his eyes, then felt a pang of fear, something he felt very seldom.
+SELDOM [seldom] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Seldom is remembered throughout history for great bravery and kind leadership.
 
 SENSED [sɛnst] (verb)
 DEF: Became aware of something through intuition or subtle perception.
@@ -2701,55 +2708,55 @@ DEF: Put in a specified position; or began upon a course.
 EX: They set sail toward the open water as soon as dawn arrived.
 SYN: placed, commenced, embarked
 
-SHADE [shade] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
+SHADE [shade] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Shade is remembered throughout history for great bravery and kind leadership.
 
 SHADOW [ˈʃæd.oʊ] (noun)
 DEF: A dark area produced by a body coming between rays of light and a surface.
 EX: The tall cliffs cast a cool shadow across the sheltered inlet.
 SYN: shade, silhouette, darkness
 
-SHADOWS [shadows] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: it stopped."
+SHADOWS [shadows] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Shadows is remembered throughout history for great bravery and kind leadership.
 
-SHADOWY [shadowy] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
+SHADOWY [shadowy] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Shadowy is remembered throughout history for great bravery and kind leadership.
 
-SHADY [shady] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+SHADY [shady] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Shady is remembered throughout history for great bravery and kind leadership.
 
-SHALL [shall] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+SHALL [shall] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Shall is remembered throughout history for great bravery and kind leadership.
 
-SHARP [sharp] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Just a short puff."
+SHARP [sharp] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Sharp is remembered throughout history for great bravery and kind leadership.
 
 SHATTERED [shattered] (verb)
-DEF: Past action of experiencing or performing shattered.
-EX: They walked back out through the shattered glass doors of the mall and into the cool evening air.
+DEF: Completed the action or entered the state of shatter.
+EX: Everyone shattered with delight when the good news was shared.
 
 SHE [ʃiː] (pronoun)
 DEF: Referring to a female person or deity previously mentioned.
 EX: Athena watched over Odysseus, ensuring she could aid him in peril.
 SYN: that goddess, the lady
 
-SHIFT [shift] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: This time, the shift wasn't just on the floor.
+SHIFT [shift] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Shift is remembered throughout history for great bravery and kind leadership.
 
 SHINING [shining] (verb)
-DEF: Engaging in the active process of shining.
-EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
+DEF: The ongoing action or experience of shin.
+EX: The students enjoyed shining together during their outdoor nature exploration.
 
-SHINY [shiny] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+SHINY [shiny] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Shiny is remembered throughout history for great bravery and kind leadership.
 
 SHIP [ʃɪp] (noun)
 DEF: Multiple sailing vessels traveling together as a fleet.
@@ -2761,61 +2768,61 @@ DEF: Past tense of shake; trembled, vibrated, or moved rapidly back and forth.
 EX: Thunder shook the wooden deck as the storm struck with fury.
 SYN: trembled, quivered, vibrated
 
-SHOP [shop] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+SHOP [shop] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Shop is remembered throughout history for great bravery and kind leadership.
 
 SHOPPING [shopping] (verb)
-DEF: Engaging in the active process of shopping.
-EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
+DEF: The ongoing action or experience of shopp.
+EX: The students enjoyed shopping together during their outdoor nature exploration.
 
-SHOPS [shops] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
+SHOPS [shops] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Shops is remembered throughout history for great bravery and kind leadership.
 
-SHORE [shore] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
+SHORE [shore] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Shore is remembered throughout history for great bravery and kind leadership.
 
-SHORES [shores] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
+SHORES [shores] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Shores is remembered throughout history for great bravery and kind leadership.
 
-SHORT [short] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Just a short puff."
+SHORT [short] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Short is remembered throughout history for great bravery and kind leadership.
 
 SHRINKING [shrinking] (verb)
-DEF: Engaging in the active process of shrinking.
-EX: They began to shrinking together as they made their way along the scenic path.
+DEF: The ongoing action or experience of shrink.
+EX: The students enjoyed shrinking together during their outdoor nature exploration.
 
-SIDE [side] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
+SIDE [side] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Side is remembered throughout history for great bravery and kind leadership.
 
-SIGN [sign] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+SIGN [sign] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Sign is remembered throughout history for great bravery and kind leadership.
 
-SILENCE [silence] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Instead, a heavy, peculiar silence fell over the room.
+SILENCE [silence] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Silence is remembered throughout history for great bravery and kind leadership.
 
-SILENT [silent] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+SILENT [silent] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Silent is remembered throughout history for great bravery and kind leadership.
 
-SILVER [silver] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "I don't know," Toby murmured, his fingers tightening around the silver metal.
+SILVER [silver] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Silver is remembered throughout history for great bravery and kind leadership.
 
-SIMPLE [simple] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: It was a simple, brass whistle, completely ordinary and unremarkable.
+SIMPLE [simple] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Simple is remembered throughout history for great bravery and kind leadership.
 
-SINCE [since] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "Nobody has come here since it closed down ten years ago.
+SINCE [since] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Since is remembered throughout history for great bravery and kind leadership.
 
 SINGLE [ˈsɪŋ.ɡəl] (adjective)
 DEF: Only one; not one of several.
@@ -2827,17 +2834,17 @@ DEF: Descending below the surface of water or descending toward sunset.
 EX: The sinking sun painted the western horizon with crimson and gold.
 SYN: descending, submerging, dropping
 
-SIRENS [sirens] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
+SIRENS [sirens] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Sirens is remembered throughout history for great bravery and kind leadership.
 
-SKILLS [skills] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy skills stood proudly near the center of the quiet village.
+SKILLS [skills] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Skills is remembered throughout history for great bravery and kind leadership.
 
-SKIN [skin] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy skin stood proudly near the center of the quiet village.
+SKIN [skin] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Skin is remembered throughout history for great bravery and kind leadership.
 
 SKY [skaɪ] (noun)
 DEF: The region of the atmosphere above the earth seen from below.
@@ -2865,37 +2872,37 @@ EX: Turn to the next slide to continue following the voyage.
 SYN: page, screen, panel
 
 SLIGHTLY [slightly] (adverb)
-DEF: In a slight or characteristic manner.
-EX: The door was slightly open.
+DEF: In a slight manner.
+EX: They planned to slightly carefully before embarking on the new journey.
 
 SLIPPED [slipped] (verb)
-DEF: Past action of experiencing or performing slipped.
-EX: Toby slipped the cold metal whistle into his pocket.
+DEF: Completed the action or entered the state of slipp.
+EX: Everyone slipped with delight when the good news was shared.
 
-SLOW [slow] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
+SLOW [slow] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Slow is remembered throughout history for great bravery and kind leadership.
 
-SMALL [small] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+SMALL [small] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Small is remembered throughout history for great bravery and kind leadership.
 
-SMELL [smell] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
+SMELL [smell] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Smell is remembered throughout history for great bravery and kind leadership.
 
 SMELLING [smelling] (verb)
-DEF: Engaging in the active process of smelling.
-EX: The air grew thick, smelling suddenly of fresh paint and popcorn.
+DEF: The ongoing action or experience of smell.
+EX: The students enjoyed smelling together during their outdoor nature exploration.
 
 SO [soʊ] (adverb / conjunction)
 DEF: To such a great extent, or with the result that.
 EX: The fruit was so sweet that it banished all memories of home.
 SYN: thus, therefore, extremely
 
-SOLID [solid] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+SOLID [solid] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Solid is remembered throughout history for great bravery and kind leadership.
 
 SOLITARY [ˈsɒl.ɪ.tər.i] (adjective)
 DEF: Done or existing alone; isolated.
@@ -2908,84 +2915,84 @@ EX: Some of the scouts tasted the blossom and fell into sweet repose.
 SYN: a few, a portion
 
 SOMETHING [something] (verb)
-DEF: Engaging in the active process of something.
-EX: He rubbed the sleep from his eyes, then felt a pang of fear, something he felt very seldom.
+DEF: The ongoing action or experience of someth.
+EX: The students enjoyed something together during their outdoor nature exploration.
 
-SONG [song] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy song stood proudly near the center of the quiet village.
+SONG [song] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Song is remembered throughout history for great bravery and kind leadership.
 
-SONGS [songs] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy songs stood proudly near the center of the quiet village.
+SONGS [songs] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Songs is remembered throughout history for great bravery and kind leadership.
 
 SOON [suːn] (adverb)
 DEF: Weapons with long wooden shafts and sharp pointed bronze or iron tips.
 EX: Bronze-tipped spears gleamed brightly in the midday sunlight.
 SYN: lances, javelins, pikes
 
-SOUND [sound] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Toby stopped outside an old electronics shop called Future Sound.
+SOUND [sound] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Sound is remembered throughout history for great bravery and kind leadership.
 
-SPACE [space] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
+SPACE [space] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Space is remembered throughout history for great bravery and kind leadership.
 
-SPEAK [speak] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+SPEAK [speak] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Speak is remembered throughout history for great bravery and kind leadership.
 
-SPEAKERS [speakers] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+SPEAKERS [speakers] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Speakers is remembered throughout history for great bravery and kind leadership.
 
 SPELL [spɛl] (noun)
 DEF: A magical charm, enchantment, or trance.
 EX: The sweet lotus blossom cast a powerful spell of forgetfulness.
 SYN: enchantment, charm, trance
 
-SPEND [spend] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy spend stood proudly near the center of the quiet village.
+SPEND [spend] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Spend is remembered throughout history for great bravery and kind leadership.
 
 SPRING [spring] (verb)
-DEF: Engaging in the active process of spring.
-EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
+DEF: The ongoing action or experience of spr.
+EX: The students enjoyed spring together during their outdoor nature exploration.
 
 STARED [stared] (verb)
-DEF: Past action of experiencing or performing stared.
-EX: She stared at the gleaming object in Toby's hand, her eyes wide with a sudden, quiet yearning.
+DEF: Completed the action or entered the state of star.
+EX: Everyone stared with delight when the good news was shared.
 
 STARLIGHT [ˈstɑːr.laɪt] (noun)
 DEF: Luminous celestial bodies visible as points of light in the night sky.
 EX: Sailors read the alignment of the stars to plot their course.
 SYN: constellations, celestial lights
 
-STEAL [steal] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He would steal a glance, nothing more, and return the camp before he was missed.
+STEAL [steal] (adjective)
+DEF: Characterized by or having the quality of being steal.
+EX: The travelers admired the steal scene as gentle morning light touched the hills.
 
-STEP [step] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "We have to leave," Gwen whispered, her voice trembling, though she didn't actually take a step back.
+STEP [step] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Step is remembered throughout history for great bravery and kind leadership.
 
 STEPPED [stepped] (verb)
-DEF: Past action of experiencing or performing stepped.
-EX: They stepped out of the electronics shop and back into the main corridor of the mall.
+DEF: Completed the action or entered the state of stepp.
+EX: Everyone stepped with delight when the good news was shared.
 
 STEPPING [stepping] (verb)
-DEF: Engaging in the active process of stepping.
-EX: "What’s that?" Gwen asked, stepping inside.
+DEF: The ongoing action or experience of stepp.
+EX: The students enjoyed stepping together during their outdoor nature exploration.
 
 STILL [stɪl] (adjective / adverb)
 DEF: Not moving or making sound; or continuing to happen.
 EX: The sea was completely still after the violent storm passed.
 SYN: motionless, peaceful, calm
 
-STOLEN [stolen] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Some say the gods did not even grant him that mercy, and Herakles found no trace of his friend, stolen by the nymphs.
+STOLEN [stolen] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Stolen is remembered throughout history for great bravery and kind leadership.
 
 STOPPED [stɒpt] (verb)
 DEF: Came to an end of a movement or action; halted.
@@ -2993,8 +3000,8 @@ EX: The ships stopped at the sheltered cove to take on fresh water.
 SYN: halted, anchored, paused
 
 STORIED [storied] (verb)
-DEF: Past action of experiencing or performing storied.
-EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+DEF: Completed the action or entered the state of stori.
+EX: Everyone storied with delight when the good news was shared.
 
 STORM [stɔːrm] (noun)
 DEF: A violent disturbance of the atmosphere with strong winds and heavy seas.
@@ -3011,13 +3018,13 @@ DEF: Unusual, surprising, difficult to explain, or unfamiliar.
 EX: The island was home to a strange and magical flowering plant.
 SYN: mysterious, unusual, peculiar
 
-STREET [street] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy street stood proudly near the center of the quiet village.
+STREET [street] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Street is remembered throughout history for great bravery and kind leadership.
 
 STRIPPED [stripped] (verb)
-DEF: Past action of experiencing or performing stripped.
-EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
+DEF: Completed the action or entered the state of stripp.
+EX: Everyone stripped with delight when the good news was shared.
 
 STRUGGLING [ˈstrʌɡ.lɪŋ] (verb / adjective)
 DEF: Striving with great effort against difficulties or restraint.
@@ -3025,8 +3032,8 @@ EX: The weeping scouts were struggling as Odysseus dragged them away.
 SYN: resisting, striving, grappling
 
 STUMBLED [stumbled] (verb)
-DEF: Past action of experiencing or performing stumbled.
-EX: Some say that after many weeks, Herakles stumbled upon the bronze pitcher Hylas had dropped.
+DEF: Completed the action or entered the state of stumbl.
+EX: Everyone stumbled with delight when the good news was shared.
 
 STUPOR [ˈstjuː.pər] (noun)
 DEF: A state of near-unconsciousness or suspended sensibility caused by drink or enchantment.
@@ -3038,17 +3045,17 @@ DEF: Became less intense, violent, or severe; quieted down.
 EX: The howling gale subsided and calm returned to the waters.
 SYN: abated, lessened, quieted
 
-SUBTERRANEAN [subterranean] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: It was heavy and warm, vibrating with a faint, subterranean hum that hadn't been there before.
+SUBTERRANEAN [subterranean] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Subterranean is remembered throughout history for great bravery and kind leadership.
 
-SUDDEN [sudden] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+SUDDEN [sudden] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Sudden is remembered throughout history for great bravery and kind leadership.
 
 SUDDENLY [suddenly] (adverb)
-DEF: In a sudden or characteristic manner.
-EX: The air grew thick, smelling suddenly of fresh paint and popcorn.
+DEF: In a sudden manner.
+EX: They planned to suddenly carefully before embarking on the new journey.
 
 SUMMARY [ˈsʌm.ər.i] (noun)
 DEF: A brief statement or account of the main points of something.
@@ -3061,47 +3068,47 @@ EX: The bright eastern sun warmed their tired shoulders as they rowed.
 SYN: daystar, sol
 
 SURPRISINGLY [surprisingly] (adverb)
-DEF: In a surprising or characteristic manner.
-EX: The metal felt surprisingly warm in his hand.
+DEF: In a surprising manner.
+EX: They planned to surprisingly carefully before embarking on the new journey.
 
 SUSPECTING [sə.ˈspɛk.tɪŋ] (verb)
 DEF: Having an idea or feeling of the possible truth without certainty.
 EX: Not suspecting any enchantment, the hungry scouts ate the sweet blossoms.
 SYN: doubting, imagining, sensing
 
-SWALLOW [swallow] (word)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy swallow-wort stood proudly near the center of the quiet village.
+SWALLOW [swallow] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Swallow is remembered throughout history for great bravery and kind leadership.
 
 SWEET [swiːt] (adjective)
 DEF: Having the pleasant taste characteristic of sugar or honey.
 EX: The sweet taste of the lotus made all troubles vanish from memory.
 SYN: honeyed, sugary, delicious
 
-SWIFT [swift] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+SWIFT [swift] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Swift is remembered throughout history for great bravery and kind leadership.
 
-TAKE [take] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "We have to leave," Gwen whispered, her voice trembling, though she didn't actually take a step back.
+TAKE [take] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Take is remembered throughout history for great bravery and kind leadership.
 
 TAKING [taking] (verb)
-DEF: Engaging in the active process of taking.
-EX: They began to taking together as they made their way along the scenic path.
+DEF: The ongoing action or experience of tak.
+EX: The students enjoyed taking together during their outdoor nature exploration.
 
-TALK [talk] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They didn't talk about how the object worked, or what mystery lay behind it.
+TALK [talk] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Talk is remembered throughout history for great bravery and kind leadership.
 
 TAP [tæp] (verb / noun)
 DEF: To strike lightly, or touch a touch-screen with a finger.
 EX: Tap any highlighted story word to hear its pronunciation and definition.
 SYN: touch, press, click
 
-TAPE [tape] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+TAPE [tape] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Tape is remembered throughout history for great bravery and kind leadership.
 
 TAPESTRY [ˈtæp.ɪ.stri] (noun)
 DEF: A piece of thick textile fabric with pictures or designs woven into it.
@@ -3114,8 +3121,8 @@ EX: Every vocabulary word in the slide text is interactive and tappable.
 SYN: clickable, interactive
 
 TAPPING [tapping] (verb)
-DEF: Engaging in the active process of tapping.
-EX: They began to tapping together as they made their way along the scenic path.
+DEF: The ongoing action or experience of tapp.
+EX: The students enjoyed tapping together during their outdoor nature exploration.
 
 TASTED [ˈteɪ.stɪd] (verb)
 DEF: Perceived the flavor of food or drink in the mouth.
@@ -3127,18 +3134,18 @@ DEF: A hot or cold beverage made by infusing dried leaves or herbs in water.
 EX: The islanders brewed herbal tea from the fragrant wild blossoms.
 SYN: infusion, beverage
 
-TEENAGERS [teenagers] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Just a few feet away, a group of teenagers laughing together suddenly appeared.
+TEENAGERS [teenagers] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Teenagers is remembered throughout history for great bravery and kind leadership.
 
 TELESCOPE [ˈtɛl.ɪ.skoʊp] (noun)
 DEF: An optical instrument designed to make distant objects appear nearer.
 EX: The stargazer peered through a bronze telescope to chart the stars.
 SYN: spyglass, optics
 
-TEN [ten] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "Nobody has come here since it closed down ten years ago.
+TEN [ten] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Ten is remembered throughout history for great bravery and kind leadership.
 
 TERRIBLE [ˈtɛr.ə.bəl] (adjective)
 DEF: Extremely bad, serious, or formidable; causing great fear.
@@ -3146,8 +3153,8 @@ EX: A terrible storm blew the fleet far from their intended homeland.
 SYN: dreadful, awful, ferocious
 
 TERRIBLY [terribly] (adverb)
-DEF: In a terrib or characteristic manner.
-EX: They began to terribly together as they made their way along the scenic path.
+DEF: In a terrib manner.
+EX: They planned to terribly carefully before embarking on the new journey.
 
 TEXT [tɛkst] (noun)
 DEF: The main body of a book, story, or written piece.
@@ -3184,9 +3191,9 @@ DEF: Used as the reflexive or emphatic form of they.
 EX: The crew found themselves cast upon an unfamiliar shoreline.
 SYN: personally, their own persons
 
-THEN [then] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+THEN [then] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Then is remembered throughout history for great bravery and kind leadership.
 
 THERE [ðɛər] (adverb)
 DEF: In, at, or to that place or position.
@@ -3209,16 +3216,16 @@ EX: A thick ocean fog rolled in over the coastal cliffs.
 SYN: dense, heavy, impenetrable
 
 THING [thing] (verb)
-DEF: Engaging in the active process of thing.
-EX: its not a gay thing.
+DEF: The ongoing action or experience of th.
+EX: The students enjoyed thing together during their outdoor nature exploration.
 
-THINK [think] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
+THINK [think] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Think is remembered throughout history for great bravery and kind leadership.
 
 THINKING [thinking] (verb)
-DEF: Engaging in the active process of thinking.
-EX: "Just an old whistle." Without thinking, he blew into it.
+DEF: The ongoing action or experience of think.
+EX: The students enjoyed thinking together during their outdoor nature exploration.
 
 THIRST [θɜːrst] (noun / verb)
 DEF: A feeling of needing to drink liquid; or a strong craving.
@@ -3240,47 +3247,47 @@ DEF: Despite the fact that; although.
 EX: Though the sea was rough, the disciplined crew rowed steadily.
 SYN: although, even if, yet
 
-THOUGHT [thought] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy thought stood proudly near the center of the quiet village.
+THOUGHT [thought] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Thought is remembered throughout history for great bravery and kind leadership.
 
-THOUSANDS [thousands] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The mall around them felt alive, breathing with the memories of thousands of forgotten footsteps.
+THOUSANDS [thousands] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Thousands is remembered throughout history for great bravery and kind leadership.
 
 THREE [θriː] (numeral)
 DEF: The cardinal number that is one more than two.
 EX: Odysseus sent three scouts inland to investigate the islanders.
 SYN: trio, triad
 
-THROUGH [through] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Through the hazy air, figures began to overlay the empty space around them.
+THROUGH [through] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Through is remembered throughout history for great bravery and kind leadership.
 
 TIGHTENING [tightening] (verb)
-DEF: Engaging in the active process of tightening.
-EX: "I don't know," Toby murmured, his fingers tightening around the silver metal.
+DEF: The ongoing action or experience of tighten.
+EX: The students enjoyed tightening together during their outdoor nature exploration.
 
-TILE [tile] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy tile stood proudly near the center of the quiet village.
+TILE [tile] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Tile is remembered throughout history for great bravery and kind leadership.
 
-TILES [tiles] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The cracked grey tiles beneath their feet were changing.
+TILES [tiles] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Tiles is remembered throughout history for great bravery and kind leadership.
 
-TIME [time] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: This time, the shift wasn't just on the floor.
+TIME [time] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Time is remembered throughout history for great bravery and kind leadership.
 
 TINKER [ˈtɪŋ.kər] (verb / noun)
 DEF: To attempt to repair or improve something in an experimental or casual manner.
 EX: The curious young sailor loved to tinker with brass navigational tools.
 SYN: experiment, fiddle, adjust
 
-TINNY [tinny] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+TINNY [tinny] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Tinny is remembered throughout history for great bravery and kind leadership.
 
 TITLE [ˈtaɪ.təl] (noun)
 DEF: The name of a book, story, chapter, or musical piece.
@@ -3292,21 +3299,21 @@ DEF: Expressing motion in the direction of a particular location.
 EX: They sailed to the quiet cove to escape the raging storm.
 SYN: toward, unto
 
-TOBY [toby] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+TOBY [toby] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Toby is remembered throughout history for great bravery and kind leadership.
 
-TOBY'S [toby's] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: She stared at the gleaming object in Toby's hand, her eyes wide with a sudden, quiet yearning.
+TOBY'S [toby's] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Toby's is remembered throughout history for great bravery and kind leadership.
 
-TOBY’S [toby’s] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
+TOBY’S [toby’s] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Toby’s is remembered throughout history for great bravery and kind leadership.
 
-TOGETHER [together] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy together stood proudly near the center of the quiet village.
+TOGETHER [together] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Together is remembered throughout history for great bravery and kind leadership.
 
 TOLD [toʊld] (verb)
 DEF: Past tense of tell; communicated information or facts to someone.
@@ -3329,33 +3336,33 @@ EX: The violent squall tore their canvas sails to ragged shreds.
 SYN: ripped, shredded, severed
 
 TOUCHED [touched] (verb)
-DEF: Past action of experiencing or performing touched.
-EX: The real world felt suddenly dull, grey, and quiet compared to the vibrant warmth they had just touched.
+DEF: Completed the action or entered the state of touch.
+EX: Everyone touched with delight when the good news was shared.
 
-TRACE [trace] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Some say the gods did not even grant him that mercy, and Herakles found no trace of his friend, stolen by the nymphs.
+TRACE [trace] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Trace is remembered throughout history for great bravery and kind leadership.
 
-TRAINERS [trainers] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+TRAINERS [trainers] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Trainers is remembered throughout history for great bravery and kind leadership.
 
 TRAINING [training] (verb)
-DEF: Engaging in the active process of training.
-EX: They began to training together as they made their way along the scenic path.
+DEF: The ongoing action or experience of train.
+EX: The students enjoyed training together during their outdoor nature exploration.
 
 TRANQUIL [ˈtræŋ.kwɪl] (adjective)
 DEF: Free from disturbance; calm, peaceful, and serene.
 EX: The tranquil bay mirrored the azure sky without a single ripple.
 SYN: peaceful, serene, calm
 
-TRANSPARENT [transparent] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+TRANSPARENT [transparent] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Transparent is remembered throughout history for great bravery and kind leadership.
 
-TRAVEL [travel] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+TRAVEL [travel] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Travel is remembered throughout history for great bravery and kind leadership.
 
 TREASURE [ˈtrɛʒ.ər] (noun / verb)
 DEF: A quantity of precious metals, gems, or valuable items; or to cherish.
@@ -3363,8 +3370,8 @@ EX: They guarded the ancient golden treasure in the palace vault.
 SYN: riches, valuables, trove
 
 TREMBLING [trembling] (verb)
-DEF: Engaging in the active process of trembling.
-EX: "What did you do?" Gwen demanded, her voice trembling.
+DEF: The ongoing action or experience of trembl.
+EX: The students enjoyed trembling together during their outdoor nature exploration.
 
 TRIBE [traɪb] (noun)
 DEF: A traditional society or group of families linked by social and economic ties.
@@ -3376,26 +3383,26 @@ DEF: Past tense of try; made an effort to do something.
 EX: The captain tried to awaken his bewitched crew from their sweet daze.
 SYN: attempted, stve, endeavored
 
-TROUBLE [trouble] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "If the security guard catches us, we are in massive trouble."
+TROUBLE [trouble] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Trouble is remembered throughout history for great bravery and kind leadership.
 
 TROUBLED [ˈtrʌb.əld] (adjective / verb)
 DEF: Beset by problems, anxiety, or emotional distress.
 EX: Odysseus was deeply troubled by the strange lethargy of his scouts.
 SYN: distressed, anxious, worried
 
-TRUTH [truth] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy truth stood proudly near the center of the quiet village.
+TRUTH [truth] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Truth is remembered throughout history for great bravery and kind leadership.
 
-TRY [try] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "What if I try it again?
+TRY [try] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Try is remembered throughout history for great bravery and kind leadership.
 
 TUGGED [tugged] (verb)
-DEF: Past action of experiencing or performing tugged.
-EX: A strange curiosity tugged at him.
+DEF: Completed the action or entered the state of tugg.
+EX: Everyone tugged with delight when the good news was shared.
 
 TURNED [tɜːrnd] (verb)
 DEF: Changed direction or course; rotated.
@@ -3403,16 +3410,16 @@ EX: The helmsman turned the rudder toward the safety of the harbor.
 SYN: veered, rotated, steered
 
 TURNING [turning] (verb)
-DEF: Engaging in the active process of turning.
-EX: "Toby..." Gwen gasped, her face turning pale.
+DEF: The ongoing action or experience of turn.
+EX: The students enjoyed turning together during their outdoor nature exploration.
 
 TWISTING [twisting] (verb)
-DEF: Engaging in the active process of twisting.
-EX: They began to twisting together as they made their way along the scenic path.
+DEF: The ongoing action or experience of twist.
+EX: The students enjoyed twisting together during their outdoor nature exploration.
 
-TWO [two] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy two stood proudly near the center of the quiet village.
+TWO [two] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Two is remembered throughout history for great bravery and kind leadership.
 
 TYPE [taɪp] (noun)
 DEF: A category of people or things having common characteristics.
@@ -3424,13 +3431,13 @@ DEF: Extending or directly below something.
 EX: They tied the sleeping scouts securely under the rowing benches.
 SYN: beneath, below, underneath
 
-UNFAMILIAR [unfamiliar] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Fear was unfamiliar to Herakles, and it drove him nearly to madness.
+UNFAMILIAR [unfamiliar] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Unfamiliar is remembered throughout history for great bravery and kind leadership.
 
 UNREMARKABLE [unremarkable] (adjective)
-DEF: Possessing the distinctive quality or condition of being unremarkable.
-EX: It was a simple, brass whistle, completely ordinary and unremarkable.
+DEF: Characterized by or having the quality of being unremarkable.
+EX: The travelers admired the unremarkable scene as gentle morning light touched the hills.
 
 UP [ʌp] (adverb / preposition)
 DEF: Toward a higher place or position.
@@ -3442,13 +3449,13 @@ DEF: More formal term for 'on'; resting atop.
 EX: They landed upon a white-sand beach bordered by palm trees.
 SYN: on, atop
 
-US [us] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "If the security guard catches us, we are in massive trouble."
+US [us] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Us is remembered throughout history for great bravery and kind leadership.
 
 VANISHED [vanished] (verb)
-DEF: Past action of experiencing or performing vanished.
-EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
+DEF: Completed the action or entered the state of vanish.
+EX: Everyone vanished with delight when the good news was shared.
 
 VERY [ˈvɛr.i] (adverb / adjective)
 DEF: In a high degree; extremely; or exact and particular.
@@ -3461,33 +3468,33 @@ EX: Vibrant pink and gold blossoms carpeted the sunlit meadow.
 SYN: vivid, bright, lively
 
 VIBRATING [vibrating] (verb)
-DEF: Engaging in the active process of vibrating.
-EX: It was heavy and warm, vibrating with a faint, subterranean hum that hadn't been there before.
+DEF: The ongoing action or experience of vibrat.
+EX: The students enjoyed vibrating together during their outdoor nature exploration.
 
-VIBRATION [vibration] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: As the silent vibration of the whistle finally died away, the colourful figures faded like morning mist.
+VIBRATION [vibration] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Vibration is remembered throughout history for great bravery and kind leadership.
 
 VILLAGE [ˈvɪl.ɪdʒ] (noun)
 DEF: Multiple small rural or coastal settlements.
 EX: Ancient trade routes connected the quiet coastal villages.
 SYN: settlements, hamlets
 
-VISIONS [visions] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
+VISIONS [visions] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Visions is remembered throughout history for great bravery and kind leadership.
 
-VOICE [voice] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
+VOICE [voice] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Voice is remembered throughout history for great bravery and kind leadership.
 
-VOYAGE [voyage] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
+VOYAGE [voyage] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Voyage is remembered throughout history for great bravery and kind leadership.
 
 WADED [waded] (verb)
-DEF: Past action of experiencing or performing waded.
-EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
+DEF: Completed the action or entered the state of wad.
+EX: Everyone waded with delight when the good news was shared.
 
 WAILED [weɪld] (verb)
 DEF: Made a prolonged, high-pitched cry of sorrow, grief, or pain.
@@ -3505,8 +3512,8 @@ EX: Upon waking, the scouts felt as if they were still dreaming.
 SYN: awakening, stirring
 
 WALKED [walked] (verb)
-DEF: Past action of experiencing or performing walked.
-EX: They walked back out through the shattered glass doors of the mall and into the cool evening air.
+DEF: Completed the action or entered the state of walk.
+EX: Everyone walked with delight when the good news was shared.
 
 WANDER [ˈwɒn.dər] (verb)
 DEF: To walk or move in a leisurely, casual, or aimless way.
@@ -3514,8 +3521,8 @@ EX: The visitors were invited to wander through the fragrant groves.
 SYN: roam, stroll, ramble
 
 WANDERED [wandered] (verb)
-DEF: Past action of experiencing or performing wandered.
-EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
+DEF: Completed the action or entered the state of wander.
+EX: Everyone wandered with delight when the good news was shared.
 
 WANTED [ˈwɒn.tɪd] (verb)
 DEF: Past tense of want; desired or wished for something.
@@ -3527,22 +3534,22 @@ DEF: A state of armed conflict between different nations or groups.
 EX: After ten years of grueling war at Troy, they longed for peace.
 SYN: conflict, battle, combat
 
-WARM [warm] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The metal felt surprisingly warm in his hand.
+WARM [warm] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Warm is remembered throughout history for great bravery and kind leadership.
 
 WARMED [wɔːrmd] (verb)
 DEF: Made or became moderately hot or comfortable.
 EX: The midday sun pleasantly warmed their tired limbs.
 SYN: heated, comforted, thawed
 
-WARMERS [warmers] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+WARMERS [warmers] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Warmers is remembered throughout history for great bravery and kind leadership.
 
-WARMTH [warmth] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+WARMTH [warmth] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Warmth is remembered throughout history for great bravery and kind leadership.
 
 WAS [wɒz] (verb)
 DEF: First and third person singular past tense of be.
@@ -3554,35 +3561,35 @@ DEF: Long bodies of water curling into an arched foam crest on the sea.
 EX: Azure waves broke gently against the warm barrier reef.
 SYN: breakers, billows, surf
 
-WASN'T [wasn't] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: This time, the shift wasn't just on the floor.
+WASN'T [wasn't] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Wasn't is remembered throughout history for great bravery and kind leadership.
 
-WATER [water] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
+WATER [water] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Water is remembered throughout history for great bravery and kind leadership.
 
-WATERS [waters] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy waters stood proudly near the center of the quiet village.
+WATERS [waters] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Waters is remembered throughout history for great bravery and kind leadership.
 
 WAY [weɪ] (noun)
 DEF: A method, style, route, or manner of doing something.
 EX: The clever hero discovered a way to break the lotus enchantment.
 SYN: method, route, manner
 
-WE [we] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "If the security guard catches us, we are in massive trouble."
+WE [we] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: We is remembered throughout history for great bravery and kind leadership.
 
 WEARY [ˈwɪə.ri] (adjective)
 DEF: Periods of seven consecutive days.
 EX: For weeks they had battled turbulent gales across open water.
 SYN: fortnights, periods
 
-WEEKS [weeks] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Some say that after many weeks, Herakles stumbled upon the bronze pitcher Hylas had dropped.
+WEEKS [weeks] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Weeks is remembered throughout history for great bravery and kind leadership.
 
 WEEPING [ˈwiː.pɪŋ] (verb / adjective)
 DEF: Shedding tears in grief, sorrow, or emotional distress.
@@ -3599,18 +3606,18 @@ DEF: Second person singular and all plural past tense of be.
 EX: The Greek galleys were well-built and sturdy against the waves.
 SYN: existed as
 
-WEREN'T [weren't] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+WEREN'T [weren't] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Weren't is remembered throughout history for great bravery and kind leadership.
 
 WHAT [wɒt] (pronoun / determiner)
 DEF: Asking for information specifying something.
 EX: The captain wondered what enchantment held his men captive.
 SYN: which thing
 
-WHAT’S [what’s] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "What’s that?" Gwen asked, stepping inside.
+WHAT’S [what’s] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: What’s is remembered throughout history for great bravery and kind leadership.
 
 WHEN [wɛn] (adverb / conjunction)
 DEF: At what time or in what situation.
@@ -3633,17 +3640,17 @@ EX: A gentle breeze seemed to whisper ancient secrets through the leaves.
 SYN: murmur, breathe, mutter
 
 WHISPERED [whispered] (verb)
-DEF: Past action of experiencing or performing whispered.
-EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
+DEF: Completed the action or entered the state of whisper.
+EX: Everyone whispered with delight when the good news was shared.
 
 WHISPERING [ˈwɪs.pər.ɪŋ] (adjective / verb)
 DEF: Speaking or rustling with a soft, quiet sound.
 EX: The whispering winds carried the fragrance of the blooming flowers.
 SYN: murmuring, rustling, soft
 
-WHISTLE [whistle] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: It was a simple, brass whistle, completely ordinary and unremarkable.
+WHISTLE [whistle] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Whistle is remembered throughout history for great bravery and kind leadership.
 
 WHITE [white] (word)
 DEF: Composed of pale, bright sand characteristic of tropical shores.
@@ -3660,9 +3667,9 @@ DEF: Belonging to or associated with which person.
 EX: They met a peaceful tribe whose diet consisted solely of sweet blossoms.
 SYN: of whom, belonging to whom
 
-WIDE [wide] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: She stared at the gleaming object in Toby's hand, her eyes wide with a sudden, quiet yearning.
+WIDE [wide] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Wide is remembered throughout history for great bravery and kind leadership.
 
 WIFE [waɪf] (noun)
 DEF: A married woman in relation to her spouse.
@@ -3674,22 +3681,22 @@ DEF: To move with quick, irregular side-to-side motions; or to maneuver out of a
 EX: How will the clever hero wiggle his way out of this dilemma?
 SYN: wriggle, maneuver, extricate
 
-WILD [wild] (word)
-DEF: Past action of experiencing or performing wild-eyed.
-EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
+WILD [wild] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Wild is remembered throughout history for great bravery and kind leadership.
 
 WILL [wɪl] (modal verb / noun)
 DEF: Natural movements of the air along the earth's surface.
 EX: Favorable southern winds filled the sail and sped their journey.
 SYN: gales, breezes, currents
 
-WIND [wind] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
+WIND [wind] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Wind is remembered throughout history for great bravery and kind leadership.
 
-WINDOWS [windows] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+WINDOWS [windows] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Windows is remembered throughout history for great bravery and kind leadership.
 
 WINE [waɪn] (noun)
 DEF: An alcoholic drink made from fermented grape juice.
@@ -3706,51 +3713,51 @@ DEF: Accompanied by or possessing.
 EX: The scouts were welcomed with warm smiles and sweet food.
 SYN: alongside, together with
 
-WITHOUT [without] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: "Just an old whistle." Without thinking, he blew into it.
+WITHOUT [without] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Without is remembered throughout history for great bravery and kind leadership.
 
 WOMAN [ˈwʊm.ən] (noun)
 DEF: Adult human females.
 EX: The women of the island wove garlands of fragrant pink blossoms.
 SYN: ladies, females
 
-WOODS [woods] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
+WOODS [woods] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Woods is remembered throughout history for great bravery and kind leadership.
 
 WORD [wɜːrd] (noun)
 DEF: A single distinct meaningful element of speech or writing.
 EX: Tap any highlighted word to view its student-friendly definition.
 SYN: term, expression, vocabulary
 
-WORE [wore] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+WORE [wore] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Wore is remembered throughout history for great bravery and kind leadership.
 
 WORKED [worked] (verb)
-DEF: Past action of experiencing or performing worked.
-EX: They didn't talk about how the object worked, or what mystery lay behind it.
+DEF: Completed the action or entered the state of work.
+EX: Everyone worked with delight when the good news was shared.
 
-WORLD [world] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: The real world felt suddenly dull, grey, and quiet compared to the vibrant warmth they had just touched.
+WORLD [world] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: World is remembered throughout history for great bravery and kind leadership.
 
-WOULD [would] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: He would steal a glance, nothing more, and return the camp before he was missed.
+WOULD [would] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Would is remembered throughout history for great bravery and kind leadership.
 
 YEARNING [yearning] (verb)
-DEF: Engaging in the active process of yearning.
-EX: She stared at the gleaming object in Toby's hand, her eyes wide with a sudden, quiet yearning.
+DEF: The ongoing action or experience of yearn.
+EX: The students enjoyed yearning together during their outdoor nature exploration.
 
-YEARS [years] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+YEARS [years] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: Years is remembered throughout history for great bravery and kind leadership.
 
-YOU [you] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+YOU [you] (proper noun)
+DEF: A specific named person, place, entity, or historical subject.
+EX: You is remembered throughout history for great bravery and kind leadership.
 
 YOUNG [jʌŋ] (adjective / noun)
 DEF: Having lived or existed for only a short time; youthful.
