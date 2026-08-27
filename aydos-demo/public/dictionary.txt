@@ -1,6 +1,14 @@
 # ====================================================================
 # STORYREAD SHARED LOCAL DICTIONARY (842 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
+#
+# Format:
+# WORD [phonetic] (part of speech)
+# DEF: <student-friendly definition>
+# EX: <student-friendly example sentence>
+# SYN: <optional synonyms comma-separated>
+#
+# Feel free to add, edit, or customize definitions as needed!
 # ====================================================================
 
 ABANDONED [əˈbæn.dn̩d] (verb)
@@ -27,10 +35,9 @@ DEF: (modal) In act or in fact; really; in truth; positively.
 EX: Actually, I had nothing to do with that incident.
 SYN: as a matter of fact, in reality, literally
 
-ADJUSTED [əˈdʒʌstɪd] (verb)
-DEF: To modify.
-EX: Morimoto's recipes are adjusted to suit the American palate.
-SYN: change, edit, modify
+ADJUSTED [adjusted] (verb)
+DEF: Carried out the action or entered the state of adjusted.
+EX: Everyone adjusted with excitement when the joyful news was announced.
 
 ADORNED [əˈdɔːnd] (verb)
 DEF: To make more beautiful and attractive; to decorate.
@@ -283,8 +290,8 @@ EX: The golden sun sank quietly behind the purple mountain peaks.
 SYN: in back of, following, rearward
 
 BELOVED [beloved] (verb)
-DEF: To please.
-EX: Everyone beloved with delight when the exciting news arrived.
+DEF: Carried out the action or entered the state of beloved.
+EX: Everyone beloved with excitement when the joyful news was announced.
 
 BENEATH [bɪˈniːθ] (adverb)
 DEF: Below or underneath.
@@ -721,10 +728,10 @@ DANCING [dancing] (verb)
 DEF: The ongoing action or experience of danc.
 EX: The children enjoyed dancing together on a bright and sunny afternoon.
 
-DARK [dark] (word)
-DEF: Having dark brown or black hair.
-EX: The dark-haired lookout called out the sighting of land.
-SYN: brunette, black-haired
+DARK [dɑːk] (adjective)
+DEF: Having an absolute or (more often) relative lack of light.
+EX: The room was too dark for reading.
+SYN: hopeless, negative, pessimistic
 
 DARTING [darting] (verb)
 DEF: The ongoing action or experience of dart.
@@ -1903,10 +1910,10 @@ DEF: Unable to find one's way; or ceased to be visible or remembered.
 EX: The fleet was lost in the vast, stormy waters of the sea.
 SYN: misplaced, bewildered, vanished
 
-LOTUS [lotus] (word)
-DEF: The sweet, honey-flavored bloom of the lotus plant.
-EX: The scouts tasted the lotus-flower and fell into a dreamy slumber.
-SYN: lotus blossom, honey bloom
+LOTUS [ˈloʊ.t̬əs] (noun)
+DEF: A sacred water lily with fragrant blossoms, known in Greek myth for its calming and enchanting effect.
+EX: The sweet taste of the lotus made the weary crew forget all thoughts of sailing home.
+SYN: water lily, enchanted blossom
 
 LUMINESCENT [ˌluː.mɪ.ˈnɛs.ənt] (adjective)
 DEF: The pair of organs inside the chest used for breathing air.
@@ -3672,10 +3679,9 @@ WHISTLE [wɪsl̩] (noun)
 DEF: A device designed to be placed in the mouth and blown, or driven by steam or some other mechanism, to make a whistling sound.
 EX: The teacher pointed out the unique whistle during their classroom discussion.
 
-WHITE [white] (word)
-DEF: Composed of pale, bright sand characteristic of tropical shores.
-EX: The ships landed along a pristine white-sand beach bordered by palm trees.
-SYN: pale-sand, sandy, coastal
+WHITE [waɪt] (noun)
+DEF: The color/colour of snow or milk; the colour of light containing equal amounts of all visible wavelengths.
+EX: The teacher pointed out the interesting white during their classroom discussion.
 
 WHO [huː] (pronoun)
 DEF: What or which person or people.
