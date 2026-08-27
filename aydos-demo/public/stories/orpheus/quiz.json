@@ -1,0 +1,22 @@
+[
+  {
+    "id": "orpheus-q1",
+    "type": "multiple_choice",
+    "question": "what was this kid's thing",
+    "options": [
+      "music",
+      "Superhuman strength in battle",
+      "The ability to see the future",
+      "Command over storms at sea"
+    ],
+    "correctIndex": 0,
+    "explanation": "Orpheus was renowned as the greatest musician and singer, whose melodies could move mortals and gods alike."
+  },
+  {
+    "id": "orpheus-q2",
+    "type": "true_false",
+    "question": "This kid had one fukin job",
+    "correctBoolean": true,
+    "explanation": "He was instructed never to look back until they both emerged into the sunlight."
+  }
+]
