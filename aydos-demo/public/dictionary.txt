@@ -1,5 +1,5 @@
 # ====================================================================
-# STORYREAD SHARED LOCAL DICTIONARY (552 Words)
+# STORYREAD SHARED LOCAL DICTIONARY (842 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
 #
 # Format:
@@ -11,6 +11,15 @@
 # Feel free to add, edit, or customize definitions as needed!
 # ====================================================================
 
+ABANDONED [əˈbæn.dn̩d] (verb)
+DEF: To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.
+EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
+
+ABOUT [əˈbɛʊt] (adjective)
+DEF: Moving around; astir.
+EX: After my bout with Guillan-Barre Syndrome, it took me 6 months to be up and about again.
+SYN: around, active
+
 ACCEPTED [æk.ˈsɛp.tɪd] (verb)
 DEF: Agreed to receive something offered, or approved of a situation.
 EX: The crew accepted the friendly welcome of the island villagers.
@@ -20,6 +29,15 @@ ACHING [ˈeɪ.kɪŋ] (adjective / verb)
 DEF: Suffering from a continuous, dull pain or physical tiredness.
 EX: Their aching muscles rested after rowing through the rough waters.
 SYN: sore, hurting, painful
+
+ACTUALLY [-ɪ] (adverb)
+DEF: (modal) In act or in fact; really; in truth; positively.
+EX: Actually, I had nothing to do with that incident.
+SYN: as a matter of fact, in reality, literally
+
+ADJUSTED [adjusted] (verb)
+DEF: Past action of experiencing or performing adjusted.
+EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
 
 ADORNED [əˈdɔːnd] (verb)
 DEF: To make more beautiful and attractive; to decorate.
@@ -31,18 +49,60 @@ DEF: An exciting, bold, and sometimes perilous journey or experience.
 EX: Odysseus embarked on a great adventure across uncharted seas.
 SYN: quest, expedition, journey
 
+ADVERTISEMENTS [ədˈvɜːtɪsmənt] (noun)
+DEF: A commercial solicitation designed to sell some commodity, service or similar.
+EX: Companies try to sell their products using advertisements in form of placards, television spots and print publications.
+SYN: ad, advert
+
 AFTER [ˈæf.tər] (preposition / conjunction)
 DEF: Following in time, place, or order.
 EX: After the great storm cleared, calm seas surrounded the vessel.
 SYN: following, subsequent to, later than
 
+AFTERNOON [af.təɾˈnʉːn] (noun)
+DEF: The part of the day from noon or lunchtime until sunset, evening, or suppertime or 6pm.
+EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
+SYN: aft, arvo, undern
+
+AGAIN [əˈɡen] (adverb)
+DEF: Another time; once more or back to an earlier position.
+EX: The morning sun rose again over the calm blue waters.
+SYN: once more, repeatedly, anew
+
+AGAINST [əˈɡeɪnst] (preposition)
+DEF: In a contrary direction to.
+EX: It is hard work to swim against the current.
+SYN: versus
+
+AGO [əˈɡəʊ] (adjective)
+DEF: Gone; gone by; gone away; passed; passed away.
+EX: in days ago/in days agone.
+
 AHEAD [əˈhɛd] (adverb)
 DEF: In or to the front; in advance; onward.
 EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
 
+AIR [ˈɛə] (noun)
+DEF: The substance constituting earth's atmosphere, particularly:.
+EX: I'm going outside to get some air.
+SYN: atmosphere, aura, gas
+
+ALIVE [əˈlaɪv] (adjective)
+DEF: Having life; living; not dead.
+EX: As long as the plant is alive, he will continue to water it.
+SYN: alive and kicking, extant, vital
+
 ALL [ɔːl] (noun)
 DEF: (with a possessive pronoun) Everything that one is capable of.
 EX: She gave her all, and collapsed at the finish line.
+
+ALREADY [ɑlˈɹɛdi] (adverb)
+DEF: Prior to some specified time, either past, present, or future; by this time; previously.
+EX: Just a short puff."
+
+"Toby, don't—"
+
+But he had already pressed the metal to his lips and given a sharp, silent blow.
 
 AMONG [ə.ˈmʌŋ] (preposition)
 DEF: Surrounded by or in the middle of a group of people or things.
@@ -83,9 +143,19 @@ DEF: One, some, or all of something, regardless of quantity.
 EX: The lookout did not spot any danger on the horizon.
 SYN: whatever, whichever
 
+APPEARED [əˈpiːɹd] (verb)
+DEF: To come or be in sight; to be in view; to become visible.
+EX: Just a few feet away, a group of teenagers laughing together suddenly appeared.
+SYN: look, emerge
+
 APPROACH [əˈpɹəʊt͡ʃ] (noun)
 DEF: The act of drawing near; a coming or advancing near.
 EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+
+ARE [ɑːr] (verb)
+DEF: The present tense plural and second-person singular form of the verb 'be'.
+EX: The stars are shining brightly to guide our nighttime voyage.
+SYN: exist, remain
 
 ARGO [argo] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -94,6 +164,10 @@ EX: I speak of the swift ship Argo, and its crew of fifty men, many of them stor
 ARMS [ɑːmz] (noun)
 DEF: The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.
 EX: She stood with her right arm extended and her palm forward to indicate “Stop!”.
+
+AROUND [əˈɹaʊnd] (adjective)
+DEF: (with the verb "to be") Present in the vicinity.
+EX: Is Clare around today?.
 
 ARRIVED [əˈɹaɪvd] (verb)
 DEF: To reach; to get to a certain place.
@@ -108,6 +182,10 @@ ASHORE [ə.ˈʃɔːr] (adverb)
 DEF: Onto or towards the land from the water.
 EX: Two scouts went ashore to explore the lush green coastline.
 SYN: on land, beachward, landward
+
+ASKED [ˈɑːskt] (verb)
+DEF: To request (information, or an answer to a question).
+EX: I asked her age.
 
 AT [æt] (preposition)
 DEF: Expressing location, arrival, or point in time.
@@ -134,6 +212,10 @@ DEF: Sound, especially when recorded, transmitted, or reproduced.
 EX: Listen to the audio narration to hear the story come to life.
 SYN: sound, narration, voice
 
+AWAY [əˈweɪ] (verb)
+DEF: To depart; to go to another place.
+EX: At 9 o'clock sharp he awayed to bed.
+
 AWOKE [əˈwəʊk] (verb)
 DEF: To become conscious after having slept.
 EX: When he awoke, Herakles did not see Hylas at his side.
@@ -144,9 +226,19 @@ DEF: To or toward the original starting position or rear.
 EX: Odysseus was determined to journey back to his home in Ithaca.
 SYN: rear, return, backward
 
+BACKWARDS [ˈbæk.wə(ɹ)dz] (adjective)
+DEF: Oriented toward the back.
+EX: The battleship had three backwards guns at the stern, in addition to the primary complement.
+SYN: crude, dated, obsolete
+
 BADE [beɪd] (verb)
 DEF: To issue a command; to tell.
 EX: He bade me come in.
+
+BAGGY [ˈbæɡi] (adjective)
+DEF: Of clothing, very loose-fitting, so as to hang away from the body.
+EX: The surrounding landscape looked especially baggy in the warm morning light.
+SYN: loose, saggy
 
 BANK [bæŋk] (noun)
 DEF: An institution where one can place and borrow money and take care of financial affairs.
@@ -162,6 +254,10 @@ BEACON [ˈbiː.kən] (noun)
 DEF: A guiding light or signal placed on a high hill or tower to guide travelers.
 EX: The hilltop beacon shone through the dark fog to guide ships.
 SYN: signal, lighthouse, guide
+
+BEAT [biːt] (noun)
+DEF: A stroke; a blow.
+EX: A sturdy beat stood proudly near the center of the quiet village.
 
 BEAUTIFUL [ˈbjuː.tɪ.fəl] (adjective)
 DEF: Pleasing to the senses or mind; having great aesthetic charm.
@@ -187,6 +283,11 @@ DEF: During the period of time preceding an event; in front of.
 EX: They gathered freshwater before setting sail once again.
 SYN: prior to, earlier than, ahead of
 
+BEGAN [bɪˈɡæn] (verb)
+DEF: To start, to initiate or take the first step into something.
+EX: I began playing the piano at the age of five.   Now that everyone is here, we should begin the presentation.
+SYN: commence, initiate, start
+
 BEHIND [bɪˈhaɪnd] (preposition / adverb)
 DEF: At the back of or remaining after someone or something moves forward.
 EX: The golden sun sank quietly behind the purple mountain peaks.
@@ -195,6 +296,14 @@ SYN: in back of, following, rearward
 BELOVED [beloved] (verb)
 DEF: Past action of experiencing or performing beloved.
 EX: They began to beloved together as they made their way along the scenic path.
+
+BENEATH [bɪˈniːθ] (adverb)
+DEF: Below or underneath.
+EX: The cracked grey tiles beneath their feet were changing.
+
+BESIDE [bɪˈsaɪd] (adverb)
+DEF: Otherwise; else.
+EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
 
 BEYOND [bɪ.ˈjɒnd] (preposition / adverb)
 DEF: At or to the further side of; past the limits of.
@@ -216,19 +325,40 @@ DEF: Of a sheep or goat, to make its characteristic cry; of a human, to mimic th
 EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
 SYN: kvetch, moan, whine
 
+BLEW [bluː] (verb)
+DEF: To produce an air current.
+EX: "Just an old whistle." Without thinking, he blew into it.
+
 BLOOD [blʌd] (noun)
 DEF: The red liquid that circulates in the arteries and veins of humans and animals.
 EX: Fierce combat was avoided so no blood would be shed on the holy island.
 SYN: lifeblood, vital fluid
+
+BLOW [bləʊ] (noun)
+DEF: A strong wind.
+EX: We're having a bit of a blow this afternoon.
+SYN: snow
+
+BLOWIN [blowin] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: blowin fat clouds.
 
 BLOWS [bloʊz] (verb / noun)
 DEF: The physical structures of human beings or animals.
 EX: The tired sailors rested their exhausted bodies under the shade.
 SYN: figures, physiques, forms
 
+BOARDED-UP [boarded-up] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+
 BODY [ˈbɒdi] (noun)
 DEF: Physical frame.
 EX: A sturdy body stood proudly near the center of the quiet village.
+
+BORN [born] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
 
 BOY [bɔɪ] (noun)
 DEF: A young male child or youth.
@@ -240,10 +370,19 @@ DEF: A burning piece of wood; or a distinctive mark or label.
 EX: He carried a glowing brand to light the cave entrance.
 SYN: torch, ember, mark
 
+BRASS [brass] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: It was a simple, brass whistle, completely ordinary and unremarkable.
+
 BRAVERY [ˈbreɪ.vər.i] (noun)
 DEF: Courageous behavior or character in the face of danger.
 EX: The captain commended the crew for their bravery during the storm.
 SYN: courage, valor, fearlessness
+
+BREATHING [ˈbriː.ðɪŋ] (verb / noun)
+DEF: The process of taking air into and expelling it from the lungs.
+EX: Sitting quietly by the river, she took slow, deep breathing exercises to relax.
+SYN: respiring, inhaling, respiration
 
 BREEZE [briːz] (noun)
 DEF: A gentle, refreshing wind.
@@ -255,10 +394,18 @@ DEF: Lasting only a short duration; concise and quickly ending.
 EX: They took a brief moment to catch their breath on the sandy hill.
 SYN: short, fleeting, quick
 
+BRIGHT [bright] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
+
 BRILLIANT [ˈbrɪl.jənt] (adjective)
 DEF: Exceptionally bright, vivid, or intellectually outstanding.
 EX: A brilliant beam of sunlight pierced through the storm clouds.
 SYN: radiant, dazzling, shining
+
+BROKEN [broken] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Toby kicked a deflated football, his trainers crunching on broken glass.
 
 BRONZE [bɹɒnz] (noun)
 DEF: A naturally occurring or man-made alloy of copper, usually in combination with tin, but also with one or more other metals.
@@ -323,6 +470,10 @@ DEF: A deep gorge or ravine, typically one with a river flowing through it.
 EX: Echoes rang through the deep canyon between the cliffs.
 SYN: gorge, ravine, chasm
 
+CAP [cap] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy cap stood proudly near the center of the quiet village.
+
 CAPTAIN [captain] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
@@ -332,10 +483,40 @@ DEF: To lift (something) and take it to another place; to transport (something) 
 EX: They began to carried together as they made their way along the scenic path.
 SYN: adopt, take on, take over
 
+CASSETTE [cassette] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+
+CATCHES [catches] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "If the security guard catches us, we are in massive trouble."
+
+"Relax," Toby laughed, though his heart hammered against his ribs.
+
+CAVERNOUS [cavernous] (adjective)
+DEF: Possessing the distinctive quality or condition of being cavernous.
+EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
+
+CENTRE [centre] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
+
+CENTURIES [centuries] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+
+CHANGING [changing] (verb)
+DEF: Engaging in the active process of changing.
+EX: The cracked grey tiles beneath their feet were changing.
+
 CHAPTER [ˈtʃæp.tər] (noun)
 DEF: A main division of a book, story, or historical period.
 EX: Chapter II recounts the encounter with the gentle Lotus-Eaters.
 SYN: section, part, episode
+
+CHEERFUL [cheerful] (adjective)
+DEF: Possessing the distinctive quality or condition of being cheerful.
+EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
 
 CHERISHED [ˈtʃɛr.ɪʃt] (adjective / verb)
 DEF: Steep, high rock faces along a coast or mountain edge.
@@ -350,6 +531,10 @@ CHOICE [choice] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
 
+CLEAN [clean] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
+
 CLEAR [clear] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: A sturdy clear stood proudly near the center of the quiet village.
@@ -357,6 +542,10 @@ EX: A sturdy clear stood proudly near the center of the quiet village.
 CLEARING [clearing] (verb)
 DEF: Engaging in the active process of clearing.
 EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing from strange eyes.
+
+CLIP [clip] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
 
 CLOCKWORK [ˈklɒk.wɜːk] (noun / adjective)
 DEF: A mechanical mechanism of interlocking gears and springs operating with smooth regularity.
@@ -372,6 +561,10 @@ DEF: Situated at a shorter distance in space or time; more near.
 EX: They stepped closer to the campfire to warm their cold hands.
 SYN: nearer, more proximate
 
+CLOUDS [clouds] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: blowin fat clouds.
+
 COAST [koʊst] (noun)
 DEF: The land along or adjoining a sea or ocean.
 EX: They guided the ships safely along the rocky Mediterranean coast.
@@ -381,6 +574,15 @@ COLD [cold] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
 
+COLOURFUL [colourful] (adjective)
+DEF: Possessing the distinctive quality or condition of being colourful.
+EX: As the silent vibration of the whistle finally died away, the colourful figures faded like morning mist.
+
+COME [kʌm] (verb)
+DEF: To move toward or arrive at a place regarded as near or familiar.
+EX: "Come with us to explore the hidden valley," called the cheerful travelers.
+SYN: arrive, approach, advance
+
 COMMAND [command] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
@@ -388,6 +590,10 @@ EX: Jason was its captain, and under his command did these fifty men travel to d
 COMPANION [companion] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He called out for Hylas, but his companion did not answer.
+
+COMPARED [compared] (verb)
+DEF: Past action of experiencing or performing compared.
+EX: The real world felt suddenly dull, grey, and quiet compared to the vibrant warmth they had just touched.
 
 COMPASS [ˈkʌm.pəs] (noun)
 DEF: An instrument containing a magnetized pointer that indicates geographic north.
@@ -398,6 +604,10 @@ COMPASSION [kəm.ˈpæʃ.ən] (noun)
 DEF: Sympathetic pity and concern for the sufferings or misfortunes of others.
 EX: The peaceful islanders treated the weary strangers with great compassion.
 SYN: kindness, empathy, mercy
+
+COMPLETELY [completely] (adverb)
+DEF: In a complete or characteristic manner.
+EX: It was a simple, brass whistle, completely ordinary and unremarkable.
 
 CONFIDENT [confident] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -423,10 +633,18 @@ DEF: Fairly cold in temperature, or calm and composed in temperament.
 EX: They drank cool freshwater from the mountain spring.
 SYN: chilled, refreshing, calm
 
+CORRIDOR [corridor] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They stepped out of the electronics shop and back into the main corridor of the mall.
+
 COULD [kʊd] (modal verb)
 DEF: Used to indicate possibility, ability, or permission in the past.
 EX: They could see the island emerging through the morning mist.
 SYN: was able to, had power to
+
+COUNTER [counter] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
 
 COURAGE [ˈkʌr.ɪdʒ] (noun)
 DEF: The ability to face fear, pain, or danger without backing down.
@@ -437,6 +655,18 @@ COURSE [kɔːrs] (noun)
 DEF: The route or direction followed by a ship, aircraft, or journey.
 EX: The violent north wind blew their fleet entirely off its planned course.
 SYN: route, path, trajectory
+
+COVERED [covered] (verb)
+DEF: Past action of experiencing or performing covered.
+EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+
+CRACKED [cracked] (verb)
+DEF: Past action of experiencing or performing cracked.
+EX: The cracked grey tiles beneath their feet were changing.
+
+CRACKS [cracks] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
 
 CRASHED [kræʃt] (verb)
 DEF: Collided violently with loud noise, or broke upon rocks as waves.
@@ -453,6 +683,14 @@ DEF: Acts or offenses punishable by law, justice, or divine retribution.
 EX: The sacking of the peaceful city brought retribution for their crimes.
 SYN: offenses, misdeeds, transgressions
 
+CRUMBLING [crumbling] (verb)
+DEF: Engaging in the active process of crumbling.
+EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
+
+CRUNCHING [crunching] (verb)
+DEF: Engaging in the active process of crunching.
+EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+
 CURIOSITY [ˌkjʊə.ri.ˈɒs.ə.ti] (noun)
 DEF: A strong desire to learn, know, or investigate something novel.
 EX: Curiosity drove the scouts to discover who lived beyond the tree line.
@@ -463,6 +701,18 @@ DEF: Traditional practices and social behaviors common to a culture.
 EX: Odysseus respected the hospitable customs of the foreign land.
 SYN: traditions, practices, rituals
 
+DAMP [damp] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
+
+DANCE [dance] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
+
+DANCED [danced] (verb)
+DEF: Past action of experiencing or performing danced.
+EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
+
 DANCING [dancing] (verb)
 DEF: Engaging in the active process of dancing.
 EX: They began to dancing together as they made their way along the scenic path.
@@ -471,6 +721,12 @@ DARK [dark] (word)
 DEF: Having dark brown or black hair.
 EX: The dark-haired lookout called out the sighting of land.
 SYN: brunette, black-haired
+
+DARTING [darting] (verb)
+DEF: Engaging in the active process of darting.
+EX: it stopped."
+
+"Let’s just get out of here," Gwen said, her eyes darting nervously around the shadows.
 
 DASHED [dashed] (verb)
 DEF: Past action of experiencing or performing dashed.
@@ -490,6 +746,10 @@ DEAR [dear] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
 
+DEBRIS [debris] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy debris stood proudly near the center of the quiet village.
+
 DECLARED [declared] (verb)
 DEF: Past action of experiencing or performing declared.
 EX: They began to declared together as they made their way along the scenic path.
@@ -499,6 +759,10 @@ DEF: Extending far down from the top or surface; profound.
 EX: The crystal clear water was so deep they could not see the bottom.
 SYN: profound, bottomless, abyssal
 
+DEEPER [deeper] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+
 DEEPLY [ˈdiːp.li] (adverb)
 DEF: To a profound extent or depth; intensely and thoroughly.
 EX: They drank deeply from the sweet nectar offered by the islanders.
@@ -507,6 +771,10 @@ SYN: intensely, profoundly, thoroughly
 DEFINITION [definition] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: A sturdy definition stood proudly near the center of the quiet village.
+
+DEFLATED [deflated] (verb)
+DEF: Past action of experiencing or performing deflated.
+EX: Toby kicked a deflated football, his trainers crunching on broken glass.
 
 DELICATE [ˈdɛl.ɪ.kət] (adjective)
 DEF: Finely made, fragile, or requiring gentle and careful handling.
@@ -518,10 +786,22 @@ DEF: Handing over, bringing to a destination, or giving voice to words.
 EX: The captain was delivering an urgent order to his rowing officers.
 SYN: bringing, imparting, presenting
 
+DEMANDED [demanded] (verb)
+DEF: Past action of experiencing or performing demanded.
+EX: "What did you do?" Gwen demanded, her voice trembling.
+
+DENIM [denim] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy denim stood proudly near the center of the quiet village.
+
 DESCRIBING [dɪ.ˈskraɪ.bɪŋ] (verb)
 DEF: Giving an account in words of someone or something.
 EX: The narrator was describing the lush landscape of the enchanted isle.
 SYN: depicting, explaining, illustrating
+
+DESIRE [desire] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy desire stood proudly near the center of the quiet village.
 
 DICTIONARY [ˈdɪk.ʃən.ər.i] (noun)
 DEF: A reference book or resource that lists words and explains their meanings.
@@ -532,6 +812,30 @@ DID [dɪd] (verb)
 DEF: Past tense of do; performed or executed an action.
 EX: The hero did everything in his power to protect his men.
 SYN: performed, executed, accomplished
+
+DIDN'T [didn't] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The figures didn't notice Toby or Gwen.
+
+DIED [died] (verb)
+DEF: Past action of experiencing or performing died.
+EX: As the silent vibration of the whistle finally died away, the colourful figures faded like morning mist.
+
+DIFFERENT [different] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: But the air outside felt different now.
+
+DIM [dim] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The dim, grey mall seemed to ripple like water.
+
+DIMINISH [diminish] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy diminish stood proudly near the center of the quiet village.
+
+DISCONNECTED [disconnected] (verb)
+DEF: Past action of experiencing or performing disconnected.
+EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
 
 DISCOVER [dɪ.ˈskʌv.ər] (verb)
 DEF: To find or become aware of something for the first time.
@@ -552,10 +856,26 @@ DEF: Far away in space, time, or relationship.
 EX: A distant island appeared as a faint blue line against the sky.
 SYN: far-off, remote, faraway
 
+DO [do] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "What did you do?" Gwen demanded, her voice trembling.
+
+DON'T [don't] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "I don't know," Toby murmured, his fingers tightening around the silver metal.
+
 DONE [dʌn] (verb / adjective)
 DEF: Completed, finished, or brought to an end.
 EX: When the day's hard rowing was done, they anchored in the bay.
 SYN: completed, finished, concluded
+
+DOOR [door] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The door was slightly open.
+
+DOORS [doors] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They walked back out through the shattered glass doors of the mall and into the cool evening air.
 
 DOWN [daʊn] (adverb / preposition)
 DEF: Toward or in a lower place, direction, or position.
@@ -589,6 +909,10 @@ DRIFTED [drifted] (verb)
 DEF: Past action of experiencing or performing drifted.
 EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
 
+DRIPPING [dripping] (verb)
+DEF: Engaging in the active process of dripping.
+EX: The silence lifted, and the distant sound of dripping water returned.
+
 DROPPED [dropped] (verb)
 DEF: Past action of experiencing or performing dropped.
 EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
@@ -617,10 +941,30 @@ DEF: Free from moisture or liquid; not wet.
 EX: They hauled the wooden boats onto the dry, warm sand.
 SYN: arid, parched, dehydrated
 
+DULL [dull] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The real world felt suddenly dull, grey, and quiet compared to the vibrant warmth they had just touched.
+
 DULLED [dʌld] (verb / adjective)
 DEF: Made less sharp, intense, or active; numbed.
 EX: The magical honeyed blossom dulled their ambition and memories.
 SYN: numbed, blunted, diminished
+
+DUNGAREES [dungarees] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy dungarees stood proudly near the center of the quiet village.
+
+DUST [dust] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
+
+DUSTY [dusty] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+
+EARTH [earth] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
 
 EASTERN [ˈiː.stərn] (adjective)
 DEF: Located toward, facing, or originating from the east.
@@ -642,6 +986,22 @@ DEF: A sound that is reflected back and heard again from a distance.
 EX: Their shouts created a repeating echo off the tall canyon walls.
 SYN: reverberation, resonance, reflection
 
+ECHOED [echoed] (verb)
+DEF: Past action of experiencing or performing echoed.
+EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+
+ECHOING [echoing] (verb)
+DEF: Engaging in the active process of echoing.
+EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
+
+EITHER [either] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+
+ELECTRONICS [electronics] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Toby stopped outside an old electronics shop called Future Sound.
+
 EMBARKED [ɛm.ˈbɑːrkt] (verb)
 DEF: Went on board a ship or aircraft; or began a major endeavor.
 EX: The Greek warriors embarked on their voyage back to their islands.
@@ -651,6 +1011,10 @@ EMERALD [ˈɛm.ər.əld] (noun / adjective)
 DEF: A bright green precious gemstone, or a vivid green color.
 EX: Emerald hills sloped down gently into the crystal blue sea.
 SYN: bright green, verdant, jade
+
+EMPTY [empty] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
 
 ENCHANTED [ɪn.ˈtʃæn.tɪd] (adjective)
 DEF: Charmed, under a magical spell, or wonderfully delightful.
@@ -680,6 +1044,10 @@ SYN: fled, broke free, evaded
 EVEN [ˈiːvən] (noun)
 DEF: (diminutive) An even number.
 EX: So let's see. There are two evens here and three odds.
+
+EVENING [evening] (verb)
+DEF: Engaging in the active process of evening.
+EX: They walked back out through the shattered glass doors of the mall and into the cool evening air.
 
 EVERY [ˈɛv.ri] (determiner)
 DEF: Used to refer to all the individual members of a set without exception.
@@ -716,6 +1084,18 @@ DEF: To gradually grow faint, dim, or disappear from view or memory.
 EX: Memories of home began to fade after tasting the sweet flower.
 SYN: dim, vanish, dissolve
 
+FADED [faded] (verb)
+DEF: Past action of experiencing or performing faded.
+EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+
+FADING [fading] (verb)
+DEF: Engaging in the active process of fading.
+EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+
+FAINT [faint] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: It was heavy and warm, vibrating with a faint, subterranean hum that hadn't been there before.
+
 FAIR [fair] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Fair Hylas did not sleep.
@@ -724,6 +1104,10 @@ FAR [fɑːr] (adverb / adjective)
 DEF: At, to, or by a great distance in space or time.
 EX: They were blown far from their plotted homeland.
 SYN: distant, remote, away
+
+FAT [fat] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: blowin fat clouds.
 
 FEAR [fɪə] (noun)
 DEF: A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.
@@ -739,6 +1123,10 @@ FEED [fiːd] (verb)
 DEF: To give food to or supply with nourishment.
 EX: The gentle islanders wished only to feed their visitors sweet nectar.
 SYN: nourish, provide food, sustain
+
+FEET [feet] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The cracked grey tiles beneath their feet were changing.
 
 FELL [fɛl] (verb)
 DEF: Past tense of fall; dropped down, or entered into a state.
@@ -767,10 +1155,22 @@ FIFTY [fifty] (word)
 DEF: Past action of experiencing or performing fifty-oared.
 EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
 
+FIGURES [figures] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Through the hazy air, figures began to overlay the empty space around them.
+
 FILLING [ˈfɪl.ɪŋ] (verb / adjective)
 DEF: Making or becoming full of something.
 EX: The aroma of sweet flowers was filling the warm island air.
 SYN: packing, permeating, saturating
+
+FINALLY [finally] (adverb)
+DEF: In a final or characteristic manner.
+EX: As the silent vibration of the whistle finally died away, the colourful figures faded like morning mist.
+
+FINGERS [fingers] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "I don't know," Toby murmured, his fingers tightening around the silver metal.
 
 FIXED [fɪkst] (adjective / verb)
 DEF: Fastened securely, unchanging, or repaired.
@@ -784,6 +1184,12 @@ EX: A sturdy flash stood proudly near the center of the quiet village.
 FLEECE [fleece] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+
+FLOOR [floor] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "Look at the floor."
+
+Toby looked down.
 
 FLOWER [ˈflaʊ.ər] (noun)
 DEF: The seed-bearing part of a plant consisting of colorful petals.
@@ -804,6 +1210,18 @@ FLUTTERING [fluttering] (verb)
 DEF: Engaging in the active process of fluttering.
 EX: They began to fluttering together as they made their way along the scenic path.
 
+FOOT [foot] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy foot stood proudly near the center of the quiet village.
+
+FOOTBALL [football] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+
+FOOTSTEPS [footsteps] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The mall around them felt alive, breathing with the memories of thousands of forgotten footsteps.
+
 FOR [fɔːr] (preposition)
 DEF: With the purpose or goal of; in favor of.
 EX: They sailed for many days in search of a safe anchorage.
@@ -823,6 +1241,10 @@ FORGOT [fər.ˈɡɒt] (verb)
 DEF: Past tense of forget; ceased to remember.
 EX: As soon as they tasted the blossom, they forgot their voyage.
 SYN: lost memory of, erased
+
+FORGOTTEN [forgotten] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The mall around them felt alive, breathing with the memories of thousands of forgotten footsteps.
 
 FOUND [faʊnd] (verb)
 DEF: Past tense of find; discovered or located by searching.
@@ -861,6 +1283,18 @@ FRUITLESSLY [fruitlessly] (adverb)
 DEF: In a fruitless or characteristic manner.
 EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
 
+FURTHER [further] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy further stood proudly near the center of the quiet village.
+
+FUTURE [future] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Toby stopped outside an old electronics shop called Future Sound.
+
+GASPED [gasped] (verb)
+DEF: Past action of experiencing or performing gasped.
+EX: "Toby..." Gwen gasped, her face turning pale.
+
 GATHERING [gathering] (verb)
 DEF: Engaging in the active process of gathering.
 EX: They began to gathering together as they made their way along the scenic path.
@@ -878,18 +1312,48 @@ GESTURES [gestures] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
 
+GET [get] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: it stopped."
+
+"Let’s just get out of here," Gwen said, her eyes darting nervously around the shadows.
+
 GHOSTLY [ghostly] (adverb)
 DEF: In a ghost or characteristic manner.
 EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+
+GIANT [giant] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
 
 GIFT [ɡɪft] (noun)
 DEF: Something given voluntarily without payment in return.
 EX: The islanders offered their sweet honey-food as a gift of friendship.
 SYN: present, offering, donation
 
+GIRL [girl] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+
+GIVEN [given] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Just a short puff."
+
+"Toby, don't—"
+
+But he had already pressed the metal to his lips and given a sharp, silent blow.
+
 GLANCE [glance] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He would steal a glance, nothing more, and return the camp before he was missed.
+
+GLASS [glass] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+
+GLEAMING [gleaming] (verb)
+DEF: Engaging in the active process of gleaming.
+EX: She stared at the gleaming object in Toby's hand, her eyes wide with a sudden, quiet yearning.
 
 GLEN [glen] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -953,6 +1417,10 @@ DEF: The people of ancient or modern Greece.
 EX: The Greeks built strong wooden galleys to explore the Mediterranean.
 SYN: Hellenes, Achaeans
 
+GREEN [green] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+
 GREETED [ˈɡriː.tɪd] (verb)
 DEF: Welcomed or addressed someone upon arrival.
 EX: The peaceful islanders greeted the newcomers with open arms.
@@ -963,14 +1431,36 @@ DEF: Past tense of grow; increased in size, number, or developed.
 EX: Sweet flowering lotus plants grew wild along the sunny riverbank.
 SYN: flourished, developed, sprouted
 
+GREY [grey] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The cracked grey tiles beneath their feet were changing.
+
 GROTTOS [grottos] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+
+GROUP [group] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Just a few feet away, a group of teenagers laughing together suddenly appeared.
+
+GUARD [guard] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "If the security guard catches us, we are in massive trouble."
+
+"Relax," Toby laughed, though his heart hammered against his ribs.
+
+GWEN [gwen] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
 
 HAD [hæd] (verb)
 DEF: Past tense of have; possessed or experienced.
 EX: The sailors had no idea of the magical nature of the sweet fruit.
 SYN: possessed, held, owned
+
+HADN'T [hadn't] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: It was heavy and warm, vibrating with a faint, subterranean hum that hadn't been there before.
 
 HAIR [hɛər] (noun)
 DEF: Any of the fine thread-like strands growing from the skin of humans and animals.
@@ -980,6 +1470,16 @@ SYN: locks, tresses, strands
 HALFWAY [halfway] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
+
+HAMMERED [hammered] (verb)
+DEF: Past action of experiencing or performing hammered.
+EX: "If the security guard catches us, we are in massive trouble."
+
+"Relax," Toby laughed, though his heart hammered against his ribs.
+
+HAND [hand] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The metal felt surprisingly warm in his hand.
 
 HANDS [hæn(d)z] (noun)
 DEF: The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals.
@@ -1005,19 +1505,41 @@ DEF: Gathered ripe crops, fruit, or resources from the land.
 EX: They harvested the sweet honey-fruit from the blooming trees.
 SYN: gathered, collected, reaped
 
+HAS [has] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "Nobody has come here since it closed down ten years ago.
+
 HAVE [hæv] (verb)
 DEF: To possess, own, hold, or experience something.
 EX: The sailors have a long journey ahead to reach Ithaca.
 SYN: possess, hold, contain
+
+HAZY [hazy] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Through the hazy air, figures began to overlay the empty space around them.
 
 HE [hiː] (pronoun)
 DEF: The center of emotions, courage, and feelings in human beings.
 EX: A longing for home burned warmly within their hearts.
 SYN: souls, spirits, feelings
 
+HEAR [hear] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy hear stood proudly near the center of the quiet village.
+
 HEARD [hiːɹd] (verb)
 DEF: (stative) To perceive sounds through the ear.
 EX: I was deaf, and now I can hear.
+
+HEART [heart] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "If the security guard catches us, we are in massive trouble."
+
+"Relax," Toby laughed, though his heart hammered against his ribs.
+
+HEAVY [heavy] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Instead, a heavy, peculiar silence fell over the room.
 
 HEED [hiːd] (verb / noun)
 DEF: To pay careful attention to advice, warning, or instructions.
@@ -1066,6 +1588,10 @@ DEF: Belonging to or associated with a male person.
 EX: His clever mind devised a plan to save the crew.
 SYN: belonging to him
 
+HOLDING [holding] (verb)
+DEF: Engaging in the active process of holding.
+EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+
 HOME [hoʊm] (noun)
 DEF: Dwellings, houses, or native lands of people.
 EX: The men longed to return to their peaceful island homes.
@@ -1091,6 +1617,10 @@ DEF: A time period of sixty minutes; one twenty-fourth of a day.
 EX: I spent an hour at lunch.
 SYN: stound, h, hr
 
+HOW [how] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They didn't talk about how the object worked, or what mystery lay behind it.
+
 HOWLING [ˈhaʊ.lɪŋ] (adjective / verb)
 DEF: Making a long, loud, wailing cry or noise, like strong winds.
 EX: The howling wind whipped through the rigging of the galley.
@@ -1105,6 +1635,10 @@ HUH [hʌ] (interjection)
 DEF: An informal exclamation expressing inquiry, surprise, or curiosity.
 EX: 'Huh? What strange enchantment is this?' asked the lookout.
 SYN: what, pardon, really
+
+HUM [hum] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: It was heavy and warm, vibrating with a faint, subterranean hum that hadn't been there before.
 
 HUMBLE [ˈhʌm.bəl] (adjective)
 DEF: Having or showing a modest estimate of one's importance; simple.
@@ -1124,9 +1658,17 @@ HUNTS [hunts] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
 
+HURRIED [hurried] (verb)
+DEF: Past action of experiencing or performing hurried.
+EX: The cheerful music drifted into nothingness, leaving only the sound of their own hurried breathing in the dark, dusty corridor.
+
 HYLAS [hylas] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
+
+IDEA [idea] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
 
 IF [ɪf] (noun)
 DEF: An uncertainty, possibility, condition, doubt etc.
@@ -1151,6 +1693,18 @@ IN [ɪn] (preposition)
 DEF: Expressing the situation of something enclosed or surrounded by something else.
 EX: The ships rested in the calm waters of the cove.
 SYN: inside, within
+
+INCHES [inches] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+
+INSIDE [inside] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+
+INSTEAD [instead] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Instead, a heavy, peculiar silence fell over the room.
 
 INTERACTIVE [ˌɪn.tər.ˈæk.tɪv] (adjective)
 DEF: Allowing a two-way flow of information between user and application.
@@ -1214,6 +1768,14 @@ DEF: Factually right, correct; factual.
 EX: It is a just assessment of the facts.
 SYN: adequate, proper, correct
 
+KICKED [kicked] (verb)
+DEF: Past action of experiencing or performing kicked.
+EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+
+KNEW [knew] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+
 KNOW [noʊ] (verb)
 DEF: Young sheep.
 EX: Flocks of woolly lambs grazed along the sunny coastal meadows.
@@ -1241,6 +1803,16 @@ LATER [later] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
 
+LAUGHED [laughed] (verb)
+DEF: Past action of experiencing or performing laughed.
+EX: "If the security guard catches us, we are in massive trouble."
+
+"Relax," Toby laughed, though his heart hammered against his ribs.
+
+LAUGHING [laughing] (verb)
+DEF: Engaging in the active process of laughing.
+EX: Just a few feet away, a group of teenagers laughing together suddenly appeared.
+
 LAY [leɪ] (verb)
 DEF: Past tense of lie; rested in a flat horizontal position.
 EX: The drowsy sailors lay upon the soft sand under the shade.
@@ -1255,10 +1827,40 @@ DEF: To go away from a place or person.
 EX: Odysseus commanded his men to leave the enchanted shore immediately.
 SYN: depart, set off, exit
 
+LEAVING [leaving] (verb)
+DEF: Engaging in the active process of leaving.
+EX: The cheerful music drifted into nothingness, leaving only the sound of their own hurried breathing in the dark, dusty corridor.
+
+LEFT [left] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+
+LEG [leg] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+
+LET’S [let’s] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: it stopped."
+
+"Let’s just get out of here," Gwen said, her eyes darting nervously around the shadows.
+
+LIFE [life] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+
+LIFTED [lifted] (verb)
+DEF: Past action of experiencing or performing lifted.
+EX: The silence lifted, and the distant sound of dripping water returned.
+
 LIGHT [laɪt] (noun / adjective)
 DEF: The natural agent that stimulates sight and makes things visible; or not heavy.
 EX: The morning light painted the ocean waves in shades of gold.
 SYN: radiance, illumination, brightness
+
+LIKE [like] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The dim, grey mall seemed to ripple like water.
 
 LILY [lily] (word)
 DEF: An essential narrative term or element present in the story.
@@ -1295,6 +1897,16 @@ DEF: Measuring a greater distance or duration of time.
 EX: They could stay on the island no longer if they wished to see home.
 SYN: further, extended, more
 
+LOOK [look] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+
+LOOKED [looked] (verb)
+DEF: Past action of experiencing or performing looked.
+EX: "Look at the floor."
+
+Toby looked down.
+
 LOST [lɒst] (adjective / verb)
 DEF: Unable to find one's way; or ceased to be visible or remembered.
 EX: The fleet was lost in the vast, stormy waters of the sea.
@@ -1323,10 +1935,18 @@ MADNESS [madness] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Fear was unfamiliar to Herakles, and it drove him nearly to madness.
 
+MAIN [main] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They stepped out of the electronics shop and back into the main corridor of the mall.
+
 MAKES [meɪks] (verb)
 DEF: Causes something to be or become; creates.
 EX: The honey-fruit makes every traveler forget their homeland.
 SYN: causes, renders, creates
+
+MALL [mall] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
 
 MANAGED [ˈmæn.ɪdʒd] (verb)
 DEF: Succeeded in doing or accomplishing something difficult.
@@ -1361,6 +1981,12 @@ DEF: An indiscriminate and brutal slaughter of many people.
 EX: The warriors caused a fierce massacre before reinforcements arrived.
 SYN: slaughter, carnage, destruction
 
+MASSIVE [massive] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "If the security guard catches us, we are in massive trouble."
+
+"Relax," Toby laughed, though his heart hammered against his ribs.
+
 MAST [mast] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: A sturdy mast stood proudly near the center of the quiet village.
@@ -1374,6 +2000,10 @@ DEF: An occasion when food is eaten, or the food eaten on such an occasion.
 EX: They shared a wholesome meal of bread, olives, and fresh fruit.
 SYN: feast, repast, dinner
 
+MELANCHOLIC [melancholic] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
+
 MELODY [ˈmɛl.ə.di] (noun)
 DEF: A sequence of single musical notes that is musically satisfying; a tune.
 EX: A gentle melody from a shepherd's pipe drifted across the hills.
@@ -1383,6 +2013,10 @@ MELTED [ˈmɛl.tɪd] (verb / adjective)
 DEF: Adult human males; crew members or warriors.
 EX: The brave men manned the rowing benches with steady determination.
 SYN: crew, sailors, warriors
+
+MEMORIES [memories] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The mall around them felt alive, breathing with the memories of thousands of forgotten footsteps.
 
 MEN [men] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -1395,6 +2029,10 @@ EX: Some say the gods did not even grant him that mercy, and Herakles found no t
 MET [met] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
+
+METAL [metal] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The metal felt surprisingly warm in his hand.
 
 MIDDAY [ˌmɪd.ˈdeɪ] (noun)
 DEF: The element of a person that enables them to think, feel, and reason.
@@ -1409,9 +2047,17 @@ MIND [mind] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
 
+MINDS [minds] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy minds stood proudly near the center of the quiet village.
+
 MISSED [missed] (verb)
 DEF: Past action of experiencing or performing missed.
 EX: He would steal a glance, nothing more, and return the camp before he was missed.
+
+MIST [mist] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: As the silent vibration of the whistle finally died away, the colourful figures faded like morning mist.
 
 MORE [mɔːr] (determiner / adverb)
 DEF: A greater or additional quantity, degree, or number.
@@ -1423,9 +2069,25 @@ DEF: The early period of the day from sunrise to noon.
 EX: The cool morning breeze carried the sweet scent of jasmine.
 SYN: dawn, daybreak, sunrise
 
+MOSS [moss] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+
 MOST [most] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
+
+MOVED [moved] (verb)
+DEF: Past action of experiencing or performing moved.
+EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
+
+MURMURED [murmured] (verb)
+DEF: Past action of experiencing or performing murmured.
+EX: "I don't know," Toby murmured, his fingers tightening around the silver metal.
+
+MUSIC [music] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
 
 MY [maɪ] (possessive determiner)
 DEF: Belonging to or associated with the speaker.
@@ -1436,6 +2098,10 @@ MYSTERIOUS [mɪ.ˈstɪə.ri.əs] (adjective)
 DEF: Difficult or impossible to understand, explain, or identify.
 EX: A mysterious island appeared out of the thick ocean fog.
 SYN: enigmatic, strange, mystical
+
+MYSTERY [mystery] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They didn't talk about how the object worked, or what mystery lay behind it.
 
 NAME [neɪm] (noun / verb)
 DEF: A word or set of words by which a person, place, or thing is known.
@@ -1470,10 +2136,24 @@ NEEDLES [needles] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
 
+NEON [neon] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+
+NERVOUSLY [nervously] (adverb)
+DEF: In a nervous or characteristic manner.
+EX: it stopped."
+
+"Let’s just get out of here," Gwen said, her eyes darting nervously around the shadows.
+
 NEW [njuː] (adjective)
 DEF: Multiple periods from sunset to sunrise.
 EX: For nine long nights, stormy winds tossed the ships upon the sea.
 SYN: evenings, nighttimes
+
+NEXT [next] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
 
 NO [no] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -1482,6 +2162,10 @@ EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to le
 NOBLE [noble] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He wandered recklessly, fruitlessly, and noble Jason had no choice but to leave Herakles behind on the lonely isle of Phasis.
+
+NOBODY [nobody] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "Nobody has come here since it closed down ten years ago.
 
 NOT [nɒt] (adverb)
 DEF: Used with an auxiliary verb or 'be' to form the negative.
@@ -1493,9 +2177,29 @@ DEF: Not anything; no single thing.
 EX: Nothing could deter Odysseus from his determination to see home.
 SYN: naught, zero
 
+NOTHINGNESS [nothingness] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The cheerful music drifted into nothingness, leaving only the sound of their own hurried breathing in the dark, dusty corridor.
+
+NOTICE [notice] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The figures didn't notice Toby or Gwen.
+
+NOW [now] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: But the air outside felt different now.
+
 NYMPHS [nymphs] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
+
+OASIS [oasis] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
+
+OBJECT [object] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
 
 OBSERVATORY [əb.ˈzɜːr.və.tɔːr.i] (noun)
 DEF: A building or high place designed for observing the stars, planets, and weather.
@@ -1522,6 +2226,10 @@ DEF: Smooth, thick, fragrant liquids pressed from olives or herbs.
 EX: They brought fragrant olive oils to trade with the coastal villagers.
 SYN: ointments, unguents, essences
 
+OLD [old] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+
 ON [ɒn] (preposition)
 DEF: Physically in contact with and supported by a surface.
 EX: The wooden boat rested on the warm sandy beach.
@@ -1541,6 +2249,10 @@ ONLY [only] (adverb)
 DEF: In a on or characteristic manner.
 EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
 
+OPEN [open] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The door was slightly open.
+
 OR [ɔːr] (conjunction)
 DEF: Used to link alternatives.
 EX: They had to choose between staying in blissful slumber or returning home.
@@ -1551,6 +2263,10 @@ DEF: Gave an authoritative instruction or command.
 EX: Odysseus ordered his crew to tie the bewitched men securely under the benches.
 SYN: commanded, instructed, directed
 
+ORDINARY [ordinary] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: It was a simple, brass whistle, completely ordinary and unremarkable.
+
 ORPHEUS [orpheus] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: A sturdy orpheus stood proudly near the center of the quiet village.
@@ -1558,6 +2274,10 @@ EX: A sturdy orpheus stood proudly near the center of the quiet village.
 OUT [out] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Drowsy from the sun, the men drifted off in the shade and dreamed of sirens that called them out to sea.
+
+OUTSIDE [outside] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Toby stopped outside an old electronics shop called Future Sound.
 
 OUTTA [ˈaʊ.tə] (informal contraction)
 DEF: Informal contraction of 'out of'.
@@ -1569,6 +2289,10 @@ DEF: Extending directly upward from; or across to the other side.
 EX: Gentle breezes blew over the tranquil waters of the lagoon.
 SYN: across, above, upon
 
+OVERLAY [overlay] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Through the hazy air, figures began to overlay the empty space around them.
+
 OWN [oʊn] (determiner / pronoun)
 DEF: Belonging to oneself and to no one else.
 EX: Each sailor longed to return to his own family and hearth.
@@ -1579,6 +2303,10 @@ DEF: Large, impressive royal residences of kings or nobles.
 EX: Great marble palaces once stood along the ancient harbor.
 SYN: mansions, castles, royal halls
 
+PAINT [paint] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The air grew thick, smelling suddenly of fresh paint and popcorn.
+
 PALE [pale] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: A sturdy pale stood proudly near the center of the quiet village.
@@ -1586,6 +2314,10 @@ EX: A sturdy pale stood proudly near the center of the quiet village.
 PANG [pang] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He rubbed the sleep from his eyes, then felt a pang of fear, something he felt very seldom.
+
+PAPER [paper] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
 
 PARAGRAPH [ˈpær.ə.ɡræf] (noun)
 DEF: A distinct section of a piece of writing dealing with a specific theme.
@@ -1605,10 +2337,22 @@ PASS [pass] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
 
+PASSED [passed] (verb)
+DEF: Past action of experiencing or performing passed.
+EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+
+PAST [past] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+
 PASTE [peɪst] (noun / verb)
 DEF: A thick, soft, moist substance; or to stick something firmly.
 EX: The sweet fruit was crushed into a thick fragrant paste.
 SYN: mixture, substance, blend
+
+PATCH [patch] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy patch stood proudly near the center of the quiet village.
 
 PEACE [piːs] (noun)
 DEF: Freedom from disturbance, war, or conflict; quiet tranquility.
@@ -1620,6 +2364,10 @@ DEF: Free from disturbance or aggression; quiet and calm.
 EX: The Lotus-Eaters were a peaceful people who wished no harm to anyone.
 SYN: tranquil, serene, calm, gentle
 
+PECULIAR [peculiar] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Instead, a heavy, peculiar silence fell over the room.
+
 PENELOPE [pə.ˈnɛl.ə.pi] (proper noun)
 DEF: The colorful, delicate leaf-like segments of a flower blossom.
 EX: Soft pink petals floated down onto the calm surface of the stream.
@@ -1629,13 +2377,29 @@ PERCHED [perched] (verb)
 DEF: Past action of experiencing or performing perched.
 EX: They began to perched together as they made their way along the scenic path.
 
+PERFECTLY [perfectly] (adverb)
+DEF: In a perfect or characteristic manner.
+EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+
 PHASIS [phasis] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
 
+PHOTOGRAPH [photograph] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+
+PICKED [picked] (verb)
+DEF: Past action of experiencing or performing picked.
+EX: Toby picked it up.
+
 PIECE [piece] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
+
+PILE [pile] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy pile stood proudly near the center of the quiet village.
 
 PINES [pines] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -1644,6 +2408,10 @@ EX: Hylas came to a shady glen, where the pines closed rank and hid the clearing
 PITCHER [pitcher] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
+
+PLASTIC [plastic] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
 
 PLAYED [pleɪd] (verb)
 DEF: Feelings of happy satisfaction, enjoyment, or sensual delight.
@@ -1654,6 +2422,14 @@ PLUCKED [plucked] (verb)
 DEF: Past action of experiencing or performing plucked.
 EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
 
+POCKET [pocket] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Toby slipped the cold metal whistle into his pocket.
+
+POLISHED [polished] (verb)
+DEF: Past action of experiencing or performing polished.
+EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
+
 POLLINATOR [ˈpɒl.ɪ.neɪ.tər] (noun)
 DEF: The correct ways in which words or languages are spoken.
 EX: Listen to the audio to practice accurate pronunciations of new vocabulary.
@@ -1663,13 +2439,37 @@ POND [pond] (word)
 DEF: Past action of experiencing or performing pond-weed.
 EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
 
+POP [pop] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+
+POPCORN [popcorn] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The air grew thick, smelling suddenly of fresh paint and popcorn.
+
 PREPARED [prepared] (verb)
 DEF: Past action of experiencing or performing prepared.
 EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
 
+PRESSED [pressed] (verb)
+DEF: Past action of experiencing or performing pressed.
+EX: Just a short puff."
+
+"Toby, don't—"
+
+But he had already pressed the metal to his lips and given a sharp, silent blow.
+
 PROMISED [promised] (verb)
 DEF: Past action of experiencing or performing promised.
 EX: They began to promised together as they made their way along the scenic path.
+
+PUFF [puff] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Just a short puff."
+
+"Toby, don't—"
+
+But he had already pressed the metal to his lips and given a sharp, silent blow.
 
 PULLED [pulled] (verb)
 DEF: Past action of experiencing or performing pulled.
@@ -1704,6 +2504,10 @@ DEF: Prepared or made something ready for action.
 EX: The sailors readied the heavy oars for a swift departure.
 SYN: prepared, equipped, fitted out
 
+REAL [real] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The real world felt suddenly dull, grey, and quiet compared to the vibrant warmth they had just touched.
+
 RECEIVED [rɪ.ˈsiːvd] (verb)
 DEF: Got, accepted, or was greeted with something given.
 EX: The travelers received a warm welcome from the friendly villagers.
@@ -1731,6 +2535,12 @@ DEF: Indicated unwillingness to do, accept, or grant something.
 EX: The bewitched scouts refused to stand up or return to the ships.
 SYN: declined, resisted, rejected
 
+RELAX [relax] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "If the security guard catches us, we are in massive trouble."
+
+"Relax," Toby laughed, though his heart hammered against his ribs.
+
 REMAIN [rɪ.ˈmeɪn] (verb)
 DEF: To continue to exist or stay in the same place.
 EX: The bewitched men begged to remain on the sunny island forever.
@@ -1746,6 +2556,10 @@ DEF: Had in or was able to bring to mind an awareness of someone or something.
 EX: He remembered the smiling faces of his family in Ithaca.
 SYN: recalled, recollected, retained
 
+REPLACED [replaced] (verb)
+DEF: Past action of experiencing or performing replaced.
+EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
+
 RESISTED [rɪ.ˈzɪs.tɪd] (verb)
 DEF: Struggled against or fought back against force or temptation.
 EX: The wise hero resisted the sweet temptation of the honeyed fruit.
@@ -1755,10 +2569,24 @@ REST [rest] (adjective)
 DEF: Possessing the distinctive quality or condition of being rest.
 EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
 
+RESTING [resting] (verb)
+DEF: Engaging in the active process of resting.
+EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+
 RETURN [rɪ.ˈtɜːrn] (verb / noun)
 DEF: To come or go back to a place or person; or the act of coming back.
 EX: Their greatest desire was to return safely to their native land.
 SYN: go back, revisit, homecoming
+
+RETURNED [returned] (verb)
+DEF: Past action of experiencing or performing returned.
+EX: The silence lifted, and the distant sound of dripping water returned.
+
+RIBS [ribs] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "If the security guard catches us, we are in massive trouble."
+
+"Relax," Toby laughed, though his heart hammered against his ribs.
 
 RICH [rich] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -1769,9 +2597,25 @@ DEF: Being carried on horseback or traveling atop ocean waves.
 EX: The ship was riding the crest of high azure waves.
 SYN: floating atop, mounting, coursing
 
+RIGHT [right] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
+
+RIPPLE [ripple] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The dim, grey mall seemed to ripple like water.
+
 RIVALED [rivaled] (verb)
 DEF: Past action of experiencing or performing rivaled.
 EX: Among them was Hylas, most handsome by far, whose beauty was rivaled only by his bravery.
+
+ROOM [room] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Instead, a heavy, peculiar silence fell over the room.
+
+ROOT [root] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy root stood proudly near the center of the quiet village.
 
 ROUSE [raʊz] (verb)
 DEF: To awaken from sleep or stimulate to action.
@@ -1781,6 +2625,10 @@ SYN: awaken, stir, alert
 RUBBED [rubbed] (verb)
 DEF: Past action of experiencing or performing rubbed.
 EX: He rubbed the sleep from his eyes, then felt a pang of fear, something he felt very seldom.
+
+RUCKSACK [rucksack] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
 
 RUN [rʌn] (verb)
 DEF: Large pieces of canvas or fabric spread to catch the wind and drive a ship.
@@ -1795,6 +2643,12 @@ SAD [sad] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: A sturdy sad stood proudly near the center of the quiet village.
 
+SAID [said] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: it stopped."
+
+"Let’s just get out of here," Gwen said, her eyes darting nervously around the shadows.
+
 SANCTUARY [ˈsæŋk.tʃuː.ɛr.i] (noun)
 DEF: A place of safety, refuge, or sacred holiness.
 EX: The sheltered bay offered a safe sanctuary from the open sea storm.
@@ -1804,6 +2658,10 @@ SAPPHIRE [ˈsæf.aɪər] (noun / adjective)
 DEF: A precious blue gemstone, or a deep brilliant blue color.
 EX: The clear Mediterranean waters sparkled like polished sapphire.
 SYN: deep blue, cerulean, azure
+
+SATURDAY [saturday] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
 
 SAVAGE [ˈsæv.ɪdʒ] (adjective)
 DEF: Fierce, violent, and untamed; ferocious.
@@ -1819,10 +2677,18 @@ SAY [say] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Some say that after many weeks, Herakles stumbled upon the bronze pitcher Hylas had dropped.
 
+SCANNING [scanning] (verb)
+DEF: Engaging in the active process of scanning.
+EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
+
 SCATTERED [ˈskæt.ərd] (adjective / verb)
 DEF: Separated and dispersed over a wide area.
 EX: The fierce storm left the fleet scattered across the wide sea.
 SYN: dispersed, spread, strewn
+
+SCENT [scent] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
 
 SCOUT [skaʊt] (noun / verb)
 DEF: A person sent ahead to gather information about unfamiliar territory.
@@ -1844,10 +2710,20 @@ DEF: Salt water from a sea or ocean.
 EX: Splashes of salty seawater sprayed over the bow of the galley.
 SYN: brine, salt water
 
+SECONDS [seconds] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: But a few inches to the left, the tiles looked ancient, covered in green moss and deep cracks, as if centuries had passed in seconds.
+
 SECRET [ˈsiː.krɪt] (noun / adjective)
 DEF: Something kept hidden from the knowledge of others.
 EX: The sweet fruit held the secret power of peaceful forgetfulness.
 SYN: mystery, hidden truth, concealed
+
+SECURITY [security] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "If the security guard catches us, we are in massive trouble."
+
+"Relax," Toby laughed, though his heart hammered against his ribs.
 
 SEE [siː] (verb)
 DEF: To perceive with the eyes; to observe or understand.
@@ -1857,6 +2733,10 @@ SYN: behold, observe, view
 SEEK [seek] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
+
+SEEMED [seemed] (verb)
+DEF: Past action of experiencing or performing seemed.
+EX: The dim, grey mall seemed to ripple like water.
 
 SELDOM [seldom] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -1886,6 +2766,12 @@ DEF: A dark area produced by a body coming between rays of light and a surface.
 EX: The tall cliffs cast a cool shadow across the sheltered inlet.
 SYN: shade, silhouette, darkness
 
+SHADOWS [shadows] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: it stopped."
+
+"Let’s just get out of here," Gwen said, her eyes darting nervously around the shadows.
+
 SHADOWY [shadowy] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
@@ -1898,10 +2784,34 @@ SHALL [shall] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
 
+SHARP [sharp] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Just a short puff."
+
+"Toby, don't—"
+
+But he had already pressed the metal to his lips and given a sharp, silent blow.
+
+SHATTERED [shattered] (verb)
+DEF: Past action of experiencing or performing shattered.
+EX: They walked back out through the shattered glass doors of the mall and into the cool evening air.
+
 SHE [ʃiː] (pronoun)
 DEF: Referring to a female person or deity previously mentioned.
 EX: Athena watched over Odysseus, ensuring she could aid him in peril.
 SYN: that goddess, the lady
+
+SHIFT [shift] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: This time, the shift wasn't just on the floor.
+
+SHINING [shining] (verb)
+DEF: Engaging in the active process of shining.
+EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
+
+SHINY [shiny] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
 
 SHIP [ʃɪp] (noun)
 DEF: Multiple sailing vessels traveling together as a fleet.
@@ -1913,6 +2823,18 @@ DEF: Past tense of shake; trembled, vibrated, or moved rapidly back and forth.
 EX: Thunder shook the wooden deck as the storm struck with fury.
 SYN: trembled, quivered, vibrated
 
+SHOP [shop] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+
+SHOPPING [shopping] (verb)
+DEF: Engaging in the active process of shopping.
+EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
+
+SHOPS [shops] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
+
 SHORE [shore] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
@@ -1921,13 +2843,45 @@ SHORES [shores] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
 
+SHORT [short] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Just a short puff."
+
+"Toby, don't—"
+
+But he had already pressed the metal to his lips and given a sharp, silent blow.
+
+SHRINKING [shrinking] (verb)
+DEF: Engaging in the active process of shrinking.
+EX: They began to shrinking together as they made their way along the scenic path.
+
 SIDE [side] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
 
+SIGN [sign] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+
+SILENCE [silence] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Instead, a heavy, peculiar silence fell over the room.
+
 SILENT [silent] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: They stopped when they sensed the intruder, fixed their curious eyes on him, and then, with silent gestures and parted lips, bade him approach.
+
+SILVER [silver] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "I don't know," Toby murmured, his fingers tightening around the silver metal.
+
+SIMPLE [simple] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: It was a simple, brass whistle, completely ordinary and unremarkable.
+
+SINCE [since] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "Nobody has come here since it closed down ten years ago.
 
 SINGLE [ˈsɪŋ.ɡəl] (adjective)
 DEF: Only one; not one of several.
@@ -1976,10 +2930,38 @@ DEF: A single illustrated screen or page in this story reader.
 EX: Turn to the next slide to continue following the voyage.
 SYN: page, screen, panel
 
+SLIGHTLY [slightly] (adverb)
+DEF: In a slight or characteristic manner.
+EX: The door was slightly open.
+
+SLIPPED [slipped] (verb)
+DEF: Past action of experiencing or performing slipped.
+EX: Toby slipped the cold metal whistle into his pocket.
+
+SLOW-MOTION [slow-motion] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
+
+SMALL [small] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Inside, resting perfectly in the centre of a dusty counter, was a small, shiny object.
+
+SMELL [smell] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
+
+SMELLING [smelling] (verb)
+DEF: Engaging in the active process of smelling.
+EX: The air grew thick, smelling suddenly of fresh paint and popcorn.
+
 SO [soʊ] (adverb / conjunction)
 DEF: To such a great extent, or with the result that.
 EX: The fruit was so sweet that it banished all memories of home.
 SYN: thus, therefore, extremely
+
+SOLID [solid] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
 
 SOLITARY [ˈsɒl.ɪ.tər.i] (adjective)
 DEF: Done or existing alone; isolated.
@@ -2008,9 +2990,21 @@ DEF: Weapons with long wooden shafts and sharp pointed bronze or iron tips.
 EX: Bronze-tipped spears gleamed brightly in the midday sunlight.
 SYN: lances, javelins, pikes
 
+SOUND [sound] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Toby stopped outside an old electronics shop called Future Sound.
+
+SPACE [space] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
+
 SPEAK [speak] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
+
+SPEAKERS [speakers] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
 
 SPELL [spɛl] (noun)
 DEF: A magical charm, enchantment, or trance.
@@ -2025,6 +3019,10 @@ SPRING [spring] (verb)
 DEF: Engaging in the active process of spring.
 EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
 
+STARED [stared] (verb)
+DEF: Past action of experiencing or performing stared.
+EX: She stared at the gleaming object in Toby's hand, her eyes wide with a sudden, quiet yearning.
+
 STARLIGHT [ˈstɑːr.laɪt] (noun)
 DEF: Luminous celestial bodies visible as points of light in the night sky.
 EX: Sailors read the alignment of the stars to plot their course.
@@ -2033,6 +3031,18 @@ SYN: constellations, celestial lights
 STEAL [steal] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He would steal a glance, nothing more, and return the camp before he was missed.
+
+STEP [step] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "We have to leave," Gwen whispered, her voice trembling, though she didn't actually take a step back.
+
+STEPPED [stepped] (verb)
+DEF: Past action of experiencing or performing stepped.
+EX: They stepped out of the electronics shop and back into the main corridor of the mall.
+
+STEPPING [stepping] (verb)
+DEF: Engaging in the active process of stepping.
+EX: "What’s that?" Gwen asked, stepping inside.
 
 STILL [stɪl] (adjective / adverb)
 DEF: Not moving or making sound; or continuing to happen.
@@ -2067,6 +3077,10 @@ DEF: Unusual, surprising, difficult to explain, or unfamiliar.
 EX: The island was home to a strange and magical flowering plant.
 SYN: mysterious, unusual, peculiar
 
+STREET [street] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy street stood proudly near the center of the quiet village.
+
 STRIPPED [stripped] (verb)
 DEF: Past action of experiencing or performing stripped.
 EX: Hylas dropped the bronze pitcher, stripped, and waded out into the water.
@@ -2090,6 +3104,18 @@ DEF: Became less intense, violent, or severe; quieted down.
 EX: The howling gale subsided and calm returned to the waters.
 SYN: abated, lessened, quieted
 
+SUBTERRANEAN [subterranean] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: It was heavy and warm, vibrating with a faint, subterranean hum that hadn't been there before.
+
+SUDDEN [sudden] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
+
+SUDDENLY [suddenly] (adverb)
+DEF: In a sudden or characteristic manner.
+EX: The air grew thick, smelling suddenly of fresh paint and popcorn.
+
 SUMMARY [ˈsʌm.ər.i] (noun)
 DEF: A brief statement or account of the main points of something.
 EX: Read the chapter summary to preview the upcoming adventure.
@@ -2099,6 +3125,10 @@ SUN [sʌn] (noun)
 DEF: The star around which the earth orbits, providing light and warmth.
 EX: The bright eastern sun warmed their tired shoulders as they rowed.
 SYN: daystar, sol
+
+SURPRISINGLY [surprisingly] (adverb)
+DEF: In a surprising or characteristic manner.
+EX: The metal felt surprisingly warm in his hand.
 
 SUSPECTING [sə.ˈspɛk.tɪŋ] (verb)
 DEF: Having an idea or feeling of the possible truth without certainty.
@@ -2118,10 +3148,26 @@ SWIFT [swift] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: I speak of the swift ship Argo, and its crew of fifty men, many of them storied heroes whose names you shall recognize all these years later.
 
+TAKE [take] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "We have to leave," Gwen whispered, her voice trembling, though she didn't actually take a step back.
+
+TAKING [taking] (verb)
+DEF: Engaging in the active process of taking.
+EX: They began to taking together as they made their way along the scenic path.
+
+TALK [talk] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They didn't talk about how the object worked, or what mystery lay behind it.
+
 TAP [tæp] (verb / noun)
 DEF: To strike lightly, or touch a touch-screen with a finger.
 EX: Tap any highlighted story word to hear its pronunciation and definition.
 SYN: touch, press, click
+
+TAPE [tape] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
 
 TAPESTRY [ˈtæp.ɪ.stri] (noun)
 DEF: A piece of thick textile fabric with pictures or designs woven into it.
@@ -2133,6 +3179,10 @@ DEF: Able to be tapped on an interactive screen to trigger an action.
 EX: Every vocabulary word in the slide text is interactive and tappable.
 SYN: clickable, interactive
 
+TAPPING [tapping] (verb)
+DEF: Engaging in the active process of tapping.
+EX: They began to tapping together as they made their way along the scenic path.
+
 TASTED [ˈteɪ.stɪd] (verb)
 DEF: Perceived the flavor of food or drink in the mouth.
 EX: As soon as the scouts tasted the sweet lotus, their minds grew drowsy.
@@ -2143,15 +3193,27 @@ DEF: A hot or cold beverage made by infusing dried leaves or herbs in water.
 EX: The islanders brewed herbal tea from the fragrant wild blossoms.
 SYN: infusion, beverage
 
+TEENAGERS [teenagers] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Just a few feet away, a group of teenagers laughing together suddenly appeared.
+
 TELESCOPE [ˈtɛl.ɪ.skoʊp] (noun)
 DEF: An optical instrument designed to make distant objects appear nearer.
 EX: The stargazer peered through a bronze telescope to chart the stars.
 SYN: spyglass, optics
 
+TEN [ten] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "Nobody has come here since it closed down ten years ago.
+
 TERRIBLE [ˈtɛr.ə.bəl] (adjective)
 DEF: Extremely bad, serious, or formidable; causing great fear.
 EX: A terrible storm blew the fleet far from their intended homeland.
 SYN: dreadful, awful, ferocious
+
+TERRIBLY [terribly] (adverb)
+DEF: In a terrib or characteristic manner.
+EX: They began to terribly together as they made their way along the scenic path.
 
 TEXT [tɛkst] (noun)
 DEF: The main body of a book, story, or written piece.
@@ -2216,6 +3278,14 @@ THING [thing] (verb)
 DEF: Engaging in the active process of thing.
 EX: its not a gay thing.
 
+THINK [think] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
+
+THINKING [thinking] (verb)
+DEF: Engaging in the active process of thinking.
+EX: "Just an old whistle." Without thinking, he blew into it.
+
 THIRST [θɜːrst] (noun / verb)
 DEF: A feeling of needing to drink liquid; or a strong craving.
 EX: After days under the blazing sun, their thirst was intense.
@@ -2240,15 +3310,43 @@ THOUGHT [thought] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: A sturdy thought stood proudly near the center of the quiet village.
 
+THOUSANDS [thousands] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The mall around them felt alive, breathing with the memories of thousands of forgotten footsteps.
+
 THREE [θriː] (numeral)
 DEF: The cardinal number that is one more than two.
 EX: Odysseus sent three scouts inland to investigate the islanders.
 SYN: trio, triad
 
+THROUGH [through] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Through the hazy air, figures began to overlay the empty space around them.
+
+TIGHTENING [tightening] (verb)
+DEF: Engaging in the active process of tightening.
+EX: "I don't know," Toby murmured, his fingers tightening around the silver metal.
+
+TILE [tile] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sturdy tile stood proudly near the center of the quiet village.
+
+TILES [tiles] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The cracked grey tiles beneath their feet were changing.
+
+TIME [time] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: This time, the shift wasn't just on the floor.
+
 TINKER [ˈtɪŋ.kər] (verb / noun)
 DEF: To attempt to repair or improve something in an experimental or casual manner.
 EX: The curious young sailor loved to tinker with brass navigational tools.
 SYN: experiment, fiddle, adjust
+
+TINNY [tinny] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
 
 TITLE [ˈtaɪ.təl] (noun)
 DEF: The name of a book, story, chapter, or musical piece.
@@ -2259,6 +3357,18 @@ TO [tuː] (preposition)
 DEF: Expressing motion in the direction of a particular location.
 EX: They sailed to the quiet cove to escape the raging storm.
 SYN: toward, unto
+
+TOBY [toby] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Toby kicked a deflated football, his trainers crunching on broken glass.
+
+TOBY'S [toby's] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: She stared at the gleaming object in Toby's hand, her eyes wide with a sudden, quiet yearning.
+
+TOBY’S [toby’s] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Right next to Toby’s trainers, the floor was clean, bright white, and shining as if it had just been polished.
 
 TOGETHER [together] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -2284,9 +3394,17 @@ DEF: Past tense of tear; pulled apart or ripped violently.
 EX: The violent squall tore their canvas sails to ragged shreds.
 SYN: ripped, shredded, severed
 
+TOUCHED [touched] (verb)
+DEF: Past action of experiencing or performing touched.
+EX: The real world felt suddenly dull, grey, and quiet compared to the vibrant warmth they had just touched.
+
 TRACE [trace] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Some say the gods did not even grant him that mercy, and Herakles found no trace of his friend, stolen by the nymphs.
+
+TRAINERS [trainers] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Toby kicked a deflated football, his trainers crunching on broken glass.
 
 TRAINING [training] (verb)
 DEF: Engaging in the active process of training.
@@ -2297,6 +3415,10 @@ DEF: Free from disturbance; calm, peaceful, and serene.
 EX: The tranquil bay mirrored the azure sky without a single ripple.
 SYN: peaceful, serene, calm
 
+TRANSPARENT [transparent] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+
 TRAVEL [travel] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Jason was its captain, and under his command did these fifty men travel to distant lands to seek the golden fleece.
@@ -2305,6 +3427,10 @@ TREASURE [ˈtrɛʒ.ər] (noun / verb)
 DEF: A quantity of precious metals, gems, or valuable items; or to cherish.
 EX: They guarded the ancient golden treasure in the palace vault.
 SYN: riches, valuables, trove
+
+TREMBLING [trembling] (verb)
+DEF: Engaging in the active process of trembling.
+EX: "What did you do?" Gwen demanded, her voice trembling.
 
 TRIBE [traɪb] (noun)
 DEF: A traditional society or group of families linked by social and economic ties.
@@ -2316,6 +3442,12 @@ DEF: Past tense of try; made an effort to do something.
 EX: The captain tried to awaken his bewitched crew from their sweet daze.
 SYN: attempted, stve, endeavored
 
+TROUBLE [trouble] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "If the security guard catches us, we are in massive trouble."
+
+"Relax," Toby laughed, though his heart hammered against his ribs.
+
 TROUBLED [ˈtrʌb.əld] (adjective / verb)
 DEF: Beset by problems, anxiety, or emotional distress.
 EX: Odysseus was deeply troubled by the strange lethargy of his scouts.
@@ -2325,10 +3457,22 @@ TRUTH [truth] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: A sturdy truth stood proudly near the center of the quiet village.
 
+TRY [try] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "What if I try it again?
+
+TUGGED [tugged] (verb)
+DEF: Past action of experiencing or performing tugged.
+EX: A strange curiosity tugged at him.
+
 TURNED [tɜːrnd] (verb)
 DEF: Changed direction or course; rotated.
 EX: The helmsman turned the rudder toward the safety of the harbor.
 SYN: veered, rotated, steered
+
+TURNING [turning] (verb)
+DEF: Engaging in the active process of turning.
+EX: "Toby..." Gwen gasped, her face turning pale.
 
 TWISTING [twisting] (verb)
 DEF: Engaging in the active process of twisting.
@@ -2352,6 +3496,10 @@ UNFAMILIAR [unfamiliar] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Fear was unfamiliar to Herakles, and it drove him nearly to madness.
 
+UNREMARKABLE [unremarkable] (adjective)
+DEF: Possessing the distinctive quality or condition of being unremarkable.
+EX: It was a simple, brass whistle, completely ordinary and unremarkable.
+
 UP [ʌp] (adverb / preposition)
 DEF: Toward a higher place or position.
 EX: The sailors climbed up the rocky path toward the village.
@@ -2361,6 +3509,16 @@ UPON [ə.ˈpɒn] (preposition)
 DEF: More formal term for 'on'; resting atop.
 EX: They landed upon a white-sand beach bordered by palm trees.
 SYN: on, atop
+
+US [us] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "If the security guard catches us, we are in massive trouble."
+
+"Relax," Toby laughed, though his heart hammered against his ribs.
+
+VANISHED [vanished] (verb)
+DEF: Past action of experiencing or performing vanished.
+EX: The smell of popcorn vanished, replaced once more by the scent of damp earth and old paper.
 
 VERY [ˈvɛr.i] (adverb / adjective)
 DEF: In a high degree; extremely; or exact and particular.
@@ -2372,6 +3530,14 @@ DEF: Full of energy, enthusiasm, and bright, vivid color.
 EX: Vibrant pink and gold blossoms carpeted the sunlit meadow.
 SYN: vivid, bright, lively
 
+VIBRATING [vibrating] (verb)
+DEF: Engaging in the active process of vibrating.
+EX: It was heavy and warm, vibrating with a faint, subterranean hum that hadn't been there before.
+
+VIBRATION [vibration] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: As the silent vibration of the whistle finally died away, the colourful figures faded like morning mist.
+
 VILLAGE [ˈvɪl.ɪdʒ] (noun)
 DEF: Multiple small rural or coastal settlements.
 EX: Ancient trade routes connected the quiet coastal villages.
@@ -2380,6 +3546,10 @@ SYN: settlements, hamlets
 VISIONS [visions] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
+
+VOICE [voice] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
 
 VOYAGE [voyage] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -2404,6 +3574,10 @@ DEF: Emerging or stirring from sleep.
 EX: Upon waking, the scouts felt as if they were still dreaming.
 SYN: awakening, stirring
 
+WALKED [walked] (verb)
+DEF: Past action of experiencing or performing walked.
+EX: They walked back out through the shattered glass doors of the mall and into the cool evening air.
+
 WANDER [ˈwɒn.dər] (verb)
 DEF: To walk or move in a leisurely, casual, or aimless way.
 EX: The visitors were invited to wander through the fragrant groves.
@@ -2423,10 +3597,22 @@ DEF: A state of armed conflict between different nations or groups.
 EX: After ten years of grueling war at Troy, they longed for peace.
 SYN: conflict, battle, combat
 
+WARM [warm] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The metal felt surprisingly warm in his hand.
+
 WARMED [wɔːrmd] (verb)
 DEF: Made or became moderately hot or comfortable.
 EX: The midday sun pleasantly warmed their tired limbs.
 SYN: heated, comforted, thawed
+
+WARMERS [warmers] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+
+WARMTH [warmth] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: A sudden warmth washed over them, and the faint sound of cheerful, tinny pop music echoed from speakers that Toby knew were broken and disconnected.
 
 WAS [wɒz] (verb)
 DEF: First and third person singular past tense of be.
@@ -2437,6 +3623,10 @@ WASHED [wɒʃt] (verb)
 DEF: Long bodies of water curling into an arched foam crest on the sea.
 EX: Azure waves broke gently against the warm barrier reef.
 SYN: breakers, billows, surf
+
+WASN'T [wasn't] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: This time, the shift wasn't just on the floor.
 
 WATER [water] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -2450,6 +3640,12 @@ WAY [weɪ] (noun)
 DEF: A method, style, route, or manner of doing something.
 EX: The clever hero discovered a way to break the lotus enchantment.
 SYN: method, route, manner
+
+WE [we] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "If the security guard catches us, we are in massive trouble."
+
+"Relax," Toby laughed, though his heart hammered against his ribs.
 
 WEARY [ˈwɪə.ri] (adjective)
 DEF: Periods of seven consecutive days.
@@ -2475,10 +3671,18 @@ DEF: Second person singular and all plural past tense of be.
 EX: The Greek galleys were well-built and sturdy against the waves.
 SYN: existed as
 
+WEREN'T [weren't] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: They weren't solid, but they weren't transparent either; they looked like a faded photograph come to life.
+
 WHAT [wɒt] (pronoun / determiner)
 DEF: Asking for information specifying something.
 EX: The captain wondered what enchantment held his men captive.
 SYN: which thing
+
+WHAT’S [what’s] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "What’s that?" Gwen asked, stepping inside.
 
 WHEN [wɛn] (adverb / conjunction)
 DEF: At what time or in what situation.
@@ -2500,10 +3704,18 @@ DEF: To speak very softly using breath rather than vocal cords.
 EX: A gentle breeze seemed to whisper ancient secrets through the leaves.
 SYN: murmur, breathe, mutter
 
+WHISPERED [whispered] (verb)
+DEF: Past action of experiencing or performing whispered.
+EX: "I still think this is a terrible idea," Gwen whispered, her voice echoing in the cavernous space.
+
 WHISPERING [ˈwɪs.pər.ɪŋ] (adjective / verb)
 DEF: Speaking or rustling with a soft, quiet sound.
 EX: The whispering winds carried the fragrance of the blooming flowers.
 SYN: murmuring, rustling, soft
+
+WHISTLE [whistle] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: It was a simple, brass whistle, completely ordinary and unremarkable.
 
 WHITE [white] (word)
 DEF: Composed of pale, bright sand characteristic of tropical shores.
@@ -2519,6 +3731,10 @@ WHOSE [huːz] (possessive pronoun)
 DEF: Belonging to or associated with which person.
 EX: They met a peaceful tribe whose diet consisted solely of sweet blossoms.
 SYN: of whom, belonging to whom
+
+WIDE [wide] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: She stared at the gleaming object in Toby's hand, her eyes wide with a sudden, quiet yearning.
 
 WIFE [waɪf] (noun)
 DEF: A married woman in relation to her spouse.
@@ -2543,6 +3759,10 @@ WIND [wind] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: The wind plucked at the needles, and just ahead, Hylas heard the bubbling of a spring.
 
+WINDOWS [windows] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
+
 WINE [waɪn] (noun)
 DEF: An alcoholic drink made from fermented grape juice.
 EX: They offered sweet, fragrant wine poured into earthenware jars.
@@ -2558,6 +3778,10 @@ DEF: Accompanied by or possessing.
 EX: The scouts were welcomed with warm smiles and sweet food.
 SYN: alongside, together with
 
+WITHOUT [without] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: "Just an old whistle." Without thinking, he blew into it.
+
 WOMAN [ˈwʊm.ən] (noun)
 DEF: Adult human females.
 EX: The women of the island wove garlands of fragrant pink blossoms.
@@ -2572,9 +3796,25 @@ DEF: A single distinct meaningful element of speech or writing.
 EX: Tap any highlighted word to view its student-friendly definition.
 SYN: term, expression, vocabulary
 
+WORE [wore] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding a cassette tape up to the light.
+
+WORKED [worked] (verb)
+DEF: Past action of experiencing or performing worked.
+EX: They didn't talk about how the object worked, or what mystery lay behind it.
+
+WORLD [world] (noun)
+DEF: An essential narrative term or element present in the story.
+EX: The real world felt suddenly dull, grey, and quiet compared to the vibrant warmth they had just touched.
+
 WOULD [would] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He would steal a glance, nothing more, and return the camp before he was missed.
+
+YEARNING [yearning] (verb)
+DEF: Engaging in the active process of yearning.
+EX: She stared at the gleaming object in Toby's hand, her eyes wide with a sudden, quiet yearning.
 
 YEARS [years] (noun)
 DEF: An essential narrative term or element present in the story.
