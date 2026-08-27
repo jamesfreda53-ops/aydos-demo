@@ -66,12 +66,11 @@ Summary: TESTING TESTING u should not be able to see this if u can see this some
 [Chapter: hylas]
 Title: Hylas
 Subtitle: its not a gay thing
-Author: Theocritus
+Author: Theocritus 
 Genre: Pastoral
 ReadingLevel: Intermediate
 ReadingTime: 4 min
 SeriesFolder: hylas
-SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/hylas/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
@@ -80,12 +79,13 @@ Summary: Welcome to this interactive story! Tap any word in the title or text to
 
 [Chapter: gyges]
 Title: Gyges
-Subtitle: woah this actually happened 
-Author: Herodotus 
-Genre: History 
+Subtitle: woah this actually happened
+Author: Herodotus
+Genre: History
 ReadingLevel: Advanced
 ReadingTime: 3 min
 SeriesFolder: gyges
+SeriesOrder: 1
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/gyges/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
