@@ -1,5 +1,5 @@
 # ====================================================================
-# STORYREAD SHARED LOCAL DICTIONARY (558 Words)
+# STORYREAD SHARED LOCAL DICTIONARY (552 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
 #
 # Format:
@@ -767,10 +767,6 @@ FIFTY [fifty] (word)
 DEF: Past action of experiencing or performing fifty-oared.
 EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
 
-FIFTY-OARED [fifty-oared] (verb)
-DEF: Past action of experiencing or performing fifty-oared.
-EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
-
 FILLING [ˈfɪl.ɪŋ] (verb / adjective)
 DEF: Making or becoming full of something.
 EX: The aroma of sweet flowers was filling the warm island air.
@@ -1268,10 +1264,6 @@ LILY [lily] (word)
 DEF: An essential narrative term or element present in the story.
 EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
 
-LILY-ROOTS [lily-roots] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
-
 LION [lion] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
@@ -1374,10 +1366,6 @@ DEF: An essential narrative term or element present in the story.
 EX: A sturdy mast stood proudly near the center of the quiet village.
 
 MEADOW [meadow] (word)
-DEF: An essential narrative term or element present in the story.
-EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
-
-MEADOW-GRASS [meadow-grass] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
 
@@ -1672,10 +1660,6 @@ EX: Listen to the audio to practice accurate pronunciations of new vocabulary.
 SYN: articulations, accents, utterances
 
 POND [pond] (word)
-DEF: Past action of experiencing or performing pond-weed.
-EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
-
-POND-WEED [pond-weed] (verb)
 DEF: Past action of experiencing or performing pond-weed.
 EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
 
@@ -2125,10 +2109,6 @@ SWALLOW [swallow] (word)
 DEF: An essential narrative term or element present in the story.
 EX: A sturdy swallow-wort stood proudly near the center of the quiet village.
 
-SWALLOW-WORT [swallow-wort] (noun)
-DEF: An essential narrative term or element present in the story.
-EX: A sturdy swallow-wort stood proudly near the center of the quiet village.
-
 SWEET [swiːt] (adjective)
 DEF: Having the pleasant taste characteristic of sugar or honey.
 EX: The sweet taste of the lotus made all troubles vanish from memory.
@@ -2551,10 +2531,6 @@ EX: How will the clever hero wiggle his way out of this dilemma?
 SYN: wriggle, maneuver, extricate
 
 WILD [wild] (word)
-DEF: Past action of experiencing or performing wild-eyed.
-EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
-
-WILD-EYED [wild-eyed] (verb)
 DEF: Past action of experiencing or performing wild-eyed.
 EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
 
