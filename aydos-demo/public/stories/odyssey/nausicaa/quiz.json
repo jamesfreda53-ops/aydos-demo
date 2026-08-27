@@ -1,0 +1,54 @@
+[
+  {
+    "id": "quiz-1",
+    "type": "multiple_choice",
+    "question": "What is the primary quest or central theme of this story?",
+    "options": [
+      "An engaging journey of discovery and learning",
+      "A quiet nap in the warm sun",
+      "A competitive tournament",
+      "A race against time"
+    ],
+    "correctIndex": 0,
+    "explanation": "The story focuses on curiosity, adventure, and new discoveries."
+  },
+  {
+    "id": "quiz-2",
+    "type": "multiple_choice",
+    "question": "What key setting or location did the characters explore?",
+    "options": [
+      "An ancient, mysterious landscape full of wonder",
+      "A busy supermarket",
+      "A crowded underground subway station"
+    ],
+    "correctIndex": 0,
+    "explanation": "The adventure takes place in a scenic and wonder-filled setting."
+  },
+  {
+    "id": "quiz-3",
+    "type": "true_false",
+    "question": "The main character used careful observation and problem-solving to succeed.",
+    "correctBoolean": true,
+    "explanation": "Observing details and thinking carefully helped the characters overcome challenges."
+  },
+  {
+    "id": "quiz-4",
+    "type": "multiple_choice",
+    "question": "How did the characters feel when their journey reached its conclusion?",
+    "options": [
+      "Inspired, joyful, and ready for future adventures",
+      "Confused and disappointed",
+      "Frustrated and tired",
+      "Indifferent and bored"
+    ],
+    "correctIndex": 0,
+    "explanation": "The journey ended on an uplifting and inspiring note."
+  },
+  {
+    "id": "quiz-5",
+    "type": "open_response",
+    "question": "What was the most memorable lesson or event in the story, and why?",
+    "sampleAnswer": "Students should describe a key scene and explain how it contributed to the character's growth or learning.",
+    "explanation": "Encourages personal reflection and evidence-based textual synthesis."
+  }
+]
