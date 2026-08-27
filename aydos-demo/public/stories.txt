@@ -80,9 +80,9 @@ Summary: Welcome to this interactive story! Tap any word in the title or text to
 
 [Chapter: gyges]
 Title: Gyges
-Subtitle: woah this actually happened
-Author: Herodotus
-Genre: History
+Subtitle: woah this actually happened 
+Author: Herodotus 
+Genre: History 
 ReadingLevel: Advanced
 ReadingTime: 3 min
 SeriesFolder: gyges
