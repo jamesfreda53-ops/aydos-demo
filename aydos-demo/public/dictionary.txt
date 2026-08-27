@@ -147,8 +147,8 @@ EX: The stars are shining brightly to guide our nighttime voyage.
 SYN: exist, remain
 
 ARGO [argo] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Argo is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Argo was known throughout the land for remarkable courage and kindness.
 
 ARMS [ɑːmz] (noun)
 DEF: The portion of the upper human appendage, from the shoulder to the wrist and sometimes including the hand.
@@ -284,7 +284,7 @@ SYN: in back of, following, rearward
 
 BELOVED [beloved] (verb)
 DEF: To please.
-EX: Everyone beloved with delight when the good news was shared.
+EX: Everyone beloved with delight when the exciting news arrived.
 
 BENEATH [bɪˈniːθ] (adverb)
 DEF: Below or underneath.
@@ -329,8 +329,8 @@ EX: We're having a bit of a blow this afternoon.
 SYN: snow
 
 BLOWIN [blowin] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Blowin is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Blowin was known throughout the land for remarkable courage and kindness.
 
 BLOWS [bloʊz] (verb / noun)
 DEF: The physical structures of human beings or animals.
@@ -362,7 +362,7 @@ SYN: torch, ember, mark
 
 BRASS [bɹɑːs] (noun)
 DEF: A metallic alloy of copper and zinc used in many industrial and plumbing applications.
-EX: The teacher pointed out the interesting brass during their classroom discussion.
+EX: The teacher pointed out the unique brass during their classroom discussion.
 
 BRAVERY [ˈbreɪ.vər.i] (noun)
 DEF: Courageous behavior or character in the face of danger.
@@ -386,7 +386,7 @@ SYN: short, fleeting, quick
 
 BRIGHT [bɹaɪt] (noun)
 DEF: An artist's brush used in oil and acrylic painting with a long ferrule and a flat, somewhat tapering bristle head.
-EX: The teacher pointed out the interesting bright during their classroom discussion.
+EX: The teacher pointed out the unique bright during their classroom discussion.
 
 BRILLIANT [ˈbrɪl.jənt] (adjective)
 DEF: Exceptionally bright, vivid, or intellectually outstanding.
@@ -466,8 +466,8 @@ DEF: A close-fitting hat, either brimless or peaked.
 EX: The children were all wearing caps to protect them from the sun.
 
 CAPTAIN [captain] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Captain is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Captain was known throughout the land for remarkable courage and kindness.
 
 CARRIED [carried] (verb)
 DEF: To lift (something) and take it to another place; to transport (something) by lifting.
@@ -476,7 +476,7 @@ SYN: adopt, take on, take over
 
 CASSETTE [kæˈsɛt] (noun)
 DEF: A small flat case containing magnetic tape on two reels, used to record and play back audio and video material.
-EX: The teacher pointed out the interesting cassette during their classroom discussion.
+EX: The teacher pointed out the unique cassette during their classroom discussion.
 SYN: tape
 
 CATCHES [catches] (noun)
@@ -485,108 +485,116 @@ EX: The catch of the perpetrator was the product of a year of police work.
 SYN: beau, conquest, find
 
 CAVERNOUS [cavernous] (adjective)
-DEF: Characterized by or having the quality of being cavernous.
-EX: The travelers admired the cavernous scene as gentle morning light touched the hills.
+DEF: Characterized by or full of the quality of being cavernous.
+EX: The travelers admired the cavernous scene as the morning sun illuminated the sky.
 
 CENTRE [ˈsen.tə(ɹ)] (noun)
 DEF: The point in the interior of a circle that is equidistant from all points on the circumference.
-EX: The teacher pointed out the interesting centre during their classroom discussion.
+EX: The teacher pointed out the unique centre during their classroom discussion.
 SYN: middle, midst, center of gravity
 
 CENTURIES [ˈsɛn.tʃə.ɹiz] (noun)
 DEF: A period of 100 consecutive years; often specifically a numbered period with conventional start and end dates, e.g., the twentieth century, which stretches from (strictly) 1901 through 2000, or (informally) 1900 through 1999. The first century AD was from 1 to 100.
-EX: The teacher pointed out the interesting centuries during their classroom discussion.
+EX: The teacher pointed out the unique centuries during their classroom discussion.
 SYN: centuria, yearhundred
 
-CHANGING [changing] (verb)
-DEF: The ongoing action or experience of chang.
-EX: The students enjoyed changing together during their outdoor nature exploration.
+CHANGING [ˈtʃeɪndʒɪŋ] (verb)
+DEF: To become something different.
+EX: The tadpole changed into a frog.   Stock prices are constantly changing.
+SYN: alter, another, make
 
 CHAPTER [ˈtʃæp.tər] (noun)
 DEF: A main division of a book, story, or historical period.
 EX: Chapter II recounts the encounter with the gentle Lotus-Eaters.
 SYN: section, part, episode
 
-CHEERFUL [cheerful] (adjective)
-DEF: Characterized by or having the quality of being cheerful.
-EX: The travelers admired the cheerful scene as gentle morning light touched the hills.
+CHEERFUL [ˈt͡ʃɪəfəl] (adjective)
+DEF: Noticeably happy and optimistic.
+EX: The travelers admired the cheerful scene as the morning sun illuminated the sky.
+SYN: bright, bubbly, cheerly
 
 CHERISHED [ˈtʃɛr.ɪʃt] (adjective / verb)
 DEF: Steep, high rock faces along a coast or mountain edge.
 EX: Seabirds nested high on the sheer rocky cliffs above the bay.
 SYN: bluffs, precipices, crags
 
-CHEST [chest] (adjective)
-DEF: Characterized by or having the quality of being chest.
-EX: The travelers admired the chest scene as gentle morning light touched the hills.
+CHEST [t͡ʃɛst] (noun)
+DEF: A box, now usually a large strong box with a secure convex lid.
+EX: The clothes are kept in a chest.
+SYN: trunk, breast
 
-CHOICE [choice] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Choice is remembered throughout history for great bravery and kind leadership.
+CHOICE [tʃɔɪs] (noun)
+DEF: An option; a decision; an opportunity to choose or select something.
+EX: Do I have a choice of what color to paint it?
+SYN: assortment, range, selection
 
-CLEAN [clean] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Clean is remembered throughout history for great bravery and kind leadership.
+CLEAN [kleːn] (noun)
+DEF: Removal of dirt.
+EX: This place needs a clean.
 
-CLEAR [clear] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Clear is remembered throughout history for great bravery and kind leadership.
+CLEAR [klɪə(ɹ)] (noun)
+DEF: Full extent; distance between extreme limits; especially; the distance between the nearest surfaces of two bodies, or the space between walls.
+EX: a room ten feet square in the clear
 
-CLEARING [clearing] (verb)
-DEF: The ongoing action or experience of clear.
-EX: The students enjoyed clearing together during their outdoor nature exploration.
+CLEARING [ˈklɪəɹɪŋ] (verb)
+DEF: To remove obstructions, impediments or other unwanted items from.
+EX: If you clear the table, I'll wash up.
+SYN: stub
 
-CLIP [clip] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Clip is remembered throughout history for great bravery and kind leadership.
+CLIP [klɪp] (noun)
+DEF: Something which clips or grasps; a device for attaching one object to another.
+EX: Use this clip to attach the check to your tax form.
 
 CLOCKWORK [ˈklɒk.wɜːk] (noun / adjective)
 DEF: A mechanical mechanism of interlocking gears and springs operating with smooth regularity.
 EX: The gears of the bronze astrolabe turned with precise clockwork motion.
 SYN: mechanism, gears, precision
 
-CLOSED [closed] (verb)
-DEF: Completed the action or entered the state of clos.
-EX: Everyone closed with delight when the good news was shared.
+CLOSED [kləʊzd] (verb)
+DEF: (physical) To remove a gap.
+EX: Everyone closed with delight when the exciting news arrived.
+SYN: narrow, shut, close off
 
 CLOSER [ˈkloʊ.sɚ] (adjective / adverb)
 DEF: Situated at a shorter distance in space or time; more near.
 EX: They stepped closer to the campfire to warm their cold hands.
 SYN: nearer, more proximate
 
-CLOUDS [clouds] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Clouds is remembered throughout history for great bravery and kind leadership.
+CLOUDS [klaʊdz] (noun)
+DEF: A rock; boulder; a hill.
+EX: The teacher pointed out the unique clouds during their classroom discussion.
 
 COAST [koʊst] (noun)
 DEF: The land along or adjoining a sea or ocean.
 EX: They guided the ships safely along the rocky Mediterranean coast.
 SYN: shore, seaboard, coastline
 
-COLD [cold] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Cold is remembered throughout history for great bravery and kind leadership.
+COLD [kɔʊld] (adjective)
+DEF: (of a thing) Having a low temperature.
+EX: A cold wind whistled through the trees.
+SYN: chilled, chilly, cool
 
 COLOURFUL [colourful] (adjective)
-DEF: Characterized by or having the quality of being colourful.
-EX: The travelers admired the colourful scene as gentle morning light touched the hills.
+DEF: Possessing prominent and varied colors.
+EX: The travelers admired the colourful scene as the morning sun illuminated the sky.
+SYN: motley, multicolored, polychromatic
 
 COME [kʌm] (verb)
 DEF: To move toward or arrive at a place regarded as near or familiar.
 EX: "Come with us to explore the hidden valley," called the cheerful travelers.
 SYN: arrive, approach, advance
 
-COMMAND [command] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Command is remembered throughout history for great bravery and kind leadership.
+COMMAND [kəˈmɑːnd] (noun)
+DEF: An order to do something.
+EX: I was given a command to cease shooting.
 
-COMPANION [companion] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Companion is remembered throughout history for great bravery and kind leadership.
+COMPANION [kəmˈpænjən] (noun)
+DEF: A friend, acquaintance, or partner; someone with whom one spends time or keeps company.
+EX: His dog has been his trusted companion for the last five years.
 
-COMPARED [compared] (verb)
-DEF: Completed the action or entered the state of compar.
-EX: Everyone compared with delight when the good news was shared.
+COMPARED [kəmˈpɛəd] (verb)
+DEF: To assess the similarities and differences between two or more things ["to compare X with Y"]. Having made the comparison of X with Y, one might have found it similar to Y or different from Y.
+EX: Compare the tiger's coloration with that of the zebra.
 
 COMPASS [ˈkʌm.pəs] (noun)
 DEF: An instrument containing a magnetized pointer that indicates geographic north.
@@ -598,13 +606,14 @@ DEF: Sympathetic pity and concern for the sufferings or misfortunes of others.
 EX: The peaceful islanders treated the weary strangers with great compassion.
 SYN: kindness, empathy, mercy
 
-COMPLETELY [completely] (adverb)
-DEF: In a complete manner.
-EX: They planned to completely carefully before embarking on the new journey.
+COMPLETELY [kəmˈpliːtli] (adverb)
+DEF: (manner) In a complete manner.
+EX: Please completely fill in the box for your answer, using a number 2 pencil.
+SYN: fully, totally, utterly
 
-CONFIDENT [confident] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Confident is remembered throughout history for great bravery and kind leadership.
+CONFIDENT [ˈkɒn.fɪ.dənt] (noun)
+DEF: A person in whom one can confide or share one's secrets: a friend.
+EX: The teacher pointed out the unique confident during their classroom discussion.
 
 CONJURED [ˈkʌn.dʒərd] (verb)
 DEF: Called upon or created as if by magic or vivid imagination.
@@ -626,18 +635,18 @@ DEF: Fairly cold in temperature, or calm and composed in temperament.
 EX: They drank cool freshwater from the mountain spring.
 SYN: chilled, refreshing, calm
 
-CORRIDOR [corridor] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Corridor is remembered throughout history for great bravery and kind leadership.
+CORRIDOR [ˈkɒɹɪˌdɔː(ɹ)] (noun)
+DEF: A narrow hall or passage with rooms leading off it, as in a building or in a railway carriage.
+EX: The teacher pointed out the unique corridor during their classroom discussion.
 
 COULD [kʊd] (modal verb)
 DEF: Used to indicate possibility, ability, or permission in the past.
 EX: They could see the island emerging through the morning mist.
 SYN: was able to, had power to
 
-COUNTER [counter] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Counter is remembered throughout history for great bravery and kind leadership.
+COUNTER [ˈkaʊntə] (noun)
+DEF: One who counts.
+EX: He's only 16 months, but is already a good counter – he can count to 100.
 
 COURAGE [ˈkʌr.ɪdʒ] (noun)
 DEF: The ability to face fear, pain, or danger without backing down.
@@ -649,17 +658,19 @@ DEF: The route or direction followed by a ship, aircraft, or journey.
 EX: The violent north wind blew their fleet entirely off its planned course.
 SYN: route, path, trajectory
 
-COVERED [covered] (verb)
-DEF: Completed the action or entered the state of cover.
-EX: Everyone covered with delight when the good news was shared.
+COVERED [ˈkʌvə(ɹ)d] (verb)
+DEF: To place something over or upon, as to conceal or protect.
+EX: He covered the baby with a blanket.
+SYN: impregnate
 
-CRACKED [cracked] (verb)
-DEF: Completed the action or entered the state of crack.
-EX: Everyone cracked with delight when the good news was shared.
+CRACKED [kɹækt] (verb)
+DEF: To form cracks.
+EX: It's been so dry, the ground is starting to crack.
 
-CRACKS [cracks] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Cracks is remembered throughout history for great bravery and kind leadership.
+CRACKS [kɹæks] (noun)
+DEF: A thin and usually jagged space opened in a previously solid material.
+EX: A large crack had formed in the roadway.
+SYN: crackpot, crack cocaine, arse
 
 CRASHED [kræʃt] (verb)
 DEF: Collided violently with loud noise, or broke upon rocks as waves.
@@ -677,12 +688,12 @@ EX: The sacking of the peaceful city brought retribution for their crimes.
 SYN: offenses, misdeeds, transgressions
 
 CRUMBLING [crumbling] (verb)
-DEF: The ongoing action or experience of crumbl.
-EX: The students enjoyed crumbling together during their outdoor nature exploration.
+DEF: To fall apart; to disintegrate.
+EX: The empire crumbled when the ruler's indiscretions came to light.
 
 CRUNCHING [crunching] (verb)
 DEF: The ongoing action or experience of crunch.
-EX: The students enjoyed crunching together during their outdoor nature exploration.
+EX: The children enjoyed crunching together on a bright and sunny afternoon.
 
 CURIOSITY [ˌkjʊə.ri.ˈɒs.ə.ti] (noun)
 DEF: A strong desire to learn, know, or investigate something novel.
@@ -695,20 +706,20 @@ EX: Odysseus respected the hospitable customs of the foreign land.
 SYN: traditions, practices, rituals
 
 DAMP [damp] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Damp is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Damp was known throughout the land for remarkable courage and kindness.
 
 DANCE [dance] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Dance is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Dance was known throughout the land for remarkable courage and kindness.
 
 DANCED [danced] (verb)
-DEF: Completed the action or entered the state of danc.
-EX: Everyone danced with delight when the good news was shared.
+DEF: Completed the action or experienced the state of danc.
+EX: Everyone danced with delight when the exciting news arrived.
 
 DANCING [dancing] (verb)
 DEF: The ongoing action or experience of danc.
-EX: The students enjoyed dancing together during their outdoor nature exploration.
+EX: The children enjoyed dancing together on a bright and sunny afternoon.
 
 DARK [dark] (word)
 DEF: Having dark brown or black hair.
@@ -717,11 +728,11 @@ SYN: brunette, black-haired
 
 DARTING [darting] (verb)
 DEF: The ongoing action or experience of dart.
-EX: The students enjoyed darting together during their outdoor nature exploration.
+EX: The children enjoyed darting together on a bright and sunny afternoon.
 
-DASHED [dashed] (verb)
-DEF: Completed the action or entered the state of dash.
-EX: Everyone dashed with delight when the good news was shared.
+DASHED [dæʃt] (verb)
+DEF: To run quickly or for a short distance.
+EX: He dashed across the field.
 
 DAY [deɪ] (noun)
 DEF: Multiple 24-hour periods of time.
@@ -734,25 +745,26 @@ EX: I've been here for two days and a bit.
 SYN: daylight, upsun, epoch
 
 DEAR [dear] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Dear is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Dear was known throughout the land for remarkable courage and kindness.
 
 DEBRIS [debris] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Debris is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Debris was known throughout the land for remarkable courage and kindness.
 
 DECLARED [declared] (verb)
-DEF: Completed the action or entered the state of declar.
-EX: Everyone declared with delight when the good news was shared.
+DEF: Completed the action or experienced the state of declar.
+EX: Everyone declared with delight when the exciting news arrived.
 
 DEEP [diːp] (adjective / noun)
 DEF: Extending far down from the top or surface; profound.
 EX: The crystal clear water was so deep they could not see the bottom.
 SYN: profound, bottomless, abyssal
 
-DEEPER [deeper] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Deeper is remembered throughout history for great bravery and kind leadership.
+DEEPER [ˈdiːpə] (adjective)
+DEF: (of a physical distance) Extending far away from a point of reference, especially downwards.
+EX: The travelers admired the deeper scene as the morning sun illuminated the sky.
+SYN: heavy, meaningful, profound
 
 DEEPLY [ˈdiːp.li] (adverb)
 DEF: To a profound extent or depth; intensely and thoroughly.
@@ -760,12 +772,12 @@ EX: They drank deeply from the sweet nectar offered by the islanders.
 SYN: intensely, profoundly, thoroughly
 
 DEFINITION [definition] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Definition is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Definition was known throughout the land for remarkable courage and kindness.
 
 DEFLATED [deflated] (verb)
-DEF: Completed the action or entered the state of deflat.
-EX: Everyone deflated with delight when the good news was shared.
+DEF: Completed the action or experienced the state of deflat.
+EX: Everyone deflated with delight when the exciting news arrived.
 
 DELICATE [ˈdɛl.ɪ.kət] (adjective)
 DEF: Finely made, fragile, or requiring gentle and careful handling.
@@ -778,12 +790,12 @@ EX: The captain was delivering an urgent order to his rowing officers.
 SYN: bringing, imparting, presenting
 
 DEMANDED [demanded] (verb)
-DEF: Completed the action or entered the state of demand.
-EX: Everyone demanded with delight when the good news was shared.
+DEF: Completed the action or experienced the state of demand.
+EX: Everyone demanded with delight when the exciting news arrived.
 
-DENIM [denim] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Denim is remembered throughout history for great bravery and kind leadership.
+DENIM [ˈdɛnɪm] (noun)
+DEF: A textile often made of cotton with a distinct diagonal pattern.
+EX: The teacher pointed out the unique denim during their classroom discussion.
 
 DESCRIBING [dɪ.ˈskraɪ.bɪŋ] (verb)
 DEF: Giving an account in words of someone or something.
@@ -791,8 +803,8 @@ EX: The narrator was describing the lush landscape of the enchanted isle.
 SYN: depicting, explaining, illustrating
 
 DESIRE [desire] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Desire is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Desire was known throughout the land for remarkable courage and kindness.
 
 DICTIONARY [ˈdɪk.ʃən.ər.i] (noun)
 DEF: A reference book or resource that lists words and explains their meanings.
@@ -805,28 +817,28 @@ EX: The hero did everything in his power to protect his men.
 SYN: performed, executed, accomplished
 
 DIDN'T [didn't] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Didn't is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Didn't was known throughout the land for remarkable courage and kindness.
 
 DIED [died] (verb)
-DEF: Completed the action or entered the state of di.
-EX: Everyone died with delight when the good news was shared.
+DEF: Completed the action or experienced the state of di.
+EX: Everyone died with delight when the exciting news arrived.
 
-DIFFERENT [different] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Different is remembered throughout history for great bravery and kind leadership.
+DIFFERENT [ˈdɪf.(ə)ɹ.ənt] (noun)
+DEF: The different ideal.
+EX: The teacher pointed out the unique different during their classroom discussion.
 
 DIM [dim] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Dim is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Dim was known throughout the land for remarkable courage and kindness.
 
-DIMINISH [diminish] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Diminish is remembered throughout history for great bravery and kind leadership.
+DIMINISH [dɪˈmɪnɪʃ] (verb)
+DEF: To make smaller.
+EX: They planned to diminish carefully before embarking on their journey.
 
-DISCONNECTED [disconnected] (verb)
-DEF: Completed the action or entered the state of disconnect.
-EX: Everyone disconnected with delight when the good news was shared.
+DISCONNECTED [ˌdɪskəˈnɛktəd] (verb)
+DEF: To sever or interrupt a connection.
+EX: Everyone disconnected with delight when the exciting news arrived.
 
 DISCOVER [dɪ.ˈskʌv.ər] (verb)
 DEF: To find or become aware of something for the first time.
@@ -839,8 +851,8 @@ EX: They were discovering the secrets of ancient coastal navigation.
 SYN: uncovering, finding, exploring
 
 DISCOVERY [discovery] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Discovery is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Discovery was known throughout the land for remarkable courage and kindness.
 
 DISTANT [ˈdɪs.tənt] (adjective)
 DEF: Far away in space, time, or relationship.
@@ -848,12 +860,12 @@ EX: A distant island appeared as a faint blue line against the sky.
 SYN: far-off, remote, faraway
 
 DO [do] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Do is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Do was known throughout the land for remarkable courage and kindness.
 
 DON'T [don't] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Don't is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Don't was known throughout the land for remarkable courage and kindness.
 
 DONE [dʌn] (verb / adjective)
 DEF: Completed, finished, or brought to an end.
@@ -861,12 +873,12 @@ EX: When the day's hard rowing was done, they anchored in the bay.
 SYN: completed, finished, concluded
 
 DOOR [door] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Door is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Door was known throughout the land for remarkable courage and kindness.
 
-DOORS [doors] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Doors is remembered throughout history for great bravery and kind leadership.
+DOORS [dɔːz] (noun)
+DEF: A portal of entry into a building, room, or vehicle, consisting of a rigid plane movable on a hinge. Doors are frequently made of wood or metal. May have a handle to help open and close, a latch to hold the door closed and a lock that ensures the door cannot be opened without the key.
+EX: I knocked on the vice president's door
 
 DOWN [daʊn] (adverb / preposition)
 DEF: Toward or in a lower place, direction, or position.
@@ -889,33 +901,35 @@ EX: They drank the sweet wine down to the very dregs of the jar.
 SYN: remnants, residue, sediment
 
 DREAMED [dreamed] (verb)
-DEF: Completed the action or entered the state of dream.
-EX: Everyone dreamed with delight when the good news was shared.
+DEF: Completed the action or experienced the state of dream.
+EX: Everyone dreamed with delight when the exciting news arrived.
 
 DREW [dɹuː] (verb)
 DEF: To move or develop something.
 EX: They began to drew together as they made their way along the scenic path.
 
 DRIFTED [drifted] (verb)
-DEF: Completed the action or entered the state of drift.
-EX: Everyone drifted with delight when the good news was shared.
+DEF: Completed the action or experienced the state of drift.
+EX: Everyone drifted with delight when the exciting news arrived.
 
 DRIPPING [dripping] (verb)
 DEF: The ongoing action or experience of dripp.
-EX: The students enjoyed dripping together during their outdoor nature exploration.
+EX: The children enjoyed dripping together on a bright and sunny afternoon.
 
-DROPPED [dropped] (verb)
-DEF: Completed the action or entered the state of dropp.
-EX: Everyone dropped with delight when the good news was shared.
+DROPPED [dɹɒpt] (verb)
+DEF: To fall in droplets (of a liquid).
+EX: Everyone dropped with delight when the exciting news arrived.
+SYN: drop off
 
 DROVE [droʊv] (verb)
 DEF: Past tense of drive; propelled or forced along in a specified direction.
 EX: The fierce northern gale drove the ships across the raging sea.
 SYN: pushed, propelled, forced
 
-DROWSY [drowsy] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Drowsy is remembered throughout history for great bravery and kind leadership.
+DROWSY [ˈdɹaʊzi] (adjective)
+DEF: Inclined to drowse; heavy with sleepiness.
+EX: I was feeling drowsy and so decided to make a cup of coffee to try to wake myself up.
+SYN: dozy, lethargic
 
 DRUG [drʌɡ] (noun)
 DEF: A chemical substance or herbal extract that alters mood or mental state.
@@ -932,9 +946,10 @@ DEF: Free from moisture or liquid; not wet.
 EX: They hauled the wooden boats onto the dry, warm sand.
 SYN: arid, parched, dehydrated
 
-DULL [dull] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Dull is remembered throughout history for great bravery and kind leadership.
+DULL [dəl] (verb)
+DEF: To render dull; to remove or blunt an edge or something that was sharp.
+EX: Years of misuse have dulled the tools.
+SYN: dullen
 
 DULLED [dʌld] (verb / adjective)
 DEF: Made less sharp, intense, or active; numbed.
@@ -942,20 +957,20 @@ EX: The magical honeyed blossom dulled their ambition and memories.
 SYN: numbed, blunted, diminished
 
 DUNGAREES [dungarees] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Dungarees is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Dungarees was known throughout the land for remarkable courage and kindness.
 
 DUST [dust] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Dust is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Dust was known throughout the land for remarkable courage and kindness.
 
 DUSTY [dusty] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Dusty is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Dusty was known throughout the land for remarkable courage and kindness.
 
 EARTH [earth] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Earth is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Earth was known throughout the land for remarkable courage and kindness.
 
 EASTERN [ˈiː.stərn] (adjective)
 DEF: Located toward, facing, or originating from the east.
@@ -978,20 +993,20 @@ EX: Their shouts created a repeating echo off the tall canyon walls.
 SYN: reverberation, resonance, reflection
 
 ECHOED [echoed] (verb)
-DEF: Completed the action or entered the state of echo.
-EX: Everyone echoed with delight when the good news was shared.
+DEF: Completed the action or experienced the state of echo.
+EX: Everyone echoed with delight when the exciting news arrived.
 
 ECHOING [echoing] (verb)
 DEF: The ongoing action or experience of echo.
-EX: The students enjoyed echoing together during their outdoor nature exploration.
+EX: The children enjoyed echoing together on a bright and sunny afternoon.
 
-EITHER [either] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Either is remembered throughout history for great bravery and kind leadership.
+EITHER [ˈaɪð.ə(ɹ)] (adverb)
+DEF: (after a negative) As well.
+EX: I don't like him, and I don't like her either.
 
-ELECTRONICS [electronics] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Electronics is remembered throughout history for great bravery and kind leadership.
+ELECTRONICS [ɪˌlɛkˈtɹɒn.ɪk] (adjective)
+DEF: : Of or pertaining to an electron or electrons.
+EX: The travelers admired the electronics scene as the morning sun illuminated the sky.
 
 EMBARKED [ɛm.ˈbɑːrkt] (verb)
 DEF: Went on board a ship or aircraft; or began a major endeavor.
@@ -1004,8 +1019,8 @@ EX: Emerald hills sloped down gently into the crystal blue sea.
 SYN: bright green, verdant, jade
 
 EMPTY [empty] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Empty is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Empty was known throughout the land for remarkable courage and kindness.
 
 ENCHANTED [ɪn.ˈtʃæn.tɪd] (adjective)
 DEF: Charmed, under a magical spell, or wonderfully delightful.
@@ -1038,7 +1053,7 @@ EX: So let's see. There are two evens here and three odds.
 
 EVENING [evening] (verb)
 DEF: The ongoing action or experience of even.
-EX: The students enjoyed evening together during their outdoor nature exploration.
+EX: The children enjoyed evening together on a bright and sunny afternoon.
 
 EVERY [ˈɛv.ri] (determiner)
 DEF: Used to refer to all the individual members of a set without exception.
@@ -1076,29 +1091,31 @@ EX: Memories of home began to fade after tasting the sweet flower.
 SYN: dim, vanish, dissolve
 
 FADED [faded] (verb)
-DEF: Completed the action or entered the state of fad.
-EX: Everyone faded with delight when the good news was shared.
+DEF: Completed the action or experienced the state of fad.
+EX: Everyone faded with delight when the exciting news arrived.
 
-FADING [fading] (verb)
-DEF: The ongoing action or experience of fad.
-EX: The students enjoyed fading together during their outdoor nature exploration.
+FADING [ˈfeɪdɪŋ] (verb)
+DEF: To grow weak; to lose strength; to decay; to perish gradually; to wither, as a plant.
+EX: The children enjoyed fading together on a bright and sunny afternoon.
+SYN: weaken, wither, blanch
 
 FAINT [faint] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Faint is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Faint was known throughout the land for remarkable courage and kindness.
 
 FAIR [fair] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Fair is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Fair was known throughout the land for remarkable courage and kindness.
 
 FAR [fɑːr] (adverb / adjective)
 DEF: At, to, or by a great distance in space or time.
 EX: They were blown far from their plotted homeland.
 SYN: distant, remote, away
 
-FAT [fat] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Fat is remembered throughout history for great bravery and kind leadership.
+FAT [fæt] (noun)
+DEF: A specialized animal tissue with a high oil content, used for long-term storage of energy.
+EX: The teacher pointed out the unique fat during their classroom discussion.
+SYN: adipose tissue, lard, fatso
 
 FEAR [fɪə] (noun)
 DEF: A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.
@@ -1116,8 +1133,8 @@ EX: The gentle islanders wished only to feed their visitors sweet nectar.
 SYN: nourish, provide food, sustain
 
 FEET [feet] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Feet is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Feet was known throughout the land for remarkable courage and kindness.
 
 FELL [fɛl] (verb)
 DEF: Past tense of fall; dropped down, or entered into a state.
@@ -1129,8 +1146,8 @@ DEF: A cloth or stuff made of matted fibres of wool, or wool and fur, fulled or 
 EX: The nymphs met him halfway, and he felt their cold hands on his chest, his face, his arms.
 
 FETCH [fetch] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Fetch is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Fetch was known throughout the land for remarkable courage and kindness.
 
 FEW [fjuː] (determiner / adjective)
 DEF: A small number of people or things.
@@ -1142,13 +1159,13 @@ DEF: Having or displaying an intense, aggressive, or violent force.
 EX: A fierce tempest battered the ships and tore their linen sails.
 SYN: ferocious, wild, intense
 
-FIFTY [fifty] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Fifty is remembered throughout history for great bravery and kind leadership.
+FIFTY [ˈfɪfti] (noun)
+DEF: A banknote or coin with a denomination of 50.
+EX: Do you want small bills or are fifties OK?
 
-FIGURES [figures] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Figures is remembered throughout history for great bravery and kind leadership.
+FIGURES [ˈfɪɡjɚ] (noun)
+DEF: A drawing or diagram conveying information.
+EX: The teacher pointed out the unique figures during their classroom discussion.
 
 FILLING [ˈfɪl.ɪŋ] (verb / adjective)
 DEF: Making or becoming full of something.
@@ -1157,11 +1174,12 @@ SYN: packing, permeating, saturating
 
 FINALLY [finally] (adverb)
 DEF: In a final manner.
-EX: They planned to finally carefully before embarking on the new journey.
+EX: They planned to finally carefully before embarking on their journey.
 
-FINGERS [fingers] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Fingers is remembered throughout history for great bravery and kind leadership.
+FINGERS [ˈfɪŋəɹ] (noun)
+DEF: A slender jointed extremity of the human hand, exclusive of the thumb.
+EX: Humans have two hands and ten fingers. Each hand has one thumb and four fingers.
+SYN: bloke, boy, guv
 
 FIXED [fɪkst] (adjective / verb)
 DEF: Fastened securely, unchanging, or repaired.
@@ -1169,16 +1187,16 @@ EX: His gaze was fixed upon the distant horizon searching for home.
 SYN: secured, steadfast, focused
 
 FLASH [flash] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Flash is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Flash was known throughout the land for remarkable courage and kindness.
 
 FLEECE [fleece] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Fleece is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Fleece was known throughout the land for remarkable courage and kindness.
 
 FLOOR [floor] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Floor is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Floor was known throughout the land for remarkable courage and kindness.
 
 FLOWER [ˈflaʊ.ər] (noun)
 DEF: The seed-bearing part of a plant consisting of colorful petals.
@@ -1197,19 +1215,19 @@ SYN: flap, wave, quiver
 
 FLUTTERING [fluttering] (verb)
 DEF: The ongoing action or experience of flutter.
-EX: The students enjoyed fluttering together during their outdoor nature exploration.
+EX: The children enjoyed fluttering together on a bright and sunny afternoon.
 
-FOOT [foot] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Foot is remembered throughout history for great bravery and kind leadership.
+FOOT [fʊt̚] (noun)
+DEF: A biological structure found in many animals that is used for locomotion and that is frequently a separate organ at the terminal part of the leg.
+EX: A spider has eight feet.
 
 FOOTBALL [football] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Football is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Football was known throughout the land for remarkable courage and kindness.
 
 FOOTSTEPS [footsteps] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Footsteps is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Footsteps was known throughout the land for remarkable courage and kindness.
 
 FOR [fɔːr] (preposition)
 DEF: With the purpose or goal of; in favor of.
@@ -1232,8 +1250,8 @@ EX: As soon as they tasted the blossom, they forgot their voyage.
 SYN: lost memory of, erased
 
 FORGOTTEN [forgotten] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Forgotten is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Forgotten was known throughout the land for remarkable courage and kindness.
 
 FOUND [faʊnd] (verb)
 DEF: Past tense of find; discovered or located by searching.
@@ -1255,8 +1273,8 @@ DEF: A rush of water, along a river or onto the land; a flood.
 EX: He would lay down in the marigolds at Herakles' side, visions of those beautiful nymphs still fresh in his mind.
 
 FRIEND [friend] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Friend is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Friend was known throughout the land for remarkable courage and kindness.
 
 FROM [frʌm] (preposition)
 DEF: Indicating the point in space or time at which an action begins.
@@ -1270,27 +1288,28 @@ SYN: crops, produce, berries
 
 FRUITLESSLY [fruitlessly] (adverb)
 DEF: In a fruitless manner.
-EX: They planned to fruitlessly carefully before embarking on the new journey.
+EX: They planned to fruitlessly carefully before embarking on their journey.
 
 FURTHER [further] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Further is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Further was known throughout the land for remarkable courage and kindness.
 
-FUTURE [future] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Future is remembered throughout history for great bravery and kind leadership.
+FUTURE [ˈfjuːt͡ʃə] (noun)
+DEF: The time ahead; those moments yet to be experienced.
+EX: The teacher pointed out the unique future during their classroom discussion.
+SYN: to-come, toward
 
 GASPED [gasped] (verb)
-DEF: Completed the action or entered the state of gasp.
-EX: Everyone gasped with delight when the good news was shared.
+DEF: Completed the action or experienced the state of gasp.
+EX: Everyone gasped with delight when the exciting news arrived.
 
 GATHERING [gathering] (verb)
 DEF: The ongoing action or experience of gather.
-EX: The students enjoyed gathering together during their outdoor nature exploration.
+EX: The children enjoyed gathering together on a bright and sunny afternoon.
 
 GAY [gay] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Gay is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Gay was known throughout the land for remarkable courage and kindness.
 
 GENTLE [ˈdʒɛn.təl] (adjective)
 DEF: Mild, kind, tender, and not rough or violent.
@@ -1298,20 +1317,20 @@ EX: A gentle breeze cooled the brow of the tired oarsmen.
 SYN: mild, tender, soft
 
 GESTURES [gestures] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Gestures is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Gestures was known throughout the land for remarkable courage and kindness.
 
 GET [get] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Get is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Get was known throughout the land for remarkable courage and kindness.
 
 GHOSTLY [ghostly] (adverb)
 DEF: In a ghost manner.
-EX: They planned to ghostly carefully before embarking on the new journey.
+EX: They planned to ghostly carefully before embarking on their journey.
 
-GIANT [giant] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Giant is remembered throughout history for great bravery and kind leadership.
+GIANT [ˈdʒaɪ.ənt] (noun)
+DEF: A mythical human of very great size.
+EX: The teacher pointed out the unique giant during their classroom discussion.
 
 GIFT [ɡɪft] (noun)
 DEF: Something given voluntarily without payment in return.
@@ -1319,28 +1338,28 @@ EX: The islanders offered their sweet honey-food as a gift of friendship.
 SYN: present, offering, donation
 
 GIRL [girl] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Girl is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Girl was known throughout the land for remarkable courage and kindness.
 
 GIVEN [given] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Given is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Given was known throughout the land for remarkable courage and kindness.
 
 GLANCE [glance] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Glance is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Glance was known throughout the land for remarkable courage and kindness.
 
 GLASS [glass] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Glass is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Glass was known throughout the land for remarkable courage and kindness.
 
 GLEAMING [gleaming] (verb)
 DEF: The ongoing action or experience of gleam.
-EX: The students enjoyed gleaming together during their outdoor nature exploration.
+EX: The children enjoyed gleaming together on a bright and sunny afternoon.
 
-GLEN [glen] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Glen is remembered throughout history for great bravery and kind leadership.
+GLEN [ɡlɛn] (noun)
+DEF: A secluded and narrow valley, especially one with a river running through it; a dale; a depression between hills.
+EX: The teacher pointed out the unique glen during their classroom discussion.
 
 GLIMMER [ˈɡlɪm.ər] (verb / noun)
 DEF: To shine faintly or with a wavering, soft light.
@@ -1401,8 +1420,8 @@ EX: The Greeks built strong wooden galleys to explore the Mediterranean.
 SYN: Hellenes, Achaeans
 
 GREEN [green] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Green is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Green was known throughout the land for remarkable courage and kindness.
 
 GREETED [ˈɡriː.tɪd] (verb)
 DEF: Welcomed or addressed someone upon arrival.
@@ -1414,25 +1433,25 @@ DEF: Past tense of grow; increased in size, number, or developed.
 EX: Sweet flowering lotus plants grew wild along the sunny riverbank.
 SYN: flourished, developed, sprouted
 
-GREY [grey] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Grey is remembered throughout history for great bravery and kind leadership.
+GREY [ɡɹeɪ] (adjective)
+DEF: Having a color.
+EX: Wash colored items separately from whites and darks to prevent the colors from bleeding.
 
 GROTTOS [grottos] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Grottos is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Grottos was known throughout the land for remarkable courage and kindness.
 
 GROUP [group] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Group is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Group was known throughout the land for remarkable courage and kindness.
 
 GUARD [guard] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Guard is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Guard was known throughout the land for remarkable courage and kindness.
 
 GWEN [gwen] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Gwen is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Gwen was known throughout the land for remarkable courage and kindness.
 
 HAD [hæd] (verb)
 DEF: Past tense of have; possessed or experienced.
@@ -1440,8 +1459,8 @@ EX: The sailors had no idea of the magical nature of the sweet fruit.
 SYN: possessed, held, owned
 
 HADN'T [hadn't] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Hadn't is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Hadn't was known throughout the land for remarkable courage and kindness.
 
 HAIR [hɛər] (noun)
 DEF: Any of the fine thread-like strands growing from the skin of humans and animals.
@@ -1449,16 +1468,17 @@ EX: Sea spray dampens the dark hair of the intrepid navigator.
 SYN: locks, tresses, strands
 
 HALFWAY [halfway] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Halfway is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Halfway was known throughout the land for remarkable courage and kindness.
 
 HAMMERED [hammered] (verb)
-DEF: Completed the action or entered the state of hammer.
-EX: Everyone hammered with delight when the good news was shared.
+DEF: To strike repeatedly with a hammer, some other implement, the fist, etc.
+EX: Tony hammered on the door to try to get him to open.
+SYN: pound
 
 HAND [hand] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Hand is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Hand was known throughout the land for remarkable courage and kindness.
 
 HANDS [hæn(d)z] (noun)
 DEF: The part of the forelimb below the forearm or wrist in a human, and the corresponding part in many other animals.
@@ -1466,8 +1486,8 @@ EX: Her hands are really strong.
 SYN: manus, paw
 
 HANDSOME [handsome] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Handsome is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Handsome was known throughout the land for remarkable courage and kindness.
 
 HAPPILY [ˈhæp.ɪ.li] (adverb)
 DEF: In a joyful, contented, or fortunate manner.
@@ -1485,8 +1505,8 @@ EX: They harvested the sweet honey-fruit from the blooming trees.
 SYN: gathered, collected, reaped
 
 HAS [has] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Has is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Has was known throughout the land for remarkable courage and kindness.
 
 HAVE [hæv] (verb)
 DEF: To possess, own, hold, or experience something.
@@ -1494,8 +1514,8 @@ EX: The sailors have a long journey ahead to reach Ithaca.
 SYN: possess, hold, contain
 
 HAZY [hazy] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Hazy is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Hazy was known throughout the land for remarkable courage and kindness.
 
 HE [hiː] (pronoun)
 DEF: The center of emotions, courage, and feelings in human beings.
@@ -1503,20 +1523,20 @@ EX: A longing for home burned warmly within their hearts.
 SYN: souls, spirits, feelings
 
 HEAR [hear] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Hear is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Hear was known throughout the land for remarkable courage and kindness.
 
 HEARD [hiːɹd] (verb)
 DEF: (stative) To perceive sounds through the ear.
 EX: I was deaf, and now I can hear.
 
 HEART [heart] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Heart is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Heart was known throughout the land for remarkable courage and kindness.
 
 HEAVY [heavy] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Heavy is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Heavy was known throughout the land for remarkable courage and kindness.
 
 HEED [hiːd] (verb / noun)
 DEF: To pay careful attention to advice, warning, or instructions.
@@ -1529,8 +1549,8 @@ EX: Odysseus remembered his faithful wife Penelope and his love for her.
 SYN: that woman, she
 
 HERAKLES [herakles] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Herakles is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Herakles was known throughout the land for remarkable courage and kindness.
 
 HERE [hɪər] (adverb)
 DEF: In, at, or to this place or position.
@@ -1538,12 +1558,12 @@ EX: 'We shall rest here until the morning sun appears,' he said.
 SYN: in this place, presently
 
 HEROES [heroes] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Heroes is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Heroes was known throughout the land for remarkable courage and kindness.
 
 HID [hid] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Hid is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Hid was known throughout the land for remarkable courage and kindness.
 
 HIGH [haɪ] (adjective)
 DEF: Naturally raised areas of land, smaller than mountains.
@@ -1567,7 +1587,7 @@ SYN: belonging to him
 
 HOLDING [holding] (verb)
 DEF: The ongoing action or experience of hold.
-EX: The students enjoyed holding together during their outdoor nature exploration.
+EX: The children enjoyed holding together on a bright and sunny afternoon.
 
 HOME [hoʊm] (noun)
 DEF: Dwellings, houses, or native lands of people.
@@ -1595,8 +1615,8 @@ EX: I spent an hour at lunch.
 SYN: stound, h, hr
 
 HOW [how] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: How is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: How was known throughout the land for remarkable courage and kindness.
 
 HOWLING [ˈhaʊ.lɪŋ] (adjective / verb)
 DEF: Making a long, loud, wailing cry or noise, like strong winds.
@@ -1614,8 +1634,8 @@ EX: 'Huh? What strange enchantment is this?' asked the lookout.
 SYN: what, pardon, really
 
 HUM [hum] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Hum is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Hum was known throughout the land for remarkable courage and kindness.
 
 HUMBLE [ˈhʌm.bəl] (adjective)
 DEF: Having or showing a modest estimate of one's importance; simple.
@@ -1632,20 +1652,20 @@ DEF: The act of finding and killing a wild animal, either for sport or with the 
 EX: He dashed into the woods, wild-eyed, hunting for dear Hylas as a lion hunts a bleating lamb.
 
 HUNTS [hunts] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Hunts is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Hunts was known throughout the land for remarkable courage and kindness.
 
 HURRIED [hurried] (verb)
-DEF: Completed the action or entered the state of hurri.
-EX: Everyone hurried with delight when the good news was shared.
+DEF: Completed the action or experienced the state of hurri.
+EX: Everyone hurried with delight when the exciting news arrived.
 
 HYLAS [hylas] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Hylas is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Hylas was known throughout the land for remarkable courage and kindness.
 
 IDEA [idea] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Idea is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Idea was known throughout the land for remarkable courage and kindness.
 
 IF [ɪf] (noun)
 DEF: An uncertainty, possibility, condition, doubt etc.
@@ -1672,16 +1692,16 @@ EX: The ships rested in the calm waters of the cove.
 SYN: inside, within
 
 INCHES [inches] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Inches is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Inches was known throughout the land for remarkable courage and kindness.
 
 INSIDE [inside] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Inside is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Inside was known throughout the land for remarkable courage and kindness.
 
 INSTEAD [instead] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Instead is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Instead was known throughout the land for remarkable courage and kindness.
 
 INTERACTIVE [ˌɪn.tər.ˈæk.tɪv] (adjective)
 DEF: Allowing a two-way flow of information between user and application.
@@ -1699,8 +1719,8 @@ EX: The vessel glided into the peaceful lagoon.
 SYN: toward the inside of, inside
 
 INTRUDER [intruder] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Intruder is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Intruder was known throughout the land for remarkable courage and kindness.
 
 IS [ɪz] (verb)
 DEF: Third person singular present tense of be.
@@ -1713,8 +1733,8 @@ EX: The lush island was fragrant with exotic blossoms and fruit.
 SYN: isle, atoll, landmass
 
 ISLE [isle] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Isle is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Isle was known throughout the land for remarkable courage and kindness.
 
 ISMARUS [ˈɪs.mə.rəs] (proper noun)
 DEF: An ancient coastal city of the Cicones visited by Odysseus after leaving Troy.
@@ -1732,8 +1752,8 @@ EX: The galley lowered its large canvas sail as it neared the shore.
 SYN: belonging to it
 
 JASON [jason] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Jason is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Jason was known throughout the land for remarkable courage and kindness.
 
 JOURNEY [ˈdʒɜːr.ni] (noun / verb)
 DEF: An act of traveling from one place to another over a long distance.
@@ -1746,12 +1766,12 @@ EX: It is a just assessment of the facts.
 SYN: adequate, proper, correct
 
 KICKED [kicked] (verb)
-DEF: Completed the action or entered the state of kick.
-EX: Everyone kicked with delight when the good news was shared.
+DEF: Completed the action or experienced the state of kick.
+EX: Everyone kicked with delight when the exciting news arrived.
 
 KNEW [knew] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Knew is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Knew was known throughout the land for remarkable courage and kindness.
 
 KNOW [noʊ] (verb)
 DEF: Young sheep.
@@ -1759,8 +1779,8 @@ EX: Flocks of woolly lambs grazed along the sunny coastal meadows.
 SYN: young sheep, livestock
 
 LAMB [lamb] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Lamb is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Lamb was known throughout the land for remarkable courage and kindness.
 
 LAND [lænd] (noun / verb)
 DEF: The solid part of the earth's surface; or to arrive on shore from a vessel.
@@ -1768,8 +1788,8 @@ EX: They were relieved to sight land after weeks in the open ocean.
 SYN: shore, ground, territory
 
 LANDS [lands] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Lands is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Lands was known throughout the land for remarkable courage and kindness.
 
 LANGUAGE [ˈlæŋ.ɡwɪdʒ] (noun)
 DEF: The method of human communication using spoken, written, or signed words.
@@ -1777,16 +1797,16 @@ EX: The ancient Greek language preserves some of world literature's greatest epi
 SYN: speech, tongue, dialect
 
 LATER [later] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Later is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Later was known throughout the land for remarkable courage and kindness.
 
 LAUGHED [laughed] (verb)
-DEF: Completed the action or entered the state of laugh.
-EX: Everyone laughed with delight when the good news was shared.
+DEF: Completed the action or experienced the state of laugh.
+EX: Everyone laughed with delight when the exciting news arrived.
 
 LAUGHING [laughing] (verb)
 DEF: The ongoing action or experience of laugh.
-EX: The students enjoyed laughing together during their outdoor nature exploration.
+EX: The children enjoyed laughing together on a bright and sunny afternoon.
 
 LAY [leɪ] (verb)
 DEF: Past tense of lie; rested in a flat horizontal position.
@@ -1794,8 +1814,8 @@ EX: The drowsy sailors lay upon the soft sand under the shade.
 SYN: rested, reclined, sprawled
 
 LEARN [learn] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Learn is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Learn was known throughout the land for remarkable courage and kindness.
 
 LEAVE [liːv] (verb)
 DEF: To go away from a place or person.
@@ -1804,27 +1824,27 @@ SYN: depart, set off, exit
 
 LEAVING [leaving] (verb)
 DEF: The ongoing action or experience of leav.
-EX: The students enjoyed leaving together during their outdoor nature exploration.
+EX: The children enjoyed leaving together on a bright and sunny afternoon.
 
 LEFT [left] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Left is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Left was known throughout the land for remarkable courage and kindness.
 
 LEG [leg] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Leg is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Leg was known throughout the land for remarkable courage and kindness.
 
 LET’S [let’s] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Let’s is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Let’s was known throughout the land for remarkable courage and kindness.
 
 LIFE [life] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Life is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Life was known throughout the land for remarkable courage and kindness.
 
 LIFTED [lifted] (verb)
-DEF: Completed the action or entered the state of lift.
-EX: Everyone lifted with delight when the good news was shared.
+DEF: Completed the action or experienced the state of lift.
+EX: Everyone lifted with delight when the exciting news arrived.
 
 LIGHT [laɪt] (noun / adjective)
 DEF: The natural agent that stimulates sight and makes things visible; or not heavy.
@@ -1832,20 +1852,20 @@ EX: The morning light painted the ocean waves in shades of gold.
 SYN: radiance, illumination, brightness
 
 LIKE [like] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Like is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Like was known throughout the land for remarkable courage and kindness.
 
 LILY [lily] (adverb)
 DEF: In a li manner.
-EX: They planned to lily carefully before embarking on the new journey.
+EX: They planned to lily carefully before embarking on their journey.
 
 LION [lion] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Lion is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Lion was known throughout the land for remarkable courage and kindness.
 
 LIPS [lips] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Lips is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Lips was known throughout the land for remarkable courage and kindness.
 
 LISTEN [ˈlɪs.ən] (verb)
 DEF: To give one's attention to a sound or speech.
@@ -1859,7 +1879,7 @@ SYN: dwell, go on, last
 
 LONELY [lonely] (adverb)
 DEF: In a lone manner.
-EX: They planned to lonely carefully before embarking on the new journey.
+EX: They planned to lonely carefully before embarking on their journey.
 
 LONG [ˈlɔːŋ] (noun)
 DEF: A long vowel.
@@ -1871,12 +1891,12 @@ EX: They could stay on the island no longer if they wished to see home.
 SYN: further, extended, more
 
 LOOK [look] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Look is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Look was known throughout the land for remarkable courage and kindness.
 
 LOOKED [looked] (verb)
-DEF: Completed the action or entered the state of look.
-EX: Everyone looked with delight when the good news was shared.
+DEF: Completed the action or experienced the state of look.
+EX: Everyone looked with delight when the exciting news arrived.
 
 LOST [lɒst] (adjective / verb)
 DEF: Unable to find one's way; or ceased to be visible or remembered.
@@ -1894,8 +1914,8 @@ EX: The oarsman filled his lungs with the fresh sea breeze.
 SYN: breathing organs, airways
 
 LYRE [lyre] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Lyre is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Lyre was known throughout the land for remarkable courage and kindness.
 
 MADE [meɪd] (verb)
 DEF: Past tense of make; created, constructed, or caused something to happen.
@@ -1903,12 +1923,12 @@ EX: The cunning captain made a plan to secure his crew safely.
 SYN: crafted, created, produced
 
 MADNESS [madness] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Madness is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Madness was known throughout the land for remarkable courage and kindness.
 
 MAIN [main] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Main is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Main was known throughout the land for remarkable courage and kindness.
 
 MAKES [meɪks] (verb)
 DEF: Causes something to be or become; creates.
@@ -1916,8 +1936,8 @@ EX: The honey-fruit makes every traveler forget their homeland.
 SYN: causes, renders, creates
 
 MALL [mall] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Mall is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Mall was known throughout the land for remarkable courage and kindness.
 
 MANAGED [ˈmæn.ɪdʒd] (verb)
 DEF: Succeeded in doing or accomplishing something difficult.
@@ -1935,12 +1955,12 @@ EX: The warriors marched toward the settlement in unified formation.
 SYN: advanced, strode, paraded
 
 MARIGOLDS [marigolds] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Marigolds is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Marigolds was known throughout the land for remarkable courage and kindness.
 
 MARKED [marked] (verb)
-DEF: Completed the action or entered the state of mark.
-EX: Everyone marked with delight when the good news was shared.
+DEF: Completed the action or experienced the state of mark.
+EX: Everyone marked with delight when the exciting news arrived.
 
 MARVEL [ˈmɑːr.vəl] (verb / noun)
 DEF: To be filled with wonder and astonishment; or a wonderful thing.
@@ -1953,16 +1973,16 @@ EX: The warriors caused a fierce massacre before reinforcements arrived.
 SYN: slaughter, carnage, destruction
 
 MASSIVE [massive] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Massive is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Massive was known throughout the land for remarkable courage and kindness.
 
 MAST [mast] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Mast is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Mast was known throughout the land for remarkable courage and kindness.
 
 MEADOW [meadow] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Meadow is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Meadow was known throughout the land for remarkable courage and kindness.
 
 MEAL [miːl] (noun)
 DEF: An occasion when food is eaten, or the food eaten on such an occasion.
@@ -1970,8 +1990,8 @@ EX: They shared a wholesome meal of bread, olives, and fresh fruit.
 SYN: feast, repast, dinner
 
 MELANCHOLIC [melancholic] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Melancholic is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Melancholic was known throughout the land for remarkable courage and kindness.
 
 MELODY [ˈmɛl.ə.di] (noun)
 DEF: A sequence of single musical notes that is musically satisfying; a tune.
@@ -1984,24 +2004,24 @@ EX: The brave men manned the rowing benches with steady determination.
 SYN: crew, sailors, warriors
 
 MEMORIES [memories] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Memories is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Memories was known throughout the land for remarkable courage and kindness.
 
 MEN [men] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Men is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Men was known throughout the land for remarkable courage and kindness.
 
 MERCY [mercy] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Mercy is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Mercy was known throughout the land for remarkable courage and kindness.
 
 MET [met] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Met is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Met was known throughout the land for remarkable courage and kindness.
 
 METAL [metal] (adjective)
-DEF: Characterized by or having the quality of being metal.
-EX: The travelers admired the metal scene as gentle morning light touched the hills.
+DEF: Characterized by or full of the quality of being metal.
+EX: The travelers admired the metal scene as the morning sun illuminated the sky.
 
 MIDDAY [ˌmɪd.ˈdeɪ] (noun)
 DEF: The element of a person that enables them to think, feel, and reason.
@@ -2009,24 +2029,24 @@ EX: The enchanting blossom clouded the minds of the scouts.
 SYN: thoughts, intellects, memories
 
 MIGHTIEST [mightiest] (adjective)
-DEF: Characterized by or having the quality of being mightiest.
-EX: The travelers admired the mightiest scene as gentle morning light touched the hills.
+DEF: Characterized by or full of the quality of being mightiest.
+EX: The travelers admired the mightiest scene as the morning sun illuminated the sky.
 
 MIND [mind] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Mind is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Mind was known throughout the land for remarkable courage and kindness.
 
 MINDS [minds] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Minds is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Minds was known throughout the land for remarkable courage and kindness.
 
 MISSED [missed] (verb)
-DEF: Completed the action or entered the state of miss.
-EX: Everyone missed with delight when the good news was shared.
+DEF: Completed the action or experienced the state of miss.
+EX: Everyone missed with delight when the exciting news arrived.
 
 MIST [mist] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Mist is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Mist was known throughout the land for remarkable courage and kindness.
 
 MORE [mɔːr] (determiner / adverb)
 DEF: A greater or additional quantity, degree, or number.
@@ -2039,24 +2059,24 @@ EX: The cool morning breeze carried the sweet scent of jasmine.
 SYN: dawn, daybreak, sunrise
 
 MOSS [moss] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Moss is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Moss was known throughout the land for remarkable courage and kindness.
 
 MOST [most] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Most is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Most was known throughout the land for remarkable courage and kindness.
 
 MOVED [moved] (verb)
-DEF: Completed the action or entered the state of mov.
-EX: Everyone moved with delight when the good news was shared.
+DEF: Completed the action or experienced the state of mov.
+EX: Everyone moved with delight when the exciting news arrived.
 
 MURMURED [murmured] (verb)
-DEF: Completed the action or entered the state of murmur.
-EX: Everyone murmured with delight when the good news was shared.
+DEF: Completed the action or experienced the state of murmur.
+EX: Everyone murmured with delight when the exciting news arrived.
 
 MUSIC [music] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Music is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Music was known throughout the land for remarkable courage and kindness.
 
 MY [maɪ] (possessive determiner)
 DEF: Belonging to or associated with the speaker.
@@ -2069,8 +2089,8 @@ EX: A mysterious island appeared out of the thick ocean fog.
 SYN: enigmatic, strange, mystical
 
 MYSTERY [mystery] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Mystery is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Mystery was known throughout the land for remarkable courage and kindness.
 
 NAME [neɪm] (noun / verb)
 DEF: A word or set of words by which a person, place, or thing is known.
@@ -2078,8 +2098,8 @@ EX: The leader spoke his proud name to the gathering of elders.
 SYN: title, appellation, identity
 
 NAMES [names] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Names is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Names was known throughout the land for remarkable courage and kindness.
 
 NARRATION [næ.ˈreɪ.ʃən] (noun)
 DEF: The action or process of telling a story aloud.
@@ -2102,16 +2122,16 @@ EX: The exhausted crew needed food, fresh water, and peaceful rest.
 SYN: required, demanded, craved
 
 NEEDLES [needles] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Needles is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Needles was known throughout the land for remarkable courage and kindness.
 
 NEON [neon] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Neon is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Neon was known throughout the land for remarkable courage and kindness.
 
 NERVOUSLY [nervously] (adverb)
 DEF: In a nervous manner.
-EX: They planned to nervously carefully before embarking on the new journey.
+EX: They planned to nervously carefully before embarking on their journey.
 
 NEW [njuː] (adjective)
 DEF: Multiple periods from sunset to sunrise.
@@ -2119,20 +2139,20 @@ EX: For nine long nights, stormy winds tossed the ships upon the sea.
 SYN: evenings, nighttimes
 
 NEXT [next] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Next is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Next was known throughout the land for remarkable courage and kindness.
 
 NO [no] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: No is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: No was known throughout the land for remarkable courage and kindness.
 
 NOBLE [noble] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Noble is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Noble was known throughout the land for remarkable courage and kindness.
 
 NOBODY [nobody] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Nobody is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Nobody was known throughout the land for remarkable courage and kindness.
 
 NOT [nɒt] (adverb)
 DEF: Used with an auxiliary verb or 'be' to form the negative.
@@ -2145,28 +2165,28 @@ EX: Nothing could deter Odysseus from his determination to see home.
 SYN: naught, zero
 
 NOTHINGNESS [nothingness] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Nothingness is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Nothingness was known throughout the land for remarkable courage and kindness.
 
 NOTICE [notice] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Notice is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Notice was known throughout the land for remarkable courage and kindness.
 
 NOW [now] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Now is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Now was known throughout the land for remarkable courage and kindness.
 
 NYMPHS [nymphs] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Nymphs is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Nymphs was known throughout the land for remarkable courage and kindness.
 
 OASIS [oasis] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Oasis is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Oasis was known throughout the land for remarkable courage and kindness.
 
 OBJECT [object] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Object is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Object was known throughout the land for remarkable courage and kindness.
 
 OBSERVATORY [əb.ˈzɜːr.və.tɔːr.i] (noun)
 DEF: A building or high place designed for observing the stars, planets, and weather.
@@ -2194,8 +2214,8 @@ EX: They brought fragrant olive oils to trade with the coastal villagers.
 SYN: ointments, unguents, essences
 
 OLD [old] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Old is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Old was known throughout the land for remarkable courage and kindness.
 
 ON [ɒn] (preposition)
 DEF: Physically in contact with and supported by a surface.
@@ -2214,11 +2234,11 @@ SYN: single, sole, individual
 
 ONLY [only] (adverb)
 DEF: In a on manner.
-EX: They planned to only carefully before embarking on the new journey.
+EX: They planned to only carefully before embarking on their journey.
 
 OPEN [open] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Open is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Open was known throughout the land for remarkable courage and kindness.
 
 OR [ɔːr] (conjunction)
 DEF: Used to link alternatives.
@@ -2231,20 +2251,20 @@ EX: Odysseus ordered his crew to tie the bewitched men securely under the benche
 SYN: commanded, instructed, directed
 
 ORDINARY [ordinary] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Ordinary is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Ordinary was known throughout the land for remarkable courage and kindness.
 
 ORPHEUS [orpheus] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Orpheus is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Orpheus was known throughout the land for remarkable courage and kindness.
 
 OUT [out] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Out is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Out was known throughout the land for remarkable courage and kindness.
 
 OUTSIDE [outside] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Outside is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Outside was known throughout the land for remarkable courage and kindness.
 
 OUTTA [ˈaʊ.tə] (informal contraction)
 DEF: Informal contraction of 'out of'.
@@ -2257,8 +2277,8 @@ EX: Gentle breezes blew over the tranquil waters of the lagoon.
 SYN: across, above, upon
 
 OVERLAY [overlay] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Overlay is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Overlay was known throughout the land for remarkable courage and kindness.
 
 OWN [oʊn] (determiner / pronoun)
 DEF: Belonging to oneself and to no one else.
@@ -2271,20 +2291,20 @@ EX: Great marble palaces once stood along the ancient harbor.
 SYN: mansions, castles, royal halls
 
 PAINT [paint] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Paint is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Paint was known throughout the land for remarkable courage and kindness.
 
 PALE [pale] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Pale is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Pale was known throughout the land for remarkable courage and kindness.
 
 PANG [pang] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Pang is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Pang was known throughout the land for remarkable courage and kindness.
 
 PAPER [paper] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Paper is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Paper was known throughout the land for remarkable courage and kindness.
 
 PARAGRAPH [ˈpær.ə.ɡræf] (noun)
 DEF: A distinct section of a piece of writing dealing with a specific theme.
@@ -2292,8 +2312,8 @@ EX: Read each story paragraph carefully while listening to the audio.
 SYN: section, passage, verse
 
 PARTED [parted] (verb)
-DEF: Completed the action or entered the state of part.
-EX: Everyone parted with delight when the good news was shared.
+DEF: Completed the action or experienced the state of part.
+EX: Everyone parted with delight when the exciting news arrived.
 
 PARTOOK [pɑːr.ˈtʊk] (verb)
 DEF: Past tense of partake; took part in or tasted food or drink.
@@ -2301,16 +2321,16 @@ EX: The scouts partook of the honey-sweet lotus with great delight.
 SYN: shared in, consumed, tasted
 
 PASS [pass] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Pass is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Pass was known throughout the land for remarkable courage and kindness.
 
 PASSED [passed] (verb)
-DEF: Completed the action or entered the state of pass.
-EX: Everyone passed with delight when the good news was shared.
+DEF: Completed the action or experienced the state of pass.
+EX: Everyone passed with delight when the exciting news arrived.
 
 PAST [past] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Past is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Past was known throughout the land for remarkable courage and kindness.
 
 PASTE [peɪst] (noun / verb)
 DEF: A thick, soft, moist substance; or to stick something firmly.
@@ -2318,8 +2338,8 @@ EX: The sweet fruit was crushed into a thick fragrant paste.
 SYN: mixture, substance, blend
 
 PATCH [patch] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Patch is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Patch was known throughout the land for remarkable courage and kindness.
 
 PEACE [piːs] (noun)
 DEF: Freedom from disturbance, war, or conflict; quiet tranquility.
@@ -2332,8 +2352,8 @@ EX: The Lotus-Eaters were a peaceful people who wished no harm to anyone.
 SYN: tranquil, serene, calm, gentle
 
 PECULIAR [peculiar] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Peculiar is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Peculiar was known throughout the land for remarkable courage and kindness.
 
 PENELOPE [pə.ˈnɛl.ə.pi] (proper noun)
 DEF: The colorful, delicate leaf-like segments of a flower blossom.
@@ -2341,44 +2361,44 @@ EX: Soft pink petals floated down onto the calm surface of the stream.
 SYN: blossom leaves, floral leaves
 
 PERCHED [perched] (verb)
-DEF: Completed the action or entered the state of perch.
-EX: Everyone perched with delight when the good news was shared.
+DEF: Completed the action or experienced the state of perch.
+EX: Everyone perched with delight when the exciting news arrived.
 
 PERFECTLY [perfectly] (adverb)
 DEF: In a perfect manner.
-EX: They planned to perfectly carefully before embarking on the new journey.
+EX: They planned to perfectly carefully before embarking on their journey.
 
 PHASIS [phasis] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Phasis is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Phasis was known throughout the land for remarkable courage and kindness.
 
 PHOTOGRAPH [photograph] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Photograph is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Photograph was known throughout the land for remarkable courage and kindness.
 
 PICKED [picked] (verb)
-DEF: Completed the action or entered the state of pick.
-EX: Everyone picked with delight when the good news was shared.
+DEF: Completed the action or experienced the state of pick.
+EX: Everyone picked with delight when the exciting news arrived.
 
 PIECE [piece] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Piece is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Piece was known throughout the land for remarkable courage and kindness.
 
 PILE [pile] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Pile is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Pile was known throughout the land for remarkable courage and kindness.
 
 PINES [pines] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Pines is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Pines was known throughout the land for remarkable courage and kindness.
 
 PITCHER [pitcher] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Pitcher is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Pitcher was known throughout the land for remarkable courage and kindness.
 
 PLASTIC [plastic] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Plastic is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Plastic was known throughout the land for remarkable courage and kindness.
 
 PLAYED [pleɪd] (verb)
 DEF: Feelings of happy satisfaction, enjoyment, or sensual delight.
@@ -2386,16 +2406,16 @@ EX: They abandoned the fleeting pleasures of the lotus to pursue their noble jou
 SYN: delights, joys, indulgences
 
 PLUCKED [plucked] (verb)
-DEF: Completed the action or entered the state of pluck.
-EX: Everyone plucked with delight when the good news was shared.
+DEF: Completed the action or experienced the state of pluck.
+EX: Everyone plucked with delight when the exciting news arrived.
 
 POCKET [pocket] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Pocket is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Pocket was known throughout the land for remarkable courage and kindness.
 
 POLISHED [polished] (verb)
-DEF: Completed the action or entered the state of polish.
-EX: Everyone polished with delight when the good news was shared.
+DEF: Completed the action or experienced the state of polish.
+EX: Everyone polished with delight when the exciting news arrived.
 
 POLLINATOR [ˈpɒl.ɪ.neɪ.tər] (noun)
 DEF: The correct ways in which words or languages are spoken.
@@ -2403,36 +2423,36 @@ EX: Listen to the audio to practice accurate pronunciations of new vocabulary.
 SYN: articulations, accents, utterances
 
 POND [pond] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Pond is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Pond was known throughout the land for remarkable courage and kindness.
 
 POP [pop] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Pop is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Pop was known throughout the land for remarkable courage and kindness.
 
 POPCORN [popcorn] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Popcorn is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Popcorn was known throughout the land for remarkable courage and kindness.
 
 PREPARED [prepared] (verb)
-DEF: Completed the action or entered the state of prepar.
-EX: Everyone prepared with delight when the good news was shared.
+DEF: Completed the action or experienced the state of prepar.
+EX: Everyone prepared with delight when the exciting news arrived.
 
 PRESSED [pressed] (verb)
-DEF: Completed the action or entered the state of press.
-EX: Everyone pressed with delight when the good news was shared.
+DEF: Completed the action or experienced the state of press.
+EX: Everyone pressed with delight when the exciting news arrived.
 
 PROMISED [promised] (verb)
-DEF: Completed the action or entered the state of promis.
-EX: Everyone promised with delight when the good news was shared.
+DEF: Completed the action or experienced the state of promis.
+EX: Everyone promised with delight when the exciting news arrived.
 
 PUFF [puff] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Puff is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Puff was known throughout the land for remarkable courage and kindness.
 
 PULLED [pulled] (verb)
-DEF: Completed the action or entered the state of pull.
-EX: Everyone pulled with delight when the good news was shared.
+DEF: Completed the action or experienced the state of pull.
+EX: Everyone pulled with delight when the exciting news arrived.
 
 QUEST [kwɛst] (noun)
 DEF: A long, arduous search for something noble or adventurous.
@@ -2455,8 +2475,8 @@ EX: The Lotus-Eaters were a gentle race who lived in harmony with the blossoms.
 SYN: people, tribe, lineage
 
 RANK [rank] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Rank is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Rank was known throughout the land for remarkable courage and kindness.
 
 READIED [ˈrɛd.id] (verb)
 DEF: Prepared or made something ready for action.
@@ -2464,8 +2484,8 @@ EX: The sailors readied the heavy oars for a swift departure.
 SYN: prepared, equipped, fitted out
 
 REAL [real] (adjective)
-DEF: Characterized by or having the quality of being real.
-EX: The travelers admired the real scene as gentle morning light touched the hills.
+DEF: Characterized by or full of the quality of being real.
+EX: The travelers admired the real scene as the morning sun illuminated the sky.
 
 RECEIVED [rɪ.ˈsiːvd] (verb)
 DEF: Got, accepted, or was greeted with something given.
@@ -2474,11 +2494,11 @@ SYN: accepted, welcomed, greeted
 
 RECKLESSLY [recklessly] (adverb)
 DEF: In a reckless manner.
-EX: They planned to recklessly carefully before embarking on the new journey.
+EX: They planned to recklessly carefully before embarking on their journey.
 
 RECOGNIZE [recognize] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Recognize is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Recognize was known throughout the land for remarkable courage and kindness.
 
 RED [rɛd] (adjective / noun)
 DEF: The color of blood, rubies, or ripe strawberries.
@@ -2486,8 +2506,8 @@ EX: A glowing red sunset signaled fair weather for tomorrow's sailing.
 SYN: crimson, scarlet, ruby
 
 REEDS [reeds] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Reeds is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Reeds was known throughout the land for remarkable courage and kindness.
 
 REFUSED [rɪ.ˈfjuːzd] (verb)
 DEF: Indicated unwillingness to do, accept, or grant something.
@@ -2495,8 +2515,8 @@ EX: The bewitched scouts refused to stand up or return to the ships.
 SYN: declined, resisted, rejected
 
 RELAX [relax] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Relax is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Relax was known throughout the land for remarkable courage and kindness.
 
 REMAIN [rɪ.ˈmeɪn] (verb)
 DEF: To continue to exist or stay in the same place.
@@ -2514,8 +2534,8 @@ EX: He remembered the smiling faces of his family in Ithaca.
 SYN: recalled, recollected, retained
 
 REPLACED [replaced] (verb)
-DEF: Completed the action or entered the state of replac.
-EX: Everyone replaced with delight when the good news was shared.
+DEF: Completed the action or experienced the state of replac.
+EX: Everyone replaced with delight when the exciting news arrived.
 
 RESISTED [rɪ.ˈzɪs.tɪd] (verb)
 DEF: Struggled against or fought back against force or temptation.
@@ -2523,12 +2543,12 @@ EX: The wise hero resisted the sweet temptation of the honeyed fruit.
 SYN: withstood, opposed, defied
 
 REST [rest] (adjective)
-DEF: Characterized by or having the quality of being rest.
-EX: The travelers admired the rest scene as gentle morning light touched the hills.
+DEF: Characterized by or full of the quality of being rest.
+EX: The travelers admired the rest scene as the morning sun illuminated the sky.
 
 RESTING [resting] (verb)
 DEF: The ongoing action or experience of rest.
-EX: The students enjoyed resting together during their outdoor nature exploration.
+EX: The children enjoyed resting together on a bright and sunny afternoon.
 
 RETURN [rɪ.ˈtɜːrn] (verb / noun)
 DEF: To come or go back to a place or person; or the act of coming back.
@@ -2536,16 +2556,16 @@ EX: Their greatest desire was to return safely to their native land.
 SYN: go back, revisit, homecoming
 
 RETURNED [returned] (verb)
-DEF: Completed the action or entered the state of return.
-EX: Everyone returned with delight when the good news was shared.
+DEF: Completed the action or experienced the state of return.
+EX: Everyone returned with delight when the exciting news arrived.
 
 RIBS [ribs] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Ribs is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Ribs was known throughout the land for remarkable courage and kindness.
 
 RICH [rich] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Rich is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Rich was known throughout the land for remarkable courage and kindness.
 
 RIDING [ˈraɪ.dɪŋ] (verb)
 DEF: Being carried on horseback or traveling atop ocean waves.
@@ -2553,24 +2573,24 @@ EX: The ship was riding the crest of high azure waves.
 SYN: floating atop, mounting, coursing
 
 RIGHT [right] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Right is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Right was known throughout the land for remarkable courage and kindness.
 
 RIPPLE [ripple] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Ripple is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Ripple was known throughout the land for remarkable courage and kindness.
 
 RIVALED [rivaled] (verb)
-DEF: Completed the action or entered the state of rival.
-EX: Everyone rivaled with delight when the good news was shared.
+DEF: Completed the action or experienced the state of rival.
+EX: Everyone rivaled with delight when the exciting news arrived.
 
 ROOM [room] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Room is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Room was known throughout the land for remarkable courage and kindness.
 
 ROOT [root] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Root is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Root was known throughout the land for remarkable courage and kindness.
 
 ROUSE [raʊz] (verb)
 DEF: To awaken from sleep or stimulate to action.
@@ -2578,12 +2598,12 @@ EX: Odysseus had to rouse his dreaming comrades from their heavy stupor.
 SYN: awaken, stir, alert
 
 RUBBED [rubbed] (verb)
-DEF: Completed the action or entered the state of rubb.
-EX: Everyone rubbed with delight when the good news was shared.
+DEF: Completed the action or experienced the state of rubb.
+EX: Everyone rubbed with delight when the exciting news arrived.
 
 RUCKSACK [rucksack] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Rucksack is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Rucksack was known throughout the land for remarkable courage and kindness.
 
 RUN [rʌn] (verb)
 DEF: Large pieces of canvas or fabric spread to catch the wind and drive a ship.
@@ -2591,16 +2611,16 @@ EX: They hoisted the linen sails to catch the favoring breeze.
 SYN: canvas, rigging
 
 RUSHES [rushes] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Rushes is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Rushes was known throughout the land for remarkable courage and kindness.
 
 SAD [sad] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Sad is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Sad was known throughout the land for remarkable courage and kindness.
 
 SAID [said] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Said is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Said was known throughout the land for remarkable courage and kindness.
 
 SANCTUARY [ˈsæŋk.tʃuː.ɛr.i] (noun)
 DEF: A place of safety, refuge, or sacred holiness.
@@ -2613,8 +2633,8 @@ EX: The clear Mediterranean waters sparkled like polished sapphire.
 SYN: deep blue, cerulean, azure
 
 SATURDAY [saturday] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Saturday is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Saturday was known throughout the land for remarkable courage and kindness.
 
 SAVAGE [ˈsæv.ɪdʒ] (adjective)
 DEF: Fierce, violent, and untamed; ferocious.
@@ -2627,12 +2647,12 @@ EX: The lookout saw the silhouette of mountains rising through the mist.
 SYN: spotted, observed, beheld
 
 SAY [say] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Say is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Say was known throughout the land for remarkable courage and kindness.
 
 SCANNING [scanning] (verb)
 DEF: The ongoing action or experience of scann.
-EX: The students enjoyed scanning together during their outdoor nature exploration.
+EX: The children enjoyed scanning together on a bright and sunny afternoon.
 
 SCATTERED [ˈskæt.ərd] (adjective / verb)
 DEF: Separated and dispersed over a wide area.
@@ -2640,8 +2660,8 @@ EX: The fierce storm left the fleet scattered across the wide sea.
 SYN: dispersed, spread, strewn
 
 SCENT [scent] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Scent is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Scent was known throughout the land for remarkable courage and kindness.
 
 SCOUT [skaʊt] (noun / verb)
 DEF: A person sent ahead to gather information about unfamiliar territory.
@@ -2664,8 +2684,8 @@ EX: Splashes of salty seawater sprayed over the bow of the galley.
 SYN: brine, salt water
 
 SECONDS [seconds] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Seconds is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Seconds was known throughout the land for remarkable courage and kindness.
 
 SECRET [ˈsiː.krɪt] (noun / adjective)
 DEF: Something kept hidden from the knowledge of others.
@@ -2673,8 +2693,8 @@ EX: The sweet fruit held the secret power of peaceful forgetfulness.
 SYN: mystery, hidden truth, concealed
 
 SECURITY [security] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Security is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Security was known throughout the land for remarkable courage and kindness.
 
 SEE [siː] (verb)
 DEF: To perceive with the eyes; to observe or understand.
@@ -2682,16 +2702,16 @@ EX: Look ahead to see if any sails appear on the distant horizon.
 SYN: behold, observe, view
 
 SEEK [seek] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Seek is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Seek was known throughout the land for remarkable courage and kindness.
 
 SEEMED [seemed] (verb)
-DEF: Completed the action or entered the state of seem.
-EX: Everyone seemed with delight when the good news was shared.
+DEF: Completed the action or experienced the state of seem.
+EX: Everyone seemed with delight when the exciting news arrived.
 
 SELDOM [seldom] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Seldom is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Seldom was known throughout the land for remarkable courage and kindness.
 
 SENSED [sɛnst] (verb)
 DEF: Became aware of something through intuition or subtle perception.
@@ -2709,8 +2729,8 @@ EX: They set sail toward the open water as soon as dawn arrived.
 SYN: placed, commenced, embarked
 
 SHADE [shade] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Shade is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Shade was known throughout the land for remarkable courage and kindness.
 
 SHADOW [ˈʃæd.oʊ] (noun)
 DEF: A dark area produced by a body coming between rays of light and a surface.
@@ -2718,28 +2738,28 @@ EX: The tall cliffs cast a cool shadow across the sheltered inlet.
 SYN: shade, silhouette, darkness
 
 SHADOWS [shadows] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Shadows is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Shadows was known throughout the land for remarkable courage and kindness.
 
 SHADOWY [shadowy] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Shadowy is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Shadowy was known throughout the land for remarkable courage and kindness.
 
 SHADY [shady] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Shady is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Shady was known throughout the land for remarkable courage and kindness.
 
 SHALL [shall] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Shall is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Shall was known throughout the land for remarkable courage and kindness.
 
 SHARP [sharp] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Sharp is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Sharp was known throughout the land for remarkable courage and kindness.
 
 SHATTERED [shattered] (verb)
-DEF: Completed the action or entered the state of shatter.
-EX: Everyone shattered with delight when the good news was shared.
+DEF: Completed the action or experienced the state of shatter.
+EX: Everyone shattered with delight when the exciting news arrived.
 
 SHE [ʃiː] (pronoun)
 DEF: Referring to a female person or deity previously mentioned.
@@ -2747,16 +2767,16 @@ EX: Athena watched over Odysseus, ensuring she could aid him in peril.
 SYN: that goddess, the lady
 
 SHIFT [shift] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Shift is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Shift was known throughout the land for remarkable courage and kindness.
 
 SHINING [shining] (verb)
 DEF: The ongoing action or experience of shin.
-EX: The students enjoyed shining together during their outdoor nature exploration.
+EX: The children enjoyed shining together on a bright and sunny afternoon.
 
 SHINY [shiny] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Shiny is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Shiny was known throughout the land for remarkable courage and kindness.
 
 SHIP [ʃɪp] (noun)
 DEF: Multiple sailing vessels traveling together as a fleet.
@@ -2769,60 +2789,60 @@ EX: Thunder shook the wooden deck as the storm struck with fury.
 SYN: trembled, quivered, vibrated
 
 SHOP [shop] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Shop is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Shop was known throughout the land for remarkable courage and kindness.
 
 SHOPPING [shopping] (verb)
 DEF: The ongoing action or experience of shopp.
-EX: The students enjoyed shopping together during their outdoor nature exploration.
+EX: The children enjoyed shopping together on a bright and sunny afternoon.
 
 SHOPS [shops] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Shops is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Shops was known throughout the land for remarkable courage and kindness.
 
 SHORE [shore] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Shore is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Shore was known throughout the land for remarkable courage and kindness.
 
 SHORES [shores] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Shores is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Shores was known throughout the land for remarkable courage and kindness.
 
 SHORT [short] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Short is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Short was known throughout the land for remarkable courage and kindness.
 
 SHRINKING [shrinking] (verb)
 DEF: The ongoing action or experience of shrink.
-EX: The students enjoyed shrinking together during their outdoor nature exploration.
+EX: The children enjoyed shrinking together on a bright and sunny afternoon.
 
 SIDE [side] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Side is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Side was known throughout the land for remarkable courage and kindness.
 
 SIGN [sign] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Sign is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Sign was known throughout the land for remarkable courage and kindness.
 
 SILENCE [silence] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Silence is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Silence was known throughout the land for remarkable courage and kindness.
 
 SILENT [silent] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Silent is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Silent was known throughout the land for remarkable courage and kindness.
 
 SILVER [silver] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Silver is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Silver was known throughout the land for remarkable courage and kindness.
 
 SIMPLE [simple] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Simple is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Simple was known throughout the land for remarkable courage and kindness.
 
 SINCE [since] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Since is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Since was known throughout the land for remarkable courage and kindness.
 
 SINGLE [ˈsɪŋ.ɡəl] (adjective)
 DEF: Only one; not one of several.
@@ -2835,16 +2855,16 @@ EX: The sinking sun painted the western horizon with crimson and gold.
 SYN: descending, submerging, dropping
 
 SIRENS [sirens] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Sirens is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Sirens was known throughout the land for remarkable courage and kindness.
 
 SKILLS [skills] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Skills is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Skills was known throughout the land for remarkable courage and kindness.
 
 SKIN [skin] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Skin is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Skin was known throughout the land for remarkable courage and kindness.
 
 SKY [skaɪ] (noun)
 DEF: The region of the atmosphere above the earth seen from below.
@@ -2873,27 +2893,27 @@ SYN: page, screen, panel
 
 SLIGHTLY [slightly] (adverb)
 DEF: In a slight manner.
-EX: They planned to slightly carefully before embarking on the new journey.
+EX: They planned to slightly carefully before embarking on their journey.
 
 SLIPPED [slipped] (verb)
-DEF: Completed the action or entered the state of slipp.
-EX: Everyone slipped with delight when the good news was shared.
+DEF: Completed the action or experienced the state of slipp.
+EX: Everyone slipped with delight when the exciting news arrived.
 
 SLOW [slow] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Slow is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Slow was known throughout the land for remarkable courage and kindness.
 
 SMALL [small] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Small is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Small was known throughout the land for remarkable courage and kindness.
 
 SMELL [smell] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Smell is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Smell was known throughout the land for remarkable courage and kindness.
 
 SMELLING [smelling] (verb)
 DEF: The ongoing action or experience of smell.
-EX: The students enjoyed smelling together during their outdoor nature exploration.
+EX: The children enjoyed smelling together on a bright and sunny afternoon.
 
 SO [soʊ] (adverb / conjunction)
 DEF: To such a great extent, or with the result that.
@@ -2901,8 +2921,8 @@ EX: The fruit was so sweet that it banished all memories of home.
 SYN: thus, therefore, extremely
 
 SOLID [solid] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Solid is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Solid was known throughout the land for remarkable courage and kindness.
 
 SOLITARY [ˈsɒl.ɪ.tər.i] (adjective)
 DEF: Done or existing alone; isolated.
@@ -2916,15 +2936,15 @@ SYN: a few, a portion
 
 SOMETHING [something] (verb)
 DEF: The ongoing action or experience of someth.
-EX: The students enjoyed something together during their outdoor nature exploration.
+EX: The children enjoyed something together on a bright and sunny afternoon.
 
 SONG [song] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Song is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Song was known throughout the land for remarkable courage and kindness.
 
 SONGS [songs] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Songs is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Songs was known throughout the land for remarkable courage and kindness.
 
 SOON [suːn] (adverb)
 DEF: Weapons with long wooden shafts and sharp pointed bronze or iron tips.
@@ -2932,20 +2952,20 @@ EX: Bronze-tipped spears gleamed brightly in the midday sunlight.
 SYN: lances, javelins, pikes
 
 SOUND [sound] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Sound is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Sound was known throughout the land for remarkable courage and kindness.
 
 SPACE [space] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Space is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Space was known throughout the land for remarkable courage and kindness.
 
 SPEAK [speak] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Speak is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Speak was known throughout the land for remarkable courage and kindness.
 
 SPEAKERS [speakers] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Speakers is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Speakers was known throughout the land for remarkable courage and kindness.
 
 SPELL [spɛl] (noun)
 DEF: A magical charm, enchantment, or trance.
@@ -2953,16 +2973,16 @@ EX: The sweet lotus blossom cast a powerful spell of forgetfulness.
 SYN: enchantment, charm, trance
 
 SPEND [spend] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Spend is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Spend was known throughout the land for remarkable courage and kindness.
 
 SPRING [spring] (verb)
 DEF: The ongoing action or experience of spr.
-EX: The students enjoyed spring together during their outdoor nature exploration.
+EX: The children enjoyed spring together on a bright and sunny afternoon.
 
 STARED [stared] (verb)
-DEF: Completed the action or entered the state of star.
-EX: Everyone stared with delight when the good news was shared.
+DEF: Completed the action or experienced the state of star.
+EX: Everyone stared with delight when the exciting news arrived.
 
 STARLIGHT [ˈstɑːr.laɪt] (noun)
 DEF: Luminous celestial bodies visible as points of light in the night sky.
@@ -2970,20 +2990,20 @@ EX: Sailors read the alignment of the stars to plot their course.
 SYN: constellations, celestial lights
 
 STEAL [steal] (adjective)
-DEF: Characterized by or having the quality of being steal.
-EX: The travelers admired the steal scene as gentle morning light touched the hills.
+DEF: Characterized by or full of the quality of being steal.
+EX: The travelers admired the steal scene as the morning sun illuminated the sky.
 
 STEP [step] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Step is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Step was known throughout the land for remarkable courage and kindness.
 
 STEPPED [stepped] (verb)
-DEF: Completed the action or entered the state of stepp.
-EX: Everyone stepped with delight when the good news was shared.
+DEF: Completed the action or experienced the state of stepp.
+EX: Everyone stepped with delight when the exciting news arrived.
 
 STEPPING [stepping] (verb)
 DEF: The ongoing action or experience of stepp.
-EX: The students enjoyed stepping together during their outdoor nature exploration.
+EX: The children enjoyed stepping together on a bright and sunny afternoon.
 
 STILL [stɪl] (adjective / adverb)
 DEF: Not moving or making sound; or continuing to happen.
@@ -2991,8 +3011,8 @@ EX: The sea was completely still after the violent storm passed.
 SYN: motionless, peaceful, calm
 
 STOLEN [stolen] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Stolen is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Stolen was known throughout the land for remarkable courage and kindness.
 
 STOPPED [stɒpt] (verb)
 DEF: Came to an end of a movement or action; halted.
@@ -3000,8 +3020,8 @@ EX: The ships stopped at the sheltered cove to take on fresh water.
 SYN: halted, anchored, paused
 
 STORIED [storied] (verb)
-DEF: Completed the action or entered the state of stori.
-EX: Everyone storied with delight when the good news was shared.
+DEF: Completed the action or experienced the state of stori.
+EX: Everyone storied with delight when the exciting news arrived.
 
 STORM [stɔːrm] (noun)
 DEF: A violent disturbance of the atmosphere with strong winds and heavy seas.
@@ -3019,12 +3039,12 @@ EX: The island was home to a strange and magical flowering plant.
 SYN: mysterious, unusual, peculiar
 
 STREET [street] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Street is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Street was known throughout the land for remarkable courage and kindness.
 
 STRIPPED [stripped] (verb)
-DEF: Completed the action or entered the state of stripp.
-EX: Everyone stripped with delight when the good news was shared.
+DEF: Completed the action or experienced the state of stripp.
+EX: Everyone stripped with delight when the exciting news arrived.
 
 STRUGGLING [ˈstrʌɡ.lɪŋ] (verb / adjective)
 DEF: Striving with great effort against difficulties or restraint.
@@ -3032,8 +3052,8 @@ EX: The weeping scouts were struggling as Odysseus dragged them away.
 SYN: resisting, striving, grappling
 
 STUMBLED [stumbled] (verb)
-DEF: Completed the action or entered the state of stumbl.
-EX: Everyone stumbled with delight when the good news was shared.
+DEF: Completed the action or experienced the state of stumbl.
+EX: Everyone stumbled with delight when the exciting news arrived.
 
 STUPOR [ˈstjuː.pər] (noun)
 DEF: A state of near-unconsciousness or suspended sensibility caused by drink or enchantment.
@@ -3046,16 +3066,16 @@ EX: The howling gale subsided and calm returned to the waters.
 SYN: abated, lessened, quieted
 
 SUBTERRANEAN [subterranean] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Subterranean is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Subterranean was known throughout the land for remarkable courage and kindness.
 
 SUDDEN [sudden] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Sudden is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Sudden was known throughout the land for remarkable courage and kindness.
 
 SUDDENLY [suddenly] (adverb)
 DEF: In a sudden manner.
-EX: They planned to suddenly carefully before embarking on the new journey.
+EX: They planned to suddenly carefully before embarking on their journey.
 
 SUMMARY [ˈsʌm.ər.i] (noun)
 DEF: A brief statement or account of the main points of something.
@@ -3069,7 +3089,7 @@ SYN: daystar, sol
 
 SURPRISINGLY [surprisingly] (adverb)
 DEF: In a surprising manner.
-EX: They planned to surprisingly carefully before embarking on the new journey.
+EX: They planned to surprisingly carefully before embarking on their journey.
 
 SUSPECTING [sə.ˈspɛk.tɪŋ] (verb)
 DEF: Having an idea or feeling of the possible truth without certainty.
@@ -3077,8 +3097,8 @@ EX: Not suspecting any enchantment, the hungry scouts ate the sweet blossoms.
 SYN: doubting, imagining, sensing
 
 SWALLOW [swallow] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Swallow is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Swallow was known throughout the land for remarkable courage and kindness.
 
 SWEET [swiːt] (adjective)
 DEF: Having the pleasant taste characteristic of sugar or honey.
@@ -3086,20 +3106,20 @@ EX: The sweet taste of the lotus made all troubles vanish from memory.
 SYN: honeyed, sugary, delicious
 
 SWIFT [swift] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Swift is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Swift was known throughout the land for remarkable courage and kindness.
 
 TAKE [take] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Take is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Take was known throughout the land for remarkable courage and kindness.
 
 TAKING [taking] (verb)
 DEF: The ongoing action or experience of tak.
-EX: The students enjoyed taking together during their outdoor nature exploration.
+EX: The children enjoyed taking together on a bright and sunny afternoon.
 
 TALK [talk] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Talk is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Talk was known throughout the land for remarkable courage and kindness.
 
 TAP [tæp] (verb / noun)
 DEF: To strike lightly, or touch a touch-screen with a finger.
@@ -3107,8 +3127,8 @@ EX: Tap any highlighted story word to hear its pronunciation and definition.
 SYN: touch, press, click
 
 TAPE [tape] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Tape is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Tape was known throughout the land for remarkable courage and kindness.
 
 TAPESTRY [ˈtæp.ɪ.stri] (noun)
 DEF: A piece of thick textile fabric with pictures or designs woven into it.
@@ -3122,7 +3142,7 @@ SYN: clickable, interactive
 
 TAPPING [tapping] (verb)
 DEF: The ongoing action or experience of tapp.
-EX: The students enjoyed tapping together during their outdoor nature exploration.
+EX: The children enjoyed tapping together on a bright and sunny afternoon.
 
 TASTED [ˈteɪ.stɪd] (verb)
 DEF: Perceived the flavor of food or drink in the mouth.
@@ -3135,8 +3155,8 @@ EX: The islanders brewed herbal tea from the fragrant wild blossoms.
 SYN: infusion, beverage
 
 TEENAGERS [teenagers] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Teenagers is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Teenagers was known throughout the land for remarkable courage and kindness.
 
 TELESCOPE [ˈtɛl.ɪ.skoʊp] (noun)
 DEF: An optical instrument designed to make distant objects appear nearer.
@@ -3144,8 +3164,8 @@ EX: The stargazer peered through a bronze telescope to chart the stars.
 SYN: spyglass, optics
 
 TEN [ten] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Ten is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Ten was known throughout the land for remarkable courage and kindness.
 
 TERRIBLE [ˈtɛr.ə.bəl] (adjective)
 DEF: Extremely bad, serious, or formidable; causing great fear.
@@ -3154,7 +3174,7 @@ SYN: dreadful, awful, ferocious
 
 TERRIBLY [terribly] (adverb)
 DEF: In a terrib manner.
-EX: They planned to terribly carefully before embarking on the new journey.
+EX: They planned to terribly carefully before embarking on their journey.
 
 TEXT [tɛkst] (noun)
 DEF: The main body of a book, story, or written piece.
@@ -3192,8 +3212,8 @@ EX: The crew found themselves cast upon an unfamiliar shoreline.
 SYN: personally, their own persons
 
 THEN [then] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Then is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Then was known throughout the land for remarkable courage and kindness.
 
 THERE [ðɛər] (adverb)
 DEF: In, at, or to that place or position.
@@ -3217,15 +3237,15 @@ SYN: dense, heavy, impenetrable
 
 THING [thing] (verb)
 DEF: The ongoing action or experience of th.
-EX: The students enjoyed thing together during their outdoor nature exploration.
+EX: The children enjoyed thing together on a bright and sunny afternoon.
 
 THINK [think] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Think is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Think was known throughout the land for remarkable courage and kindness.
 
 THINKING [thinking] (verb)
 DEF: The ongoing action or experience of think.
-EX: The students enjoyed thinking together during their outdoor nature exploration.
+EX: The children enjoyed thinking together on a bright and sunny afternoon.
 
 THIRST [θɜːrst] (noun / verb)
 DEF: A feeling of needing to drink liquid; or a strong craving.
@@ -3248,12 +3268,12 @@ EX: Though the sea was rough, the disciplined crew rowed steadily.
 SYN: although, even if, yet
 
 THOUGHT [thought] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Thought is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Thought was known throughout the land for remarkable courage and kindness.
 
 THOUSANDS [thousands] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Thousands is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Thousands was known throughout the land for remarkable courage and kindness.
 
 THREE [θriː] (numeral)
 DEF: The cardinal number that is one more than two.
@@ -3261,24 +3281,24 @@ EX: Odysseus sent three scouts inland to investigate the islanders.
 SYN: trio, triad
 
 THROUGH [through] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Through is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Through was known throughout the land for remarkable courage and kindness.
 
 TIGHTENING [tightening] (verb)
 DEF: The ongoing action or experience of tighten.
-EX: The students enjoyed tightening together during their outdoor nature exploration.
+EX: The children enjoyed tightening together on a bright and sunny afternoon.
 
 TILE [tile] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Tile is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Tile was known throughout the land for remarkable courage and kindness.
 
 TILES [tiles] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Tiles is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Tiles was known throughout the land for remarkable courage and kindness.
 
 TIME [time] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Time is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Time was known throughout the land for remarkable courage and kindness.
 
 TINKER [ˈtɪŋ.kər] (verb / noun)
 DEF: To attempt to repair or improve something in an experimental or casual manner.
@@ -3286,8 +3306,8 @@ EX: The curious young sailor loved to tinker with brass navigational tools.
 SYN: experiment, fiddle, adjust
 
 TINNY [tinny] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Tinny is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Tinny was known throughout the land for remarkable courage and kindness.
 
 TITLE [ˈtaɪ.təl] (noun)
 DEF: The name of a book, story, chapter, or musical piece.
@@ -3300,20 +3320,20 @@ EX: They sailed to the quiet cove to escape the raging storm.
 SYN: toward, unto
 
 TOBY [toby] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Toby is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Toby was known throughout the land for remarkable courage and kindness.
 
 TOBY'S [toby's] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Toby's is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Toby's was known throughout the land for remarkable courage and kindness.
 
 TOBY’S [toby’s] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Toby’s is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Toby’s was known throughout the land for remarkable courage and kindness.
 
 TOGETHER [together] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Together is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Together was known throughout the land for remarkable courage and kindness.
 
 TOLD [toʊld] (verb)
 DEF: Past tense of tell; communicated information or facts to someone.
@@ -3336,20 +3356,20 @@ EX: The violent squall tore their canvas sails to ragged shreds.
 SYN: ripped, shredded, severed
 
 TOUCHED [touched] (verb)
-DEF: Completed the action or entered the state of touch.
-EX: Everyone touched with delight when the good news was shared.
+DEF: Completed the action or experienced the state of touch.
+EX: Everyone touched with delight when the exciting news arrived.
 
 TRACE [trace] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Trace is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Trace was known throughout the land for remarkable courage and kindness.
 
 TRAINERS [trainers] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Trainers is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Trainers was known throughout the land for remarkable courage and kindness.
 
 TRAINING [training] (verb)
 DEF: The ongoing action or experience of train.
-EX: The students enjoyed training together during their outdoor nature exploration.
+EX: The children enjoyed training together on a bright and sunny afternoon.
 
 TRANQUIL [ˈtræŋ.kwɪl] (adjective)
 DEF: Free from disturbance; calm, peaceful, and serene.
@@ -3357,12 +3377,12 @@ EX: The tranquil bay mirrored the azure sky without a single ripple.
 SYN: peaceful, serene, calm
 
 TRANSPARENT [transparent] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Transparent is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Transparent was known throughout the land for remarkable courage and kindness.
 
 TRAVEL [travel] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Travel is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Travel was known throughout the land for remarkable courage and kindness.
 
 TREASURE [ˈtrɛʒ.ər] (noun / verb)
 DEF: A quantity of precious metals, gems, or valuable items; or to cherish.
@@ -3371,7 +3391,7 @@ SYN: riches, valuables, trove
 
 TREMBLING [trembling] (verb)
 DEF: The ongoing action or experience of trembl.
-EX: The students enjoyed trembling together during their outdoor nature exploration.
+EX: The children enjoyed trembling together on a bright and sunny afternoon.
 
 TRIBE [traɪb] (noun)
 DEF: A traditional society or group of families linked by social and economic ties.
@@ -3384,8 +3404,8 @@ EX: The captain tried to awaken his bewitched crew from their sweet daze.
 SYN: attempted, stve, endeavored
 
 TROUBLE [trouble] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Trouble is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Trouble was known throughout the land for remarkable courage and kindness.
 
 TROUBLED [ˈtrʌb.əld] (adjective / verb)
 DEF: Beset by problems, anxiety, or emotional distress.
@@ -3393,16 +3413,16 @@ EX: Odysseus was deeply troubled by the strange lethargy of his scouts.
 SYN: distressed, anxious, worried
 
 TRUTH [truth] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Truth is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Truth was known throughout the land for remarkable courage and kindness.
 
 TRY [try] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Try is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Try was known throughout the land for remarkable courage and kindness.
 
 TUGGED [tugged] (verb)
-DEF: Completed the action or entered the state of tugg.
-EX: Everyone tugged with delight when the good news was shared.
+DEF: Completed the action or experienced the state of tugg.
+EX: Everyone tugged with delight when the exciting news arrived.
 
 TURNED [tɜːrnd] (verb)
 DEF: Changed direction or course; rotated.
@@ -3411,15 +3431,15 @@ SYN: veered, rotated, steered
 
 TURNING [turning] (verb)
 DEF: The ongoing action or experience of turn.
-EX: The students enjoyed turning together during their outdoor nature exploration.
+EX: The children enjoyed turning together on a bright and sunny afternoon.
 
 TWISTING [twisting] (verb)
 DEF: The ongoing action or experience of twist.
-EX: The students enjoyed twisting together during their outdoor nature exploration.
+EX: The children enjoyed twisting together on a bright and sunny afternoon.
 
 TWO [two] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Two is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Two was known throughout the land for remarkable courage and kindness.
 
 TYPE [taɪp] (noun)
 DEF: A category of people or things having common characteristics.
@@ -3432,12 +3452,12 @@ EX: They tied the sleeping scouts securely under the rowing benches.
 SYN: beneath, below, underneath
 
 UNFAMILIAR [unfamiliar] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Unfamiliar is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Unfamiliar was known throughout the land for remarkable courage and kindness.
 
 UNREMARKABLE [unremarkable] (adjective)
-DEF: Characterized by or having the quality of being unremarkable.
-EX: The travelers admired the unremarkable scene as gentle morning light touched the hills.
+DEF: Characterized by or full of the quality of being unremarkable.
+EX: The travelers admired the unremarkable scene as the morning sun illuminated the sky.
 
 UP [ʌp] (adverb / preposition)
 DEF: Toward a higher place or position.
@@ -3450,12 +3470,12 @@ EX: They landed upon a white-sand beach bordered by palm trees.
 SYN: on, atop
 
 US [us] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Us is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Us was known throughout the land for remarkable courage and kindness.
 
 VANISHED [vanished] (verb)
-DEF: Completed the action or entered the state of vanish.
-EX: Everyone vanished with delight when the good news was shared.
+DEF: Completed the action or experienced the state of vanish.
+EX: Everyone vanished with delight when the exciting news arrived.
 
 VERY [ˈvɛr.i] (adverb / adjective)
 DEF: In a high degree; extremely; or exact and particular.
@@ -3469,11 +3489,11 @@ SYN: vivid, bright, lively
 
 VIBRATING [vibrating] (verb)
 DEF: The ongoing action or experience of vibrat.
-EX: The students enjoyed vibrating together during their outdoor nature exploration.
+EX: The children enjoyed vibrating together on a bright and sunny afternoon.
 
 VIBRATION [vibration] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Vibration is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Vibration was known throughout the land for remarkable courage and kindness.
 
 VILLAGE [ˈvɪl.ɪdʒ] (noun)
 DEF: Multiple small rural or coastal settlements.
@@ -3481,20 +3501,20 @@ EX: Ancient trade routes connected the quiet coastal villages.
 SYN: settlements, hamlets
 
 VISIONS [visions] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Visions is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Visions was known throughout the land for remarkable courage and kindness.
 
 VOICE [voice] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Voice is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Voice was known throughout the land for remarkable courage and kindness.
 
 VOYAGE [voyage] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Voyage is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Voyage was known throughout the land for remarkable courage and kindness.
 
 WADED [waded] (verb)
-DEF: Completed the action or entered the state of wad.
-EX: Everyone waded with delight when the good news was shared.
+DEF: Completed the action or experienced the state of wad.
+EX: Everyone waded with delight when the exciting news arrived.
 
 WAILED [weɪld] (verb)
 DEF: Made a prolonged, high-pitched cry of sorrow, grief, or pain.
@@ -3512,8 +3532,8 @@ EX: Upon waking, the scouts felt as if they were still dreaming.
 SYN: awakening, stirring
 
 WALKED [walked] (verb)
-DEF: Completed the action or entered the state of walk.
-EX: Everyone walked with delight when the good news was shared.
+DEF: Completed the action or experienced the state of walk.
+EX: Everyone walked with delight when the exciting news arrived.
 
 WANDER [ˈwɒn.dər] (verb)
 DEF: To walk or move in a leisurely, casual, or aimless way.
@@ -3521,8 +3541,8 @@ EX: The visitors were invited to wander through the fragrant groves.
 SYN: roam, stroll, ramble
 
 WANDERED [wandered] (verb)
-DEF: Completed the action or entered the state of wander.
-EX: Everyone wandered with delight when the good news was shared.
+DEF: Completed the action or experienced the state of wander.
+EX: Everyone wandered with delight when the exciting news arrived.
 
 WANTED [ˈwɒn.tɪd] (verb)
 DEF: Past tense of want; desired or wished for something.
@@ -3535,8 +3555,8 @@ EX: After ten years of grueling war at Troy, they longed for peace.
 SYN: conflict, battle, combat
 
 WARM [warm] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Warm is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Warm was known throughout the land for remarkable courage and kindness.
 
 WARMED [wɔːrmd] (verb)
 DEF: Made or became moderately hot or comfortable.
@@ -3544,12 +3564,12 @@ EX: The midday sun pleasantly warmed their tired limbs.
 SYN: heated, comforted, thawed
 
 WARMERS [warmers] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Warmers is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Warmers was known throughout the land for remarkable courage and kindness.
 
 WARMTH [warmth] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Warmth is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Warmth was known throughout the land for remarkable courage and kindness.
 
 WAS [wɒz] (verb)
 DEF: First and third person singular past tense of be.
@@ -3562,16 +3582,16 @@ EX: Azure waves broke gently against the warm barrier reef.
 SYN: breakers, billows, surf
 
 WASN'T [wasn't] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Wasn't is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Wasn't was known throughout the land for remarkable courage and kindness.
 
 WATER [water] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Water is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Water was known throughout the land for remarkable courage and kindness.
 
 WATERS [waters] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Waters is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Waters was known throughout the land for remarkable courage and kindness.
 
 WAY [weɪ] (noun)
 DEF: A method, style, route, or manner of doing something.
@@ -3579,8 +3599,8 @@ EX: The clever hero discovered a way to break the lotus enchantment.
 SYN: method, route, manner
 
 WE [we] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: We is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: We was known throughout the land for remarkable courage and kindness.
 
 WEARY [ˈwɪə.ri] (adjective)
 DEF: Periods of seven consecutive days.
@@ -3588,8 +3608,8 @@ EX: For weeks they had battled turbulent gales across open water.
 SYN: fortnights, periods
 
 WEEKS [weeks] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Weeks is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Weeks was known throughout the land for remarkable courage and kindness.
 
 WEEPING [ˈwiː.pɪŋ] (verb / adjective)
 DEF: Shedding tears in grief, sorrow, or emotional distress.
@@ -3607,8 +3627,8 @@ EX: The Greek galleys were well-built and sturdy against the waves.
 SYN: existed as
 
 WEREN'T [weren't] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Weren't is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Weren't was known throughout the land for remarkable courage and kindness.
 
 WHAT [wɒt] (pronoun / determiner)
 DEF: Asking for information specifying something.
@@ -3616,8 +3636,8 @@ EX: The captain wondered what enchantment held his men captive.
 SYN: which thing
 
 WHAT’S [what’s] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: What’s is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: What’s was known throughout the land for remarkable courage and kindness.
 
 WHEN [wɛn] (adverb / conjunction)
 DEF: At what time or in what situation.
@@ -3639,18 +3659,18 @@ DEF: To speak very softly using breath rather than vocal cords.
 EX: A gentle breeze seemed to whisper ancient secrets through the leaves.
 SYN: murmur, breathe, mutter
 
-WHISPERED [whispered] (verb)
-DEF: Completed the action or entered the state of whisper.
-EX: Everyone whispered with delight when the good news was shared.
+WHISPERED [ˈwɪspəd] (verb)
+DEF: To speak softly, or under the breath, so as to be heard only by one near at hand; to utter words without sonant breath; to talk without that vibration in the larynx which gives sonorous, or vocal, sound.
+EX: Everyone whispered with delight when the exciting news arrived.
 
 WHISPERING [ˈwɪs.pər.ɪŋ] (adjective / verb)
 DEF: Speaking or rustling with a soft, quiet sound.
 EX: The whispering winds carried the fragrance of the blooming flowers.
 SYN: murmuring, rustling, soft
 
-WHISTLE [whistle] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Whistle is remembered throughout history for great bravery and kind leadership.
+WHISTLE [wɪsl̩] (noun)
+DEF: A device designed to be placed in the mouth and blown, or driven by steam or some other mechanism, to make a whistling sound.
+EX: The teacher pointed out the unique whistle during their classroom discussion.
 
 WHITE [white] (word)
 DEF: Composed of pale, bright sand characteristic of tropical shores.
@@ -3667,9 +3687,9 @@ DEF: Belonging to or associated with which person.
 EX: They met a peaceful tribe whose diet consisted solely of sweet blossoms.
 SYN: of whom, belonging to whom
 
-WIDE [wide] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Wide is remembered throughout history for great bravery and kind leadership.
+WIDE [wɑed] (noun)
+DEF: A ball that passes so far from the batsman that the umpire deems it unplayable; the arm signal used by an umpire to signal a wide; the extra run added to the batting side's score.
+EX: The teacher pointed out the unique wide during their classroom discussion.
 
 WIFE [waɪf] (noun)
 DEF: A married woman in relation to her spouse.
@@ -3681,22 +3701,24 @@ DEF: To move with quick, irregular side-to-side motions; or to maneuver out of a
 EX: How will the clever hero wiggle his way out of this dilemma?
 SYN: wriggle, maneuver, extricate
 
-WILD [wild] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Wild is remembered throughout history for great bravery and kind leadership.
+WILD [waɪld] (noun)
+DEF: The undomesticated state of a wild animal.
+EX: After mending the lion's leg, we returned him to the wild.
 
 WILL [wɪl] (modal verb / noun)
 DEF: Natural movements of the air along the earth's surface.
 EX: Favorable southern winds filled the sail and sped their journey.
 SYN: gales, breezes, currents
 
-WIND [wind] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Wind is remembered throughout history for great bravery and kind leadership.
+WIND [ˈwaɪnd] (noun)
+DEF: Real or perceived movement of atmospheric air usually caused by convection or differences in air pressure.
+EX: As they accelerated onto the motorway, the wind tore the plywood off the car's roof-rack.
+SYN: gas, breeze, draft
 
-WINDOWS [windows] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Windows is remembered throughout history for great bravery and kind leadership.
+WINDOWS [ˈwɪndəʊz] (noun)
+DEF: The inedible parts of a grain-producing plant.
+EX: To separate out the chaff, early cultures tossed baskets of grain into the air and let the wind blow away the lighter chaff.
+SYN: window
 
 WINE [waɪn] (noun)
 DEF: An alcoholic drink made from fermented grape juice.
@@ -3713,51 +3735,53 @@ DEF: Accompanied by or possessing.
 EX: The scouts were welcomed with warm smiles and sweet food.
 SYN: alongside, together with
 
-WITHOUT [without] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Without is remembered throughout history for great bravery and kind leadership.
+WITHOUT [wɪθˈʌʊt] (adverb)
+DEF: Outside, externally. This is still used in the names of some civil parishes in England, e.g. St Cuthbert Without.
+EX: They planned to without carefully before embarking on their journey.
 
 WOMAN [ˈwʊm.ən] (noun)
 DEF: Adult human females.
 EX: The women of the island wove garlands of fragrant pink blossoms.
 SYN: ladies, females
 
-WOODS [woods] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Woods is remembered throughout history for great bravery and kind leadership.
+WOODS [wʊdz] (noun)
+DEF: The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture various items, etc. or as fuel.
+EX: There was lots of wood on the beach.
+SYN: timber, wood lot
 
 WORD [wɜːrd] (noun)
 DEF: A single distinct meaningful element of speech or writing.
 EX: Tap any highlighted word to view its student-friendly definition.
 SYN: term, expression, vocabulary
 
-WORE [wore] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Wore is remembered throughout history for great bravery and kind leadership.
+WORE [wɔː] (verb)
+DEF: To carry or have equipped on or about one's body, as an item of clothing, equipment, decoration, etc.
+EX: He's wearing some nice pants today.  She wore her medals with pride.  Please wear your seatbelt.  Can you wear makeup and sunscreen at the same time?  He was wearing his lunch after tripping and falling into the buffet.
+SYN: gybe
 
-WORKED [worked] (verb)
-DEF: Completed the action or entered the state of work.
-EX: Everyone worked with delight when the good news was shared.
+WORKED [wɜːkt] (verb)
+DEF: To do a specific task by employing physical or mental powers.
+EX: He’s working in a bar.
 
 WORLD [world] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: World is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: World was known throughout the land for remarkable courage and kindness.
 
 WOULD [would] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Would is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Would was known throughout the land for remarkable courage and kindness.
 
 YEARNING [yearning] (verb)
 DEF: The ongoing action or experience of yearn.
-EX: The students enjoyed yearning together during their outdoor nature exploration.
+EX: The children enjoyed yearning together on a bright and sunny afternoon.
 
 YEARS [years] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: Years is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: Years was known throughout the land for remarkable courage and kindness.
 
 YOU [you] (proper noun)
-DEF: A specific named person, place, entity, or historical subject.
-EX: You is remembered throughout history for great bravery and kind leadership.
+DEF: A specific named person, place, entity, or figure.
+EX: You was known throughout the land for remarkable courage and kindness.
 
 YOUNG [jʌŋ] (adjective / noun)
 DEF: Having lived or existed for only a short time; youthful.
