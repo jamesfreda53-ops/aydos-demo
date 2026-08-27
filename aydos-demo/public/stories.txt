@@ -48,14 +48,14 @@ AccentColor: #d97706
 SlideCount: 7
 Summary: TESTING TESTING
 
-[Chapter: orpheus]
+[Story: orpheus]
 Title: Orpheus
 Subtitle: the original sensitive young man
 Author: Uncle Jimmy
 Genre: Romance
 ReadingLevel: Intermediate
 ReadingTime: 6 min
-SeriesFolder: orpheus
+StoryFolder: orpheus
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/orpheus/images/title.webp
 ThemeColor: from-slate-900 via-purple-950 to-neutral-900
 AccentColor: #a855f7
