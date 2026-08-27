@@ -1,14 +1,6 @@
 # ====================================================================
 # STORYREAD SHARED LOCAL DICTIONARY (842 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
-#
-# Format:
-# WORD [phonetic] (part of speech)
-# DEF: <student-friendly definition>
-# EX: <student-friendly example sentence>
-# SYN: <optional synonyms comma-separated>
-#
-# Feel free to add, edit, or customize definitions as needed!
 # ====================================================================
 
 ABANDONED [əˈbæn.dn̩d] (verb)
@@ -99,10 +91,6 @@ EX: She gave her all, and collapsed at the finish line.
 ALREADY [ɑlˈɹɛdi] (adverb)
 DEF: Prior to some specified time, either past, present, or future; by this time; previously.
 EX: Just a short puff."
-
-"Toby, don't—"
-
-But he had already pressed the metal to his lips and given a sharp, silent blow.
 
 AMONG [ə.ˈmʌŋ] (preposition)
 DEF: Surrounded by or in the middle of a group of people or things.
@@ -348,7 +336,7 @@ DEF: The physical structures of human beings or animals.
 EX: The tired sailors rested their exhausted bodies under the shade.
 SYN: figures, physiques, forms
 
-BOARDED-UP [boarded-up] (noun)
+BOARDED [boarded] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Look, the old sweet shop still has its sign up!" They wandered deeper into the mall, past boarded-up windows and fading advertisements.
 
@@ -490,8 +478,6 @@ EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding
 CATCHES [catches] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: "If the security guard catches us, we are in massive trouble."
-
-"Relax," Toby laughed, though his heart hammered against his ribs.
 
 CAVERNOUS [cavernous] (adjective)
 DEF: Possessing the distinctive quality or condition of being cavernous.
@@ -725,8 +711,6 @@ SYN: brunette, black-haired
 DARTING [darting] (verb)
 DEF: Engaging in the active process of darting.
 EX: it stopped."
-
-"Let’s just get out of here," Gwen said, her eyes darting nervously around the shadows.
 
 DASHED [dashed] (verb)
 DEF: Past action of experiencing or performing dashed.
@@ -1189,8 +1173,6 @@ FLOOR [floor] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: "Look at the floor."
 
-Toby looked down.
-
 FLOWER [ˈflaʊ.ər] (noun)
 DEF: The seed-bearing part of a plant consisting of colorful petals.
 EX: The lotus flower produced a honey-sweet blossom loved by the locals.
@@ -1316,8 +1298,6 @@ GET [get] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: it stopped."
 
-"Let’s just get out of here," Gwen said, her eyes darting nervously around the shadows.
-
 GHOSTLY [ghostly] (adverb)
 DEF: In a ghost or characteristic manner.
 EX: Piece by piece, they pulled him under, down to their secret grottos adorned with pond-weed and ghostly lily-roots, where he would pass the rest of his days.
@@ -1338,10 +1318,6 @@ EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding
 GIVEN [given] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Just a short puff."
-
-"Toby, don't—"
-
-But he had already pressed the metal to his lips and given a sharp, silent blow.
 
 GLANCE [glance] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -1447,8 +1423,6 @@ GUARD [guard] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: "If the security guard catches us, we are in massive trouble."
 
-"Relax," Toby laughed, though his heart hammered against his ribs.
-
 GWEN [gwen] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Beside him, Gwen adjusted her rucksack, her eyes scanning the empty, crumbling shops.
@@ -1474,8 +1448,6 @@ EX: The nymphs met him halfway, and he felt their cold hands on his chest, his f
 HAMMERED [hammered] (verb)
 DEF: Past action of experiencing or performing hammered.
 EX: "If the security guard catches us, we are in massive trouble."
-
-"Relax," Toby laughed, though his heart hammered against his ribs.
 
 HAND [hand] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -1534,8 +1506,6 @@ EX: I was deaf, and now I can hear.
 HEART [heart] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: "If the security guard catches us, we are in massive trouble."
-
-"Relax," Toby laughed, though his heart hammered against his ribs.
 
 HEAVY [heavy] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -1807,8 +1777,6 @@ LAUGHED [laughed] (verb)
 DEF: Past action of experiencing or performing laughed.
 EX: "If the security guard catches us, we are in massive trouble."
 
-"Relax," Toby laughed, though his heart hammered against his ribs.
-
 LAUGHING [laughing] (verb)
 DEF: Engaging in the active process of laughing.
 EX: Just a few feet away, a group of teenagers laughing together suddenly appeared.
@@ -1842,8 +1810,6 @@ EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding
 LET’S [let’s] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: it stopped."
-
-"Let’s just get out of here," Gwen said, her eyes darting nervously around the shadows.
 
 LIFE [life] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -1904,8 +1870,6 @@ EX: Look, the old sweet shop still has its sign up!" They wandered deeper into t
 LOOKED [looked] (verb)
 DEF: Past action of experiencing or performing looked.
 EX: "Look at the floor."
-
-Toby looked down.
 
 LOST [lɒst] (adjective / verb)
 DEF: Unable to find one's way; or ceased to be visible or remembered.
@@ -1984,8 +1948,6 @@ SYN: slaughter, carnage, destruction
 MASSIVE [massive] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: "If the security guard catches us, we are in massive trouble."
-
-"Relax," Toby laughed, though his heart hammered against his ribs.
 
 MAST [mast] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -2143,8 +2105,6 @@ EX: One girl wore bright neon leg warmers and a giant plastic hair clip, holding
 NERVOUSLY [nervously] (adverb)
 DEF: In a nervous or characteristic manner.
 EX: it stopped."
-
-"Let’s just get out of here," Gwen said, her eyes darting nervously around the shadows.
 
 NEW [njuː] (adjective)
 DEF: Multiple periods from sunset to sunrise.
@@ -2455,10 +2415,6 @@ PRESSED [pressed] (verb)
 DEF: Past action of experiencing or performing pressed.
 EX: Just a short puff."
 
-"Toby, don't—"
-
-But he had already pressed the metal to his lips and given a sharp, silent blow.
-
 PROMISED [promised] (verb)
 DEF: Past action of experiencing or performing promised.
 EX: They began to promised together as they made their way along the scenic path.
@@ -2466,10 +2422,6 @@ EX: They began to promised together as they made their way along the scenic path
 PUFF [puff] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Just a short puff."
-
-"Toby, don't—"
-
-But he had already pressed the metal to his lips and given a sharp, silent blow.
 
 PULLED [pulled] (verb)
 DEF: Past action of experiencing or performing pulled.
@@ -2539,8 +2491,6 @@ RELAX [relax] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: "If the security guard catches us, we are in massive trouble."
 
-"Relax," Toby laughed, though his heart hammered against his ribs.
-
 REMAIN [rɪ.ˈmeɪn] (verb)
 DEF: To continue to exist or stay in the same place.
 EX: The bewitched men begged to remain on the sunny island forever.
@@ -2585,8 +2535,6 @@ EX: The silence lifted, and the distant sound of dripping water returned.
 RIBS [ribs] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: "If the security guard catches us, we are in massive trouble."
-
-"Relax," Toby laughed, though his heart hammered against his ribs.
 
 RICH [rich] (noun)
 DEF: An essential narrative term or element present in the story.
@@ -2646,8 +2594,6 @@ EX: A sturdy sad stood proudly near the center of the quiet village.
 SAID [said] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: it stopped."
-
-"Let’s just get out of here," Gwen said, her eyes darting nervously around the shadows.
 
 SANCTUARY [ˈsæŋk.tʃuː.ɛr.i] (noun)
 DEF: A place of safety, refuge, or sacred holiness.
@@ -2723,8 +2669,6 @@ SECURITY [security] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: "If the security guard catches us, we are in massive trouble."
 
-"Relax," Toby laughed, though his heart hammered against his ribs.
-
 SEE [siː] (verb)
 DEF: To perceive with the eyes; to observe or understand.
 EX: Look ahead to see if any sails appear on the distant horizon.
@@ -2770,8 +2714,6 @@ SHADOWS [shadows] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: it stopped."
 
-"Let’s just get out of here," Gwen said, her eyes darting nervously around the shadows.
-
 SHADOWY [shadowy] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: They were not far into their voyage when the fifty-oared Argo arrived at the shadowy shores of Phasis.
@@ -2787,10 +2729,6 @@ EX: I speak of the swift ship Argo, and its crew of fifty men, many of them stor
 SHARP [sharp] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Just a short puff."
-
-"Toby, don't—"
-
-But he had already pressed the metal to his lips and given a sharp, silent blow.
 
 SHATTERED [shattered] (verb)
 DEF: Past action of experiencing or performing shattered.
@@ -2846,10 +2784,6 @@ EX: They were not far into their voyage when the fifty-oared Argo arrived at the
 SHORT [short] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: Just a short puff."
-
-"Toby, don't—"
-
-But he had already pressed the metal to his lips and given a sharp, silent blow.
 
 SHRINKING [shrinking] (verb)
 DEF: Engaging in the active process of shrinking.
@@ -2938,7 +2872,7 @@ SLIPPED [slipped] (verb)
 DEF: Past action of experiencing or performing slipped.
 EX: Toby slipped the cold metal whistle into his pocket.
 
-SLOW-MOTION [slow-motion] (noun)
+SLOW [slow] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon from a time before the two teenagers were even born.
 
@@ -3446,8 +3380,6 @@ TROUBLE [trouble] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: "If the security guard catches us, we are in massive trouble."
 
-"Relax," Toby laughed, though his heart hammered against his ribs.
-
 TROUBLED [ˈtrʌb.əld] (adjective / verb)
 DEF: Beset by problems, anxiety, or emotional distress.
 EX: Odysseus was deeply troubled by the strange lethargy of his scouts.
@@ -3513,8 +3445,6 @@ SYN: on, atop
 US [us] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: "If the security guard catches us, we are in massive trouble."
-
-"Relax," Toby laughed, though his heart hammered against his ribs.
 
 VANISHED [vanished] (verb)
 DEF: Past action of experiencing or performing vanished.
@@ -3644,8 +3574,6 @@ SYN: method, route, manner
 WE [we] (noun)
 DEF: An essential narrative term or element present in the story.
 EX: "If the security guard catches us, we are in massive trouble."
-
-"Relax," Toby laughed, though his heart hammered against his ribs.
 
 WEARY [ˈwɪə.ri] (adjective)
 DEF: Periods of seven consecutive days.
