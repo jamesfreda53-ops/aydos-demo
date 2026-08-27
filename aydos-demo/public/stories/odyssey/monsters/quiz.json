@@ -1,0 +1,15 @@
+[
+  {
+    "id": "odyssey-monsters-q1",
+    "type": "multiple_choice",
+    "question": "sirens",
+    "options": [
+      "The characters navigated challenging trials and worked together",
+      "They stayed quietly at home without traveling",
+      "They built a stone fortress on a distant mountain",
+      "They fell asleep under a tree"
+    ],
+    "correctIndex": 0,
+    "explanation": "The narrative centers on character courage, discovery, and navigation through obstacles."
+  }
+]
