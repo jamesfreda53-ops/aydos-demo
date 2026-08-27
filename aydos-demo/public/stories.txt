@@ -482,5 +482,5 @@ StoryFolder: danse_macabre
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/danse_macabre/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
-SlideCount: 7
+SlideCount: 4
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
