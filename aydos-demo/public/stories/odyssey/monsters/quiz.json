@@ -1,15 +1,15 @@
 [
   {
-    "id": "odyssey-monsters-q1",
+    "id": "quiz-1",
     "type": "multiple_choice",
-    "question": "sirens. SIRENS. ",
+    "question": "Sirens. SIRENS. SIRENS. ",
     "options": [
-      "The characters navigated challenging trials and worked together",
-      "They stayed quietly at home without traveling",
-      "They built a stone fortress on a distant mountain",
-      "They fell asleep under a tree"
+      "An engaging journey of discovery and learning",
+      "A quiet nap in the warm sun",
+      "A competitive tournament",
+      "A race against time"
     ],
     "correctIndex": 0,
-    "explanation": "The narrative centers on character courage, discovery, and navigation through obstacles."
+    "explanation": "The story focuses on curiosity, adventure, and new discoveries."
   }
 ]
