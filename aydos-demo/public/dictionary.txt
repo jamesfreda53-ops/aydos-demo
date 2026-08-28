@@ -1,5 +1,5 @@
 # ====================================================================
-# STORYREAD SHARED LOCAL DICTIONARY (843 Words)
+# STORYREAD SHARED LOCAL DICTIONARY (845 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
 #
 # Format:
@@ -179,6 +179,11 @@ ASHORE [ə.ˈʃɔːr] (adverb)
 DEF: Onto or towards the land from the water.
 EX: Two scouts went ashore to explore the lush green coastline.
 SYN: on land, beachward, landward
+
+ASHTRAY [ˈæʃ.treɪ] (noun)
+DEF: A small dish or container used to collect ashes.
+EX: A small brass ashtray rested on the corner of the wooden desk in the study.
+SYN: dish, receptacle
 
 ASKED [ˈɑːskt] (verb)
 DEF: To request (information, or an answer to a question).
@@ -537,6 +542,11 @@ CHOICE [tʃɔɪs] (noun)
 DEF: An option; a decision; an opportunity to choose or select something.
 EX: Do I have a choice of what color to paint it?
 SYN: assortment, range, selection
+
+CIGARETTE [ˌsɪɡ.əˈret] (noun)
+DEF: A thin cylinder of finely cut tobacco wrapped in paper.
+EX: The detective took notes under the street lamp in the misty evening.
+SYN: smoke
 
 CLEAN [kleːn] (noun)
 DEF: Removal of dirt.
@@ -2420,6 +2430,11 @@ PHOTOGRAPH [photograph] (noun)
 DEF: (photography) A picture created by projecting an image onto a photosensitive surface such as a chemically treated plate or film, CCD receptor, etc.
 EX: The student carefully examined the ancient photograph in the museum exhibit.
 
+PIANO [piˈænoʊ] (noun)
+DEF: A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing these keys, causing hammers to strike strings.
+EX: He can play "Happy Birthday" on the piano.
+SYN: pianoforte
+
 PICKED [picked] (verb)
 DEF: Completed the action or experienced the state of pick.
 EX: Everyone picked with delight when the exciting news arrived.
@@ -2959,11 +2974,6 @@ SYN: olfaction, sense of smell
 SMELLING [smelling] (verb)
 DEF: The ongoing action or experience of smell.
 EX: The children enjoyed smelling together on a bright and sunny afternoon.
-
-SMOKY [ˈsmoʊki] (adjective)
-DEF: Filled with smoke.
-EX: a smoky cabin.
-SYN: fumid, fumous
 
 SO [soʊ] (adverb / conjunction)
 DEF: To such a great extent, or with the result that.
