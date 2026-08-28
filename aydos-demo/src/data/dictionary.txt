@@ -1,3 +1,16 @@
+# ====================================================================
+# STORYREAD SHARED LOCAL DICTIONARY (1071 Words)
+# Alphabetically Ordered • Student-Friendly Definitions & Examples
+#
+# Format:
+# WORD [phonetic] (part of speech)
+# DEF: <student-friendly definition>
+# EX: <student-friendly example sentence>
+# SYN: <optional synonyms comma-separated>
+#
+# Feel free to add, edit, or customize definitions as needed!
+# ====================================================================
+
 ABANDONED [əˈbæn.dn̩d] (verb)
 DEF: To give up or relinquish control of, to surrender or to give oneself over, or to yield to one's emotions.
 EX: The dust in the abandoned Oasis Shopping Centre danced in the pale afternoon light.
@@ -1087,20 +1100,15 @@ DEF: A party, celebration, social function.
 EX: We’re having a bit of a do on Saturday to celebrate my birthday.
 SYN: get-together, to-do
 
-DON'T [doʊnt] (contraction / verb)
-DEF: Shortened form of 'do not'; indicates a negative present action or instruction.
-EX: Don't forget to pack your notebook before heading out.
+DON'T [doʊnt] (contraction)
+DEF: Contraction of 'do not'; used to express a negative action or prohibition.
+EX: “Don't fear the strangers,” said the princess gently to her handmaidens.
 SYN: do not
 
 DONE [dʌn] (verb / adjective)
 DEF: Completed, finished, or brought to an end.
 EX: When the day's hard rowing was done, they anchored in the bay.
 SYN: completed, finished, concluded
-
-DON'T [doʊnt] (contraction)
-DEF: Contraction of 'do not'; used to express a negative action or prohibition.
-EX: “Don't fear the strangers,” said the princess gently to her handmaidens.
-SYN: do not
 
 DOOR [door] (noun)
 DEF: A portal of entry into a building, room, or vehicle, consisting of a rigid plane movable on a hinge. Doors are frequently made of wood or metal. May have a handle to help open and close, a latch to hold the door closed and a lock that ensures the door cannot be opened without the key.
@@ -3142,6 +3150,11 @@ EX: The macaw was perched on Jim's shoulder.
 PERFECTLY [perfectly] (adverb)
 DEF: In a perfect manner.
 EX: They planned to perfectly carefully before embarking on their journey.
+
+PEST [pɛst] (noun)
+DEF: A plague, pestilence, epidemic.
+EX: The teacher pointed out the fascinating pest during the history lesson.
+SYN: bug
 
 PHASIS [ˈfeɪ.sɪs] (proper noun)
 DEF: An ancient river in Colchis flowing into the Black Sea, associated with the Argonauts' voyage.
