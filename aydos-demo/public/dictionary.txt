@@ -1,5 +1,5 @@
 # ====================================================================
-# STORYREAD SHARED LOCAL DICTIONARY (844 Words)
+# STORYREAD SHARED LOCAL DICTIONARY (843 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
 #
 # Format:
@@ -179,11 +179,6 @@ ASHORE [ə.ˈʃɔːr] (adverb)
 DEF: Onto or towards the land from the water.
 EX: Two scouts went ashore to explore the lush green coastline.
 SYN: on land, beachward, landward
-
-ASHTRAY [ˈæʃ.treɪ] (noun)
-DEF: A small dish or container used to collect ashes.
-EX: A small brass ashtray rested on the corner of the wooden desk in the study.
-SYN: dish, receptacle
 
 ASKED [ˈɑːskt] (verb)
 DEF: To request (information, or an answer to a question).
@@ -542,11 +537,6 @@ CHOICE [tʃɔɪs] (noun)
 DEF: An option; a decision; an opportunity to choose or select something.
 EX: Do I have a choice of what color to paint it?
 SYN: assortment, range, selection
-
-CIGARETTE [ˌsɪɡ.əˈret] (noun)
-DEF: A thin cylinder of finely cut tobacco wrapped in paper.
-EX: The detective took notes under the street lamp in the misty evening.
-SYN: smoke
 
 CLEAN [kleːn] (noun)
 DEF: Removal of dirt.
@@ -3009,6 +2999,10 @@ SYN: lances, javelins, pikes
 SOUND [sound] (adjective)
 DEF: Complete, solid, or secure.
 EX: Fred assured me the floorboards were sound.
+
+SOUR [ˈsaʊə] (noun)
+DEF: The sensation of a sour taste.
+EX: The teacher pointed out the fascinating sour during the history lesson.
 
 SPACE [space] (noun)
 DEF: (heading) Of time.
