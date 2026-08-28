@@ -1,5 +1,5 @@
 # ====================================================================
-# STORYREAD SHARED LOCAL DICTIONARY (843 Words)
+# STORYREAD SHARED LOCAL DICTIONARY (844 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
 #
 # Format:
@@ -179,6 +179,11 @@ ASHORE [ə.ˈʃɔːr] (adverb)
 DEF: Onto or towards the land from the water.
 EX: Two scouts went ashore to explore the lush green coastline.
 SYN: on land, beachward, landward
+
+ASHTRAY [ˈæʃ.treɪ] (noun)
+DEF: A small dish or container used to collect ashes.
+EX: A small brass ashtray rested on the corner of the wooden desk in the study.
+SYN: dish, receptacle
 
 ASKED [ˈɑːskt] (verb)
 DEF: To request (information, or an answer to a question).
