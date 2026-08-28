@@ -1,5 +1,5 @@
 # ====================================================================
-# STORYREAD SHARED LOCAL DICTIONARY (1075 Words)
+# STORYREAD SHARED LOCAL DICTIONARY (1073 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
 #
 # Format:
@@ -556,11 +556,6 @@ EX: They came to a mysterious shoreline veiled in afternoon mist.
 SYN: arrived, reached, approached
 
 CAMP [kʰɛəmp] (noun)
-DEF: An outdoor place acting as temporary accommodation in tents or other temporary structures.
-EX: The men made camp on shore, prepared their midday meal, and made their beds among the meadow-grass and marigolds.
-SYN: burrow, pie
-
-CAN [kæn] (verb (modal) / noun)
 DEF: To be able to; have the ability or permission to do something.
 EX: Together, we can solve the riddle written on the ancient scroll.
 SYN: be able to, be capable of
@@ -2701,11 +2696,6 @@ DEF: To do as a requirement; indicates that the sentence subject is required as 
 EX: The travelers stopped to must carefully before continuing their journey.
 
 MY [maɪ] (possessive determiner)
-DEF: Belonging to or associated with the speaker.
-EX: 'I must lead my men safely back to Ithaca,' Odysseus vowed.
-SYN: belonging to me
-
-MYSELF /maɪˈsɛlf/ (pronoun)
 DEF: (reflexive pronoun) Me, as direct or indirect object the speaker as the object of a verb or preposition, when the speaker is also the subject.
 EX: I taught myself.
 SYN: me
@@ -3570,11 +3560,7 @@ SHALL [shall] (verb)
 DEF: Used before a verb to indicate the simple future tense in the first person singular or plural.
 EX: We watched the birds shall effortlessly above the calm bay.
 
-SHARP [ʃɑːp] (noun)
-DEF: The symbol ♯, placed after the name of a note in the key signature or before a note on the staff to indicate that the note is to be played a semitone higher.
-EX: The pitch pipe sounded out a perfect F♯ (F sharp).
-
-SHARP-EYED [ʃɑːrp.aɪd] (adjective)
+SHARP [sharp] (word)
 DEF: Having very keen, observant, and perceptive vision.
 EX: The sharp-eyed goddess Athena watched over the traveler from high upon Mount Olympus.
 SYN: observant, keen-sighted, vigilant
@@ -3867,6 +3853,10 @@ EX: The sound of sailors sprouting echoed softly across the peaceful harbor.
 SQUINT [skwɪnt] (noun)
 DEF: An expression in which the eyes are partly closed.
 EX: The teacher pointed out the fascinating squint during the history lesson.
+
+STAR [star] (noun)
+DEF: Any small, natural and bright dot in the sky, most visible in the night or twilight sky. This sense includes the planets, but it is now sometimes used in exclusion of them due to influence from the technical astronomical sense.
+EX: The teacher pointed out the fascinating star during the history lesson.
 
 STARLIGHT [ˈstɑːr.laɪt] (noun)
 DEF: Luminous celestial bodies visible as points of light in the night sky.
