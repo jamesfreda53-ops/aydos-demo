@@ -1,5 +1,5 @@
 # ====================================================================
-# STORYREAD SHARED LOCAL DICTIONARY (844 Words)
+# STORYREAD SHARED LOCAL DICTIONARY (845 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
 #
 # Format:
@@ -2036,6 +2036,10 @@ SYN: feast, repast, dinner
 MELANCHOLIC [melancholic] (adjective)
 DEF: Filled with or affected by melancholy—great sadness or depression, especially of a thoughtful or introspective nature.
 EX: A melancholic breeze swept gently across the sunny coastline.
+
+MELANCHOLY [ˈmelənkəli] (noun)
+DEF: Black bile, formerly thought to be one of the four "cardinal humours" of animal bodies.
+EX: The teacher pointed out the fascinating melancholy during the history lesson.
 
 MELODY [ˈmɛl.ə.di] (noun)
 DEF: A sequence of single musical notes that is musically satisfying; a tune.
