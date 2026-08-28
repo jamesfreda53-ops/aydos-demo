@@ -1,5 +1,5 @@
 # ====================================================================
-# STORYREAD SHARED LOCAL DICTIONARY (1073 Words)
+# STORYREAD SHARED LOCAL DICTIONARY (1074 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
 #
 # Format:
@@ -108,6 +108,10 @@ SYN: alive and kicking, extant, vital
 ALL [ɔːl] (noun)
 DEF: (with a possessive pronoun) Everything that one is capable of.
 EX: She gave her all, and collapsed at the finish line.
+
+ALONE [əˈləʊn] (adjective)
+DEF: By oneself, solitary.
+EX: I can't ask for help because I am alone.
 
 ALREADY [ɑlˈɹɛdi] (adverb)
 DEF: Prior to some specified time, either past, present, or future; by this time; previously.
