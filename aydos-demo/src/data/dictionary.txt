@@ -1708,6 +1708,10 @@ HALFWAY [halfway] (adverb)
 DEF: Half of the way between two points; midway.
 EX: We watched the birds halfway effortlessly above the calm bay.
 
+HAMMER [hammer] (noun)
+DEF: A tool with a heavy head and a handle used for pounding.
+EX: The teacher pointed out the fascinating hammer during the history lesson.
+
 HAMMERED [hammered] (verb)
 DEF: To strike repeatedly with a hammer, some other implement, the fist, etc.
 EX: Tony hammered on the door to try to get him to open.
@@ -3286,11 +3290,7 @@ SHALL [shall] (verb)
 DEF: Used before a verb to indicate the simple future tense in the first person singular or plural.
 EX: We watched the birds shall effortlessly above the calm bay.
 
-SHARP [sharp] (adjective)
-DEF: Terminating in a point or edge, especially one that can cut or pierce easily; not dull, obtuse, or rounded.
-EX: A sharp breeze swept gently across the sunny Mediterranean coast.
-
-SHARP-EYED [ʃɑːrp.aɪd] (adjective)
+SHARP [sharp] (word)
 DEF: Having very keen, observant, and perceptive vision.
 EX: The sharp-eyed goddess Athena watched over the traveler from high upon Mount Olympus.
 SYN: observant, keen-sighted, vigilant
