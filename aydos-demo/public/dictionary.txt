@@ -1,5 +1,5 @@
 # ====================================================================
-# STORYREAD SHARED LOCAL DICTIONARY (1111 Words)
+# STORYREAD SHARED LOCAL DICTIONARY (1075 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
 #
 # Format:
@@ -44,10 +44,9 @@ ADMIRABLY [admirably] (adverb)
 DEF: In a way worthy of admiration.
 EX: The travelers stopped to admirably carefully before continuing their journey.
 
-ADORNED [əˈdɔːnd] (verb)
-DEF: To make more beautiful and attractive; to decorate.
-EX: a character adorned with every Christian grace.
-SYN: beautify, bedeck, deck
+ADORNED [adorned] (verb)
+DEF: A notable term representing adorned in classical and educational reading.
+EX: The courageous crew adorned toward the island as the weather cleared.
 
 ADVENTURE [əd.ˈvɛn.tʃər] (noun)
 DEF: An exciting, bold, and sometimes perilous journey or experience.
@@ -920,10 +919,6 @@ DEF: A sequence of rhythmic movements and steps, usually performed to music.
 EX: The villagers celebrated the harvest with a lively evening dance.
 SYN: waltz, movement, step
 
-DANCED [danced] (verb)
-DEF: Completed the action or experienced the state of danc.
-EX: Everyone danced with delight when the exciting news arrived.
-
 DANCING [dancing] (verb)
 DEF: The ongoing action or experience of danc.
 EX: The children enjoyed dancing together on a bright and sunny afternoon.
@@ -974,10 +969,6 @@ DECENCY [ˈdiːsənsi] (noun)
 DEF: The quality of being decent; propriety.
 EX: The teacher pointed out the fascinating decency during the history lesson.
 
-DECLARED [declared] (verb)
-DEF: Completed the action or experienced the state of declar.
-EX: Everyone declared with delight when the exciting news arrived.
-
 DEEP [diːp] (adjective / noun)
 DEF: Extending far down from the top or surface; profound.
 EX: The crystal clear water was so deep they could not see the bottom.
@@ -998,8 +989,8 @@ DEF: A statement of the meaning of a word or word group or a sign or symbol (dic
 EX: The student carefully examined the ancient definition in the museum exhibit.
 
 DEFLATED [deflated] (verb)
-DEF: Completed the action or experienced the state of deflat.
-EX: Everyone deflated with delight when the exciting news arrived.
+DEF: To remove air or some other gas from within an elastic container, e.g. a balloon or tyre.
+EX: The courageous crew deflated toward the island as the weather cleared.
 
 DELICATE [ˈdɛl.ɪ.kət] (adjective)
 DEF: Finely made, fragile, or requiring gentle and careful handling.
@@ -1010,10 +1001,6 @@ DELIVERING [dɪ.ˈlɪv.ər.ɪŋ] (verb)
 DEF: Handing over, bringing to a destination, or giving voice to words.
 EX: The captain was delivering an urgent order to his rowing officers.
 SYN: bringing, imparting, presenting
-
-DEMANDED [demanded] (verb)
-DEF: Completed the action or experienced the state of demand.
-EX: Everyone demanded with delight when the exciting news arrived.
 
 DENIM [ˈdɛnɪm] (noun)
 DEF: A textile often made of cotton with a distinct diagonal pattern.
@@ -1044,21 +1031,22 @@ DEF: Shortened form of 'did not'; indicates a negative past action.
 EX: She didn't want to leave until the entire story was finished.
 SYN: did not
 
-DIED [died] (verb)
-DEF: Completed the action or experienced the state of di.
-EX: Everyone died with delight when the exciting news arrived.
+DIED [daɪd] (verb)
+DEF: Past tense of die; ceased living, perished, or came to an end.
+EX: Many brave warriors died defending their homelands across the Aegean Sea.
+SYN: perished, passed away, expired
 
 DIFFERENT [ˈdɪf.(ə)ɹ.ənt] (noun)
 DEF: The different ideal.
 EX: The teacher pointed out the unique different during their classroom discussion.
 
-DIM [dim] (verb)
-DEF: To make something less bright.
-EX: He dimmed the lights and put on soft music.
+DIM [dim] (noun)
+DEF: A notable term representing dim in classical and educational reading.
+EX: The ancient dim was prized for its craftsmanship and beauty.
 
-DIMINISH [dɪˈmɪnɪʃ] (verb)
-DEF: To make smaller.
-EX: They planned to diminish carefully before embarking on their journey.
+DIMINISH [diminish] (noun)
+DEF: A notable term representing diminish in classical and educational reading.
+EX: The ancient diminish was prized for its craftsmanship and beauty.
 
 DISCONNECTED [ˌdɪskəˈnɛktəd] (verb)
 DEF: To sever or interrupt a connection.
@@ -1144,10 +1132,6 @@ DEF: The remnants of a liquid left in a container, together with any sediment; t
 EX: They drank the sweet wine down to the very dregs of the jar.
 SYN: remnants, residue, sediment
 
-DREAMED [dreamed] (verb)
-DEF: Completed the action or experienced the state of dream.
-EX: Everyone dreamed with delight when the exciting news arrived.
-
 DRESSED [dressed] (adjective)
 DEF: Wearing clothes; attired (now often with qualifying word).
 EX: A dressed breeze swept gently across the sunny Mediterranean coast.
@@ -1155,10 +1139,6 @@ EX: A dressed breeze swept gently across the sunny Mediterranean coast.
 DREW [dɹuː] (verb)
 DEF: To move or develop something.
 EX: They began to drew together as they made their way along the scenic path.
-
-DRIFTED [drifted] (verb)
-DEF: Completed the action or experienced the state of drift.
-EX: Everyone drifted with delight when the exciting news arrived.
 
 DRIPPING [dripping] (verb)
 DEF: The ongoing action or experience of dripp.
@@ -1194,10 +1174,9 @@ DEF: Free from moisture or liquid; not wet.
 EX: They hauled the wooden boats onto the dry, warm sand.
 SYN: arid, parched, dehydrated
 
-DULL [dəl] (verb)
-DEF: To render dull; to remove or blunt an edge or something that was sharp.
-EX: Years of misuse have dulled the tools.
-SYN: dullen
+DULL [dull] (noun)
+DEF: A notable term representing dull in classical and educational reading.
+EX: The ancient dull was prized for its craftsmanship and beauty.
 
 DULLED [dʌld] (verb / adjective)
 DEF: Made less sharp, intense, or active; numbed.
@@ -1251,10 +1230,6 @@ ECHO [ˈɛk.oʊ] (noun / verb)
 DEF: A sound that is reflected back and heard again from a distance.
 EX: Their shouts created a repeating echo off the tall canyon walls.
 SYN: reverberation, resonance, reflection
-
-ECHOED [echoed] (verb)
-DEF: Completed the action or experienced the state of echo.
-EX: Everyone echoed with delight when the exciting news arrived.
 
 ECHOING [echoing] (verb)
 DEF: The ongoing action or experience of echo.
@@ -1354,10 +1329,6 @@ FADE [feɪd] (verb)
 DEF: To gradually grow faint, dim, or disappear from view or memory.
 EX: Memories of home began to fade after tasting the sweet flower.
 SYN: dim, vanish, dissolve
-
-FADED [faded] (verb)
-DEF: Completed the action or experienced the state of fad.
-EX: Everyone faded with delight when the exciting news arrived.
 
 FADING [ˈfeɪdɪŋ] (verb)
 DEF: To grow weak; to lose strength; to decay; to perish gradually; to wither, as a plant.
@@ -1649,10 +1620,6 @@ GARDENER [ˈɡɑːdnə] (noun)
 DEF: One who gardens; one who grows plants or cultivates a garden.
 EX: "Ponder the fact that God has made you a gardener, to root out vice and to plant virtue." — St. Catherine of Siena.
 
-GASPED [gasped] (verb)
-DEF: Completed the action or experienced the state of gasp.
-EX: Everyone gasped with delight when the exciting news arrived.
-
 GATHERING [gathering] (verb)
 DEF: The ongoing action or experience of gather.
 EX: The children enjoyed gathering together on a bright and sunny afternoon.
@@ -1914,9 +1881,10 @@ DEF: The part of the forelimb below the forearm or wrist in a human, and the cor
 EX: Her hands are really strong.
 SYN: manus, paw
 
-HANDSOME [handsome] (verb)
-DEF: To render handsome.
-EX: We watched the birds handsome effortlessly above the calm bay.
+HANDSOME [ˈhæn.səm] (adjective)
+DEF: Having an attractive, well-proportioned, dignified, and pleasing appearance.
+EX: The goddess Athena transformed Odysseus into a tall, handsome nobleman before he entered the palace.
+SYN: attractive, good-looking, comely
 
 HAPPENED [happened] (verb)
 DEF: (intransitive) To occur or take place.
@@ -2001,9 +1969,10 @@ DEF: To pay careful attention to advice, warning, or instructions.
 EX: The crew failed to heed their captain's warning about the island.
 SYN: listen to, observe, regard
 
-HELD [held] (noun)
-DEF: "Held" is a song by Smog, released as his first single from his 1999 album Knock Knock.
-EX: The ancient held was prized for its craftsmanship and beauty.
+HELD [hɛld] (verb)
+DEF: Past tense of hold; grasped, supported, or kept securely in one's hands or possession.
+EX: Nausicaä held the reins firmly as the mule cart rolled down the orchard path toward the shore.
+SYN: grasped, clasped, clutched
 
 HELP [hɛlp] (noun)
 DEF: Action given to provide assistance; aid.
@@ -2163,10 +2132,6 @@ HUNTS [hunts] (noun)
 DEF: The act of hunting.
 EX: The student carefully examined the ancient hunts in the museum exhibit.
 
-HURRIED [hurried] (verb)
-DEF: Completed the action or experienced the state of hurri.
-EX: Everyone hurried with delight when the exciting news arrived.
-
 HUSBAND [ˈhʌz.bənd] (noun)
 DEF: A married man considered in relation to his spouse.
 EX: Penelope remained steadfast and devoted, awaiting the return of her beloved husband Odysseus.
@@ -2282,8 +2247,8 @@ EX: The sweet fruit was delicious, and it caused them to forget home.
 SYN: that thing, the object
 
 IT'S [it's] (noun)
-DEF: The second mini-album by South Korean boy group Teen Top.
-EX: The teacher pointed out the fascinating it's during the history lesson.
+DEF: A notable term representing it's in classical and educational reading.
+EX: The ancient it's was prized for its craftsmanship and beauty.
 
 ITHACA [ˈɪθ.ə.kə] (proper noun)
 DEF: An ancient Greek island in the Ionian Sea, famous as the home kingdom of Odysseus.
@@ -2321,10 +2286,6 @@ SYN: adequate, proper, correct
 KEEP [keep] (verb)
 DEF: (transitive) To continue in (a course or mode of action); to not intermit or fall from; to uphold or maintain.
 EX: The travelers stopped to keep carefully before continuing their journey.
-
-KICKED [kicked] (verb)
-DEF: Completed the action or experienced the state of kick.
-EX: Everyone kicked with delight when the exciting news arrived.
 
 KING [king] (noun)
 DEF: A male monarch; a man who heads a monarchy; in an absolute monarchy, the supreme ruler of his nation.
@@ -2377,10 +2338,6 @@ LATER [later] (adjective)
 DEF: Near the end of a period of time.
 EX: It was late in the evening when we finally arrived.
 
-LAUGHED [laughed] (verb)
-DEF: Completed the action or experienced the state of laugh.
-EX: Everyone laughed with delight when the exciting news arrived.
-
 LAUGHING [laughing] (verb)
 DEF: The ongoing action or experience of laugh.
 EX: The children enjoyed laughing together on a bright and sunny afternoon.
@@ -2430,10 +2387,6 @@ SYN: blepharon
 LIFE [life] (noun)
 DEF: (uncountable) The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and distinguishing them from inanimate objects; the state of being alive and living.
 EX: The student carefully examined the ancient life in the museum exhibit.
-
-LIFTED [lifted] (verb)
-DEF: Completed the action or experienced the state of lift.
-EX: Everyone lifted with delight when the exciting news arrived.
 
 LIGHT [laɪt] (noun / adjective)
 DEF: The natural agent that stimulates sight and makes things visible; or not heavy.
@@ -2493,9 +2446,9 @@ LOOK [look] (verb)
 DEF: To try to see, to pay attention to with one’s eyes.
 EX: We watched the birds look effortlessly above the calm bay.
 
-LOOKED [looked] (verb)
-DEF: Completed the action or experienced the state of look.
-EX: Everyone looked with delight when the exciting news arrived.
+LOOKED [looked] (adjective)
+DEF: (in combination) Having the specified look or appearance.
+EX: A looked light illuminated the ancient temple walls at twilight.
 
 LOST [lɒst] (adjective / verb)
 DEF: Unable to find one's way; or ceased to be visible or remembered.
@@ -2587,10 +2540,6 @@ SYN: advanced, strode, paraded
 MARIGOLDS [marigolds] (noun)
 DEF: Any of the Old World plants, of the genus Calendula, with orange, yellow or reddish flowers.
 EX: The student carefully examined the ancient marigolds in the museum exhibit.
-
-MARKED [marked] (verb)
-DEF: Completed the action or experienced the state of mark.
-EX: Everyone marked with delight when the exciting news arrived.
 
 MARVEL [ˈmɑːr.vəl] (verb / noun)
 DEF: To be filled with wonder and astonishment; or a wonderful thing.
@@ -2691,9 +2640,9 @@ MINDS [minds] (noun)
 DEF: An open-source and distributed social network.
 EX: The student carefully examined the ancient minds in the museum exhibit.
 
-MISSED [missed] (verb)
-DEF: Completed the action or experienced the state of miss.
-EX: Everyone missed with delight when the exciting news arrived.
+MISSED [missed] (adjective)
+DEF: Not caught with the senses or the mind.
+EX: A missed light illuminated the ancient temple walls at twilight.
 
 MIST [mist] (noun)
 DEF: (countable, uncountable) Water or other liquid finely suspended in air. (Compare fog, haze.).
@@ -2731,9 +2680,9 @@ MOTHER [mother] (noun)
 DEF: A female parent, especially of a human; a female who parents a child (which she has given birth to, adopted, or fostered).
 EX: The ancient mother was prized for its craftsmanship and beauty.
 
-MOVED [moved] (verb)
-DEF: Completed the action or experienced the state of mov.
-EX: Everyone moved with delight when the exciting news arrived.
+MOVED [moved] (adjective)
+DEF: Emotionally affected; touched.
+EX: A moved light illuminated the ancient temple walls at twilight.
 
 MUCH [much] (adverb)
 DEF: To a great extent.
@@ -2742,10 +2691,6 @@ EX: The travelers stopped to much carefully before continuing their journey.
 MUD [mʌd] (noun)
 DEF: A mixture of water and soil or fine grained sediment.
 EX: The teacher pointed out the fascinating mud during the history lesson.
-
-MURMURED [murmured] (verb)
-DEF: Completed the action or experienced the state of murmur.
-EX: Everyone murmured with delight when the exciting news arrived.
 
 MUSIC [music] (noun)
 DEF: A series of sounds organized in time, usually employing some combination of harmony, melody, rhythm, tempo, etc., often to convey a mood.
@@ -2760,9 +2705,10 @@ DEF: Belonging to or associated with the speaker.
 EX: 'I must lead my men safely back to Ithaca,' Odysseus vowed.
 SYN: belonging to me
 
-MYSELF [myself] (noun)
-DEF: The eleventh studio album by Taiwanese singer Jolin Tsai, released by Warner and Mars on August 13, 2010.
-EX: The ancient myself was prized for its craftsmanship and beauty.
+MYSELF /maɪˈsɛlf/ (pronoun)
+DEF: (reflexive pronoun) Me, as direct or indirect object the speaker as the object of a verb or preposition, when the speaker is also the subject.
+EX: I taught myself.
+SYN: me
 
 MYSTERIOUS [mɪ.ˈstɪə.ri.əs] (adjective)
 DEF: Difficult or impossible to understand, explain, or identify.
@@ -2888,8 +2834,8 @@ DEF: At the present time.
 EX: We watched the birds now effortlessly above the calm bay.
 
 NYMPHS [nymphs] (noun)
-DEF: An American alternative rock band that performed in the late 1980s and early 1990s with lead singer Inger Lorre.
-EX: The student carefully examined the ancient nymphs in the museum exhibit.
+DEF: A notable term representing nymphs in classical and educational reading.
+EX: The ancient nymphs was prized for its craftsmanship and beauty.
 
 OASIS [oasis] (noun)
 DEF: A spring of fresh water, surrounded by a fertile region of vegetation, in a desert.
@@ -2933,9 +2879,10 @@ OLD [old] (adjective)
 DEF: Of an object, concept, relationship, etc., having existed for a relatively long period of time.
 EX: A old breeze swept gently across the sunny coastline.
 
-OMEN [omen] (noun)
-DEF: Something which portends or is perceived to portend either a good or evil event or circumstance in the future, or which causes a foreboding; a portent or augury.
-EX: The ancient omen was prized for its craftsmanship and beauty.
+OMEN [ˈoʊ.mən] (noun)
+DEF: An occurrence or prophetic sign regarded as portending good or evil fortune.
+EX: An eagle soaring high across the cloudless sky was interpreted by the elders as a favorable omen.
+SYN: portent, sign, augury
 
 ON [ɒn] (preposition)
 DEF: Physically in contact with and supported by a surface.
@@ -3022,9 +2969,10 @@ PAINT [paint] (noun)
 DEF: A substance that is applied as a liquid or paste, and dries into a solid coating that protects or adds colour to an object or surface to which it has been applied.
 EX: The student carefully examined the ancient paint in the museum exhibit.
 
-PALACE [palace] (noun)
-DEF: Official residence of a head of state or other dignitary, especially in a monarchical or imperial governmental system.
-EX: The ancient palace was prized for its craftsmanship and beauty.
+PALACE [ˈpæl.ɪs] (noun)
+DEF: A splendid, stately residence of a king, queen, or royal sovereign.
+EX: The bronze gates of King Alcinous's palace gleamed brilliantly in the morning sun.
+SYN: castle, chateau, royal court
 
 PALE [pale] (adjective)
 DEF: Light in color.
@@ -3047,13 +2995,10 @@ PARCHED [pɑːtʃt] (verb)
 DEF: To burn the surface of, to scorch.
 EX: The sun today could parch cement.
 
-PARENTS [parents] (noun)
-DEF: A 1989 American black comedy horror film directed by Bob Balaban and starring Randy Quaid, Mary Beth Hurt, Sandy Dennis and Bryan Madorsky.
-EX: The ancient parents was prized for its craftsmanship and beauty.
-
-PARTED [parted] (verb)
-DEF: Completed the action or experienced the state of part.
-EX: Everyone parted with delight when the exciting news arrived.
+PARENTS [ˈpɛər.ənts] (noun)
+DEF: A person's father and mother; one's progenitors or guardians.
+EX: Nausicaä asked her loving parents for permission to wash the royal linens by the river.
+SYN: father and mother, guardians, progenitors
 
 PARTOOK [pɑːr.ˈtʊk] (verb)
 DEF: Past tense of partake; took part in or tasted food or drink.
@@ -3063,10 +3008,6 @@ SYN: shared in, consumed, tasted
 PASS [pass] (verb)
 DEF: To change place.
 EX: We watched the birds pass effortlessly above the calm bay.
-
-PASSED [passed] (verb)
-DEF: Completed the action or experienced the state of pass.
-EX: Everyone passed with delight when the exciting news arrived.
 
 PAST [past] (noun)
 DEF: The period of time that has already happened, in contrast to the present and the future.
@@ -3105,8 +3046,8 @@ EX: Penelope outsmarted the suitors by weaving a shroud by day and unraveling it
 SYN: Queen of Ithaca, faithful spouse
 
 PERCHED [perched] (verb)
-DEF: Completed the action or experienced the state of perch.
-EX: Everyone perched with delight when the exciting news arrived.
+DEF: To rest on (or as if on) a perch; to roost.
+EX: The macaw was perched on Jim's shoulder.
 
 PERFECTLY [perfectly] (adverb)
 DEF: In a perfect manner.
@@ -3130,17 +3071,14 @@ DEF: A percussive keyboard musical instrument, usually ranging over seven octave
 EX: He can play "Happy Birthday" on the piano.
 SYN: pianoforte
 
-PICKED [picked] (verb)
-DEF: Completed the action or experienced the state of pick.
-EX: Everyone picked with delight when the exciting news arrived.
-
 PIECE [piece] (noun)
 DEF: A part of a larger whole, usually in such a form that it is able to be separated from other parts.
 EX: The student carefully examined the ancient piece in the museum exhibit.
 
-PIECES [pieces] (noun)
-DEF: "Pieces" is a song written and recorded by Canadian band Sum 41.
-EX: The ancient pieces was prized for its craftsmanship and beauty.
+PIECES [ˈpiː.sɪz] (noun)
+DEF: Separate parts, fragments, or portions forming a whole object.
+EX: The raging storm smashed the wooden raft into shattered pieces upon the rocky coast.
+SYN: fragments, shards, portions
 
 PILE [pile] (noun)
 DEF: A mass of things heaped together; a heap.
@@ -3168,10 +3106,6 @@ DEF: Feelings of happy satisfaction, enjoyment, or sensual delight.
 EX: They abandoned the fleeting pleasures of the lotus to pursue their noble journey.
 SYN: delights, joys, indulgences
 
-PLUCKED [plucked] (verb)
-DEF: Completed the action or experienced the state of pluck.
-EX: Everyone plucked with delight when the exciting news arrived.
-
 POCKET [pocket] (noun)
 DEF: (clothing) A bag stitched to an item of clothing, used for carrying small items.
 EX: The student carefully examined the ancient pocket in the museum exhibit.
@@ -3180,10 +3114,6 @@ POLISH [ˈpɒlɪʃ] (noun)
 DEF: A substance used to polish.
 EX: A good silver polish will remove tarnish easily.
 SYN: class, elegance, panache
-
-POLISHED [polished] (verb)
-DEF: Completed the action or experienced the state of polish.
-EX: Everyone polished with delight when the exciting news arrived.
 
 POLLINATOR [ˈpɒl.ɪ.neɪ.tər] (noun)
 DEF: The correct ways in which words or languages are spoken.
@@ -3202,39 +3132,34 @@ POPCORN [popcorn] (noun)
 DEF: (chiefly uncountable) A snack food made from corn or maize kernels popped by dry heating.
 EX: The student carefully examined the ancient popcorn in the museum exhibit.
 
-POSEIDON [poseidon] (noun)
-DEF: (Greek mythology) The god of the sea and other waters, earthquakes and horses; corresponds to the Roman god Neptune.
-EX: The ancient poseidon was prized for its craftsmanship and beauty.
+POSEIDON [pə.ˈsaɪ.dən] (proper noun)
+DEF: In Greek mythology, the mighty Olympian god of the sea, storms, earthquakes, and horses.
+EX: Poseidon unleashed a furious tempest across the waves to hinder Odysseus on his voyage home.
+SYN: Earth-Shaker, God of the Sea, Neptune
 
-POSEIDON'S [poseidon's] (noun)
-DEF: (Greek mythology) The god of the sea and other waters, earthquakes and horses; corresponds to the Roman god Neptune.
-EX: The ancient poseidon's was prized for its craftsmanship and beauty.
+POSEIDON'S [pə.ˈsaɪ.dənz] (proper noun)
+DEF: Belonging to or associated with Poseidon, the Greek god of the sea.
+EX: The seafaring heroes trembled before Poseidon's wrathful waves.
+SYN: of the Sea God
 
 PRACTICE [ˈpɹæktɪs] (noun)
 DEF: Repetition of an activity to improve a skill.
 EX: He will need lots of practice with the lines before he performs them.
 SYN: custom, habit, pattern
 
-PREPARED [prepared] (verb)
-DEF: Completed the action or experienced the state of prepar.
-EX: Everyone prepared with delight when the exciting news arrived.
-
-PRESSED [pressed] (verb)
-DEF: Completed the action or experienced the state of press.
-EX: Everyone pressed with delight when the exciting news arrived.
-
 PRESUMED [prɪ.ˈzjuːmd] (verb)
 DEF: Past tense of presume; supposed something to be true based on probability or past absence.
 EX: Most in Greece had presumed the wandering hero had perished during the long war.
 SYN: assumed, supposed, believed
 
-PRINCESS [princess] (noun)
-DEF: A female member of a royal family other than a queen, especially a daughter or granddaughter of a monarch.
-EX: The ancient princess was prized for its craftsmanship and beauty.
+PRINCESS [ˈprɪn.sɛs] (noun)
+DEF: The royal daughter or granddaughter of a reigning monarch.
+EX: The young princess Nausicaä showed unmatched courage and hospitality to the stranger.
+SYN: royal daughter, noblewoman
 
-PROMISED [promised] (verb)
-DEF: Completed the action or experienced the state of promis.
-EX: Everyone promised with delight when the exciting news arrived.
+PROMISED [promised] (adjective)
+DEF: Under obligation to some future commitment, such as a marriage or vocation.
+EX: A promised light illuminated the ancient temple walls at twilight.
 
 PRUNE [pɹuːn] (noun)
 DEF: The dried, wrinkled fruit of certain species of plum.
@@ -3244,17 +3169,14 @@ PUFF [puff] (noun)
 DEF: (countable) A small quantity of gas or smoke in the air.
 EX: The student carefully examined the ancient puff in the museum exhibit.
 
-PULLED [pulled] (verb)
-DEF: Completed the action or experienced the state of pull.
-EX: Everyone pulled with delight when the exciting news arrived.
-
 PUSHED [pushed] (verb)
 DEF: (transitive, intransitive) To apply a force to (an object) such that it moves away from the person or thing applying the force.
 EX: Everyone pushed with excitement when the great journey finally began.
 
-QUEEN [queen] (noun)
-DEF: A female monarch.
-EX: The ancient queen was prized for its craftsmanship and beauty.
+QUEEN [kwiːn] (noun)
+DEF: A female sovereign ruler of an independent kingdom or the consort of a king.
+EX: Queen Arete sat by the central hearth spinning fine purple wool surrounded by her maids.
+SYN: monarch, sovereign, empress
 
 QUEST [kwɛst] (noun)
 DEF: A long, arduous search for something noble or adventurous.
@@ -3281,17 +3203,20 @@ DEF: A group of people connected by common descent; or a competition of speed.
 EX: The Lotus-Eaters were a gentle race who lived in harmony with the blossoms.
 SYN: people, tribe, lineage
 
-RAFT [raft] (noun)
-DEF: A flat-bottomed craft able to float and drift on water, used for transport or as a waterborne platform.
-EX: The ancient raft was prized for its craftsmanship and beauty.
+RAFT [ræft] (noun)
+DEF: A flat floating structure of timber or logs fastened together for travel across water.
+EX: Odysseus spent four painstaking days building a sturdy wooden raft to leave Calypso's island.
+SYN: float, craft, barge
 
-RAGS [rags] (noun)
-DEF: (ice hockey, derogatory) The New York Rangers hockey team.
-EX: The ancient rags was prized for its craftsmanship and beauty.
+RAGS [ræɡz] (noun)
+DEF: Old, torn, frayed, or tattered garments worn by the poor or shipwrecked.
+EX: Odysseus arrived on the island clad only in brine-soaked rags after surviving the raging waves.
+SYN: tatters, shreds, frayed clothes
 
-RAN [ran] (noun)
-DEF: (nautical) Yarns coiled on a spun-yarn winch.
-EX: The ancient ran was prized for its craftsmanship and beauty.
+RAN [ræn] (verb)
+DEF: Past tense of run; moved swiftly on foot with rapid strides.
+EX: The frightened handmaidens ran toward the riverbank when Odysseus first stepped out from the olive grove.
+SYN: sprinted, rushed, dashed
 
 RANK [rank] (adjective)
 DEF: Strong in growth; growing with vigour or rapidity, hence, coarse or gross.
@@ -3367,8 +3292,8 @@ EX: He remembered the smiling faces of his family in Ithaca.
 SYN: recalled, recollected, retained
 
 REPLACED [replaced] (verb)
-DEF: Completed the action or experienced the state of replac.
-EX: Everyone replaced with delight when the exciting news arrived.
+DEF: (transitive) To supply or substitute an equivalent with.
+EX: The courageous crew replaced toward the island as the weather cleared.
 
 RESISTED [rɪ.ˈzɪs.tɪd] (verb)
 DEF: Struggled against or fought back against force or temptation.
@@ -3393,10 +3318,6 @@ DEF: To come or go back to a place or person; or the act of coming back.
 EX: Their greatest desire was to return safely to their native land.
 SYN: go back, revisit, homecoming
 
-RETURNED [returned] (verb)
-DEF: Completed the action or experienced the state of return.
-EX: Everyone returned with delight when the exciting news arrived.
-
 RIBS [ribs] (noun)
 DEF: Alt=Beef ribs on a smoker grill|thumb|225x225px|Beef ribs on a smoker grill.
 EX: The student carefully examined the ancient ribs in the museum exhibit.
@@ -3419,12 +3340,13 @@ DEF: A moving disturbance, or undulation, in the surface of a fluid.
 EX: The student carefully examined the ancient ripple in the museum exhibit.
 
 RIVALED [rivaled] (verb)
-DEF: Completed the action or experienced the state of rival.
-EX: Everyone rivaled with delight when the exciting news arrived.
+DEF: (transitive) To oppose or compete with.
+EX: The courageous crew rivaled toward the island as the weather cleared.
 
-RIVER [river] (noun)
-DEF: A large and often winding stream which drains a land mass, carrying water down from higher areas to a lower point, oftentimes ending in another body of water, such as an ocean or in an inland sea.
-EX: The ancient river was prized for its craftsmanship and beauty.
+RIVER [ˈrɪv.ər] (noun)
+DEF: A large natural flow of fresh water running in a channel to the sea, a lake, or another river.
+EX: Nausicaä and her maidens traveled to the clear freshwater river to wash the royal linens.
+SYN: stream, waterway, current
 
 ROOM [room] (noun)
 DEF: (uncountable) Space for something, or to carry out an activity.
@@ -3438,10 +3360,6 @@ ROUSE [raʊz] (verb)
 DEF: To awaken from sleep or stimulate to action.
 EX: Odysseus had to rouse his dreaming comrades from their heavy stupor.
 SYN: awaken, stir, alert
-
-RUBBED [rubbed] (verb)
-DEF: Completed the action or experienced the state of rubb.
-EX: Everyone rubbed with delight when the exciting news arrived.
 
 RUCKSACK [rucksack] (noun)
 DEF: (UK, Northeastern US) A bag carried on the back or shoulder, supported by straps.
@@ -3461,9 +3379,10 @@ RUSHES [rushes] (noun)
 DEF: (cinematography) Unedited footage; film material as recorded to tape etc.
 EX: The student carefully examined the ancient rushes in the museum exhibit.
 
-SACRIFICES [sacrifices] (noun)
-DEF: (figurative) The destruction or surrender of anything for the sake of something else regarded as more urgent or valuable; also, the thing destroyed or surrendered for this purpose.
-EX: The ancient sacrifices was prized for its craftsmanship and beauty.
+SACRIFICES [ˈsæk.rɪ.faɪs.ɪz] (noun)
+DEF: Offerings of devotion or valued goods given to deities in thanksgiving or reverence.
+EX: King Alcinous poured out rich libations and made solemn sacrifices to Poseidon before the ship set sail.
+SYN: offerings, oblations, gifts
 
 SAD [sad] (adjective)
 DEF: Feeling sorrow; sorrowful, mournful.
@@ -3588,10 +3507,6 @@ SEEK [seek] (verb)
 DEF: (ambitransitive) To try to find; to look for; to search for.
 EX: We watched the birds seek effortlessly above the calm bay.
 
-SEEMED [seemed] (verb)
-DEF: Completed the action or experienced the state of seem.
-EX: Everyone seemed with delight when the exciting news arrived.
-
 SELDOM [seldom] (adverb)
 DEF: Infrequently, rarely.
 EX: We watched the birds seldom effortlessly above the calm bay.
@@ -3601,9 +3516,10 @@ DEF: Became aware of something through intuition or subtle perception.
 EX: The wise captain sensed danger lurking beneath the sweet hospitality.
 SYN: perceived, detected, felt
 
-SENT [sent] (noun)
-DEF: A subdivision of currency, equal to one hundredth of an Estonian kroon.
-EX: The ancient sent was prized for its craftsmanship and beauty.
+SENT [sɛnt] (verb)
+DEF: Past tense of send; dispatched, caused to go, or directed to a destination.
+EX: King Alcinous sent his finest sailors to guide Odysseus safely back across the wine-dark sea.
+SYN: dispatched, forwarded, directed
 
 SEPARATED [ˈsɛp.ə.reɪ.tɪd] (adjective / verb)
 DEF: Divided, parted, or kept apart from others.
@@ -3633,9 +3549,10 @@ DEF: A dark area produced by a body coming between rays of light and a surface.
 EX: The tall cliffs cast a cool shadow across the sheltered inlet.
 SYN: shade, silhouette, darkness
 
-SHADOWS [shadows] (noun)
-DEF: A 1959 American independent drama film directed by John Cassavetes about race relations during the Beat Generation years in New York City.
-EX: The student carefully examined the ancient shadows in the museum exhibit.
+SHADOWS [ˈʃæd.oʊz] (noun)
+DEF: Dark shapes or silhouettes cast when light is blocked by an object.
+EX: Long shadows stretched across the quiet beach as twilight fell over the island.
+SYN: shades, silhouettes, darkness
 
 SHADOWY [shadowy] (adjective)
 DEF: In shadow; darkened by shadows.
@@ -3657,9 +3574,10 @@ SHARP [ʃɑːp] (noun)
 DEF: The symbol ♯, placed after the name of a note in the key signature or before a note on the staff to indicate that the note is to be played a semitone higher.
 EX: The pitch pipe sounded out a perfect F♯ (F sharp).
 
-SHATTERED [shattered] (verb)
-DEF: Completed the action or experienced the state of shatter.
-EX: Everyone shattered with delight when the exciting news arrived.
+SHARP-EYED [ʃɑːrp.aɪd] (adjective)
+DEF: Having very keen, observant, and perceptive vision.
+EX: The sharp-eyed goddess Athena watched over the traveler from high upon Mount Olympus.
+SYN: observant, keen-sighted, vigilant
 
 SHE [ʃiː] (pronoun)
 DEF: Referring to a female person or deity previously mentioned.
@@ -3721,9 +3639,10 @@ SHRINKING [shrinking] (verb)
 DEF: The ongoing action or experience of shrink.
 EX: The children enjoyed shrinking together on a bright and sunny afternoon.
 
-SHROUD [shroud] (noun)
-DEF: That which clothes, covers, conceals, or protects; a garment.
-EX: The ancient shroud was prized for its craftsmanship and beauty.
+SHROUD [ʃraʊd] (noun)
+DEF: A woven cloth used to wrap a body for burial, or a protective covering.
+EX: Penelope promised to choose a suitor once she completed weaving Lord Laertes's funeral shroud.
+SYN: winding-sheet, veil, garment
 
 SIDE [side] (noun)
 DEF: A bounding straight edge of a two-dimensional shape.
@@ -3768,9 +3687,10 @@ DEF: Descending below the surface of water or descending toward sunset.
 EX: The sinking sun painted the western horizon with crimson and gold.
 SYN: descending, submerging, dropping
 
-SIRENS [sirens] (noun)
-DEF: The debut studio album by American heavy metal band Savatage, released on April 11, 1983.
-EX: The student carefully examined the ancient sirens in the museum exhibit.
+SIRENS [ˈsaɪ.rənz] (proper noun)
+DEF: In Greek mythology, dangerous sea creatures whose enchanting songs lured sailors to shipwreck.
+EX: Odysseus had his crew tie him to the ship's mast so he could safely listen to the songs of the Sirens.
+SYN: sea nymphs, enchantresses
 
 SKILLS [skills] (noun)
 DEF: A capacity to do something well; a technique, an ability, usually acquired or learned, as opposed to abilities that are regarded as innate.
@@ -3812,10 +3732,6 @@ SYN: page, screen, panel
 SLIGHTLY [slightly] (adverb)
 DEF: In a slight manner.
 EX: They planned to slightly carefully before embarking on their journey.
-
-SLIPPED [slipped] (verb)
-DEF: Completed the action or experienced the state of slipp.
-EX: Everyone slipped with delight when the exciting news arrived.
 
 SLOW [slow] (adjective)
 DEF: Taking a long time to move or go a short distance, or to perform an action; not quick in motion; proceeding at a low speed.
@@ -3879,9 +3795,10 @@ SOMETIMES [sometimes] (adverb)
 DEF: On some occasions, over some periods, or in certain circumstances, but not always.
 EX: The travelers stopped to sometimes carefully before continuing their journey.
 
-SON [son] (noun)
-DEF: One's male offspring.
-EX: The ancient son was prized for its craftsmanship and beauty.
+SON [sʌn] (noun)
+DEF: A male child or descendant in relation to his parents.
+EX: Odysseus longed to return home to embrace his grown son Telemachus.
+SYN: male child, boy, offspring
 
 SONG [song] (noun)
 DEF: A musical composition with lyrics for voice or voices, performed by singing.
@@ -3951,18 +3868,15 @@ SQUINT [skwɪnt] (noun)
 DEF: An expression in which the eyes are partly closed.
 EX: The teacher pointed out the fascinating squint during the history lesson.
 
-STARED [stared] (verb)
-DEF: Completed the action or experienced the state of star.
-EX: Everyone stared with delight when the exciting news arrived.
-
 STARLIGHT [ˈstɑːr.laɪt] (noun)
 DEF: Luminous celestial bodies visible as points of light in the night sky.
 EX: Sailors read the alignment of the stars to plot their course.
 SYN: constellations, celestial lights
 
-START [start] (noun)
-DEF: The beginning of an activity.
-EX: The ancient start was prized for its craftsmanship and beauty.
+START [stɑːrt] (verb / noun)
+DEF: To begin an action, journey, or process; or the initial commencement of an event.
+EX: The crew prepared to start their homeward voyage at the break of dawn.
+SYN: begin, commence, originate
 
 STAYED [steɪd] (verb)
 DEF: Past tense of stay; remained in the same place rather than fleeing or leaving.
@@ -3982,10 +3896,6 @@ STEP [step] (noun)
 DEF: An advance or movement made from one foot to the other; a pace.
 EX: The student carefully examined the ancient step in the museum exhibit.
 SYN: stride
-
-STEPPED [stepped] (verb)
-DEF: Completed the action or experienced the state of stepp.
-EX: Everyone stepped with delight when the exciting news arrived.
 
 STEPPING [stepping] (verb)
 DEF: The ongoing action or experience of stepp.
@@ -4010,10 +3920,6 @@ DEF: Came to an end of a movement or action; halted.
 EX: The ships stopped at the sheltered cove to take on fresh water.
 SYN: halted, anchored, paused
 
-STORIED [storied] (verb)
-DEF: Completed the action or experienced the state of stori.
-EX: Everyone storied with delight when the exciting news arrived.
-
 STORM [stɔːrm] (noun)
 DEF: A violent disturbance of the atmosphere with strong winds and heavy seas.
 EX: A ferocious storm raged for nine continuous days across the sea.
@@ -4033,13 +3939,10 @@ STREET [street] (noun)
 DEF: A paved part of road, usually in a village or a town.
 EX: Walk down the street until you see a hotel on the right.
 
-STRENGTH [strength] (noun)
-DEF: The quality or degree of being strong.
-EX: The ancient strength was prized for its craftsmanship and beauty.
-
-STRIPPED [stripped] (verb)
-DEF: Completed the action or experienced the state of stripp.
-EX: Everyone stripped with delight when the exciting news arrived.
+STRENGTH [strɛŋkθ] (noun)
+DEF: The physical power, energy, vigor, and endurance of the body or mind.
+EX: After eating hearty meals at the palace banquet, the hero regained his former strength.
+SYN: power, might, vigor
 
 STRONG [strong] (adjective)
 DEF: (loosely) Possessing power, might, or strength.
@@ -4049,10 +3952,6 @@ STRUGGLING [ˈstrʌɡ.lɪŋ] (verb / adjective)
 DEF: Striving with great effort against difficulties or restraint.
 EX: The weeping scouts were struggling as Odysseus dragged them away.
 SYN: resisting, striving, grappling
-
-STUMBLED [stumbled] (verb)
-DEF: Completed the action or experienced the state of stumbl.
-EX: Everyone stumbled with delight when the exciting news arrived.
 
 STUPOR [ˈstjuː.pər] (noun)
 DEF: A state of near-unconsciousness or suspended sensibility caused by drink or enchantment.
@@ -4085,9 +3984,10 @@ SUDDENLY [suddenly] (adverb)
 DEF: In a sudden manner.
 EX: They planned to suddenly carefully before embarking on their journey.
 
-SUITORS [suitors] (noun)
-DEF: One who pursues someone, especially a woman, for a romantic relationship or marriage; a wooer; one who falls in love with or courts someone.
-EX: The ancient suitors was prized for its craftsmanship and beauty.
+SUITORS [ˈsuː.tərz] (noun)
+DEF: Men seeking to win the hand or favor of a woman in marriage.
+EX: More than a hundred arrogant suitors crowded Penelope's halls, consuming Odysseus's wealth.
+SYN: wooers, admirers, courters
 
 SUMMARY [ˈsʌm.ər.i] (noun)
 DEF: A brief statement or account of the main points of something.
@@ -4360,9 +4260,10 @@ TILE [tile] (noun)
 DEF: A regularly-shaped slab of clay or other material, affixed to cover or decorate a surface, as in a roof-tile, glazed tile, stove tile, carpet tile, etc.
 EX: The student carefully examined the ancient tile in the museum exhibit.
 
-TILES [tiles] (noun)
-DEF: An American progressive rock band from Detroit, Michigan, United States.
-EX: The student carefully examined the ancient tiles in the museum exhibit.
+TILES [taɪlz] (noun)
+DEF: Thin, flat slabs of baked clay, stone, or ceramic used to pave floors and cover roofs.
+EX: The grand courtyards of the palace were paved with polished ceramic tiles.
+SYN: slabs, pavers, ceramics
 
 TIME [time] (noun)
 DEF: (uncountable) The inevitable progression into the future with the passing of present and past events.
@@ -4405,9 +4306,10 @@ TOGETHER [together] (adverb)
 DEF: At the same time, in the same place; in close association or proximity.
 EX: We watched the birds together effortlessly above the calm bay.
 
-TOKEN [token] (noun)
-DEF: Something serving as an expression of something else.
-EX: The ancient token was prized for its craftsmanship and beauty.
+TOKEN [ˈtoʊ.kən] (noun)
+DEF: A tangible symbol, keepsake, or sign representing affection, esteem, or friendship.
+EX: Princess Nausicaä presented Odysseus with a small carved keepsake as a parting token of goodwill.
+SYN: keepsake, symbol, memento
 
 TOLD [toʊld] (verb)
 DEF: Past tense of tell; communicated information or facts to someone.
@@ -4438,10 +4340,6 @@ DEF: Past tense of toss; thrown lightly or pitched about violently by wind and w
 EX: The helpless swimmer was tossed about in the churning surf before reaching the quiet beach.
 SYN: pitched, flung, hurled
 
-TOUCHED [touched] (verb)
-DEF: Completed the action or experienced the state of touch.
-EX: Everyone touched with delight when the exciting news arrived.
-
 TOWARDS [towards] (adverb)
 DEF: In the direction of something (indicated by context).
 EX: They paused to towards carefully before continuing on their way.
@@ -4450,9 +4348,10 @@ TRACE [trace] (noun)
 DEF: An act of tracing.
 EX: The student carefully examined the ancient trace in the museum exhibit.
 
-TRAGEDIES [tragedies] (noun)
-DEF: A disastrous event, especially one involving great loss of life or injury.
-EX: The ancient tragedies was prized for its craftsmanship and beauty.
+TRAGEDIES [ˈtrædʒ.ə.diz] (noun)
+DEF: Disastrous events involving great loss, sorrow, and misfortune.
+EX: The wandering warrior had endured countless tragedies across his twenty years at sea.
+SYN: disasters, catastrophes, misfortunes
 
 TRAINERS [trainers] (noun)
 DEF: A person who trains another; a coach.
@@ -4485,9 +4384,10 @@ DEF: Past tense of treat; behaved toward or provided care and shelter to someone
 EX: The Phaeacian king treated his guest with noble honor, fine banquet food, and warm lodgings.
 SYN: cared for, attended, received
 
-TRELLISES [trellises] (noun)
-DEF: An outdoor garden frame that can be used to grow vines or other climbing plants.
-EX: The ancient trellises was prized for its craftsmanship and beauty.
+TRELLISES [ˈtrɛl.ɪs.ɪz] (noun)
+DEF: Architectural lattice frameworks of wood or metal used to support climbing vines and fruit trees.
+EX: Heavy clusters of sweet grapes hung from the wooden trellises in the king's royal gardens.
+SYN: lattices, arbors, frameworks
 
 TREMBLING [trembling] (verb)
 DEF: The ongoing action or experience of trembl.
@@ -4512,9 +4412,10 @@ DEF: Beset by problems, anxiety, or emotional distress.
 EX: Odysseus was deeply troubled by the strange lethargy of his scouts.
 SYN: distressed, anxious, worried
 
-TROY [troy] (noun)
-DEF: A male given name.
-EX: The ancient troy was prized for its craftsmanship and beauty.
+TROY [trɔɪ] (proper noun)
+DEF: The famous ancient city in Asia Minor, site of the legendary decade-long Trojan War.
+EX: Odysseus had fought for ten long years outside the towering walls of Troy.
+SYN: Ilium, ancient citadel
 
 TRUTH [truth] (noun)
 DEF: True facts, genuine depiction or statements of reality.
@@ -4531,10 +4432,6 @@ EX: They paused to tuck carefully before continuing on their way.
 TUCKED [tucked] (verb)
 DEF: To pull or gather up (an item of fabric).
 EX: Everyone tucked with excitement when the great journey finally began.
-
-TUGGED [tugged] (verb)
-DEF: Completed the action or experienced the state of tugg.
-EX: Everyone tugged with delight when the exciting news arrived.
 
 TURNED [tɜːrnd] (verb)
 DEF: Changed direction or course; rotated.
@@ -4602,13 +4499,10 @@ US [us] (noun)
 DEF: (rare) Alternative form of u's.
 EX: The student carefully examined the ancient us in the museum exhibit.
 
-VALUE [value] (noun)
-DEF: The quality that renders something desirable or valuable; worth.
-EX: The ancient value was prized for its craftsmanship and beauty.
-
-VANISHED [vanished] (verb)
-DEF: Completed the action or experienced the state of vanish.
-EX: Everyone vanished with delight when the exciting news arrived.
+VALUE [ˈvæl.juː] (noun)
+DEF: The worth, importance, or meaningful benefit of an item, virtue, or idea.
+EX: The Phaeacian elders placed great value on wisdom, honor, and generosity toward travelers.
+SYN: worth, importance, merit
 
 VELTLINER [vɛltˈliːnɐ] (noun)
 DEF: A kind of white wine produced in Austria (referring to Grüner Veltliner).
@@ -4650,13 +4544,14 @@ VOYAGE [voyage] (noun)
 DEF: A long journey, especially by ship.
 EX: The student carefully examined the ancient voyage in the museum exhibit.
 
-VYING [vying] (noun)
-DEF: The act of one who vies; rivalry.
-EX: The ancient vying was prized for its craftsmanship and beauty.
+VYING [ˈvaɪ.ɪŋ] (verb)
+DEF: Present participle of vie; competing eagerly with others in order to win or achieve something.
+EX: The proud suitors were constantly vying with one another for Penelope's attention.
+SYN: competing, contending, striving
 
 WADED [waded] (verb)
-DEF: Completed the action or experienced the state of wad.
-EX: Everyone waded with delight when the exciting news arrived.
+DEF: To walk through water or something that impedes progress.
+EX: The courageous crew waded toward the island as the weather cleared.
 
 WAILED [weɪld] (verb)
 DEF: Made a prolonged, high-pitched cry of sorrow, grief, or pain.
@@ -4673,18 +4568,10 @@ DEF: Emerging or stirring from sleep.
 EX: Upon waking, the scouts felt as if they were still dreaming.
 SYN: awakening, stirring
 
-WALKED [walked] (verb)
-DEF: Completed the action or experienced the state of walk.
-EX: Everyone walked with delight when the exciting news arrived.
-
 WANDER [ˈwɒn.dər] (verb)
 DEF: To walk or move in a leisurely, casual, or aimless way.
 EX: The visitors were invited to wander through the fragrant groves.
 SYN: roam, stroll, ramble
-
-WANDERED [wandered] (verb)
-DEF: Completed the action or experienced the state of wander.
-EX: Everyone wandered with delight when the exciting news arrived.
 
 WANDERING [ˈwɒndəɹɪŋ] (verb)
 DEF: To move without purpose or specified destination; often in search of livelihood.
@@ -4736,9 +4623,10 @@ DEF: Long bodies of water curling into an arched foam crest on the sea.
 EX: Azure waves broke gently against the warm barrier reef.
 SYN: breakers, billows, surf
 
-WASHING [washing] (noun)
-DEF: (countable) The action of the verb to wash.
-EX: The ancient washing was prized for its craftsmanship and beauty.
+WASHING [ˈwɒʃ.ɪŋ] (noun)
+DEF: The act or process of cleansing garments, linens, or oneself using water and soap.
+EX: Nausicaä led her attendants down to the river to complete the royal household's washing.
+SYN: cleansing, laundering, cleaning
 
 WASN'T [ˈwʌz.ənt] (contraction / verb)
 DEF: Shortened form of 'was not'; indicates a negative past state or condition.
@@ -4806,9 +4694,10 @@ WELL [well] (adverb)
 DEF: (manner) Accurately, competently, satisfactorily.
 EX: The travelers stopped to well carefully before continuing their journey.
 
-WENT [went] (noun)
-DEF: (obsolete) A course; a way, a path; a journey.
-EX: The ancient went was prized for its craftsmanship and beauty.
+WENT [wɛnt] (verb)
+DEF: Past tense of go; traveled, proceeded, or moved from one place to another.
+EX: The young princess went down to the washing pools with her attendants at sunrise.
+SYN: traveled, proceeded, journeyed
 
 WERE [wɜːr] (verb)
 DEF: Second person singular and all plural past tense of be.
@@ -4842,9 +4731,10 @@ DEF: In, at, or to what place or position.
 EX: They found a quiet cove where the waters were calm as glass.
 SYN: in which place, at the location
 
-WHICH [which] (noun)
-DEF: In computing, which is a command for various operating systems used to identify the location of executables.
-EX: The ancient which was prized for its craftsmanship and beauty.
+WHICH [wɪtʃ] (pronoun)
+DEF: Pronoun referring to specific items or choices previously mentioned or about to be described.
+EX: Nausicaä pointed to the high towers which marked her father's royal palace in the distance.
+SYN: that, whatever
 
 WHILE [waɪl] (noun / conjunction)
 DEF: A period of time; or during the time that.
@@ -4879,9 +4769,10 @@ DEF: What or which person or people.
 EX: Those who tasted the sweet lotus had no wish to depart.
 SYN: which person, that person
 
-WHOM [whom] (noun)
-DEF: An American radio station which airs an adult contemporary radio format.
-EX: The ancient whom was prized for its craftsmanship and beauty.
+WHOM [huːm] (pronoun)
+DEF: Objective form of who; used to refer to the person or people affected by an action.
+EX: The king inquired of Odysseus whom he had met upon arriving on the shores of Scheria.
+SYN: who, which person
 
 WHOSE [huːz] (possessive pronoun)
 DEF: Belonging to or associated with which person.
