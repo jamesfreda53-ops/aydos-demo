@@ -1,0 +1,342 @@
+# ==============================================================================
+# AYDOS STORIES & SERIES CATALOG MANIFEST
+# Editable metadata file for all stories, series, chapters, reading levels, and search tags.
+# Adding new stories, series, or chapters creates or updates an entry in this file.
+# Search tags are formatted as [tag1] [tag2] [tag3] (hidden in UI cards, indexed in search).
+# ==============================================================================
+
+[Chapter: odyssey-troy]
+Title: The Fall of Troy
+Subtitle: paris u naughty naughty boy
+Author: Homer
+Genre: Adventure
+ReadingLevel: Intermediate
+ReadingTime: 5 min
+SeriesTitle: The Odyssey
+SeriesId: odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter I
+ChapterTitle: The Fall of Troy
+ChapterFolder: troy
+SeriesOrder: 1
+SeriesDescription: TESTING TESTING
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/troy/images/title.webp
+ThemeColor: from-amber-600 to-orange-800
+AccentColor: #d97706
+SlideCount: 7
+Summary: TESTING TESTING
+
+[Chapter: odyssey-lotus-eaters]
+Title: The Lotus-Eaters
+Subtitle: bring the fent to daddy
+Author: Homer
+Genre: Adventure
+ReadingLevel: Intermediate
+ReadingTime: 5 min
+SeriesTitle: The Odyssey
+SeriesId: odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter II
+ChapterTitle: The Lotus-Eaters
+ChapterFolder: lotus_eaters
+SeriesOrder: 2
+SeriesDescription: TESTING TESTING
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/lotus_eaters/images/title.webp
+ThemeColor: from-amber-600 to-orange-800
+AccentColor: #d97706
+SlideCount: 7
+Summary: TESTING TESTING
+
+[Chapter: orpheus]
+Title: Orpheus
+Subtitle: the original sensitive young man
+Author: Uncle Jimmy
+Genre: Romance
+ReadingLevel: Intermediate
+ReadingTime: 6 min
+SeriesFolder: orpheus
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/orpheus/images/title.webp
+ThemeColor: from-slate-900 via-purple-950 to-neutral-900
+AccentColor: #a855f7
+SlideCount: 7
+Summary: TESTING TESTING u should not be able to see this if u can see this something has gone very wrong
+
+[Chapter: hylas]
+Title: Hylas
+Subtitle: its not a gay thing
+Author: Theocritus
+Genre: Pastoral
+ReadingLevel: Intermediate
+ReadingTime: 4 min
+SeriesFolder: hylas
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/hylas/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: gyges]
+Title: Gyges
+Subtitle: woah this actually happened
+Author: Herodotus
+Genre: History
+ReadingLevel: Advanced
+ReadingTime: 3 min
+SeriesFolder: gyges
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/gyges/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: marionette-gallery]
+Title: The Rust Organ
+Subtitle: thats what this show is about, its about rebirth
+Author: G-Bot
+Genre: Horror
+ReadingLevel: Advanced
+ReadingTime: 5 min
+SeriesFolder: rust_organ
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/rust_organ/images/title.webp
+ThemeColor: from-stone-900 via-neutral-950 to-black
+AccentColor: #d97706
+SlideCount: 7
+Summary: In a quiet loft above the industrial district, an archivist encounters unfinished wooden figures that seem to reflect the human search for identity.
+Tags: [marionette] [puppets] [dark-fantasy] [mystery] [philosophical] [gothic] [city]
+
+[Chapter: mia-chrome]
+Title: The Ballad of John Henry
+Subtitle: the best to ever do it
+Author: Uncle Jimmy
+Genre: Folklore
+ReadingLevel: Intermediate
+ReadingTime: 5 min
+SeriesFolder: john_henry
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/john_henry/images/title.webp
+ThemeColor: from-fuchsia-950 via-purple-950 to-neutral-950
+AccentColor: #ec4899
+SlideCount: 7
+Summary: On opening night in her dressing room, a pop star faces the cold, perfect double that lived inside her reflection for ten years.
+Tags: [mia-chrome] [mirror] [sci-fi] [pop-star] [identity] [psychological] [music] [double]
+
+[Chapter: odyssey-polyphemus]
+Title: Polyphemus
+Subtitle: thats my son
+Author: Homer
+Genre: Adventure
+ReadingLevel: Intermediate
+ReadingTime: 7 min
+SeriesTitle: The Odyssey
+SeriesId: odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter III
+ChapterTitle: Polyphemus
+ChapterFolder: polyphemus
+SeriesOrder: 3
+SeriesDescription: TESTING TESTING
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/polyphemus/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 9
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: odyssey-circe]
+Title: Circe
+Subtitle: ur a goddam hog
+Author: Homer
+Genre: Adventure
+ReadingLevel: Intermediate
+ReadingTime: 6 min
+SeriesTitle: The Odyssey
+SeriesId: odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter V
+ChapterTitle: Circe
+ChapterFolder: circe
+SeriesOrder: 5
+SeriesDescription: TESTING TESTING
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/circe/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: odyssey-winds]
+Title: The Palace of the Winds
+Subtitle: shes a big lady
+Author: Homer
+Genre: Adventure
+ReadingLevel: Intermediate
+ReadingTime: 6 min
+SeriesTitle: The Odyssey
+SeriesId: odyssey
+SeriesFolder: odyssey
+ChapterNumber: Chapter IV
+ChapterTitle: The Palace of the Winds
+ChapterFolder: winds
+SeriesOrder: 4
+SeriesDescription: TESTING TESTING
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/winds/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: mermaid]
+Title: The Mermaid
+Subtitle: fishy.....
+Author: Uncle Jimmy
+Genre: Romance
+ReadingLevel: Advanced
+ReadingTime: 9 min
+SeriesFolder: mermaid
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/mermaid/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 11
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: mausoleum]
+Title: The Mausoleum
+Subtitle: this one is like almost interesting but ultimately not
+Author: G-Bot
+Genre: Mystery
+ReadingLevel: Beginner
+ReadingTime: 5 min
+SeriesFolder: mausoleum
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/mausoleum/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: lunar_bake]
+Title: The Great Lunar Bake-Off
+Subtitle: i actually hate this one
+Author: G-Bot
+Genre: Sci-Fi
+ReadingLevel: Beginner
+ReadingTime: 4 min
+SeriesFolder: lunar_bake
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/lunar_bake/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: whistle]
+Title: The Whistle
+Subtitle: blowin fat clouds
+Author: G-Bot
+Genre: Mystery
+ReadingLevel: Intermediate
+ReadingTime: 5 min
+SeriesFolder: whistle
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/whistle/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: pa_i79]
+Title: PA I-79
+Subtitle: its a lot less romantic when u got tweakers wanderin around the motel trying to break into ur car
+Author: G-Bot
+Genre: Slice-of-life
+ReadingLevel: Intermediate
+ReadingTime: 5 min
+SeriesFolder: pa_i79
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/pa_i79/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: mia_chrome]
+Title: Mia Chrome
+Subtitle: its what the stans want
+Author: G-Bot
+Genre: Horror
+ReadingLevel: Intermediate
+ReadingTime: 5 min
+SeriesFolder: mia_chrome
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/mia_chrome/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: marionette_gallery]
+Title: The Marionette Gallery
+Subtitle: im so so sorry tommy
+Author: G-Bot
+Genre: Horror
+ReadingLevel: Advanced
+ReadingTime: 3 min
+SeriesFolder: marionette_gallery
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/marionette_gallery/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: autumn_arrival]
+Title: Autumn Arrival
+Subtitle: kinkade-core
+Author: G-Bot
+Genre: Slice-of-life
+ReadingLevel: Beginner
+ReadingTime: 4 min
+SeriesFolder: autumn_arrival
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/autumn_arrival/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: garden]
+Title: The Garden
+Subtitle: im munchin on clover like a cow or somethin
+Author: G-Bot
+Genre: Sci-Fi
+ReadingLevel: Advanced
+ReadingTime: 6 min
+SeriesFolder: garden
+SeriesOrder: 1
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/garden/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Story: black_horizon]
+Title: The Treasure of the Black Horizon
+Subtitle: remember when johnny depp was cool
+Author: G-Bot
+Genre: Adventure
+ReadingLevel: Beginner
+ReadingTime: 5 min
+StoryFolder: black_horizon
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/black_horizon/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 7
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
