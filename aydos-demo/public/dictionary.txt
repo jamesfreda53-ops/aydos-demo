@@ -1,5 +1,5 @@
 # ====================================================================
-# STORYREAD SHARED LOCAL DICTIONARY (844 Words)
+# STORYREAD SHARED LOCAL DICTIONARY (843 Words)
 # Alphabetically Ordered • Student-Friendly Definitions & Examples
 #
 # Format:
@@ -537,11 +537,6 @@ CHOICE [tʃɔɪs] (noun)
 DEF: An option; a decision; an opportunity to choose or select something.
 EX: Do I have a choice of what color to paint it?
 SYN: assortment, range, selection
-
-CIGARETTE [ˌsɪɡ.əˈret] (noun)
-DEF: A thin cylinder of finely cut tobacco wrapped in paper.
-EX: The detective took notes under the street lamp in the misty evening.
-SYN: smoke
 
 CLEAN [kleːn] (noun)
 DEF: Removal of dirt.
@@ -2191,11 +2186,6 @@ NEXT [next] (adjective)
 DEF: Nearest in order, succession, or rank; immediately following (or sometimes preceding) in order.
 EX: A next breeze swept gently across the sunny coastline.
 
-NIGHTCLUB [ˈnaɪt.klʌb] (noun)
-DEF: A place of entertainment that stays open late at night, where people go to dance, listen to live music, and socialize.
-EX: The jazz band played lively tunes all evening to a cheering crowd inside the cozy nightclub.
-SYN: club, lounge, disco
-
 NO [no] (noun)
 DEF: A county of South Sudan.
 EX: The student carefully examined the ancient no in the museum exhibit.
@@ -2969,6 +2959,11 @@ SYN: olfaction, sense of smell
 SMELLING [smelling] (verb)
 DEF: The ongoing action or experience of smell.
 EX: The children enjoyed smelling together on a bright and sunny afternoon.
+
+SMOKY [ˈsmoʊki] (adjective)
+DEF: Filled with smoke.
+EX: a smoky cabin.
+SYN: fumid, fumous
 
 SO [soʊ] (adverb / conjunction)
 DEF: To such a great extent, or with the result that.
