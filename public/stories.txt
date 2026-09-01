@@ -343,7 +343,7 @@ SlideCount: 7
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
 
 [Chapter: clara-late_station]
-Title: Late to the Station (Past Perfect)
+Title: Late to the Station
 Subtitle: i blame the cat
 Author: G-Bot
 Genre: Grammar
