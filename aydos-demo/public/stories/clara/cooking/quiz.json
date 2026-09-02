@@ -2,53 +2,62 @@
   {
     "id": "quiz-1",
     "type": "multiple_choice",
-    "question": "What is the primary quest or central theme of this story?",
+    "question": "Which noun is uncountable?",
     "options": [
-      "An engaging journey of discovery and learning",
-      "A quiet nap in the warm sun",
-      "A competitive tournament",
-      "A race against time"
+      "cucumber",
+      "salt",
+      "tomato",
+      "cat"
     ],
-    "correctIndex": 0,
-    "explanation": "The story focuses on curiosity, adventure, and new discoveries."
+    "correctIndex": 1,
+    "explanation": "Salt is uncountable and needs a quantifier-- a pinch of salt, a little bit of salt. "
   },
   {
     "id": "quiz-2",
-    "type": "multiple_choice",
-    "question": "What key setting or location did the characters explore?",
+    "type": "true_false",
+    "question": "\"Fish\" is both countable and uncountable.",
     "options": [
       "An ancient, mysterious landscape full of wonder",
       "A busy supermarket",
       "A crowded underground subway station"
     ],
     "correctIndex": 0,
-    "explanation": "The adventure takes place in a scenic and wonder-filled setting."
+    "explanation": "One fish, two fish, some fish-- \"fish\" can be countable or uncountable, singular or plural. ",
+    "correctBoolean": true
   },
   {
     "id": "quiz-3",
-    "type": "true_false",
-    "question": "The main character used careful observation and problem-solving to succeed.",
+    "type": "multiple_choice",
+    "question": "Which sentence is incorrect?",
     "correctBoolean": true,
-    "explanation": "Observing details and thinking carefully helped the characters overcome challenges."
+    "explanation": "Garlic is uncountable-- to talk about an amount, we say \"cloves\" or \"bulbs\" of garlic. ",
+    "options": [
+      "Clara fried two garlics in the oil. ",
+      "Clara chopped up a carrot for the salad.",
+      "Clara added a pinch of chili powder to the pan. ",
+      "The cat stole a fish right off the countertop. "
+    ],
+    "correctIndex": 0
   },
   {
     "id": "quiz-4",
     "type": "multiple_choice",
-    "question": "How did the characters feel when their journey reached its conclusion?",
+    "question": "Which choice is a good synonym for \"budge\" in the sentence, \"She tried to trade the mouse for the fish, but Yakkai wouldn't budge.\" ? ",
     "options": [
-      "Inspired, joyful, and ready for future adventures",
-      "Confused and disappointed",
-      "Frustrated and tired",
-      "Indifferent and bored"
+      "bite",
+      "jump down",
+      "argue",
+      "change his mind"
     ],
-    "correctIndex": 0,
-    "explanation": "The journey ended on an uplifting and inspiring note."
+    "correctIndex": 3,
+    "explanation": "\"Budge\" means \"move a little bit\" or \"change your mind\", depending on the context. ",
+    "correctBoolean": true
   },
   {
     "id": "quiz-5",
     "type": "open_response",
-    "question": "What was the most memorable lesson or event in the story, and why?",
-    "sampleAnswer": "Students should describe a key scene and explain how it contributed to the character's growth or learning.",
-    "explanation": "Encourages personal reflection and evidence-based textual synthesis."
+    "question": "Correct the following sentence: Two of her guests were vegetarian, and two were not, so Clara bought two tofus and two meats to cook for dinner.",
+    "sampleAnswer": "\"Clara bought two blocks of tofu and two pieces of meat\", or \"Clara bought some tofu and some meat.\" ",
+    "explanation": "\"Tofu\" and \"meat\" are both uncountable. "
   }
 ]
