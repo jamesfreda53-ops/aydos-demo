@@ -404,3 +404,24 @@ ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
 SlideCount: 5
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: clara-clock]
+Title: A Broken Clock
+Subtitle: it was tacky
+Author: G-Bot
+Genre: Grammar
+ReadingLevel: Intermediate
+ReadingTime: 3 min
+SeriesTitle: Clara
+SeriesId: clara
+SeriesFolder: clara
+ChapterNumber: 2nd & 3rd Conditional
+ChapterTitle: A Broken Clock
+ChapterFolder: clock
+SeriesOrder: 4
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/clara/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/clara/clock/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 5
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
