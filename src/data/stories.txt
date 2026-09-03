@@ -383,3 +383,24 @@ ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
 SlideCount: 5
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: clara-power_surge]
+Title: Power Surge
+Subtitle: meow
+Author: G-Bot
+Genre: Grammar
+ReadingLevel: Intermediate
+ReadingTime: 3 min
+SeriesTitle: Clara
+SeriesId: clara
+SeriesFolder: clara
+ChapterNumber: Zero & 1st Conditional
+ChapterTitle: Power Surge
+ChapterFolder: power_surge
+SeriesOrder: 3
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/clara/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/clara/power_surge/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 5
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
