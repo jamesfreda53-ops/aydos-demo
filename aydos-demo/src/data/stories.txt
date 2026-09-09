@@ -432,7 +432,7 @@ Summary: Welcome to this interactive story! Tap any word in the title or text to
 
 [Chapter: clara-artist]
 Title: The Artist
-Subtitle: put him  in jail
+Subtitle: somebody call the police
 Author: Various Authors
 Genre: Grammar
 ReadingLevel: Intermediate
@@ -450,3 +450,4 @@ CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/a
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
 SlideCount: 5
+Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
