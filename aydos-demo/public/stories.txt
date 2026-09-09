@@ -349,7 +349,7 @@ Author: G-Bot
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 3 min
-SeriesTitle: Clara
+SeriesTitle: Series
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: Past Perfect
@@ -370,7 +370,7 @@ Author: G-Bot
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 3 min
-SeriesTitle: Clara
+SeriesTitle: Series
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: Uncountable Nouns
@@ -391,7 +391,7 @@ Author: G-Bot
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 3 min
-SeriesTitle: Clara
+SeriesTitle: Series
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: Zero & 1st Conditional
@@ -412,7 +412,7 @@ Author: G-Bot
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 3 min
-SeriesTitle: Clara
+SeriesTitle: Series
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: 2nd & 3rd Conditional
@@ -425,3 +425,23 @@ ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
 SlideCount: 7
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
+
+[Chapter: clara-artist]
+Title: The Artist
+Subtitle: put him  in jail
+Author: Chat
+Genre: Grammar
+ReadingLevel: Intermediate
+ReadingTime: 4 min
+SeriesTitle: Series
+SeriesId: clara
+SeriesFolder: clara
+ChapterNumber: Passive Voice
+ChapterTitle: The Artist
+ChapterFolder: artist
+SeriesOrder: 5
+SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/clara/title.webp
+CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/clara/artist/images/title.webp
+ThemeColor: from-amber-600 to-orange-700
+AccentColor: #f97316
+SlideCount: 5
