@@ -7,7 +7,7 @@
 
 [Chapter: odyssey-troy]
 Title: The Fall of Troy
-Subtitle: paris u naughty naughty boy 
+Subtitle: paris u naughty naughty boy
 Author: Homer
 Genre: Adventure
 ReadingLevel: Intermediate
@@ -346,7 +346,7 @@ Author: Various Authors
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 3 min
-SeriesTitle: Series
+SeriesTitle: Clara & Yakkai
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: Past Perfect
@@ -368,7 +368,7 @@ Author: Various Authors
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 3 min
-SeriesTitle: Series
+SeriesTitle: Clara & Yakkai
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: Uncountable Nouns
@@ -390,7 +390,7 @@ Author: Various Authors
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 3 min
-SeriesTitle: Series
+SeriesTitle: Clara & Yakkai
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: Zero & 1st Conditional
@@ -412,7 +412,7 @@ Author: Various Authors
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 3 min
-SeriesTitle: Series
+SeriesTitle: Clara & Yakkai
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: 2nd & 3rd Conditional
@@ -434,7 +434,7 @@ Author: Various Authors
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 4 min
-SeriesTitle: Series
+SeriesTitle: Clara & Yakkai
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: Passive Voice
@@ -514,7 +514,7 @@ Summary: Welcome to this interactive story! Tap any word in the title or text to
 
 [Chapter: odyssey-calypso]
 Title: Calypso
-Subtitle: did anyone else see the man from uncle 
+Subtitle: did anyone else see the man from uncle
 Author: Homer
 Genre: Adventure
 ReadingLevel: Intermediate
