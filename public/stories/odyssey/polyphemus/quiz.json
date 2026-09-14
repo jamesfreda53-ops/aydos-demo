@@ -1,0 +1,61 @@
+[
+  {
+    "id": "quiz-1",
+    "type": "multiple_choice",
+    "question": "What is the primary quest or central theme of this story?",
+    "options": [
+      "An engaging journey of discovery and learning",
+      "A quiet nap in the warm sun",
+      "A competitive tournament",
+      "A race against time"
+    ],
+    "correctIndex": 0,
+    "explanation": "The story focuses on curiosity, adventure, and new discoveries."
+  },
+  {
+    "id": "quiz-2",
+    "type": "multiple_choice",
+    "question": "What do Odysseus' men want to take from the cave?",
+    "options": [
+      "Wine",
+      "Meat",
+      "Cheese"
+    ],
+    "correctIndex": 2,
+    "explanation": "The adventure takes place in a scenic and wonder-filled setting."
+  },
+  {
+    "id": "quiz-3",
+    "type": "true_false",
+    "question": "The cyclops Polyphemus is a vegetarian. ",
+    "correctBoolean": false,
+    "explanation": "He eats people mmmmmm tasty"
+  },
+  {
+    "id": "quiz-4",
+    "type": "multiple_choice",
+    "question": "Look at this sentence. What's a synonym for 'steady'? \"Odysseus bade his men steady themselves.\" ",
+    "options": [
+      "Calm down",
+      "Get ready",
+      "Run away"
+    ],
+    "correctIndex": 0,
+    "explanation": "The sentence means, \"Odysseus ordered his men to stay calm.\" "
+  },
+  {
+    "id": "quiz-5",
+    "type": "true_false",
+    "question": "Polyphemus is Hades' son. ",
+    "sampleAnswer": "Students should describe a key scene and explain how it contributed to the character's growth or learning.",
+    "explanation": "Polyphemus is the son of Poseidon, the god of the sea. ",
+    "correctBoolean": false
+  },
+  {
+    "id": "quiz-1789363322940-6",
+    "type": "open_response",
+    "question": "Polyphemus speaks in Middle English, not Modern English. Write a modern English translation for the following sentence: \"Nobody shal be my mete, and thanne I shal ete Nobodyes frendes.\" ",
+    "sampleAnswer": "'Nobody' shall be my meat, and then I shall eat 'Nobody's ' friends.",
+    "explanation": "Odysseus tells Polyphemus that his name is \"Nobody\". "
+  }
+]
