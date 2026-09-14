@@ -169,7 +169,7 @@ Summary: Welcome to this interactive story! Tap any word in the title or text to
 
 [Chapter: odyssey-winds]
 Title: The Palace of the Winds
-Subtitle: thats a big lady
+Subtitle: some girls are bigger than others
 Author: Homer
 Genre: Adventure
 ReadingLevel: Intermediate
