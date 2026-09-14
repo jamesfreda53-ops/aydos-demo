@@ -1,0 +1,54 @@
+[
+  {
+    "id": "quiz-1",
+    "type": "multiple_choice",
+    "question": "Who is Mia?",
+    "options": [
+      "A pop star",
+      "An actress",
+      "A photographer",
+      "A race against time"
+    ],
+    "correctIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-2",
+    "type": "multiple_choice",
+    "question": "How does Mia feel about tonight's show?",
+    "options": [
+      "Excited and impatient",
+      "Bored and frustrated ",
+      "Panicked and scared"
+    ],
+    "correctIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-3",
+    "type": "true_false",
+    "question": "This is Mia's first live performance",
+    "correctBoolean": false,
+    "explanation": "This isn't her first performance-- she's a successful pop star and she's performed many times."
+  },
+  {
+    "id": "quiz-4",
+    "type": "multiple_choice",
+    "question": "Look at the sentence. Which word is a synonym for 'shade'? \"Bold, but tasteful, and just the right shade.\" ",
+    "options": [
+      "Shadow",
+      "Color",
+      "Sunglasses",
+      "Insult "
+    ],
+    "correctIndex": 1,
+    "explanation": "The journey ended on an uplifting and inspiring note."
+  },
+  {
+    "id": "quiz-5",
+    "type": "open_response",
+    "question": "How is Mia's reflection different from her? ",
+    "sampleAnswer": "Mia's reflection is the pop star character fans see her as-- not a real person. ",
+    "explanation": ""
+  }
+]
