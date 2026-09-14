@@ -2,20 +2,51 @@
   {
     "id": "quiz-2",
     "type": "multiple_choice",
-    "question": "Testing..... ",
+    "question": "How many sons and daughters did King Aiolos have? ",
     "options": [
-      "An ancient, mysterious landscape full of wonder",
-      "A busy supermarket",
-      "A crowded underground subway station"
+      "6",
+      "16",
+      "12"
     ],
-    "correctIndex": 0,
-    "explanation": "The adventure takes place in a scenic and wonder-filled setting."
+    "correctIndex": 2,
+    "explanation": "He had six sons and six daughters. "
+  },
+  {
+    "id": "quiz-1789363563607-3",
+    "type": "multiple_choice",
+    "question": "Why do Odysseus' men open the bag of winds?",
+    "options": [
+      "They were curious",
+      "They were stuck out at sea",
+      "There were snacks inside "
+    ],
+    "correctIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-1789363565275-4",
+    "type": "multiple_choice",
+    "question": "Look at the sentence. What's a synonym for 'audience'? \"Odysseus was granted another audience with King Aiolos.\" ",
+    "options": [
+      "concert",
+      "crowd",
+      "meeting"
+    ],
+    "correctIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-1789363566591-5",
+    "type": "true_false",
+    "question": "The magic bag of winds was broken. ",
+    "correctBoolean": false,
+    "explanation": "King Aiolos' magic was working, but Odysseus was cursed by Poseidon, who was more powerful than King Aiolos. "
   },
   {
     "id": "quiz-5",
     "type": "open_response",
-    "question": "What was the most memorable lesson or event in the story, and why?",
-    "sampleAnswer": "Students should describe a key scene and explain how it contributed to the character's growth or learning.",
-    "explanation": "Encourages personal reflection and evidence-based textual synthesis."
+    "question": "Why did the Laestrygonians attack Odysseus and his men? ",
+    "sampleAnswer": "They drank too much wine and got drunk and violent. ",
+    "explanation": "alternate water + booze kids. and dont forget to eat a lil somethin (not people)"
   }
 ]
