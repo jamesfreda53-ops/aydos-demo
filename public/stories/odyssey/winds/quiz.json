@@ -1,0 +1,21 @@
+[
+  {
+    "id": "quiz-2",
+    "type": "multiple_choice",
+    "question": "Testing..... ",
+    "options": [
+      "An ancient, mysterious landscape full of wonder",
+      "A busy supermarket",
+      "A crowded underground subway station"
+    ],
+    "correctIndex": 0,
+    "explanation": "The adventure takes place in a scenic and wonder-filled setting."
+  },
+  {
+    "id": "quiz-5",
+    "type": "open_response",
+    "question": "What was the most memorable lesson or event in the story, and why?",
+    "sampleAnswer": "Students should describe a key scene and explain how it contributed to the character's growth or learning.",
+    "explanation": "Encourages personal reflection and evidence-based textual synthesis."
+  }
+]
