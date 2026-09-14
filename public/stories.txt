@@ -346,7 +346,7 @@ Author: Various Authors
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 3 min
-SeriesTitle: Clara & Yakkai
+SeriesTitle: Clara Makes it Clear
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: Past Perfect
@@ -368,7 +368,7 @@ Author: Various Authors
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 3 min
-SeriesTitle: Clara & Yakkai
+SeriesTitle: Clara Makes it Clear
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: Uncountable Nouns
@@ -390,7 +390,7 @@ Author: Various Authors
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 3 min
-SeriesTitle: Clara & Yakkai
+SeriesTitle: Clara Makes it Clear
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: Zero & 1st Conditional
@@ -412,7 +412,7 @@ Author: Various Authors
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 3 min
-SeriesTitle: Clara & Yakkai
+SeriesTitle: Clara Makes it Clear
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: 2nd & 3rd Conditional
@@ -434,7 +434,7 @@ Author: Various Authors
 Genre: Grammar
 ReadingLevel: Intermediate
 ReadingTime: 4 min
-SeriesTitle: Clara & Yakkai
+SeriesTitle: Clara Makes it Clear
 SeriesId: clara
 SeriesFolder: clara
 ChapterNumber: Passive Voice
