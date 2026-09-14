@@ -1,0 +1,53 @@
+[
+  {
+    "id": "odyssey-lotus-eaters-q1",
+    "type": "multiple_choice",
+    "question": "Where did the Greeks steal food and wine?",
+    "options": [
+      "Ithaca",
+      "Ismarus ",
+      "Troy"
+    ],
+    "correctIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "odyssey-lotus-eaters-q2",
+    "type": "multiple_choice",
+    "question": "Which god sent a storm to punish Odysseus?",
+    "correctBoolean": true,
+    "explanation": "",
+    "options": [
+      "Zeus",
+      "Poseidon",
+      "Athena"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "quiz-1789362500031-3",
+    "type": "multiple_choice",
+    "question": "Look at the sentence. What is a synonym for 'stupor'? \"They butchered the lambs, and drunk deeply of their wine, and fell into a stupor under the eastern sun.\"",
+    "options": [
+      "Trance",
+      "Sleep",
+      "Frenzy"
+    ],
+    "correctIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-1789362582847-4",
+    "type": "true_false",
+    "question": "The Cicones attacked the Greeks for no reason.",
+    "correctBoolean": false,
+    "explanation": "The Greeks attacked their village and stole their food. "
+  },
+  {
+    "id": "quiz-1789362617547-5",
+    "type": "open_response",
+    "question": "Why does Odysseus leave the land of the Lotus-eaters?",
+    "sampleAnswer": "He remembers his wife, Penelope, and knows that he has to return to her. ",
+    "explanation": ""
+  }
+]
