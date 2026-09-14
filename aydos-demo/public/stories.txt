@@ -40,7 +40,6 @@ ChapterNumber: Chapter II
 ChapterTitle: The Lotus-Eaters
 ChapterFolder: lotus_eaters
 SeriesOrder: 2
-SeriesDescription: TESTING TESTING
 SeriesCoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/title.webp
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/odyssey/lotus_eaters/images/title.webp
 ThemeColor: from-amber-600 to-orange-800
