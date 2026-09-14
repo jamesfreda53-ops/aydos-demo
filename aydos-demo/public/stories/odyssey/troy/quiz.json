@@ -2,28 +2,53 @@
   {
     "id": "odyssey-troy-q1",
     "type": "multiple_choice",
-    "question": "pick one and only one",
+    "question": "Where is Odysseus from?",
     "options": [
-      "drugs",
-      "money",
-      "bitches",
-      "dont make me choose"
+      "Troy",
+      "Ithaca",
+      "Sparta"
     ],
-    "correctIndex": 3,
-    "explanation": "Odysseus had to use his wits and strength to guide his crew past perilous trials."
+    "correctIndex": 1,
+    "explanation": ""
   },
   {
     "id": "odyssey-troy-q2",
-    "type": "true_false",
-    "question": "Odysseus was determined to return home to Ithaca.",
+    "type": "multiple_choice",
+    "question": "Who is Menelaus' brother?",
     "correctBoolean": false,
-    "explanation": "it took him 20 years he wasnt trying that hard "
+    "explanation": "",
+    "options": [
+      "Odysseus",
+      "Telemachus",
+      "Agamemnon "
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "quiz-1789362119375-4",
+    "type": "multiple_choice",
+    "question": "Look at the sentence. What is a synonym for 'spoils'? \"The Greeks returned home, their ships laden heavy with the spoils of war.",
+    "options": [
+      "Vegetables",
+      "Weapons",
+      "Treasure"
+    ],
+    "correctIndex": 2,
+    "explanation": "The treasure or \"loot\" that soldiers took from enemy cities was a big reason for why they went to war. "
   },
   {
     "id": "quiz-1787727499398-3",
-    "type": "open_response",
-    "question": "but how did this story make you feel?",
+    "type": "true_false",
+    "question": "Helen was in love with Paris",
     "sampleAnswer": "Example student answer demonstrating key understanding of the story.",
-    "explanation": "there are no wrong or dumb answers (except the one u wrote!)"
+    "explanation": "We don't know-- all we know is that he took her to Troy. ",
+    "correctBoolean": false
+  },
+  {
+    "id": "quiz-1789362207441-5",
+    "type": "open_response",
+    "question": "What do you know about Odysseus? Have you heard about his adventures before?",
+    "sampleAnswer": "Odysseus was a Greek hero who fought for ten years in the Trojan war. It took him a long time to get home, and he had to use his wits to survive. ",
+    "explanation": ""
   }
 ]
