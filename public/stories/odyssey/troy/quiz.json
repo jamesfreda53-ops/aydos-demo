@@ -1,0 +1,54 @@
+[
+  {
+    "id": "odyssey-troy-q1",
+    "type": "multiple_choice",
+    "question": "Where is Odysseus from?",
+    "options": [
+      "Troy",
+      "Ithaca",
+      "Sparta"
+    ],
+    "correctIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "odyssey-troy-q2",
+    "type": "multiple_choice",
+    "question": "Who is Menelaus' brother?",
+    "correctBoolean": false,
+    "explanation": "",
+    "options": [
+      "Odysseus",
+      "Telemachus",
+      "Agamemnon "
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "quiz-1789362119375-4",
+    "type": "multiple_choice",
+    "question": "Look at the sentence. What is a synonym for 'spoils'? \"The Greeks returned home, their ships laden heavy with the spoils of war.",
+    "options": [
+      "Vegetables",
+      "Weapons",
+      "Treasure"
+    ],
+    "correctIndex": 2,
+    "explanation": "The treasure or \"loot\" that soldiers took from enemy cities was a big reason for why they went to war. "
+  },
+  {
+    "id": "quiz-1787727499398-3",
+    "type": "true_false",
+    "question": "Helen was in love with Paris",
+    "sampleAnswer": "Example student answer demonstrating key understanding of the story.",
+    "explanation": "We don't know-- all we know is that he took her to Troy. ",
+    "correctBoolean": false
+  },
+  {
+    "id": "quiz-1789362207441-5",
+    "type": "open_response",
+    "question": "What do you know about Odysseus? Have you heard about his adventures before?",
+    "sampleAnswer": "Odysseus was a Greek hero who fought for ten years in the Trojan war. It took him a long time to get home, and he had to use his wits to survive. ",
+    "explanation": ""
+  }
+]
