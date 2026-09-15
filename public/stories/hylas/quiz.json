@@ -1,0 +1,52 @@
+[
+  {
+    "id": "quiz-1",
+    "type": "multiple_choice",
+    "question": "What is the Argo looking for? ",
+    "options": [
+      "A silver ship",
+      "A golden fleece",
+      "A bronze sword"
+    ],
+    "correctIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-2",
+    "type": "multiple_choice",
+    "question": "Who is Hylas? ",
+    "options": [
+      "Herakles' friend",
+      "Jason's nephew",
+      "Orpheus' brother"
+    ],
+    "correctIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-3",
+    "type": "true_false",
+    "question": "Hylas goes into the woods to fetch water.",
+    "correctBoolean": true,
+    "explanation": "He goes to fetch water, but he's really hoping to see a nymph. "
+  },
+  {
+    "id": "quiz-4",
+    "type": "multiple_choice",
+    "question": "Look at the sentence. What's a synonym for 'perched'? \"Young Orpheus, who perched upon the mast with his lyre, marked their discovery with sweet songs.\" ",
+    "options": [
+      "looked",
+      "sung ",
+      "sat"
+    ],
+    "correctIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-5",
+    "type": "open_response",
+    "question": "How does Herakles react to losing his friend?",
+    "sampleAnswer": "He was afraid, and nearly went crazy when he lost Hylas. ",
+    "explanation": "Herakles didn't often feel fear, but this was something that his strength couldn't fix. "
+  }
+]
