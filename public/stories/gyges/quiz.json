@@ -23,5 +23,31 @@
     ],
     "correctIndex": 2,
     "explanation": ""
+  },
+  {
+    "id": "quiz-1789463770274-3",
+    "type": "true_false",
+    "question": "Gyges wants to spy on Nysia. ",
+    "correctBoolean": false,
+    "explanation": "He knows it's wrong, but he can't say no to the king. "
+  },
+  {
+    "id": "quiz-1789463811906-4",
+    "type": "multiple_choice",
+    "question": "Look at this sentence. What's a synonym for 'accomplice'? \"You were his accomplice.\" ",
+    "options": [
+      "Helper",
+      "Enemy",
+      "Friend"
+    ],
+    "correctIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-1789463876191-5",
+    "type": "open_response",
+    "question": "Does everyone accept Gyges as the new king? ",
+    "sampleAnswer": "No, many people in Lydia do not. Gyges must consult the Oracle at Delphi to confirm that he is the rightful king. ",
+    "explanation": ""
   }
 ]
