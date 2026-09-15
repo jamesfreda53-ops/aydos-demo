@@ -77,15 +77,14 @@ AccentColor: #f97316
 SlideCount: 7
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
 
-[Chapter: gyges]
+[Story: gyges]
 Title: Gyges
-Subtitle: woah this actually happened
-Author: Herodotus
-Genre: History
+Subtitle: woah this actually happened 
+Author: Herodotus 
+Genre: History 
 ReadingLevel: Advanced
 ReadingTime: 3 min
-SeriesFolder: gyges
-SeriesOrder: 1
+StoryFolder: gyges
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/gyges/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
@@ -99,6 +98,7 @@ Author: G-Bot
 Genre: Horror
 ReadingLevel: Advanced
 ReadingTime: 5 min
+SeriesOrder: 1
 StoryFolder: marionette-gallery
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/rust_organ/images/title.webp
 ThemeColor: from-stone-900 via-neutral-950 to-black
