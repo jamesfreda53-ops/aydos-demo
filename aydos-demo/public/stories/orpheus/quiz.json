@@ -2,21 +2,53 @@
   {
     "id": "orpheus-q1",
     "type": "multiple_choice",
-    "question": "what was this kid's thing",
+    "question": "What is the first thing the woman notices about the man? ",
     "options": [
-      "music",
-      "Superhuman strength in battle",
-      "The ability to see the future",
+      "His hair",
+      "His voice",
+      "His suit",
       "Command over storms at sea"
     ],
-    "correctIndex": 0,
-    "explanation": "Orpheus was renowned as the greatest musician and singer, whose melodies could move mortals and gods alike."
+    "correctIndex": 1,
+    "explanation": ""
   },
   {
     "id": "orpheus-q2",
-    "type": "true_false",
-    "question": "This kid had one fukin job",
+    "type": "multiple_choice",
+    "question": "How did Orpheus enter the underworld?",
     "correctBoolean": true,
-    "explanation": "He was instructed never to look back until they both emerged into the sunlight."
+    "explanation": "",
+    "options": [
+      "He prayed",
+      "He wrote a letter to the god of the dead",
+      "He played a song"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "quiz-1789450327055-3",
+    "type": "true_false",
+    "question": "Herr Hölle made a mistake when he brought the woman to the underworld.",
+    "correctBoolean": false,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-1789450359710-4",
+    "type": "multiple_choice",
+    "question": "Look at the sentence. What's a synonym for 'opulent'? \"The staircase led to an opulent office, full of fine things and thick with cigar smoke.\" ",
+    "options": [
+      "Dimly lit",
+      "Smelly and dusty",
+      "Richly decorated"
+    ],
+    "correctIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-1789450459592-5",
+    "type": "open_response",
+    "question": "Why does Orpheus turn around to look? ",
+    "sampleAnswer": "He was worried Eurydice wasn't following him. ",
+    "explanation": ""
   }
 ]
