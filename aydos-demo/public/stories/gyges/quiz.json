@@ -1,0 +1,27 @@
+[
+  {
+    "id": "quiz-5",
+    "type": "multiple_choice",
+    "question": "Candaules is the king of what kingdom?",
+    "sampleAnswer": "Students should describe a key scene and explain how it contributed to the character's growth or learning.",
+    "explanation": "",
+    "options": [
+      "Greece",
+      "Lydia",
+      "Heraclidae "
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "quiz-1789451781487-2",
+    "type": "multiple_choice",
+    "question": "Who is Gyges?",
+    "options": [
+      "The king's brother",
+      "A famous soldier",
+      "The king's bodyguard"
+    ],
+    "correctIndex": 2,
+    "explanation": ""
+  }
+]
