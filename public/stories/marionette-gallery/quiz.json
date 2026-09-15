@@ -1,0 +1,52 @@
+[
+  {
+    "id": "marionette-gallery-q1",
+    "type": "multiple_choice",
+    "question": "Why is the word 'door' considered a \"joke\" among the city's residents?",
+    "options": [
+      "The residents have nothing worth stealing.",
+      "No one can afford them.",
+      "They can't stop natural decay."
+    ],
+    "correctIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-1789451293011-2",
+    "type": "multiple_choice",
+    "question": "Which of the following is the furnace *not* compared to? ",
+    "options": [
+      "a star",
+      "a brain",
+      "a heart"
+    ],
+    "correctIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-1789451323042-3",
+    "type": "true_false",
+    "question": "Mark entered the factory because he was hired to fix a machine. ",
+    "correctBoolean": false,
+    "explanation": "Mark was investigating the strange sound that came from the factory. "
+  },
+  {
+    "id": "quiz-1789451397010-4",
+    "type": "multiple_choice",
+    "question": "Look at the sentence. What's a synonym for 'in unison'? \"It was a deep, metallic hum-- like a thousand rusty pipes singing a sad, low song in unison.\" ",
+    "options": [
+      "together",
+      "alone",
+      "loudly"
+    ],
+    "correctIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-1789451484856-5",
+    "type": "open_response",
+    "question": "Why does Mark enjoy living in the city?",
+    "sampleAnswer": "Mark likes the decay of the city, and exploring the abandoned buildings. ",
+    "explanation": ""
+  }
+]
