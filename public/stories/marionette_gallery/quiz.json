@@ -1,0 +1,53 @@
+[
+  {
+    "id": "quiz-1",
+    "type": "multiple_choice",
+    "question": "What is Julian and Mr. Vane's shared profession? ",
+    "options": [
+      "They are carpenters who make marionettes. ",
+      "They are archvists who work with old documents and strange objects. ",
+      "They are night watchmen in an old factory.",
+      "A race against time"
+    ],
+    "correctIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-2",
+    "type": "multiple_choice",
+    "question": "What kind of wood are the marionettes carved from? ",
+    "options": [
+      "Balsam",
+      "Oak",
+      "Pine"
+    ],
+    "correctIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-3",
+    "type": "true_false",
+    "question": "Mr. Vane forces Julian to complete his marionettes. ",
+    "correctBoolean": false,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-4",
+    "type": "multiple_choice",
+    "question": "Look at the sentence. What's a synonym for 'unannounced'? \"His visits there were always unannounced.\" ",
+    "options": [
+      "Not loud",
+      "Not planned",
+      "Not long"
+    ],
+    "correctIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-5",
+    "type": "open_response",
+    "question": "What connection does Julian see between himself and the marionettes?",
+    "sampleAnswer": "They were both created by something for unclear or unknown purposes. ",
+    "explanation": ""
+  }
+]
