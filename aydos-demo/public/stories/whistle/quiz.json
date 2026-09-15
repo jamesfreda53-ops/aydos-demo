@@ -1,0 +1,52 @@
+[
+  {
+    "id": "quiz-1",
+    "type": "multiple_choice",
+    "question": "Where are Toby and Gwen at the beginning of the story? ",
+    "options": [
+      "An Internet café",
+      "A shopping mall",
+      "A busy park"
+    ],
+    "correctIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-2",
+    "type": "multiple_choice",
+    "question": "What kind of object does Toby find in the electronics store?",
+    "options": [
+      "A brass whistle",
+      "A silver key",
+      "A gold coin"
+    ],
+    "correctIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-3",
+    "type": "true_false",
+    "question": "When Toby blows the whistle a second time, the figures that appear look exactly like solid, real people. ",
+    "correctBoolean": false,
+    "explanation": "They looked like faded photographs that somehow came to life. "
+  },
+  {
+    "id": "quiz-4",
+    "type": "multiple_choice",
+    "question": "Look at this sentence. What's a synonym for 'melancholic'? \"They moved in a slow-motion dance, a melancholic echo of a Saturday afternoon.\"",
+    "options": [
+      "happy and vibrant",
+      "sad and wistful ",
+      "noisy and crowded"
+    ],
+    "correctIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-5",
+    "type": "open_response",
+    "question": "If you blew the whistle right now, what would you see?",
+    "sampleAnswer": "Think about the history of the room you're in right now-- what was it like ten years ago? Twenty? Thirty? ",
+    "explanation": ""
+  }
+]
