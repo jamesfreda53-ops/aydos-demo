@@ -79,11 +79,12 @@ Summary: Welcome to this interactive story! Tap any word in the title or text to
 
 [Story: gyges]
 Title: Gyges
-Subtitle: woah this actually happened 
-Author: Herodotus 
-Genre: History 
+Subtitle: woah this actually happened
+Author: Herodotus
+Genre: History
 ReadingLevel: Advanced
 ReadingTime: 3 min
+SeriesOrder: 1
 StoryFolder: gyges
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/gyges/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
@@ -232,15 +233,14 @@ AccentColor: #f97316
 SlideCount: 7
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
 
-[Chapter: whistle]
+[Story: whistle]
 Title: The Whistle
 Subtitle: blowin fat clouds
 Author: G-Bot
 Genre: Mystery
 ReadingLevel: Intermediate
 ReadingTime: 5 min
-SeriesFolder: whistle
-SeriesOrder: 1
+StoryFolder: whistle
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/whistle/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
