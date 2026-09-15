@@ -1,0 +1,52 @@
+[
+  {
+    "id": "quiz-1",
+    "type": "multiple_choice",
+    "question": "How does the city get its clean air?",
+    "options": [
+      "Artificial forests",
+      "Algae tanks",
+      "Rooftop gardens"
+    ],
+    "correctIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-2",
+    "type": "multiple_choice",
+    "question": "Why does the drone want to destroy the garden?",
+    "options": [
+      "It's useless and inefficient.",
+      "It's dirty and full of bugs. ",
+      "Flowers are illegal in the future. "
+    ],
+    "correctIndex": 0,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-3",
+    "type": "true_false",
+    "question": "Maya and the drone work well together. ",
+    "correctBoolean": false,
+    "explanation": "Maya doesn't trust the drone and doesn't like having it around. "
+  },
+  {
+    "id": "quiz-4",
+    "type": "multiple_choice",
+    "question": "Look at this sentence. What's a synonym for 'zeroed'? \"It was the exact justification the city council had used last month when they zeroed the budget for the archive sector.\"",
+    "options": [
+      "Increased",
+      "Cancelled",
+      "Reduced"
+    ],
+    "correctIndex": 1,
+    "explanation": "As a verb, 'zero' means \"reduce to nothing\" or \"reduce to zero\". "
+  },
+  {
+    "id": "quiz-5",
+    "type": "open_response",
+    "question": "Should everything have a purpose?",
+    "sampleAnswer": "Do you think there's value in things that don't have a clear practical or economic function? ",
+    "explanation": ""
+  }
+]
