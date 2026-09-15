@@ -65,10 +65,11 @@ Summary: TESTING TESTING u should not be able to see this if u can see this some
 [Story: hylas]
 Title: Hylas
 Subtitle: its not a gay thing
-Author: Theocritus 
+Author: Theocritus
 Genre: Pastoral
 ReadingLevel: Intermediate
 ReadingTime: 4 min
+SeriesOrder: 1
 StoryFolder: hylas
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/hylas/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
@@ -307,15 +308,14 @@ AccentColor: #f97316
 SlideCount: 7
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
 
-[Chapter: garden]
+[Story: garden]
 Title: The Garden
 Subtitle: im munchin on clover like a cow or somethin
 Author: G-Bot
 Genre: Sci-Fi
 ReadingLevel: Advanced
 ReadingTime: 6 min
-SeriesFolder: garden
-SeriesOrder: 1
+StoryFolder: garden
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/garden/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
