@@ -1,0 +1,67 @@
+[
+  {
+    "id": "quiz-1",
+    "type": "true_false",
+    "question": "Grandpa first saw the mausoluem when he was twenty years old ",
+    "options": [
+      "An engaging journey of discovery and learning",
+      "A quiet nap in the warm sun",
+      "A competitive tournament"
+    ],
+    "correctIndex": 0,
+    "explanation": "",
+    "correctBoolean": true
+  },
+  {
+    "id": "quiz-4",
+    "type": "open_response",
+    "question": "Why was Grandpa confused when he read the names carved into the stone? ",
+    "options": [
+      "Inspired, joyful, and ready for future adventures",
+      "Confused and disappointed",
+      "Frustrated and tired",
+      "Indifferent and bored"
+    ],
+    "correctIndex": 0,
+    "explanation": "",
+    "sampleAnswer": "The names weren't people from his town. They were names from all over the world, from all different time periods. "
+  },
+  {
+    "id": "quiz-2",
+    "type": "multiple_choice",
+    "question": "Look at this sentence. What's a synonym for 'coincided'? \"My first sighting coincided with the night my own mother passed away.\" ",
+    "options": [
+      "happened by accident",
+      "happened at the same time",
+      "happened very quickly "
+    ],
+    "correctIndex": 1,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-3",
+    "type": "multiple_choice",
+    "question": "When did Grandpa last see the mausoleum? ",
+    "correctBoolean": true,
+    "explanation": "",
+    "options": [
+      "Last winter",
+      "When his wife died",
+      "When his children moved away. "
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "quiz-5",
+    "type": "multiple_choice",
+    "question": "How does Grandpa feel about the Mausoleum now? ",
+    "sampleAnswer": "Students should describe a key scene and explain how it contributed to the character's growth or learning.",
+    "explanation": "Encourages personal reflection and evidence-based textual synthesis.",
+    "options": [
+      "He thinks it's evil",
+      "He thinks it's an elaborate prank",
+      "He thinks it's almost like a friend"
+    ],
+    "correctIndex": 2
+  }
+]
