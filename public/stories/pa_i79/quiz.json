@@ -1,0 +1,52 @@
+[
+  {
+    "id": "quiz-1",
+    "type": "multiple_choice",
+    "question": "Where do Tess and her mom live? ",
+    "options": [
+      "In a house in the suburbs",
+      "In an apartment downtown",
+      "In a motel by the highway"
+    ],
+    "correctIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-2",
+    "type": "multiple_choice",
+    "question": "Why does Tess have to leave?",
+    "options": [
+      "Her mom got a new job.",
+      "This town isn't safe anymore.",
+      "Her mom doesn't like Charlie. "
+    ],
+    "correctIndex": 2,
+    "explanation": ""
+  },
+  {
+    "id": "quiz-3",
+    "type": "true_false",
+    "question": "Charlie owns a pawnshop",
+    "correctBoolean": false,
+    "explanation": "His father owns one, not him. "
+  },
+  {
+    "id": "quiz-4",
+    "type": "multiple_choice",
+    "question": "Look at this sentence. What's a synonym for 'pilfered'? \"Charlie held a can of iced tea pilfered from the cooler at the Dollar General.\" ",
+    "options": [
+      "stolen",
+      "purchased",
+      "freezing cold "
+    ],
+    "correctIndex": 0,
+    "explanation": "The journey ended on an uplifting and inspiring note."
+  },
+  {
+    "id": "quiz-5",
+    "type": "open_response",
+    "question": "Have you ever had to say goodbye to a friend? To a place?",
+    "sampleAnswer": "there are no wrong answers (except the one u wrote lol!)",
+    "explanation": ""
+  }
+]
