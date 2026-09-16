@@ -204,12 +204,13 @@ SlideCount: 11
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
 
 [Story: mausoleum]
-Title: The Mausoleum 
+Title: The Mausoleum
 Subtitle: this one is like almost interesting but ultimately not
 Author: G-Bot
 Genre: Mystery
 ReadingLevel: Beginner
 ReadingTime: 5 min
+SeriesOrder: 1
 StoryFolder: mausoleum
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/mausoleum/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
@@ -247,15 +248,14 @@ AccentColor: #f97316
 SlideCount: 7
 Summary: Welcome to this interactive story! Tap any word in the title or text to see its definition.
 
-[Chapter: pa_i79]
-Title: PA I-79
+[Story: pa_i79]
+Title: Leaving Town
 Subtitle: its a lot less romantic when u got tweakers wanderin around the motel trying to break into ur car
 Author: G-Bot
-Genre: Slice-of-life
+Genre: Slice-of-life 
 ReadingLevel: Intermediate
 ReadingTime: 5 min
-SeriesFolder: pa_i79
-SeriesOrder: 1
+StoryFolder: pa_i79
 CoverImage: https://raw.githubusercontent.com/jamesfreda53-ops/aydos-demo/main/aydos-demo/public/stories/pa_i79/images/title.webp
 ThemeColor: from-amber-600 to-orange-700
 AccentColor: #f97316
