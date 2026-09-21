@@ -1,8 +1,8 @@
 [
   {
     "id": "quiz-1",
-    "type": "multiple_choice",
-    "question": "What is the primary quest or central theme of this story?",
+    "type": "open_response",
+    "question": "How do we form the passive voice? ",
     "options": [
       "An engaging journey of discovery and learning",
       "A quiet nap in the warm sun",
@@ -10,45 +10,60 @@
       "A race against time"
     ],
     "correctIndex": 0,
-    "explanation": "The story focuses on curiosity, adventure, and new discoveries."
+    "explanation": "We can use both 'be' and 'get' for the passive voice, depending on the context. With the passive voice, the object comes before the verb, and the subject is optional!",
+    "sampleAnswer": "obj+ be (or get) + V3 [+ by +subj.]\n\n"
   },
   {
     "id": "quiz-2",
     "type": "multiple_choice",
-    "question": "What key setting or location did the characters explore?",
+    "question": "Look at the sentence. What's a synonym for 'securely'? \"The painting had been hung securely only an hour earlier.\" ",
     "options": [
-      "An ancient, mysterious landscape full of wonder",
-      "A busy supermarket",
-      "A crowded underground subway station"
+      "quickly ",
+      "safely",
+      "carelessly "
     ],
-    "correctIndex": 0,
-    "explanation": "The adventure takes place in a scenic and wonder-filled setting."
+    "correctIndex": 1,
+    "explanation": ""
   },
   {
     "id": "quiz-3",
-    "type": "true_false",
-    "question": "The main character used careful observation and problem-solving to succeed.",
+    "type": "multiple_choice",
+    "question": "Which sentence from the story uses the past perfect passive? ",
     "correctBoolean": true,
-    "explanation": "Observing details and thinking carefully helped the characters overcome challenges."
+    "explanation": "",
+    "options": [
+      "A cup of black coffee had been knocked over. ",
+      "The next morning, the exhibition was opened as planned. ",
+      "Sculptures were being arranged on tables. ",
+      "Choice D"
+    ],
+    "correctIndex": 0
   },
   {
     "id": "quiz-4",
     "type": "multiple_choice",
-    "question": "How did the characters feel when their journey reached its conclusion?",
+    "question": "Which of the following sentences is an incorrect use of the 'get' passive? ",
     "options": [
-      "Inspired, joyful, and ready for future adventures",
-      "Confused and disappointed",
-      "Frustrated and tired",
-      "Indifferent and bored"
+      "Yakkai got scared and ran straight through the gallery. ",
+      "I got hurt when I fell off my bike. ",
+      "If she's this lazy at work every day, she's going to get fired. ",
+      "The teacher got heard by all the students. "
     ],
-    "correctIndex": 0,
-    "explanation": "The journey ended on an uplifting and inspiring note."
+    "correctIndex": 3,
+    "explanation": "We can't use the 'get' passive with stative verbs like 'hear'. Also, we don't like to use \"by+[subj]\" with the 'get' passive-- we just use \"obj + get + V3\". "
   },
   {
     "id": "quiz-5",
     "type": "open_response",
-    "question": "What was the most memorable lesson or event in the story, and why?",
-    "sampleAnswer": "Students should describe a key scene and explain how it contributed to the character's growth or learning.",
-    "explanation": "Encourages personal reflection and evidence-based textual synthesis."
+    "question": "Rewrite the following sentence in the past progressive passive: \"The paintings are hung all around the gallery.\" ",
+    "sampleAnswer": "The paintings were being hung all around the gallery. ",
+    "explanation": "For past progressive passive, we use \"was/were + being + V3\". Note that with all passive voice tenses, we use V3-- the only thing that changes is our 'be' (or 'get') verb!",
+    "options": [
+      "Choice A",
+      "Choice B",
+      "Choice C",
+      "Choice D"
+    ],
+    "correctIndex": 0
   }
 ]
